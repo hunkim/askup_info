@@ -1,140 +1,65 @@
-Title: 요즘 핫한 바질의 특별한 '건강 효과' - 헬스조선
-URL: https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vbS5oZWFsdGguY2hvc3VuLmNvbS9zdmMvbmV3c192aWV3Lmh0bWw_Y29udGlkPTIwMjMwMzEwMDIxNTPSAQA?oc=5
-
-Title: 높은 사망률 뚫고 살아난 암 환자들… - 마음건강 길
-URL: https://news.google.com/rss/articles/CBMiOGh0dHA6Ly93d3cubWluZGdpbC5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTc2NTAy0gE8aHR0cHM6Ly93d3cubWluZGdpbC5jb20vbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTc2NTAy?oc=5
-
-Title: 온순한 사람이 갑자기 과격해졌다? - 마음건강 길
-URL: https://news.google.com/rss/articles/CBMiOGh0dHA6Ly93d3cubWluZGdpbC5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTc2Mzg20gE8aHR0cHM6Ly93d3cubWluZGdpbC5jb20vbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTc2Mzg2?oc=5
-
-Title: 커스터마이즈 가능한 텐키리스 게이밍 키보드 마운틴 에버레스트 코어 블랙 - 다나와
-URL: https://news.google.com/rss/articles/CBMiO2h0dHA6Ly9kcGcuZGFuYXdhLmNvbS9iYnMvdmlldz9ib2FyZFNlcT0yNjQmbGlzdFNlcT01Mjk3MzE00gEA?oc=5
-
-Title: WBC 대표팀, 오늘 체코와 B조 3차전..박세웅 선발 출격 - MBC뉴스
-URL: https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9zcG9ydHMvYXJ0aWNsZS82NDYzMTYwXzM2MTU0Lmh0bWzSAUNodHRwczovL2ltbmV3cy5pbWJjLmNvbS9uZXdzLzIwMjMvc3BvcnRzL2FydGljbGUvNjQ2MzE2MF8zNjE1NS5odG1s?oc=5
-
-Title: [자막뉴스] 이 사람들이 도왔다고?...충격적인 JMS 배후들 - YTN
-URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lnl0bi5jby5rci9fbG4vMDEzNF8yMDIzMDMxMjAxMTYyNDA5NjbSAQA?oc=5
-
-Title: 시진핑 '복심' 리창, 국무원 총리로 선임 - 한국어 방송 - VOA Korean
-URL: https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hL2xpLXFpYW5nLXhpLWNvbmZpZGFudC10YWtlcy1yZWlucy1hcy1jaGluYS1zLXByZW1pZXIvNzAwMDQ2Ny5odG1s0gFeaHR0cHM6Ly93d3cudm9ha29yZWEuY29tL2FtcC9saS1xaWFuZy14aS1jb25maWRhbnQtdGFrZXMtcmVpbnMtYXMtY2hpbmEtcy1wcmVtaWVyLzcwMDA0NjcuaHRtbA?oc=5
-
-Title: 유태오, 아내 위한 첫 선물은? “전 재산 들인 명품백”‘전참시’ - MBC뉴스
-URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9lbnRlci9hcnRpY2xlLzY0NjMxNTVfMzYxNjEuaHRtbNIBQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9lbnRlci9hcnRpY2xlLzY0NjMxNTVfMzYxNjIuaHRtbA?oc=5
-
-Title: 한국인 사망률 3위 '이 질환', 겨울 지났다고 방심 금물 - 헬스조선
-URL: https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vaGVhbHRoLmNob3N1bi5jb20vc2l0ZS9kYXRhL2h0bWxfZGlyLzIwMjMvMDMvMTAvMjAyMzAzMTAwMjEzNS5odG1s0gEA?oc=5
-
-Title: “러시아군, 전략요충 바흐무트 동부 진격 대부분 장악…병력손실 막대” - 동아일보
-URL: https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmRvbmdhLmNvbS9uZXdzL0ludGVyL2FydGljbGUvYWxsLzIwMjMwMzExLzExODI4Mjc0Ni8x0gE3aHR0cHM6Ly93d3cuZG9uZ2EuY29tL25ld3MvYW1wL2FsbC8yMDIzMDMxMS8xMTgyODI3NDYvMQ?oc=5
-
-Title: 美 “북한 미사일 발사 규탄…한미훈련은 방어적·일상적 훈련” - 동아일보
-URL: https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmRvbmdhLmNvbS9uZXdzL0ludGVyL2FydGljbGUvYWxsLzIwMjMwMzExLzExODI4MjYzOS8x0gE3aHR0cHM6Ly93d3cuZG9uZ2EuY29tL25ld3MvYW1wL2FsbC8yMDIzMDMxMS8xMTgyODI2MzkvMQ?oc=5
-
-Title: 한일전 콜드게임 패배 겨우 면해…3연속 1R 탈락 위기 - KBS뉴스
-URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vbmV3cy5rYnMuY28ua3IvbmV3cy92aWV3LmRvP25jZD03NjI0Mjc30gEA?oc=5
-
-Title: 콘테 다음 일자리로 '레알 감독' 원한다... 포체티노와 경쟁할 수도 - 머니투데이
-URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwMzExMTkwNzAxNTkzNjXSAT1odHRwczovL20ubXQuY28ua3IvcmVuZXcvdmlld19hbXAuaHRtbD9ubz0yMDIzMDMxMTE5MDcwMTU5MzY1?oc=5
-
-Title: “SNL 다음주 호스트 강동원” 이수지, 내정된 여친 역에 섭섭(아는 형님) - MSN
-URL: https://news.google.com/rss/articles/CBMisgJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvb3RoZXJzLyVFMiU4MCU5Q3NubC0lRUIlOEIlQTQlRUMlOUQlOEMlRUMlQTMlQkMtJUVEJTk4JUI4JUVDJThBJUE0JUVEJThBJUI4LSVFQSVCMCU5NSVFQiU4RiU5OSVFQyU5QiU5MCVFMiU4MCU5RC0lRUMlOUQlQjQlRUMlODglOTglRUMlQTclODAtJUVCJTgyJUI0JUVDJUEwJTk1JUVCJTkwJTlDLSVFQyU5NyVBQyVFQyVCOSU5Qy0lRUMlOTclQUQlRUMlOTclOTAtJUVDJTg0JUFEJUVDJTg0JUFELSVFQyU5NSU4NCVFQiU4QSU5NC0lRUQlOTglOTUlRUIlOEIlOTgvYXItQUExOHVQQkrSAQA?oc=5
-
-Title: 과기정통부 "이통3사 자회사 알뜰폰 점유율 제한 검토"(종합) - 노컷뉴스
-URL: https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3Lm5vY3V0bmV3cy5jby5rci9uZXdzLzU5MDgxOTDSAQA?oc=5
-
-Title: 이천 아파트 신축 현장서 끼임 사고…50대 굴착기 운전자 중상 - 서울신문
-URL: https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnNlb3VsLmNvLmtyL25ld3MvbmV3c1ZpZXcucGhwP2lkPTIwMjMwMzExNTAwMDUx0gEsaHR0cHM6Ly9hbXAuc2VvdWwuY28ua3Ivc2VvdWwvMjAyMzAzMTE1MDAwNTE?oc=5
-
-Title: 경남 하동 지리산 인근 산불‥주민 대피 - MBC뉴스
-URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NjMxMTJfMzYxOTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NjMxMTJfMzYyMDAuaHRtbA?oc=5
-
-Title: 미국 강력 긴축 여파?…'뱅크런' 사태 '실리콘밸리 은행' 결국 영업정지 / KBS 2023.03.11. - KBS News
-URL: https://news.google.com/rss/articles/CCAiC21IVXZQWEFkN0xjmAEB?oc=5
-
-Title: 야권, 강제동원 배상안에 “박근혜 전철 밟지 말라” - 동아일보
-URL: https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmRvbmdhLmNvbS9uZXdzL1BvbGl0aWNzL2FydGljbGUvYWxsLzIwMjMwMzExLzExODI4MTgwMC8x0gE3aHR0cHM6Ly93d3cuZG9uZ2EuY29tL25ld3MvYW1wL2FsbC8yMDIzMDMxMS8xMTgyODE4MDAvMQ?oc=5
-
-Title: 쇼트트랙 최민정, 세계선수권대회 1,500ｍ 은메달 | 서울특별시 미디어재단 TBS - TBS뉴스
-URL: https://news.google.com/rss/articles/CBMiT2h0dHA6Ly90YnMuc2VvdWwua3IvbmV3cy9uZXdzVmlldy5kbz90eXBfODAwPTgmaWR4XzgwMD0zNDkxNjgyJnNlcV84MDA9MjA0ODQzODjSAQA?oc=5
-
-
-Title: 3 American women missing after crossing Mexico border 2 weeks ago - CNN
-Description: Three American women are believed to be missing in Mexico after they crossed the US border from Texas to sell clothes at a flea market over two weeks ago, police told CNN on Saturday.
-URL: https://www.cnn.com/2023/03/11/us/texas-women-missing-mexico/index.html
-
-Title: Records in Fox defamation case show pressures on reporters - The Associated Press - en Español
-Description: NEW YORK (AP) — It wasn't critics, political foes or their bosses that united Fox News stars Tucker Carlson, Sean Hannity and Laura Ingraham when they gathered via text message for a gripe session shortly after the 2020 election.
-URL: https://apnews.com/article/fox-news-journalism-election-dominion-defamation-9b33fc9ca1e11fc0b49e2f437fc60007
-
-Title: Investors implore the government to step in after Silicon Valley Bank failure - CNBC
-Description: Voices from tech and finance are increasingly calling for the federal government to push another bank to take over the failed Silicon Valley Bank.
-URL: https://www.cnbc.com/2023/03/11/silicon-valley-bank-failure-has-investors-calling-for-government-aid.html
-
-Title: French protesters turn out against Macron's pension plan, but in lower than expected numbers - Reuters
-Description: Protesters took to the streets in France on Saturday on a seventh day of demonstrations against President Emmanuel Macron's unpopular pension reform plan, but not in the huge numbers authorities had expected.
-URL: https://www.reuters.com/world/europe/france-faces-another-day-nationwide-protests-against-macrons-pension-plans-2023-03-11/
-
-Title: From Katharine Hepburn to Shirley Temple: A look back at Old Hollywood Oscars and little-known trivia - Fox News
-Description: The Academy Awards has seen some of Hollywood's greatest stars take home an Oscar statuette. In honor of Oscars 2023, read on for some little-known trivia and a glimpse of nostalgia.
-URL: https://www.foxnews.com/lifestyle/katharine-hepburn-shirley-temple-look-back-old-hollywood-oscars-little-known-trivia
-
-Title: Bears trade No. 1 to Panthers: Experts hand out grades for Chicago - Chicago Bears Wire
-Description: Here’s a collection of grades for the Bears’ trade of the No. 1 pick to the Panthers, where experts applauded the move for Chicago.
-URL: https://bearswire.usatoday.com/lists/bears-panthers-trade-nfl-draft-grades-expert-picks/
-
-Title: Bud Grant, who led Vikings to 4 Super Bowls in HOF career, dies - ESPN
-Description: Bud Grant, the Hall of Fame coach who led the Minnesota Vikings to four Super Bowl appearances, has died at the age of 95.
-URL: https://www.espn.com/nfl/story/_/id/35835975/bud-grant-led-vikings-4-super-bowls-hof-career-dies
-
-Title: Three Texas women sued for wrongful death after aiding in abortion - The Guardian
-Description: Man claims they helped his now-ex-wife obtain medication for an abortion in Texas in latest test of state enforced bans
-URL: https://www.theguardian.com/world/2023/mar/11/texas-women-sued-wrongful-death-abortion
-
-Title: Crew Dragon astronauts undock from space station and head for home - CBS News
-Description: Splashdown in the Gulf of Mexico near Tampa will close out a 157-day stay aboard the space station.
-URL: https://www.cbsnews.com/news/crew-dragon-astronauts-undock-from-space-station-head-for-home/
-
-Title: Anonymous Oscar Ballot: After Seeing It 3 Times, Director Finally Embraces the ‘Modern’ ‘Everything Everywhere’ - IndieWire
-Description: But he really loves “The Fabelmans,” “TÁR,” and “The Banshees of Inisherin.”
-URL: https://www.indiewire.com/2023/03/anonymous-oscar-ballot-director-everything-everywhere-all-at-once-1234818315/
-
-Title: Wagner mercenary chief demands more ammunition for Bakhmut battle - Al Jazeera English
-Description: Chief of Russian mercenary group says his forces are close to the centre of front-line city in eastern Ukraine.
-URL: https://www.aljazeera.com/news/2023/3/11/wagner-says-russian-fighters-near-central-bakhmut-killing-zone
-
-Title: Bracketology: How UCLA could end up as a No. 1 seed; Bubble Watch winding down with two teams still playing - CBS Sports
-Description: The Bruins have a legitimate shot to finish on the top line of the bracket when it is revealed on Selection Sunday
-URL: https://www.cbssports.com/college-basketball/news/bracketology-how-ucla-could-end-up-as-a-no-1-seed-bubble-watch-winding-down-with-two-teams-still-playing/
-
-Title: Biden 'dragging his feet' on COVID origins intel because it will 'open Pandora's box,' Kat Cammack says - Fox News
-Description: Rep. Kat Cammack, R-Fla., argued President Biden's hesitancy to decide on whether to declassify intel on COVID origins is because it will 'open Pandora's box.'
-URL: https://www.foxnews.com/media/biden-dragging-feet-covid-origins-intel-because-will-open-pandoras-box-kat-cammack-says
-
-Title: Show me the money: The highest revenue raising taxes in Biden's proposed budget - CNBC
-Description: President Joe Biden released his 2024 budget plan Thursday which promises to cut the deficit by $3 trillion over the next decade.
-URL: https://www.cnbc.com/2023/03/11/show-me-the-money-the-highest-revenue-raising-taxes-in-bidens-proposed-budget.html
-
-Title: California levee breached amid atmospheric river that forced evacuations, washed out roads - Fox News
-Description: A Monterey County levee breached overnight as the state was slammed by an atmospheric river, forcing thousands to evacuate and flooding major roads and interstates.
-URL: https://www.foxnews.com/us/californias-levee-breached-atmospheric-river-forced-evacuations-washed-out-roads
-
-Title: Box Office: ‘Scream VI’ Scares Off ‘Creed III,’ ’65 ‘ With Series-Best Opening - Hollywood Reporter
-Description: The sixth installment in the slasher franchise is on course to top the weekend box office chart with $43.5 million or more domestically as of Saturday morning.
-URL: https://www.hollywoodreporter.com/movies/movie-news/scream-vi-box-office-65-1235348571/
-
-Title: Saudi deal with Iran worries Israel, shakes up Middle East - The Associated Press - en Español
-Description: JERUSALEM (AP) — News of the rapprochement between long-time regional rivals Saudi Arabia and Iran sent shock waves through the Middle East on Saturday and dealt a symbolic blow to Israeli Prime Minister Benjamin Netanyahu, who has made the threat posed by Te…
-URL: https://apnews.com/article/saudi-iran-diplomatic-relations-middle-east-d78f3ceac0561f4fb20301e4f32eef88
-
-Title: Hogwarts Legacy's PS5 Platinum Is a Pain in the Ass - Push Square
-Description: 50 points from Avalanche
-URL: https://www.pushsquare.com/news/2023/03/hogwarts-legacys-ps5-platinum-is-a-pain-in-the-ass
-
-Title: Testimony From Powell Kills Pivot Hopes - RIA - Real Investment Advice
-Description: Powell's testimony and the failure of Silicon Valley Bank send the bulls running for cover. Did the Fed finally break something?
-URL: https://realinvestmentadvice.com/testimony-from-powell-kills-pivot-hopes/
-
-Title: Takeaways from the February jobs report - CNN
-Description: February's jobs report had a little something for everyone.
-URL: https://www.cnn.com/2023/03/11/economy/february-jobs-report-takeaways/index.html
+AI 뉴스
+뉴스럴 | 2023.03.13 (Mon)
+CHATGPT
+챗GPT 장착 MS검색 ‘빙’ 하루 이용자 1억명 돌파
+조선일보 | 2023.03.13 03:29
+"구글에서 빙으로 갈아탄다" 생성AI에 요동치는 '검색패권'
+파이낸셜뉴스 | 2023.03.11 05:00
+세일즈포스도 뛰어든 초거대AI 전쟁.."슬랙서 챗GPT 쓴다"
+한국경제 | 2023.03.12 15:24
+마이크로소프트, 질문에 답하고 그려주는 '비주얼챗GPT' 선보여
+이데일리 | 2023.03.12 16:59
+10여 년간 지지부진하던 의료 AI… 영상판독 역할 맡으며 전환점 모색
+동아일보 | 2023.03.13 03:03
+챗GPT, ‘오진 처방’도 진짜처럼 술술… 의학지식 정리는 탁월
+동아일보 | 2023.03.13 03:02
+[게임 AI, 어디까지 왔니] ① 챗GPT 시대, AI로 경쟁력 높인다
+IT조선 | 2023.03.13 06:00
+“챗GPT야, 나랑 대전하자”… AI 열풍에 게임업계도 ‘들썩’
+조선비즈 | 2023.03.13 06:01
+생성 AI
+생성 AI 명령어 사고 파는 '프롬프트 마켓' 증가
+AI타임스 | 2023.03.10 18:03
+"비디오 만들어주는 챗GPT? 다음주 더 강력한 GPT-4 나온다"
+머니투데이 | 2023.03.10 17:30
+"명함 속 전화번호 저장해줄래?"…카톡 '아숙업' 써보니
+뉴시스 | 2023.03.11 13:00
+스테이블 디퓨전, 가장 빠르게 실행 가능한 GPU는?
+테크레시피 | 2023.03.12 11:00
+서비스 출시/소개
+마이크로소프트, 애저 오픈AI 서비스에 챗GPT 기술도 추가
+디지털투데이 | 2023.03.10 14:49
+3대 AI 번역기 비교해보니, 딥엘 자연스럽고 구글은 원문 충실, 파파고 한글↔일어 강점
+중앙SUNDAY | 2023.03.11 00:02
+[단독] AI가 정확한 판례 찾아준다… 리걸테크로 진출하는 GPT 서비스
+국민일보 | 2023.03.12 17:29
+디스코드, 채팅에 오픈AI의 생성 AI 기술 도입
+AI타임스 | 2023.03.10 18:28
+마인즈랩, '마음 오케스트라 3.0' 선보여···도메인 특화 챗봇도 첫 공개
+지디넷코리아 | 2023.03.12 20:08
+프렌들리에이아이, 애저와 더 쉽고 효율적인 생성 AI 학습 및 추론 제공
+인공지능신문 | 2023.03.10 15:45
+[해봤습니다] "AI 이미지? 떠먹여 드려요" AI 이미지 생성 플랫폼 '스포키'
+투데이e코노믹 | 2023.03.10 12:14
+기술 개발/협력
+[테크&포커스] 모델 경량화로 승부수… LG·KT도 `초거대 AI 전쟁` 참전
+디지털타임스 | 2023.03.12 18:50
+"차량용 챗GPT 개발한다"...마이크로소프트-GM 동맹 확대
+디지털투데이 | 2023.03.12 08:47
+전세계 '챗GPT' 열풍…국내 최초 '생성 AI' 겨루는 대회 열린다
+머니투데이 | 2023.03.12 09:00
+“챗GPT 답변 하나에 전기료 수 달러”… 절전형 AI 개발에 사활
+동아일보 | 2023.03.13 03:03
+“엔비디아, AI 독식 멈춰”… 한국이 승부수 거는 반도체
+조선일보 | 2023.03.13 03:12
+현상/규제/전망
+원작보다 갸름하고 빛났다…'AI 모작' 전시에 예술계 '발칵'
+한국경제 | 2023.03.12 10:17
+챗GPT·앱이 대신 해준다…AI 뜨자 확 사라진 일자리
+아시아경제 | 2023.03.13 06:30
+전문 작가가 챗GPT를 사용한다면...'기발한 위인전' 출판
+AI타임스 | 2023.03.12 12:52
+멀티모달로 진화하는 언어모델
+AI타임스 | 2023.03.12 12:26
+(안내) 뉴스 브리핑 구독 신청
+뉴스럴 | 2023.03.13 00:00
