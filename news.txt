@@ -1,120 +1,121 @@
 'choices'
-Expecting value: line 1 column 1 (char 0)
+제목: 옐런 재무장관, “실리콘밸리은행 파산, 구제금융 없다” - 한겨레
+요약: 미국 실리콘밸리은행 파산과 관련해 재닛 옐런 미국 재무부 장관은 구제금융을 고려하지 않을 것이라 밝혔다. 2008년 금융위기와 상황이 다르며, 예금자에 대한 우려를 수용하기 위해 노력하고 있다는 발언을 했다. 또한, 실리콘밸리은행의 파산이 도미노 효과를 일으키지 않을 것이며, 금융시장의 안정성을 강조했다.
+
+제목: 휴먼에이드포스트 - 휴먼에이드포스트
+요약: 일본의 게임 '포켓몬스터 소드 실드'는 유로 DLC와 레이드 배틀을 추가한 작품이다. 게임의 무대는 영국을 모티브로 한 가라르 지방이며, 다이맥스라는 거대화 현상이 일어나는데 이는 제한시간이 있어 신중하게 사용해야 한다. 또한 DLC 컨텐츠가 2개 추가되었는데, 감옷의 외딴섬과 왕관의 설원이다. 이를 통해 새로운 스토리와 포켓몬, 다이맥스 어드벤처, 가라르 스타 토너먼트 등이 추가되었다.
+
+제목: WBC 생애 첫 홈런 오타니, “더 큰 목소리로 응원해달라” - 한겨레
+요약: 일본이 호주를 7-1로 이겨 4전 전승으로 B조 1위를 차지했다. 이 경기에서 오타니 쇼헤이가 생애 첫 홈런을 기록하며 활약했다. 한국은 체코와 호주 경기 결과에 따라 8강 진출이 결정된다.
+
+제목: 대표팀, 쇼트트랙 여자 준우승·남자 계주 3위 - 한국아이닷컴
+요약: 12일 서울 목동 아이스링크에서 열린 2023 KB금융 ISU 쇼트트랙 세계선수권대회 여자 3000미터 계주 결승전에서 대한민국 대표팀이 준우승을 차지하였고, 선수들이 서로를 격려하였다.
+
+제목: 중국 중재로 이란·사우디 관계 복원…“미국 외교의 실패” - 경향신문
+요약: 중국이 이란과 사우디아라비아의 관계 정상화를 중재하면서 중동에서 중재자로 자리 잡았다는 보도가 나왔습니다. 이에 따라 미국의 중동 영향력이 하락하고 중국의 입지가 강화되고 있다는 분석이 나오고 있습니다. 이번 사건은 시진핑 국가주석의 3연임 확정과 함께 베이징에서 일어난 것으로, 중국의 외교적 입지가 더욱 강화될 것으로 예상됩니다.
+
 제목: [장서 산책] 카이 미하엘 베에 '젊게, 오래 살려면 폐를 지켜라' - 시니어매일
 요약: GPT3 Return Error: 'choices'
 
-제목: 새 총리에 '복심' 리창…시진핑 천하 '당정통일' 화룡점정 - 경향신문
-요약: 중국의 시진핑 국가주석이 새로운 지도체제를 완성했다. 국무원 총리와 부총리 등 주요 내각 인선을 마무리하고 국가 지도체계에 있어 당의 장악력을 강화함으로써 더욱 공고화된 1인 권력 체제를 갖추게 됐다. 이번 내각 인사를 통해 친정체제를 더욱 확고히 구축한 것으로 평가된다.
+제목: CTS문화재단 새 이사장 박래창 장로 : 종교 : 사회 : 뉴스 - 한겨레
+요약: 씨티에스문화재단의 새 이사장으로 박래창 장로가 취임했다. 그는 소망교회 원로장로 출신으로, 전국장로회 회장, 한국장로신문 사장 등을 역임한 경력이 있다.
 
-제목: 윤 대통령 “강제동원 해법은 대선 공약 실천한 것” '모든 책임 내가 진다' 유튜브 동영상 제작 여론전 - 경향신문
-요약: 윤석열 대통령이 일제 강제동원(징용) 배상 문제에 대해 "미래를 위한 결단"이라고 강조하며 부정적 여론을 돌파하려는 모습을 보였다. 대통령실은 윤 대통령의 발언 일부를 유튜브 쇼츠 영상으로 공개하며, 윤 대통령 집무실 책상 위의 'The Buck Stops Here'라고 새겨진 패를 강조했다. 이에 대해 김일범 대통령실 의전비서관이 최근 자진사퇴했다.
+제목: 천주교 '사형제 폐지' 7만5천여명 서명받아 다섯번째 청원 - 한겨레
+요약: 한국 천주교가 사형 폐지와 대체 형법 도입을 촉구하는 입법청원에 나서는 것은 이번이 다섯번째다. 천주교는 7만5843명의 서명을 받아 국회 사무처에 제출할 계획이며, 주교회의는 사형제도를 유지하는 것이 아닌 예방정책과 범죄 피해자에 대한 제도적 지원을 넓히면서 사형제도를 폐지해야 한다고 밝혔다.
+
+제목: 尹대통령 "한일관계 해법, 공약 실천·미래 위한 결단" - 중부일보
+요약: 윤석열 대통령이 한일 강제징용 배상 협상과 관련하여 한일관계 개선의 필요성을 강조하며 대선 공약을 실천했다는 입장을 밝혔다. 이에 대해 미국, EU, 영국, 독일, 캐나다, 호주, 노르웨이, 핀란드, UN 등 10개 국가 및 국제기구가 환영과 지지를 밝혔다. 대통령실은 피해자분들과 소통하며 실질적 권리 구제와 한일관계의 미래지향적 발전을 위해 최선의 노력을 다할 것이라고 밝혔다.
 
 제목: 기재위 ‘지각 제출’ 출장보고서엔 참고자료-식사사진이 대부분 - 동아일보
-요약: 국회 기획재정위원회 소속 여야 의원들이 베트남, 캄보디아 출장 결과보고서를 제출했으나, 보고서의 3분의 2가 참고자료이며, 주요 활동 내용도 상당수가 식사 사진 등으로 구성돼 있어 논란이 일고 있다. 또한, 보고서 제출이 지연되어 국회 홈페이지에 공개된 것도 넉 달이 지난 후였다. 이번 출장에는 4460만 원의 세금이 들었다. 더불어민주당 내 최대 의원 모임인 '더좋은미래' 소속 의원 20여 명이 베트남 유명 관광지인 하노이에서 워크숍을 다녀온 것도 입길에 오르고 있다.
+요약: 국회 기획재정위원회 소속 여야 의원들이 베트남, 캄보디아 출장 결과보고서를 제출했으나, 보고서의 3분의 2가 참고자료이며, 주요 활동 내용도 상당수가 식사 사진 등으로 구성돼 있어 논란이 일고 있다. 또한, 보고서 제출이 지연되었으며, 이번 출장에는 4460만 원의 세금이 들었다. 더불어민주당 내 최대 의원 모임인 '더좋은미래' 소속 의원 20여 명이 베트남 유명 관광지인 하노이에서 워크숍을 다녀온 것도 입길에 오르고 있다.
 
-제목: 이재명 대표 부모 묘소 훼손‥경찰 내사 착수 - MBC뉴스
-요약: 더불어민주당 이재명 대표의 부모 묘소가 훼손되어 경찰이 내사에 착수했다. 이재명 대표는 자신의 페이스북에 사진을 공개하며, 묘소에 구멍이 나고 한자가 적힌 돌이 파묻혀 있다고 밝혔다. 민주당은 야당 대표 공격을 위해 돌아가신 분들의 묘소마저 공격하는 패륜적 행위라고 비판하며 경찰에 고발할 예정이다. 경북경찰청은 현장 확인 등 내사에 들어갔다.
+제목: 밤 10시 도봉산 향한 중년 여성‥알고 보니 방화? - MBC뉴스
+요약: 서울 도봉산에서 산불이 발생해 2시간 만에 진화됐으며, 한 중년 여성이 용의자로 체포됐습니다. 서울 관악구에서는 1층짜리 단독주택에서 불이 나 90대 여성이 숨졌고, 60대 아들이 연기를 마셔 병원으로 옮겨졌습니다. 또한, 서울 마장동에서는 70대 부부가 유통업체에서 페인트 작업을 하다가 질식으로 추정되는 사고를 당해 남편이 사망하고, 부인도 부상을 입었습니다.
 
 제목: [자막뉴스] 악재 예고한 中...한국 경제에 몰아치는 '폭풍' / YTN - YTN
 제목: 건강과 운동에 유익한 호흡법 - 경북매일신문
-요약: GPT3 Error: Expecting value: line 1 column 1 (char 0)
-
-제목: WBC 대표팀 체코 꺾고 첫 승리…8강행 실낱 희망 - KBS뉴스
-요약: 2023년 월드 베이스볼 클래식에서 대한민국 야구 대표팀이 체코를 꺾고 대회 첫 승리를 기록했다. 8강 진출은 힘든 상황이지만 아직 가능성이 남아있다. 대표팀은 내일 중국을 이기면 최소 실점을 따져서 8강에 올라갈 수 있다. 김하성은 대회 첫 안타를 홈런으로 기록했다.
-
-제목: [SVB 파산] 미 역대 최대 뱅크런…금융위기 번질라 촉각 - Coindesk Korea
-요약: 미국 은행인 실리콘밸리뱅크가 파산 상태에 들어가면서 금융권 전반으로 파장이 확산될 우려가 있다. 이 은행 파산은 2008년 금융위기 이후 최대 규모 은행이 무너진 것이고, 미국 역사상으로는 두 번째 규모다. 대규모 예금 인출 사태(뱅크런)가 발생한 실리콘밸리뱅크의 영업을 중단시키고 자산을 연방예금보험공사에 넘겼다. 이번 파산이 금융시장에 얼마나 영향을 미칠지는 지켜봐야 할 것으로 보인다.
-
-제목: 이것이 '세계 1위' 클래스…박지원, 쇼트트랙 세계선수권 2관왕 - 한겨레
-요약: 한국 쇼트트랙 선수 박지원이 2023 세계선수권대회에서 남자 1000m, 1500m에서 금메달을 차지하고, 남자 5000m 계주와 혼성 계주에서 동메달을 획득했다. 또한, 최민정 선수는 여자 1500m에서 은메달, 여자 1000m에서 은메달 2개를 획득했다. 한국 대표팀은 여자 3000m 계주에서 2위를 차지했으며, 중국 선수 린샤오쥔은 남자 5000m 계주에서 금메달, 혼성 계주에서 은메달을 획득했다.
-
-제목: 꺾이지 않는 '슬램덩크' 열풍‥누적관객 400만 돌파 - MBC뉴스
-요약: 일본 애니메이션 '더 퍼스트 슬램덩크'가 국내 개봉 68일째인 오늘 오후 4시 20분쯤 누적 관객수 400만 명을 기록하여 최고 흥행 기록을 갈아치웠다. 다음달 아이맥스 등 특수관 개봉을 계기로 다시 한 번 소폭 반등할 것으로 예상된다.
-
-제목: 피로 말고도… 잠 부족할 때 생기는 심각한 신체 문제들 - 헬스조선
-요약: 한국인의 평균 수면 시간은 평일 6.7시간, 주말 7.4시간으로, 수면 부족이 유발하는 질환에 대해 알아보았다. 수면 부족은 뇌 노화를 가속화하고, 면역력을 떨어뜨려 감기에 걸리기 쉽게 만들며, 만성질환 위험성을 높이고, 만성 탈수증을 유발할 수 있다. 하루 7시간 취침하고 규칙적인 수면습관을 형성하는 것이 좋다.
-
-제목: ‘온천수 1년에 2번 교체’ 일본 여관 전 사장 숨진 채 발견 - 대전일보
-요약: 일본 여관에서 전 사장이 온천수를 1년에 2번만 교체하다가 숨진 채 발견되었습니다.
+요약: 호흡은 우리 몸을 건강하게 유지하는 가장 기본적인 역할을 한다. 운동할 때에는 복압호흡이 더 효과적이며, 복압호흡은 복강의 압력을 높여 코어 근육과 주변 근육을 강하게 조여 척추의 안정성을 확보하는데 용이한 호흡법이다. 근력 운동 중에는 닫힌 입과 코에 공기를 밀어 넣는 강제 호흡과 힘을 내는 순간 숨을 참는 것 모두를 피해야 하며, 달리기와 같은 유산소운동의 경우 최대 산소 섭취가 필요하므로 중강도 운동에서 두 걸음 동안 숨을 들이쉬고 두 걸음 동안 숨을 내쉬는 방법이 권장된다. 요즘과 같이 날씨가 쌀쌀할 때는 코로 숨 쉬는 것이
 
 제목: SM엔터 경영권 카카오에…하이브 "플랫폼 협력" - 연합뉴스TV
-요약: SM엔터테인먼트 경영권을 두고 카카오와 경쟁해온 하이브가 분쟁에서 철수하고, 카카오가 경영권을 갖게 되었다. 하이브는 플랫폼 사업에서 카카오와 협력할 예정이다. SM주식 공개매수로 SM 주가는 한 달 사이 2배 이상 뛰어오르며 과열되었고, 양측의 협상을 대중의 따가운 눈초리도 부추겼다. 카카오는 SM이 가진 막강한 K팝 콘텐츠를 바탕으로 미래 성장 동력인 글로벌 엔터테인먼트 사업 확장에 총력을 다할 것으로 보인다.
+요약: SM엔터테인먼트 경영권을 두고 카카오와 경쟁해온 하이브가 분쟁에서 철수하고, 카카오가 경영권을 갖게 되었다. 하이브와 카카오는 플랫폼 사업에서 협력해 나가기로 했다. SM주식 공개매수로 SM 주가는 한 달 사이 2배 이상 뛰어오르며 과열됐고, 양측의 협상을 대중의 따가운 눈초리도 부추겼다. 카카오는 SM이 가진 막강한 K팝 콘텐츠를 바탕으로 미래 성장 동력인 글로벌 엔터테인먼트 사업 확장에 총력을 다할 것으로 보인다.
 
-제목: 이별 요구한 연인 살해한 30대 남성, 징역 25년 확정 - MBC뉴스
-요약: 30대 남성이 연인을 흉기로 찌르고 고층에서 밀어떨어뜨려 살해한 혐의로 징역 25년을 선고받았습니다. 범행 당시 정신적인 문제가 있었지만, 행동 통제 능력이 없었다는 것은 인정되지 않았습니다.
+제목: ‘온천물 1년에 2번 교체’ 일본 여관 전 사장 숨진 채 발견 - 서울신문
+요약: 일본 후쿠오카현의 유명 온천 여관 '다이마루 별장'의 전 사장이 경찰 수사를 받던 중 숨진 채 발견됐다. 이 여관은 1년에 단 두 차례만 온천수를 교체하고, 레지오넬라균이 검출될 정도로 소독을 게을리하는 등 위생상의 문제가 있었다. 전 사장은 이에 대해 사과하고 사임했지만, 경찰은 공중욕장법 위반 혐의로 수사 중이다.
 
 제목: '더 글로리' 안길호 피디, 학폭 인정하고 사과 - 한겨레
-요약: 넷플릭스 드라마 <더 글로리>의 안길호 피디가 학교폭력 가해 의혹을 인정하고 사과했다. 안 피디는 1996년 필리핀 유학 당시 여자친구가 놀림거리가 되어 상처를 받았다는 이유로 폭행을 가한 것으로 밝혀졌다. 이에 대리인을 통해 사과의 뜻을 전하고자 한다고 밝혔다.
+요약: 넷플릭스 드라마 <더 글로리>의 안길호 피디가 학교폭력 가해 의혹을 인정하고 사과했다. 안 피디는 1996년 필리핀 유학 당시 여자친구가 놀림거리가 됐다는 이유로 감정이 격해져 타인에게 상처를 줬다고 밝혔다. 이에 대리인을 통해 사죄의 마음을 전하고 싶다는 입장을 전했다.
 
 제목: 13일부터 한·미연합연습…북 “전쟁 억제력 공세적 활용” 맞서 - 한겨레
 요약: 한국과 미국이 13일부터 23일까지 대규모 실기동훈련을 병행하는 ‘자유의 방패’ 연합연습을 벌인다. 한반도 전체를 대상으로 실기동 훈련을 하는 것은 5년 만이다. 북한은 12일 ‘전쟁 억제력’을 공세적으로 활용하기 위한 조처를 논의·결정했다고 밝혀, 한반도 군사적 긴장이 높아질 것으로 보인다.
 
-제목: 길고양이 둘러싼 논란 줄어들까?…'돌봄 가이드라인' 나온다 - 한겨레
-요약: 농림축산식품부가 '길고양이 복지개선 협의체'를 구성해 운영하고, '길고양이 돌봄 가이드라인'을 올해 안에 마련할 예정이다. 이를 통해 길고양이 관리의 효율성과 전문성을 강화하고, 통일된 의견을 제시하기 위한 노력을 하고 있다. 이번 방안은 길고양이 관리를 위한 민관 거버넌스(협치)를 구성해 협의함으로써, 동물∙환경 단체와 캣맘∙캣대디(길고양이 돌보미), 학계 전문가, 정책 담당자 사이의 시각차를 줄이기 위해 마련됐다.
+제목: ‘검정고무신’ 이우영 작가 숨진채 발견…“저작권 소송 힘들어해” - 동아일보
+요약: 만화 '검정고무신' 작가 이우영씨가 자택에서 숨진 채 발견됐다. 경찰은 극단적 선택을 한 것으로 보고 있다. 이 씨는 최근 저작권 소송 문제로 힘들어했다는 이야기가 있다. 검정고무신은 1960년대 가족 이야기를 다룬 만화로 선풍적인 인기를 끌었으며, 이 씨는 1992년 만화 검정고무신을 그리며 작품 활동을 시작했다. 이 씨는 2019년부터 극장판, 애니메이션, 캐릭터 사업 등을 놓고 저작권 및 수익 분배 문제를 두고 소송을 이어 왔다.
 
-제목: 저축은행 예대금리차 확대… 시중銀보다 예금 금리 낮은 곳도 - 조선비즈 - 조선비즈
-제목: 강지섭, JMS 교주 정명석 생일에 축하 트윗?…"4~5년 전 탈교" - 한국아이닷컴
-요약: 배우 강지섭이 JMS 신도 의혹에 대해 입장을 밝혔다. 최근 온라인 커뮤니티에서 강지섭이 JMS 신도로 의심된다는 게시물이 확산되었다. 강지섭은 JMS 교주 정명석의 생일을 축하하는 트윗을 올린 적이 있었으며, 집에서 JMS 특유의 예수 그림 액자가 보였다는 이유로 의심을 받았다. 강지섭은 대학생 시절 JMS 신도들에게 성경 공부를 제안받아 일반적인 교회인 줄 알고 다녔지만, 교주가 자신을 신격화하는 분위기가 이상해 4~5년 전부터 다니지 않았다고 밝혔다.
+제목: [내몸 관리 지침서] 천차만별 다이어트법… 효과있나? - 서울와이어
+요약: 서울아산병원 영양팀장은 다이어트를 위해 간단하게 식사량을 줄이고 꾸준한 운동이 가장 현명한 방법이라고 조언했다. 간헐적 단식이나 저탄고지 다이어트 등의 다이어트 방법은 효과가 있을 수 있지만, 영양불균형과 요요현상 등의 부작용이 있을 수 있다는 것이다. 따라서 규칙적인 식사와 운동을 함께 하는 것이 가장 좋다고 강조했다.
 
+제목: [WBC 일정] 쿠바, 대만 7-1 완파하고 월드베이스볼클래식 A조 8강 진출 유리한 고지 - 한국강사신문
+요약: 쿠바가 월드베이스볼클래식(WBC) 8강 진출을 위해 2연승을 거둬 벼랑 끝에서 벗어났다. 대만을 7-1로 완파하며 2승 2패로 1라운드를 마쳤고, 동률 세 팀 중 승자승에서 앞서 8강 진출의 유리한 고지에 섰다. 네덜란드와 이탈리아가 1승 2패로 탈락 위기에 놓인 가운데, 쿠바는 2006년 이후 4차례 WBC에서 1라운드를 모두 통과한 경력을 가지고 있다.
+
+
+제목: Israeli troops kill 3 Palestinian gunmen in clash - Reuters.com
+요약: Israeli troops killed three Palestinian gunmen who attacked a their post in the occupied West Bank on Sunday, the army said, adding that a fourth gunman was detained after surrendering.
+
+제목: UK scrambles to help tech firms after Silicon Valley Bank collapse - BBC
+요약: Chancellor Jeremy Hunt says it and the Bank of England are working through the weekend to find a solution.
+
+제목: Yellen says government will help SVB depositors but rules out bailout - Financial Times
+요약: Treasury secretary says policies are being formulated to stem fallout of tech lender’s collapse
+
+제목: NASA's SpaceX Crew-5 splashes down on Earth after 5-month mission aboard ISS - Fox Business
+요약: Two NASA astronauts, a Russian cosmonaut and a Japanese astronaut returned to Earth late Saturday after completing a 157-day mission aboard the International Space Station.
+
+제목: Childcare: I'll cut costs to boost workforce, says Chancellor Jeremy Hunt - BBC
+요약: The chancellor says the government can make a "big difference", ahead of Wednesday's Budget.
+
+제목: 12+ inches of heavy, wet snow possible in parts of New Hampshire from Nor'Easter - WMUR Manchester
+요약: A long-duration Nor'Easter is expected to start late Monday and could bring a foot or more of snow to parts of New Hampshire.
+
+제목: Team USA World Baseball Classic score: Kyle Schwarber, Nolan Arenado power past Great Britain in WBC Game 1 - CBS Sports
+요약: USA began its World Baseball Classic title defense Saturday night
+
+제목: Saudi deal with Iran worries Israel, shakes up Middle East - POLITICO
+요약: The agreement represents one of the most striking shifts in Middle Eastern diplomacy in recent years.
+
+제목: New York Giants 2023 NFL free agency primer: Everything you need to know - Big Blue View
+요약: A look ahead to free agency for the Giants
+
+제목: Half a million Israelis join latest protest against Netanyahu's judicial overhaul, organizers say - CNN
+요약: About 5% of the country's population took to the streets in the tenth consecutive week of protests against plans by the government of Benjamin Netanyahu to overhaul the country's judicial system, organizers claimed.
+
+제목: Russia-Ukraine war at a glance: what we know on day 382 of the invasion - The Guardian
+요약: UK defence ministry calls Bakhmut a ‘killing zone’; Russian shelling kills three Ukrainian civilians in Kherson, Ukrainian officials say; Russia lists World Wildlife Fund as a foreign agent
+
+제목: 2023 March Madness: Here's all you need to know ahead of the men's college basketball season's crescendo - CNN
+요약: The conclusion of the men's college basketball season is upon us and that can only mean one thing: it is time for the 'Big Dance.'
+
+제목: Where to watch the Oscars - CNN
+요약: The 95th Academy Awards will be presented on Sunday.
+
+제목: California's Pajaro River breaches overnight, residents urged to evacuate - ABC News
+요약: The Pajaro levee breached as officials conducted flood-fighting efforts.
+
+제목: 'Little fissures': The U.S.-Ukraine war unity is slowly cracking apart - POLITICO
+요약: A tough week for U.S.-Ukraine news reveals an imperfect harmony.
 
 제목: What is the healthiest fruit? This one is packed with nutrients. - USA TODAY
 요약: There isn't just one fruit that is healthier than others, but one fruit stands out with increased fiber, antioxidants and cognitive benefits.
 
-제목: Silicon Valley Bank failure could trigger run on US regional banks - Cointelegraph
-요약: Fed and FDIC decisions concerning the future of Silicon Valley Bank may affect regional banks across the United States.
+제목: Biden’s $5 trillion tax gambit catches Congress by surprise - The Hill
+요약: President Biden went big in his $6.8 trillion annual budget proposal to Congress by calling for $5 trillion in tax increases over the next decade, more than what lawmakers expected after the president downplayed his tax agenda in earlier meetings.  It’s a ris…
 
 제목: Milk, cheese and ice cream without the cow has entered the marketplace - The Washington Post
 요약: Labs have created exact molecular replicas of cow dairy. Some are already on shelves and being hailed as a way to reduce harm to cows and cut down dairy’s huge contribution to climate change.
-
-제목: Indiana medical students subjected to DEI instruction on gender as part of basic human structure course - Fox News
-요약: Indiana University School of Medicine students are receiving instruction on gender being a "social construct," and that sex and gender are not the same thing.
 
 제목: While Some Russian Exiles Join Georgia Protests, Others Keep Away - The Moscow Times
 요약: When thousands of Georgians protested this week to demand a bill similar to controversial Kremlin legislation be scrapped, some Russian exiles joined rallies that would have been unthinkable in their homeland.
 
 제목: Another atmospheric river takes aim at a storm-battered California still dealing with flooding and damaged roadways - CNN
 요약: Another atmospheric river is making its way toward storm-battered California, where residents are still contending with flooded roadways, collapsed bridges, overflowing rivers, inundated neighborhoods and a levee breach that forced hundreds to evacuate.
-
-제목: IDF troops come under fire in West Bank, shoot and kill 3 gunmen - The Times of Israel
-요약: Another Palestinian assailant turns himself in and is taken for questioning following incident near Jit, west of Nablus
-
-제목: Ukraine Readies Counteroffensive as Russia Inches Forward in Bakhmut - The Moscow Times
-요약: The Ukrainian military was preparing Sunday for an upcoming counteroffensive, with a top commander saying his forces' ongoing defense of Bakhmut in the face of fierce and sustained Russian attacks was necessary to "buy time" for that push.
-
-제목: Saudi oil giant Aramco posts record $161.1 billion profit for 2022 - CNBC
-요약: Saudi state-controlled Aramco achieved a record profit last year, boosted by higher energy prices and firmer sale volumes.
-
-제목: Most men diagnosed with prostate cancer don't need to rush to surgery, radiation treatments: study - Fox News
-요약: A study in the New England Journal of Medicine showed most men diagnosed with localized prostate cancer can actively monitor the disease instead of jumping to surgery or radiation.
-
-제목: Evacuations underway in northern California after levee breached - CBS New York
-요약: Evacuations are underway in northern California after a levee breached, triggering massive flooding. Joy Benedict reports for CBS2.
-
-제목: Tuesday storm could possibly be the defining one of this winter - CBS Boston
-요약: This one could be big. Of all the storms we have had over the course of this winter, this one next week has, by far, the most potential.
-
-제목: Pence says 'history will hold Donald Trump accountable' for January 6th - CNN
-요약: Former Vice President Mike Pence made his most blistering comments yet about former President Donald Trump's role in the January 6 attack on the US Capitol during remarks Saturday evening at the annual Gridiron Club Dinner in Washington, DC.
-
-제목: Marquette beat Xavier 65-51 in Big East tournament final - Milwaukee Journal Sentinel
-요약: Tyler Kolek had 20 points and David Joplin added 12 off the bench to lead the top-seeded Golden Eagles to their first ever tournament title.
-
-제목: SpaceX capsule returns crew of four from space station mission - Reuters.com
-요약: Four crew members aboard a SpaceX Crew Dragon capsule splashed down off Florida's Gulf coast on Saturday, returning safely from a five-month science mission on the International Space Station.
-
-제목: UFC Las Vegas post-fight show: Reaction to Merab Dvalishvili’s dominance over Petr Yan - MMA Fighting
-요약: MMA Fighting reacts to Merab Dvalishvili’s one-sided win over Petr Yan and other storylines following UFC Las Vegas.
-
-제목: BBC mutiny escalates as stars rally behind Gary Lineker - DW (English)
-요약: Some TV presenters refused to work in a show of solidarity with a colleague who was suspended after criticizing Britain's new migration policy. The walkout forced the UK broadcaster to cancel most of its soccer coverage.
-
-제목: Mikaela Shiffrin sets World Cup skiing record with 87th win - CBS News
-요약: Shiffrin broke a tie with Ingemar Stenmark on the all-time overall winners list between men and women.
-
-제목: Crypto Exhales as USDC Stablecoin Rebounds Toward Peg After Being Roiled by SVB Exposure - Yahoo Finance
-요약: (Bloomberg) -- Crypto’s second-largest stablecoin rebounded toward its intended $1 dollar peg as issuer Circle Internet Financial Ltd. pledged to cover any...
-
-제목: How to Watch the 2023 Oscars Online Without Cable - Hollywood Reporter
-요약: Hollywood's biggest night takes place Sunday at the Dolby Theatre in Los Angeles — here's how to stream it live without cable.
 
 
