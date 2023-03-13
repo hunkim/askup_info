@@ -1,89 +1,106 @@
-'choices'
-제목: ‘韓선수 비명만’ 中 U-20도 비매너 ‘소림축구’ 계승[스한 스틸컷] - 한국아이닷컴
-요약: 한국과 중국의 U-20 축구 대표팀이 맞붙은 경기에서 중국 선수들의 거친 비매너로 인해 한국 선수들이 부상을 입었지만, 한국은 연장전에서 3-1로 이겨 U-20 아시안컵 준결승에 진출하게 되었다. 중국 선수들은 예전부터 거친 축구로 유명한데, 이번에도 '소림축구'로 악명이 높았다.
+Error parsing article Article `download()` failed with HTTPSConnectionPool(host='www.yna.co.kr', port=443): Max retries exceeded with url: /view/AKR20230312058900083 (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1129)'))) on URL https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L0FLUjIwMjMwMzEyMDU4OTAwMDgz0gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9BS1IyMDIzMDMxMjA1ODkwMDA4Mw?oc=5
+제목: 지중해식 식단, 전립샘암 예방에 으뜸? (연구) - 코메디닷컴
+요약: 호주 사우스오스트레일리아대의 연구 결과에 따르면, 지중해식 식단을 즐기는 남성들은 전립샘암 진단을 받을 확률이 낮은 것으로 나타났다. 연구팀은 전립샘암 말기로 진단받은 남성 환자 116명과 건강한 남성 132명의 혈액 검체를 분석한 결과, 리코펜과 셀레늄 등의 수치가 정상인에 비해 전립샘암 환자에서 훨씬 더 낮은 것으로 나타났다. 이러한 영양소는 토마토, 멜론, 파파야, 포도, 복숭아, 수박, 크랜베리 등의 과일과 흰 살코기, 생선, 조개류, 달걀, 견과류 등의 식품에서 섭취할 수 있다.
 
-제목: 한국타이어 대전 공장 화재…불길에 고속열차 우회 - 연합뉴스TV
-요약: 대전 한국타이어 공장에서 화재가 발생해 10명 이상이 연기를 마셨으며, 인근 아파트 주민들도 대피했습니다. 화재로 인해 고속열차가 우회 운행하고 있으며, 경부고속도로 일부 구간에서 차량 통제가 이뤄지고 있습니다. 국무총리는 추가 피해가 발생하지 않도록 최선을 다해 화재진압에 대응하라고 지시했습니다.
+제목: '한시적 양육비' 갚아야하는 비양육자 70%가 월급 0원 - 한겨레
+요약: 한부모가정에 대한 양육비 지원 제도에서, 이행원이 선지급한 양육비를 갚아야 하는 비양육자 10명 가운데 7명이 월급이 0원이라는 연구 결과가 나왔다. 이에 대해 관련 제도 정비가 필요하다는 지적이 나오고 있으며, 양육비 회수율 제고와 긴급지원 대상 확대 방안이 필요하다는 목소리가 나오고 있다.
+
+제목: “당신의 시작을 응원합니다”… '입학·입사 선물'은 진화 중 - 한겨레
+요약: 국내 빅테크 기업들은 신규 입사자에게 주는 '웰컴 키트'의 수준을 업그레이드하고 있다. 엔씨소프트, 카카오, 네이버 등은 지식재산권 캐릭터와 인공지능 스피커 등을 포함한 디지털 굿즈를 선물로
+
+제목: [김수영의 건강한 피부]밤에 심해지는 가려움증, 옴 진드기 감염 - 이데일리
+요약: 한달 전 갑자기 발생한 소양감과 밤에 심해지는 가려움증, 가족들이 함께 발진이 나타나는 경우, 옴 진드기 감염을 의심해야 한다. 옴 진드기는 밤에 각질층에 굴을 만들어 가려움증을 유발하며, 가족이나 간병인에서 밀접한 신체 접촉을 통해 전파된다. 치료는 5% 퍼메트린 크림을 사용하며, 가족 등 밀접 접촉자도 함께 치료해야 한다.
+
+제목: '1년에 2번 물 교체' 일본 온천 前사장 숨진 채 발견 - 서울경제 - 서울경제신문
+요약: 일본 후쿠오카현의 유명한 온천 여관인 '다이마루 별장'의 전 사장이 숨진 채 발견됐다. 이전에는 1년에 두 차례만 온천수를 교체했다는 사실이 알려져 공분을 사기도 했으며, 공중욕장법 위반 혐의로 수사를 받았다. 경찰은 극단적 선택을 한 것으로 보고 조사 중이다.
+
+제목: 북한 "잠수함서 전략순항미사일 2발 발사" - 한국어 방송 - VOA Korean
+요약: 북한이 신포 인근 해상 잠수함에서 전략순항미사일 2발을 발사했다. 이는 미한 연합연습에 대한 대응 조치로 분석된다. 한국 합동참모본부는 미사일의 세부 제원을 분석하고 있으며, 한미는 만반의 대비태세를 유지하고 있다. 이번 발사는 ‘자유의 방패’ 미한 연합연습에 반발한 대응 조치로 추정된다.
+
+제목: 학교폭력으로 딸을 떠나보낸 지 8년…“사과하는 사람은 아무도 없었다” - 한겨레
+요약: 2015년 학교폭력 피해로 숨진 박주원 양의 가해자 손배에 대한 손해배상 청구 소송에서 법원은 "인과관계 부족"이라는 이유로 손배에 대한 책임을 부인했다. 박주원 양의 아버지는 이번 판결에 대해 한국 사회가 학교폭력에 대한 대응이 "형식적인 면피"에 지나지 않는다고 비판하며, 가해자를 진심으로 뉘우치게 하고 피해자의 치유와 회복을 지원하는 방식과 거리가 멀다는 것을 지적했다.
+
+제목: 중국 양회 오늘 폐막…시진핑·리창, 국정운영 기조 표명 - 연합뉴스
+제목: 비타민D의 치매 예방 효과 어디까지 믿어야 할까? - 메디칼업저버
+요약: 캐나다 연구팀이 비타민D 섭취가 치매 발생 예방 효과가 있다는 연구 결과를 발표했다. 연구에서는 비타민D를 복용한 환자가 복용하지 않은 환자보다 치매 발생 위험이 40% 낮다는 결과가 나왔다. 하지만 전문가들은 연구 결과에 대해 몇 가지 의문을 제기하고 있으며, 추가적인 연구가 필요하다는 의견이 있다.
+
+제목: 국민연금, '파산' SVB 주식 10만주 보유…"대응방안 모색" - 연합뉴스TV
+요약: 국민연금이 파산한 SVB 금융그룹의 주식 10만여 주를 보유하고 있으나, SVB 파산으로 인해 주가가 반토막나 현재는 거래 정지 상태이다. 국민연금은 대응 방안을 모색하고 있으며, 보유 지분은 2021년 말 대비 감소한 것으로 파악된다.
+
+제목: [헬스노트]670년전 흑사병에 강했던 유전자 코로나에도 강했다 - 뉴스1
+요약: 14세기 흑사병 유행 시 생존에 도움이 된 유전자 변이가 현재에도 살아있어 코로나19와 같은 호흡기 바이러스에는 도움이 되지만, 자가면역질환 등 일부 질환에서는 더 취약하다는 연구 결과가 나왔다. 연구팀은 해당 유전자 변이를 잘 이해해 향후 치료제 개발에 적용할 것을 당부했다. 이번 연구는 지난해 공개됐던 연구 결과를 재확인한 것이며, 해당 결과는 국제학술지에 게재됐다.
+
+제목: [제보는Y] "이제 안 보나 싶었는데"...떡 하니 돌아온 학폭 가해자 - YTN
+요약: 한 중학생이 같은 반 학생들에게 당한 학교폭력 피해 내용이 공개되었다. 볼펜 잉크를 터뜨려 사물함을 어지럽히고, 다 마신 우유 팩을 가방 안에 넣어두기도 했다. 그러던 끝에 수업 시간, 그것도 교사가 있는 교실에서 4명에게 집단 폭행을 당했다는 게 피해 학생 측 주장이다. 이 사건과 관련해 지난 2월 학교폭력심의위원회가 열렸으나, 가해자들은 강제전학 처분과 출석정지 처분만 받았다. 이번에는 가해자 측이 처분에 불복해 행정심판을 청구하면서 강제전학 처분 효력을 정지해달라고 요구했는데, 이게 받아들여진 결과, 가해 학생은 시간을 벌은 
+
+제목: ‘韓선수 비명만’ 中 U-20도 비매너 ‘소림축구’ 계승[스한 스틸컷] - 한국아이닷컴
+요약: 한국과 중국이 맞붙은 U-20 아시안컵 8강전에서 한국 선수들은 중국 선수들의 거친 비매너 '소림축구'로 인해 부상을 입었지만, 결국 3-1로 이겨 준결승에 진출하게 되었다. 중국 선수들은 지나치게 깊은 태클, 거친 몸통 박치기 등 해도해도 심한 반칙을 했다. 이번 대회에서 2승 1무로 1위에 오른 한국은 개최국 우즈베키스탄과 결승 진출을 다투게 된다.
+
+제목: 치솟은 SM 주가 위기감 불러...'일단 휴전' 분석도 - YTN
+요약: 카카오와 하이브가 SM엔터테인먼트 경영권을 두고 머니게임을 벌이던 상황에서 전격 합의를 발표했다. 이번 합의는 SM 지분 20% 가까이를 확보한 하이브는 하지만 인수 절차를 중단했을 뿐 인수를 포기한 것은 아니며, 4.9%를 보유한 카카오도 예정대로 공개매수를 진행할 예정이다. 이번 합의는 잠시 '휴식기'가 될 수도 있으며, 이번 사태가 부른 이미지 훼손을 회복하는 해결책이 필요하다.
 
 제목: 찰방이던 물빛 사그라든지 오래…자연의 인내심도 바닥나기 직전 - 한겨레
-요약: 전남 화순군 동복호가 가뭄으로 인해 바닥이 드러나고, 상수원인 동복댐과 주암댐의 저수율이 20% 아래로 내려가면서 식수 공급에 위협이 된다. 전국적으로 기후변화로 인한 가뭄이 상시화될 가능성이 있으며, 대책이 필요하다는 전문가들의 지적이 있다.
+요약: 전남 화순군 동복호가 가뭄으로 인해 바닥이 드러나고, 상수원인 동복댐과 주암댐의 저수율이 20% 아래로 내려가면서 식수 공급에 우려가 된다. 전남 지역 봄 강수량이 평년과 비슷하거나 적을 예상되어 물 부족 사태는 여름까지 이어질 것으로 보인다. 기후변화로 인한 가뭄의 상시화가 예상되며, 장기적인 대책이 필요하다.
 
 제목: 나흘 동안 62시간 일하다 죽은 경비노동자 : 사회일반 : 사회 : 뉴스 - 한겨레
 요약: 서울 한 고층 빌딩에서 나흘 동안 퇴근하지 못하고 62시간 연속으로 일한 경비노동자가 심근경색으로 사망하는 사건이 발생했다. 유족들은 장시간 노동에 따른 과로사라며 ‘산업재해’로 인정해달라고 요구하고 있다. 이번 사건을 두고 경비·보안 업계에 만연한 장시간 노동, 야간 노동의 현실을 드러낸 것이라는 지적이 노동계에서 나왔다.
 
-제목: 실리콘밸리은행 파산, 실물 경기침체 도래 신호탄? - 한겨레
-요약: 미국 실리콘밸리은행의 파산으로 인해 금융시장에서 유동성 부족과 지급불능 위기가 부각되고 있다. 이번 사태는 미국 내 16위 은행으로 규모가 작아 금융시스템 전반의 위험으로 번질 가능성은 낮지만, 일부 취약 은행은 예금 이탈이 가속화되면서 채권 손실 확대가 은행 산업 전반에 확산될 우려가 있다. 미국 정부는 이번 사태가 경기침체의 첫 번째 신호일 수 있다는 우려를 표명하고 있으며, 한국 정부도 이에 대한 대응을 강화하고 있다.
-
-제목: BTS 제이홉이 군 입대에 대해 처음으로 입을 열었다 - 지큐 코리아
-요약: BTS의 제이홉이 음악 프로그램에 출연하여 자신의 솔로곡 '치킨 누들 수프'를 부르고, 박재범과 대화를 나누었다. 또한, J. Cole과의 협업 이야기와 춤에 대한 이야기도 나누었으며, 입대를 앞두고 있는 제이홉은 팬들에게 인사를 전하며 군대 잘 다녀오겠다고 말했다.
-
+제목: 볼넷 남발 투수, 구멍난 수비… 한국 프로야구 선수 맞나요? - 조선일보 - 조선일보
 제목: 러시아 용병 "바흐무트 행정청 1.2km 앞" 점령 임박한 듯...'바그너 수장' 프리고진, 우크라이나 대선 출마 선언 - 한국어 방송 - VOA Korean
-요약: 러시아 용병업체 바그너 그룹이 우크라이나 동부 격전지 바흐무트 도시 중심부로 진격하며 완전 점령에 속도를 내고 있습니다. 바그너 그룹은 바흐무트 전투를 주도하고 있으나, 러시아 당국으로부터 고질적인 보급 문제가 해결되지 않고 있다고 최근 프리고진 창업자가 목소리를 높이는 중입니다. 프리고진 창업자는 이번에 우크라이나 대선에 출마하겠다고 밝혔습니다.
+요약: 러시아 용병업체 바그너 그룹이 우크라이나 동부 격전지 바흐무트 도시 중심부로 진격하며 완전 점령에 속도를 내고 있습니다. 바그너 그룹 실소유주인 예브게니 프리고진 창업자는 바흐무트의 행정 중심지에 근접한 곳에서 병력을 지휘하고 있으며, 우크라이나군은 도시를 남북으로 종단하는 바흐무트 강을 경계로 서쪽에서 방어선을 지키고 있습니다. 프리고진 창업자는 바그너 그룹 병력에 더 많은 탄약을 제공해달라고 요구한 일 때문에 러시아 국방부를 비롯한 정부의 모든 연락 채널에서 차단당했다고 밝힌 바 있습니다. 프리고진 창업자는 2024년 우크라이나
 
 제목: [GOAL 리뷰] '카세미루 퇴장' 맨유, '최하위' 사우샘프턴과 0-0 충격 무승부 - Goal.com
-제목: "현지화 약속해라" 러시아 해커, '스토커2' 개발사 협박 - 인벤
-요약: 러시아 게임사 GSC 게임 월드가 개발 중인 '스토커2'가 해커에게 해킹당한 것으로 밝혀졌다. 해커들은 게임사에 러시아 현지화 서비스 약속을 요구하고 있으며, 자료 일부를 공개하면서 요구를 증명하고 있다. 이번 해킹은 이전과는 달리 해커들이 '스토커2'의 팬을 자처하고 있어 눈길을 끌고 있다. '스토커2'는 지난해 12월 공식 트레일러를 공개하면서 2023년 출시 예정이었으나, 러시아의 공세로 인해 개발 일정에 차질이 생길 것으로 예상된다.
-
-제목: 오타니 스리런…日 4전 전승, 16일 8강전 - 서울경제 - 서울경제신문
-요약: 일본 야구 대표팀이 월드베이스볼클래식(WBC) B조 1위로 8강에 진출했다. 일본은 호주를 7 대 1로 완파하며 4전 전승을 거뒀다. 일본은 대만과 격돌해 4강 진출을 놓고 경쟁한다. 한국은 체코가 호주를 이기면 8강 진출 가능성이 생긴다. 일본의 오타니 쇼헤이는 호주전에서 스리런 홈런을 쏘며 대회 첫 홈런을 기록했다.
-
-제목: 휴먼에이드포스트 - 휴먼에이드포스트
-요약: 일본의 게임 '포켓몬스터 소드 실드'는 유로 DLC와 레이드 배틀을 추가한 작품이다. 게임의 무대는 영국을 모티브로 한 가라르 지방이며, 다이맥스라는 거대화 현상이 일어나는데 이는 가라르지방에서만 일어난다. 또한 DLC 컨텐츠가 2개 추가되었는데, 감옷의 외딴섬과 왕관의 설원이다. 이를 통해 새로운 포켓몬과 다이맥스 어드벤처, 가라르 스타 토너먼트 등이 추가되었다.
-
-제목: [삼남매가 용감하게] “남편이라고 했어요” 김소은 '혼인신고' 거짓말에 김승수 “곧 그렇게 될 건데...” - KBS연예
-요약: KBS2TV 주말드라마 '삼남매가 용감하게' 49회에서는 가족을 위해 양보하고 성숙해야 하는 K-장녀와 톱스타로 가족을 부양해야 하는 K-장남의 이야기가 전개되었다. 이야기 속에서 김소은이 김승수와 혼인신고를 한 것으로 거짓말을 하지만, 이는 사실이 아니었다. 이야기는 한국형 가족의 '사랑과 전쟁'을 다루고 있다.
-
-제목: 중국 중재로 이란·사우디 관계 복원…“미국 외교의 실패” - 경향신문
-요약: 중국이 이란과 사우디아라비아의 관계 정상화를 중재하면서 중동의 지정학적 정세가 재편되고 있다는 관측이 나오고 있다. 이는 미국이 중동에서 영향력을 잃고 중국이 새로운 파워 플레이어로 변하는 것으로 분석된다. 이번 사건은 중국이 중동 외교 무대에서 존재감을 과시한 상징적 사건으로 평가되며, 앞으로 외교 무대에서 중국의 입지가 더 커질 것으로 전망된다.
-
-제목: [장서 산책] 카이 미하엘 베에 '젊게, 오래 살려면 폐를 지켜라' - 시니어매일
-요약: GPT3 Return Error: 'choices'
-
-제목: '더 글로리2' 차주영 노출 CG설? "5~6kg 증량한 덕분" [Oh!쎈 이슈] - 미주중앙일보
-요약: 배우 차주영이 '더 글로리' 파트2에서 파격 노출을 감행한 일이 'CG설'까지 낳을 정도로 화제다. 이에 대해 차주영은 최혜정 캐릭터를 정확하게 표현하기 위해 외모 관리에 신경 썼다. 이전보다 5~6kg 가량 체중을 증량했고 전작들에 비해 살이 오른 상태에서 '더 글로리' 파트2를 촬영했다.
-
-제목: 밤 10시 도봉산 향한 중년 여성‥알고 보니 방화? - MBC뉴스
-요약: 서울 도봉산에서 산불이 발생해 2시간 만에 진화됐으며, 한 여성이 용의자로 체포됐다. 서울 관악구에서는 단독주택에서 불이 나 90대 여성이 숨졌고, 마장동에서는 70대 부부가 유독가스에 노출돼 부상과 사망을 당한 사고가 발생했다.
-
-제목: 내일부터 한미연합훈련‥북한도 맞대응 경고 - MBC뉴스
-요약: 한미연합훈련이 11일 동안 진행되며, 미국은 핵심 전략자산들을 대거 투입하고, 북한은 무력 대응을 예고했습니다. 이번 훈련은 한반도 전체를 전쟁 구역으로 가정한 '전구급'으로 역대 가장 긴 훈련입니다. 대규모 야외 실기동 훈련으로 북한의 도발을 억제하겠다는 뜻으로, 미국의 핵추진 항공모함과 일본 해상자위대가 참여하는 훈련도 추진중입니다.
-
-제목: 건강과 운동에 유익한 호흡법 - 경북매일신문
-요약: 호흡은 우리 몸을 건강하게 유지하는 가장 기본적인 역할을 한다. 운동할 때에는 복압호흡이 더 효과적이며, 복압호흡은 복강의 압력을 높여 코어 근육과 주변 근육을 강하게 조여 척추의 안정성을 확보하는데 용이한 호흡법이다. 또한, 호흡법은 운동의 형태와 강도에 따라 적절한 방법으로 호흡을 해야 건강을 챙기는 것이 중요하다.
-
-제목: 이재명, 측근 죽음 뒤 '정면돌파' 나섰지만…대중집회 참석에 뒷말 - 한겨레
-요약: 이재명 더불어민주당 대표가 지난 11일 강제동원 해법 강행 규탄 시위에 참석하고 윤석열 정부를 강하게 비판했다. 이 대표는 12일 자신의 페이스북에 부모 묘지가 훼손된 사진을 공개하며 사과했다. 이에 대해 당내에서는 이 대표의 행동에 대한 의구심이 제기되고, 친이재명계 의원들은 검찰의 무리한 수사가 극단적 선택의 원인이라는 입장을 내세웠다.
-
-제목: 이것이 '세계 1위' 클래스…박지원, 쇼트트랙 세계선수권 2관왕 - 한겨레
-요약: 한국 쇼트트랙 선수 박지원이 2023 세계선수권대회에서 남자 1000m와 1500m에서 금메달을 차지하며 2관왕에 올랐다. 또한, 여자부에서는 최민정이 은메달 3개를 획득했다. 네덜란드는 여자부 개인전 세 종목과 계주, 혼성계주까지 다섯개의 금메달을 휩쓸었다.
+제목: [영상] 한국타이어 대전공장서 대형화재…작업자 3명 병원 이송 - 한겨레
+요약: 대전 한국타이어 공장에서 대형 화재가 발생해 작업 중이던 노동자 9명이 병원으로 이송됐다. 소방당국은 아직 큰 불길을 잡지 못하고 있으며, 불길이 계속 번지자 한국철도공사는 공장 옆을 지나는 경부고속철도 운행을 중단했다. 인근 아파트 주민들에게 외출을 자제하고 유독가스 유입에 대비해 문과 창문을 닫으라고 당부했다.
 
 
-제목: NASCAR at Phoenix live results, updates, highlights from United Rentals Work United 500 - Sporting News
-요약: The Sporting News is tracking live updates from the United Rentals Work United 500 at Phoenix Raceway.
+제목: North Korea fires 2 missiles from submarine, state media reports - CNN
+요약: North Korea launched two missiles from a submarine in the waters of the Sea of Japan Sunday morning local time, according to the state-run news agency KCNA.
 
-제목: At least 8 dead after two boats capsize in San Diego County, California - CNN
-요약: At least eight people have died after two smuggling boats capsized near the shore of Black's Beach in San Diego County, California, officials said.
+제목: FDIC is prepared to 'operate' Silicon Valley Bank, Treasury officials tell lawmakers - CNN
+요약: The Treasury Department told lawmakers on Sunday that the Federal Deposit Insurance Corporation is prepared to "operate" Silicon Valley Bank to ensure depositors can maintain payroll for their employees and that more operations will emerge in coming days, a s…
 
-제목: Alabama basketball wins SEC tournament title over Texas A&M in 82-63 blowout - AL.com
-요약: The Crimson Tide followed up a good first half with an elite second half in Nashville, capturing its 17th conference title.
+제목: Joint Statement by Treasury, Federal Reserve, and FDIC - Federal Reserve
+요약: Washington, DC -- The following statement was released by Secretary of the Treasury Janet L. Yellen, Federal Reserve Board Chair Jerome H. Powell, and FDIC Cha
 
-제목: Gladstone police officially identify body found in pond as 13-year-old Jayden Robker - KMBC Kansas City
-요약: He had been missing since Feb. 2
+제목: As Biden weighs Willow, he blocks other Alaska oil drilling - The Associated Press - en Español
+요약: WILMINGTON, Del. (AP) — As President Joe Biden prepares a final decision on the huge Willow oil project in Alaska , he will prevent or limit oil drilling in 16 million acres in Alaska and the Arctic Ocean, an administration official said on Sunday.
 
-제목: Want to watch the Oscars 2023 red carpet? Here's how. - Yahoo Entertainment
-요약: Oscars red carpet fan? Here's what you need to know to watch or stream the 2023 red carpet — even for free!
+제목: Daron Payne agrees to four-year, $90 million deal with Commanders - The Washington Post
+요약: The deal ensures the interior duo of Payne and Jonathan Allen, which ranked among the NFL's most productive last year, can stay together through at least 2025.
 
-제목: Caltrans shuts down Highway 1 in Watsonville due to flooding - KSBW Monterey
-요약: Drivers are being asked to avoid all non-essential travel
+제목: Why the 2023 Oscars Red Carpet Is Champagne Instead of Red, and Will It Stay Clean? - Variety
+요약: As a global audience starts to tune in for the 95th Academy Awards, one thing that is guaranteed to surprise viewers is the creative decision not to have a red carpet, but a champagne-colored runne…
 
-제목: Crypto Market Trades at Risk Without Silvergate's ($SI) SEN Network - Bloomberg
-요약: The digital-asset market is coming off of a turbulent year featuring a number of high-profile blowups. Now, two shutdowns in the banking industry — SVB Financial Group’s Silicon Valley Bank and Silvergate Capital Corp. — have set off a fresh set of stresses.
+제목: College basketball highlights: Purdue, Alabama win; Houston upsets Memphis - FOX Sports
+요약: Purdue and Alabama won the Big Ten and SEC titles, respectively. Memphis upset No. 1 Houston to win the AAC title. Here are the highlights!
 
-제목: Silicon Valley Bank Collapse Becomes Campaign Topic as GOP Warns Against Bailout - The Wall Street Journal
-요약: Republican presidential hopefuls argue against taxpayer-funded assistance for those who suffer losses
+제목: Oscars: Winners List (Updating Live) - Hollywood Reporter
+요약: The show kicks off at 5 p.m. Sunday. Keep up with all the winners here.
 
-제목: Jenna Ortega remakes '90s classic on 'SNL' - CNN
-요약: "Wednesday" star Jenna Ortega hosted "Saturday Night Live" for the first time and did a remake of a scene from "The Parent Trap" with co-star Fred Armisen.
+제목: McCaul says Jan. 6 tapes not going to show ‘tourism at the Capitol’ - The Hill
+요약: Rep. Michael McCaul (R-Texas) said on Sunday that the released tapes from the attacks on the Capitol during Jan. 6, 2021 are not going to show “tourism at the Capitol,” but rather would show a “dark, tragic day.” House Speaker Kevin McCarthy (R-Calif.) has sp…
+
+제목: Jalen Ramsey traded to Dolphins: Rams deal star CB for third-round pick in 2023 NFL Draft, TE Hunter Long - CBS Sports
+요약: Miami lands another star cornerback, while Los Angeles dumps salary
+
+제목: Bank of London bids to acquire Silicon Valley Bank's UK arm - Cointelegraph
+요약: The Bank of London is leading a consortium of private equity firms seeking to purchase SVB's arm in the United Kingdom.
+
+제목: Jamie Lee Curtis reacts to Chloe Fineman's 'SNL' Oscars sketch - Entertainment Weekly News
+요약: Mother approves of the impersonation.
+
+제목: Missouri police confirm body found Friday was missing 13-year-old Jayden Robker - WHIO
+요약: Police in Missouri confirmed on Sunday that a body found in a Kansas City suburb two days earlier was 13-year-old Jayden Michael Robker, authorities said.
+
+제목: Gary Lineker, former England soccer star, removed from BBC show after critical tweets of UK migrant policy - Fox News
+요약: Gary Lineker faced backlash for criticizing the U.K. government's migrant policy, comparing the language to Nazi Germany in the 1930s.
+
+제목: SpaceX’s Crew-5 mission safely returns to Earth after five months in space - Engadget
+요약: SpaceX’s Crew-5 mission safely splashed down on Saturday evening, bringing home four astronauts..
+
+제목: NASA identifies new asteroid that could impact Earth in 2046 - PHL17 Philadelphia 
+요약: Have any plans for Valentine’s Day in 2046? This asteroid might.
 
 제목: Saudi-Iran detente: a setback for Israel and wake-up call on US ties - Reuters.com
 요약: The Saudi-Iran detente sets back Israeli Prime Minister Benjamin Netanyahu's efforts to isolate Tehran, but time will tell whether it also <a href="/world/middle-east/iran-saudi-arabia-agree-resume-ties-re-open-embassies-iranian-state-media-2023-03-10/">hinde…
@@ -91,31 +108,10 @@
 제목: Live images of the Pixel 7a leak - PhoneArena
 요약: PhoneArena is the premium website for new phone information such as full specifications, in-depth reviews, latest news, carrier available and upcoming phones. It features advanced phone filter, visual size comparison and 360 degree views of all hot phones.
 
-제목: Oil giant Saudi Aramco records historic $161bn profit in 2022 - Al Jazeera English
-요약: Saudi Aramco announces highest-ever annual profit by a publicly listed company, drawing criticism from activists.
+제목: Ukrainian forces stall Russian advance on Bakhmut, according to think tank - PBS NewsHour
+요약: Russia’s advance seems to have stalled in Moscow's campaign to capture the eastern Ukrainian city of Bakhmut, a leading think tank said in an assessment of the longest ground battle of the war.
 
-제목: Match of the Day without Gary Lineker: Eerie images, broadcast apologetically by BBC - The Athletic
-요약: This was the most remarkable edition of Match of the Day ever screened – let's never have anything like it again, please
-
-제목: 'SNL' pokes fun at Oscars diversity, security measures after the slap: 'We hated all the attention' - USA TODAY
-요약: "Saturday Night Live" riffed on red carpet coverage during the Oscars. The cast portrayed Mario Lopez and "Maria Menounos or Kit Hoover."
-
-제목: GOP senator: Only way to improve Biden's budget 'is with a shredder' - POLITICO
-요약: Louisiana Sen. John N. Kennedy took shots at President Joe Biden’s proposed budget.
-
-제목: March Madness 2023 bracket reveal: Live updates on Selection Sunday - USA TODAY
-요약: USA TODAY Sports will provide you with the latest bracket reveal updates, news, analysis, conference tournament scores and more throughout the day.
-
-제목: Will Aaron Rodgers be traded to the Jets? "Stay tuned. It won't be long." - FOX Sports
-요약: Aaron Rodgers' 15-year run as the Green Bay Packers' starting quarterback may come to a close soon, as he's considering whether he wants to be traded to the New York Jets.
-
-제목: Millions impacted by flooding in California from atmospheric river - CBS New York
-요약: It's the 10th atmospheric river to hit California and drop massive amounts of rain and snow this winter.
-
-제목: Ukraine Russia war live updates: Russian confirms Kremlin infighting - USA TODAY
-요약: Russian Foreign Ministry spokesperson confirmed at a forum that the Kremlin has lost control over the Russian information space. Ukraine updates.
-
-제목: Gigabyte supersizes Radeon RX 6800 XT Gaming card - VideoCardz.com
-요약: Gigabyte to launch Radeon RX 6800 XT with a new design The company’s RX 6800 Gaming series lineup to expand. As a reminder, Gigabyte already has four GAMING models based on RX 6800 and RX 6800 XT cards. All four cards look identical, and they are offered with…
+제목: Watch again: US authorities hold news conference after migrant boats capsized off San Diego coast - The Independent
+요약: Watch again as San Diego Fire Department, US Coast Guard and Customs & Border Protection officials held a joint news conference after at least eight people w...
 
 
