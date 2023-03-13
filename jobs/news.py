@@ -42,7 +42,7 @@ def get_news(country, category):
                     desc = summary(desc)
             
             if desc:
-                output += f"요약: {desc[:200]}\n\n"
+                output += f"요약: {desc[:300]}\n\n"
             #output += 'URL: {}\n\n'.format(article['url'])
         return output
     elif response.status_code >= 400 and response.status_code < 500:
