@@ -32,7 +32,7 @@ def chatgpt_response(messages, persona, temperature=0.5):
 
 
 def summary(text):
-    persona = "당신은 글읽기 오약을 잘하는 최고의 시스템입니다."
+    persona = "당신은 글읽기 요약을 잘하는 최고의 시스템입니다."
     messages = [{"role": "user",
                  "content": f"아래 뉴스 내용을 쉽게 파악할수 있도록 한두즐로 요약해주세요: \n\n{text}"}]
     return chatgpt_response(messages, persona, temperature=0.1)
