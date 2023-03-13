@@ -34,9 +34,9 @@ jobs:
           CHATGPT_ENGINE: ${{ secrets.CHATGPT_ENGINE }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
-        run: make main
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: make weather
 
-      - name: Commit & Push changes
-        uses: actions-js/push@master
+      - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: info change 
