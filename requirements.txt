@@ -1,0 +1,3 @@
+requests 
+newspaper3k
+beautifulsoup4
