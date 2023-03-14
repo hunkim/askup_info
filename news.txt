@@ -1,5 +1,3 @@
-Error parsing article Article `download()` failed with ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) on URL https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vbS5jbmV0LmNvLmtyL3ZpZXcvP25vPTIwMjMwMzEzMjIxMDAx0gEA?oc=5
-Error parsing article Article `download()` failed with 403 Client Error: Forbidden for url: https://kr.investing.com/news/stock-market-news/article-890386 on URL https://news.google.com/rss/articles/CBMiPmh0dHBzOi8va3IuaW52ZXN0aW5nLmNvbS9uZXdzL3N0b2NrLW1hcmtldC1uZXdzL2FydGljbGUtODkwMzg20gEA?oc=5
 제목: [총게임 한 판 하러 갈까? 下] 세대별 '천하4분지계', 미래는? - 게임플
 요약: 국내 PC방에서 대중적인 슈팅 게임인 '서든어택'과 '배틀그라운드', 최근 떠오르는 '발로란트' 등 대표적인 슈팅 게임들이 경쟁하고 있다. 이전에는 '서든어택'이 국내 대세였으나, 최근에는 새로운 게임들이 등장해 경쟁이 치열해졌다. 하지만 PC방 놀이문화가 예전만 못하다는 이야기를 듣지만, 함께 즐길 최적의 게임이 등장할 경우 언제든 트렌드가 돌아올 가능성도 남아 있다는 것이다.
 
