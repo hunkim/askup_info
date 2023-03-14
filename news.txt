@@ -1,63 +1,76 @@
-Error parsing article Article `download()` failed with ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) on URL https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzAzMTMxMTM2MDXSAQA?oc=5
 'choices'
-제목: 네이버클라우드 "AI 비즈니스, 넷플릭스처럼 구독형 시대 본격화" - ZD넷 코리아
-제목: WBC 한국 대표팀 8강 진출 탈락 확정…3연속 1라운드 탈락 수모 - KBS뉴스
-요약: 2023년 월드베이스볼클래식(WBC)에서 한국 대표팀이 호주와의 경기에서 패배하여 8강 진출이 불가능해졌다. 호주는 체코에 승리하여 조 2위로 8강 진출을 확정했다. 이번 대회에서 한국 야구는 3회 연속 1라운드에서 탈락하였으며, 이번 대회에서 국제 경쟁력이 떨어졌다는 평가를 받았다.
+제목: 인간 건강 위해 '동물 건강' 연구하는 이유 - 코메디닷컴
+요약: 동물 건강을 연구하는 이유는 인간 건강에도 적용할 수 있는 비밀스러운 특징을 갖고 있기 때문이다. 동물의 생활 방식, 유전적 특성 등을 연구하여 인간의 건강을 개선하는 전략으로 활용할 수 있다. 예를 들어, 코끼리는 인간보다 체중이 100배 더 나가지만 암에 걸리는 비율이 적은 이유는 암세포를 퇴치하는 유전자를 더 많이 갖고 있기 때문이다. 이러한 연구는 알츠하이머, 심장병, 암 등과 같은 인간 질환을 예방하거나 발병 시점을 늦추는 효과를 기대할 수 있다.
 
-제목: 정기석 “대중교통 마스크 착용 의무 곧 권고로 전환” - 한겨레
-요약: 한국 정부는 대중교통에서의 마스크 착용 의무를 곧 권고로 바꿀 예정이라고 밝혔습니다. 이는 코로나19 대응 조치의 일환으로, 지난 1월부터 실내 마스크 착용 의무를 권고로 전환한 이후 대중교통과 의료기관, 약국 등에서는 의무로 유지되었습니다. 또한, 코로나19 치료제 처방률이 낮아지는 문제에 대해 정부는 의료진에게 인센티브를 부여하는 방안을 검토하고 있습니다.
-
-제목: [김정욱의 별별 이야기](1)-무에서 유가 생겨나다…우주, 그 위대한 탄생 - 서울경제 - 서울경제신문
-요약: 우주는 137억년 전 무(無)의 상태에서 대폭발로 시작되었으며, 이를 빅뱅 이론으로 설명합니다. 과학자들은 빅뱅 이전의 우주에 대해서는 아직 알 수 없다는 결론을 내리고 있습니다. 빅뱅 이론은 100년 전에 처음 제시되었지만, 천주교 사제가 주장했기 때문에 과학계에서는 무시당했었습니다.
-
-제목: “사우디-이란 관계 정상화, 이스라엘 네타냐후 총리에 타격” - 경향신문
-요약: 사우디아라비아와 이란이 7년 만에 외교 관계를 정상화하면서, 이란 고립 정책을 추진해온 이스라엘 총리 네타냐후가 타격을 입었다. 네타냐후는 이란을 고립시키는 지역적 동맹을 구축하는 것을 주요 외교 정책 목표로 삼았으나, 이번 합의로 인해 이 목표가 실패한 것으로 평가된다. 이번 합의는 이란과 사우디 간의 긴장을 완전히 해소시키지는 못하지만, 아랍 국가들이 이란에 대한 공격을 환영하지 않고, 이란과의 충돌을 꺼린다는 신호가 될 수 있다.
-
-제목: 40년 SVB, 파산까지 36시간…"스마트폰 뱅크런에 광속몰락" - 연합뉴스TV
-요약: 40년간 성장한 실리콘밸리은행(SVB)이 스마트폰 뱅크런으로 인해 36시간만에 파산하게 되었다. 스타트업 창업자들이 스마트폰으로 예금 인출 버튼을 누르면서 예금 인출이 급증하였고, 이로 인해 은행은 미국 국채를 팔면서 18억 달러의 손실을 봤다. 이는 미국 내 16번째 대형 은행의 순식간 몰락으로 이어졌다.
-
-제목: 강제동원 생존피해자 3명 “정부 '제3자 변제' 허용 안해” 공식 입장 - 한겨레
-요약: 한국 정부가 제시한 강제동원 해법안 중 제3자 변제안에 대해 대법원에서 확정 판결을 받은 생존 원고 3명의 대리인단이 반대 의사를 밝혀 일제강제동원피해자지원재단에 전달했다. 대리인단은 정부안 거부 의사를 담은 내용증명을 전달하며, 피해자 의사표시를 분명히 해 추후 법률 분쟁에 앞서 증거를 확보하는 차원에서 민법상 정부가 피해 당사자 의사 없이 채권을 제3자 변제할 수 없다는 점을 강조했다.
-
-제목: 암 부르는 세균‧바이러스 3종류, 예방법은? - 헬스인뉴스
-요약: 2021년 우리나라 주요 사망원인 1위는 암이며, 암 예방을 위해 국가 차원에서 노력하고 있다. 원인균이 밝혀진 위암, 간암, 자궁경부암은 백신 접종이나 제균 치료를 통해 예방할 수 있다. 위암은 헬리코박터 파일로리균, 간암은 B형, C형 바이러스, 자궁경부암은 인유두종 바이러스(HPV)에 의해 발생한다. 백신 접종으로 미리 항체를 형성하면 암 진행을 막을 수 있다.
-
-제목: 세계쇼트트랙 선수권대회 2관왕 박지원에 문체부 장관 축전 - 머니투데이
-요약: 박지원 선수가 2023 ISU 세계 쇼트트랙 선수권 대회에서 1000m와 1500m 2개 종목 금메달을 따내 월드컵 종합 랭킹 1위에 올랐다. 이번 대회에서는 세계선수권 대회 금메달을 처음 따냈다. 최민정 선수도 1000m와 1500m 은메달을 차지했으며, 계주에서는 여자 선수들이 은메달, 남자 선수들이 동메달을 획득했다. 박보균 문화체육관광부 장관은 박지원 선수에게 축전을 보내며 한국 쇼트트랙의 위상을 과시하는 멋진 무대로 만들어줬다고 말했다.
-
-제목: 경찰 "역술인 천공 의혹, CCTV 확인 작업 등 다각적 수사 중" - MBC뉴스
-요약: 경찰이 역술인 천공의 대통령 관저 이전 관여 의혹과 관련해 서울 한남동 육군참모총장 공관 CCTV를 확인하고 있다. 천공은 아직 출석하지 않았지만, 중요한 참고인으로 경찰에 출석해 진술할 필요가 있다는 것이 밝혀졌다.
-
-제목: 골드만 "연준, SVB 사태에 3월 금리 동결 전망" - 연합인포맥스
-요약: 골드만삭스는 실리콘밸리은행 파산 사태로 인해 연방준비제도(Fed)가 3월에 금리를 동결할 것으로 전망치를 수정했다. 이는 기존 25bp 인상에서 동결로 전망치를 수정한 것이다. 골드만삭스는 연준이 3월 회의에서는 금리를 동결하겠으나 오는 5월과 6월, 7월에는 금리를 각각 25bp씩 올릴 것으로 전망하고 있다.
-
-제목: [영상M] 컨테이너서 '짝퉁' 명품 우르르‥1백일 만에 2천5백억 원 규모 적발 - MBC뉴스
-요약: 인천세관에서는 지난해 11월부터 100일간 유명 브랜드 위조상품에 대한 단속을 진행하며, 2,510억원 규모의 불법 밀수 행위가 적발되었다. 이 가운데, 유럽에서 수억원 대 슈퍼카를 수입하며 서류를 위조해 관세 64억원을 빼돌린 수입업자도 있었다. 인천세관은 올해 경제활동 재개로 인해 급증할 것으로 예상되는 무역범죄에 적극 대응하겠다며, 원산지표시 위반행위, 산업기술 유출, 불법 식·의약품 보건범죄 단속에 총력을 다할 예정이다.
-
-제목: 매운 고추 먹었더니, 뇌 노화에 변화가? - 코메디닷컴
-요약: 고추는 항산화 작용으로 뇌세포 노화를 늦추고 인지 기능을 개선해 치매 예방에 도움을 주며, 위염 억제와 몸속 노폐물 제거에도 효과적이다. 또한 비타민 C와 다양한 영양소가 풍부하며, 연중 싸게 먹을 수 있는 방안이 필요하다는 목소리가 나온다.
-
-제목: [전문] ‘피크타임’ 학폭논란 김현재 하차 - 스포츠경향
-요약: '피크타임' 제작진이 학폭 의혹이 불거진 참가자 김현재의 하차를 결정했다. 양측의 주장이 엇갈리는 사안에 대해 피해자가 생기지 않도록 사실관계 파악에 신중을 기하고자 했으며, 단시간 안에 명확하게 종결될 수 없다는 판단하에 김현재의 프로그램 하차를 결정했다고 밝혔다.
-
-제목: 서울시교육청, 학원비 과다 징수 등 특별점검 - YTN
-요약: 서울시교육청은 올해 말까지 유·초·중·고교생 학원 등에 대한 특별 점검을 실시하여 불법 사교육에 대응할 예정입니다. 이에 따라 교습비 과다 징수나 미게시, 미반환 등 위법사항을 집중 점검하고, 유아 대상 학원이 부당광고를 하는지, 정보계열 학원이 선행학습을 유발하는 광고를 하는지 등도 차례로 점검할 예정입니다. 또한, 방학 중 불법캠프 운영이나 무등록 교육시설 운영, 보험 미가입 등 불법 행위들을 전반적으로 점검할 예정입니다.
-
-제목: 유아인, '마약투약 혐의'로 이르면 다음주 비공개 소환 - 국제뉴스
-요약: 배우 유아인이 마약류 4종을 투여한 혐의로 경찰에 소환될 전망이다. 유아인의 주거지에서 확보한 압수물 등에 대한 분석이 이번 주 안에 마무리될 예정이며, 분석을 마치는 대로 출석을 요구할 예정이다. 유아인은 프로포폴을 100차례 이상 투약한 혐의를 받는다. 경찰은 유아인의 집을 압수수색했다.
-
-제목: 남성형 탈모증의 새로운 치료 옵션, 스프레이형 Finasteride - 메디칼업저버
+제목: 네 안의 잠자는 ‘수학 DNA’를 깨워라 : 교육 : 사회 : 뉴스 - 한겨레
 요약: GPT3 Return Error: 'choices'
 
-제목: '이재명 거취' 논란에...고민정 "어느 것이 옳은지 판단 못해" - YTN
-요약: 고민정 의원은 이재명 대표의 거취가 옳은지 판단할 수 없다고 밝혔다. 그러나 현재는 대표이기 때문에 당을 결속해야 한다는 의견을 제시했다. 김현정 대변인은 이재명 대표를 중심으로 당이 결속해야 한다는 방향성에 동감하며, 당직 쇄신에 대한 요구는 일부 의원들의 개인적인 의견으로 언론을 통해 나오고 있다고 전했다. 김병민 국민의힘 최고위원은 사무총장은 공천관리위원 면면의 역할이 중요하며, 한 명의 모든 힘이 전체를 좌지우지한다고 보기는 어렵다고 말했다.
+제목: 고용량 + DDR5 8000MHz 도래 '지스킬 48GB 메모리 키트' 선보여 - 맨즈랩
+요약: 지스킬이 DDR5 XMP 메모리를 출시했다. 이 모델은 48GB 용량으로, 32GB 모델보다 50% 더 많은 용량을 가지고 있다. 공식 스펙은 DDR5-8,000MHz CL38-48-48-127 타이밍을 가지며, 공식 제품 출시는 4월 중 예정이다.
 
-제목: 한국타이어 대전공장 화재로 전소…초진 완료 - 연합뉴스TV
-요약: 한국타이어 대전공장에서 화재가 발생하여 대부분이 잿더미가 되었습니다. 불길은 공장 전체로 번져 8만 6천여㎡의 공장이 전소된 상황입니다. 작업자 10명과 소방대원 1명 등 11명이 연기를 마셔 병원으로 옮겨졌습니다. 인근 아파트 주민들도 대피하였으며, 학교 4곳에 등교 중지 결정이 내려졌습니다. 현재까지 진화작업은 이어지고 있습니다.
+제목: “'넌 머리가 좋아' 대신 '노력을 많이 했구나' 해보세요” - 한겨레
+요약: 부모의 말 한마디가 자녀의 공부의욕을 끌어올릴 수도 있고, 꺾을 수도 있다. 자녀의 공부의욕을 높이기 위해서는 자신감과 자존감을 높이는 말과 행동으로 공부를 왜 해야 하는지 깨닫게 해야 한다. 칭찬은 공부의욕을 끌어올리는 지름길이지만, 과도한 칭찬은 독이 될 수 있다. 부모의 언행일치는 동기 부여에 중요한 요소다.
 
-제목: 예금 전액보장 소식에 비트코인 9% 상승 - Coindesk Korea
-요약: 미국 정부가 실리콘밸리은행의 고객 예금을 전액 보전하기로 했다는 소식이 전해져 비트코인 가격이 9% 가까이 상승했습니다. 이에 따라 이더리움, 카르다노, 폴리곤, 솔라나 등 기타 주요 암호화폐도 상승했습니다.
+제목: '더 글로벌리스트', 애플 '시리' 개발의 주역이 본 챗GPT 열풍 - 이데일리
+요약: AI 전문가 김윤 박사와 아리랑TV의 ‘더 글로벌리스트’가 만나 챗GPT 열풍에 대해 이야기했다. 챗GPT는 인간이 자유롭게 묻는 질문에 AI가 답할 수 있게 된 첫 번째 예로 등장했다. 그러나 현재 버전의 인공지능은 아직 이해하는 단계가 아니기 때문에 왜곡된 답변을 하거나 편향된 의견을 보일 수 있다는 우려가 있다. 김윤 박사는 AI가 결국 사회에 도움이 될 것이라고 주장하며, 인공지능 봇과의 상호작용을 통해 소외된 독거노인이나 사람 사이의 대화가 부족한 일부 10대들의 경우도 도움을 받을 수 있을 것이라고 전망했다.
 
+제목: 총선 공천 라인 장악한 친윤···안철수 “전당대회, 민심과는 동떨어졌을 가능성” - 경향신문
+요약: 국민의힘 대표가 주요 당직 인선을 단행하여 친윤 일색의 여당 장악이 현실화되었다는 평가가 나왔다. 총선 공천과 관련한 실권 있는 자리는 친윤계가 차지하였으며, 이에 대해 당 내에서는 다양한 목소리가 사라질 우려가 제기되고 있다. 김 대표는 이날 안철수 의원과 만나 화합을 다짐하였으나, 안 의원은 민심과는 동떨어진 전당대회를 우려하며 김 대표에게 뼈 있는 말을 남겼다. 김 대표는 당·정 일체를 위한 행보도 가속화하고 있으며, 이날 국회에서는 윤석열 정부의 노동 개혁에 힘을 실었다.
+
+제목: 전립선암, 수술보단 장기적 관찰 관리로 충분 - 코메디닷컴
+요약: 전립선암 진단을 받은 남성 중 85%는 전립선 제거수술이나 방사선치료를 받을 필요가 없다는 20년에 걸친 장기 추적 연구결과가 나왔다. 암세포가 공격적으로 퍼지는 15% 정도를 제외하면 대부분 장기적 추적 관찰로 충분하다는 것. 이번 연구 결과는 고위험군으로 판정된 전립선암을 앓고 있는 남성에게는 적용되지 않는다. 전체 전립선 암 진단의 약 15%를 차지하는 이러한 공격적인 암은 여전히 즉각적인 치료가 필요하다.
+
+제목: [1번지이슈] 美 실리콘밸리은행 파산 후폭풍…글로벌 금융시장 여파는? - 연합뉴스TV
+요약: 미국의 스타트업 자금줄인 '실리콘밸리 은행'이 파산하면서 글로벌 금융시장이 주목하고 있다. 이번 사태는 연준의 기준금리 인상으로 촉발됐다는 평가가 나오면서 한국은행의 다음 기준금리 인상에도 영향을 미칠 가능성이 있다. 그러나 한국은행은 이번 사태가 국내 금융권의 시스템 리스크로 확산할 가능성은 크지 않다고 평가하고 있다.
+
+제목: 野 “굴욕적 해법 규탄” 연일 ‘대일 외교’ 공세...與 “한일정상회담에 영향” - 서울신문
+요약: 13일 국회 외교통일위원회에서는 일제 강제동원 피해자 양금덕 할머니의 입장을 들었다. 이에 더불어민주당은 대책위원회를 발족시켜 정부의 강제동원 해법을 고리로 대여 공세 수위를 끌어올리는 반면, 국민의힘은 회의를 전면 보이콧했다. 외통위는 이날 민주당 소속 위원들과 무소속 김홍걸 의원만 참여한 ‘반쪽’ 전체회의에서 ‘제3자 변제’를 핵심으로 하는 일제 강제동원 피해 해법을 규탄했다.
+
+제목: 현실판 일타스캔들? 29층 유리창 깨진 아파트 단지에서 쇠구슬 발견 - 한겨레
+요약: 인천 송도국제도시의 고층 아파트 유리창이 굉음과 함께 파손된 사건을 수사 중인 경찰이 범행에 사용된 것으로 추정되는 쇠구슬을 발견했다. 경찰은 새총 등을 이용해 쇠구슬을 발사했을 가능성이 있다고 보고 수사 중이다.
+
+제목: HPV, '만12세~17세 여성청소년·만18세~26세 저소득층 여성' 무료접종 - 거제저널 모바일 사이트
+요약: 거제시보건소는 만12세~17세 여성청소년과 만18세~26세 저소득층 여성을 대상으로 HPV 무료 예방접종을 실시한다. 자궁경부암은 HPV 감염이 주원인으로, 예방접종 시 90% 이상의 높은 예방 효과가 있다. HPV 예방접종은 성경험 이전에 접종을 권고하며, 만 12세가 지났어도 성경험이 없는 경우라면 조기에 접종을 권장한다. HPV 국가예방접종 지원 대상자는 가까운 지정의료기관이나 보건소에서 백신을 맞을 수 있다.
+
+제목: 기후소송 3년째, 청소년들 “헌재 빠른 판결을”…법조인 215명 지지 선언 - 한겨레
+요약: 청소년기후행동이 국내 첫 기후 헌법소원 제기 3주년을 맞아 헌법재판소에 빠른 판결을 촉구했다. 이들은 기후위기 대응을 위한 판결이 필요하다며, 국내외 법조인 200여명도 이들을 지지한다는 뜻을 밝혔다. 청소년기후행동 소속 청구인 19명은 2020년 3월 헌재에 정부와 국회를 대상으로 국내 첫 기후위기 헌법소원을 청구한 이후 현재까지 헌재의 답변을 받지 못하고 있다. 이에 변호인단은 헌재의 역할이 중요하다며, 헌재의 조속한 판결이 시급하다고 강조했다.
+
+제목: 전 비서실장 사망, 이재명 '성남FC·쌍방울' 재판에 어떤 영향? - 한겨레
+요약: 전아무개씨가 스스로 목숨을 끊은 것으로 알려졌다. 이 대표와 관련한 검찰 수사와 재판에도 영향을 미칠 가능성이 있으나, 전씨가 관여한 것으로 보이는 성남에프시 후원금 의혹 사건은 수사가 마무리 단계에 접어들어 직접적인 영향은 없을 것으로 예상된다. 전씨는 쌍방울그룹 대북송금 의혹 사건에서도 이름이 등장한 바 있다. 이원석 검찰총장은 전씨의 사망과 관련해 고인을 애도하고 세심한 주의를 당부했다.
+
+제목: “우크라이나에 영광을” 외친 뒤 총살된 포로, '우크라이나의 영웅' 칭호 - 경향신문
+요약: 우크라이나가 온라인에서 확산된 전쟁포로 처형 영상 속 자국 군인의 신원을 밝혔다. 이 군인은 우크라이나 북동부 체르니히우 지역의 국토방위여단 제163대대 소속 저격수로 확인됐다. 병사는 비무장 상태에서 러시아군에 붙잡혀 총격당해 숨졌다. 우크라이나 대통령은 이 병사에게 ‘우크라이나의 영웅’ 칭호를 수여할 예정이다.
+
+제목: WBC 한국 대표팀 8강 진출 탈락 확정…3연속 1라운드 탈락 수모 - KBS뉴스
+요약: 한국 야구 대표팀이 월드베이스볼클래식(WBC)에서 8강 탈락이 확정됐다. 호주가 체코를 이기면서 8강 진출이 불가능해졌다. 이번 대회에서 4강 진출을 목표로 삼았던 한국 야구는 3회 연속 1라운드에서 탈락하는 쓴맛을 보았다. 특히 한 수 아래 전력으로 봤던 호주와의 첫 경기에서 홈런 3방을 맞고 패배한 것이 가장 아쉬웠다.
+
+제목: 정기석 “대중교통 마스크 착용 의무 곧 권고로 전환” - 한겨레
+요약: 한국 정부는 조만간 대중교통에서의 마스크 착용 의무를 권고로 바꿀 예정이라고 밝혔습니다. 이는 코로나19 대응 조치의 일환으로, 지난 1월부터 실내 마스크 착용 의무를 권고로 전환한 이후 대중교통과 의료기관, 약국, 감염취약시설 등에서는 의무로 유지되었습니다. 또한, 정부는 최근 먹는 코로나19 치료제 처방률이 낮아지는 문제에 대해 의료진에게 인센티브를 부여하는 방안을 검토하고 있습니다.
+
+제목: “사우디-이란 관계 정상화, 이스라엘 네타냐후 총리에 타격” - 경향신문
+요약: 사우디아라비아와 이란이 7년 만에 외교 관계를 정상화하면서, 이란 고립 정책을 추진해온 이스라엘 총리 네타냐후가 타격을 입었다. 이스라엘은 이란을 주요 적으로 간주하고, 이란과 사우디 간 합의는 이스라엘에게 외교적 악재가 될 수 있다. 이번 합의는 아랍 국가들이 이란에 대한 공격을 환영하지 않고, 이란과의 충돌을 꺼린다는 신호가 될 수 있다.
+
+제목: 암 부르는 세균‧바이러스 3종류, 예방법은? - 헬스인뉴스
+요약: 2021년 우리나라 주요 사망원인 1위는 암이며, 암 예방을 위해 국가 차원에서 노력하고 있다. 원인균이 밝혀진 암 중 위암은 헬리코박터 파일로리균, 간암은 B형, C형 바이러스, 자궁경부암은 인유두종 바이러스(HPV)에 의해 발생한다. 이러한 암을 예방하기 위해 백신 접종이 권장되며, 감염 여부를 확인하고 제균 치료를 받는 것도 중요하다.
+
+제목: 세계쇼트트랙 선수권대회 2관왕 박지원에 문체부 장관 축전 - 머니투데이
+요약: 박지원 선수가 2023 ISU 세계 쇼트트랙 선수권대회에서 1000m와 1500m 2개 종목 금메달을 따내 월드컵 종합 랭킹 1위에 올랐다. 이번 대회에서는 세계선수권 대회 금메달을 처음 따냈다. 최민정 선수도 1000m와 1500m 은메달을 차지했으며, 계주에서는 여자 선수들이 은메달, 남자 선수들이 동메달을 획득했다. 박보균 문화체육관광부 장관은 박지원 선수에게 축전을 보내며 한국 쇼트트랙의 위상을 과시하는 멋진 무대로 만들어줬다고 말했다.
+
+제목: 경찰 "역술인 천공 의혹, CCTV 확인 작업 등 다각적 수사 중" - MBC뉴스
+요약: 경찰이 역술인 천공의 대통령 관저 이전 관여 의혹과 관련해 서울 한남동 육군참모총장 공관 CCTV를 확인하고 있다. 천공은 아직 소환에 응하지 않았으며, 영상에 등장하지 않아도 중요한 참고인으로 경찰 출석이 필요하다고 밝혔다.
+
+
+제목: HSBC pays £1 to rescue UK arm of Silicon Valley Bank after all-night talks - CNBC
+요약: British Finance Minister Jeremy Hunt on Sunday said that the government and Bank of England sought to "avoid or minimize" damage from the U.K. branch of SVB.
+
+제목: Xi Jinping vows to make China's military a 'great wall of steel' in first speech of new presidential term - CNN
+요약: China's leader Xi Jinping on Monday vowed to bolster national security and build the military into a "great wall of steel," in the first speech of his precedent-breaking third term as president.
+
+제목: Samsung wrapped in controversy over 'fake' Space Zoom moon shots - Android Authority
+요약: Samsung is being called out for misleading marketing regarding its 100x Space Zoom feature and the "fake" moon shots it produces.
+
+제목: 2023 Oscars Recap: 'Everything Everywhere All at Once' Wins Big & Most Memorable Moments | THR News - The Hollywood Reporter
+요약: 'Everything Everywhere All at Once' wins seven Oscars, including best picture and acting nods for Michelle Yeoh, Ke Huy Quan and Jamie Lee Curtis. Brendan Fr...
 
 제목: March Madness 2023 bracket: NCAA Tournament picks, predictions from top college basketball model - CBS Sports
 요약: SportsLine's model has nailed 18 first-round upsets by double-digit seeds and revealed its NCAA Tournament bracket 2023
@@ -71,29 +84,17 @@ Error parsing article Article `download()` failed with ('Connection aborted.', C
 제목: Ukraine, Russia locked in brutal battle in Bakhmut, casualties mount - Reuters.com
 요약: Ukrainian forces faced relentless Russian attacks on Bakhmut in its eastern Donetsk region on Monday, with both sides reporting mounting enemy casualties as they battled across a small river that bisects the ruined town and now marks the front line.
 
-제목: Dow Jones Futures Rise As Regulators Protect All SVB Deposits; Signature Bank Closed | Investor's Business Daily - Investor's Business Daily
-요약: Regulators closed Signature Bank and offered a backstop for other banks
+제목: Oscars: Jimmy Kimmel's BEST Monologue Jokes - Entertainment Tonight
+요약: Jimmy Kimmel addresses the slap heard around the world at the 95th Academy Awards. In his monologue, the comedian jokes plenty about Will Smith slapping Chri...
 
-제목: A$AP Rocky cheers on pregnant Rihanna from 2023 Oscars audience - Page Six
-요약: Cameras captured the “Fashion Killa” rapper pumping his fist in the air and flashing a giant smile to celebrate after the pop star performed “Lift Me Up.”
-
-제목: Japan's mask rules end — with some caveats - The Japan Times
-요약: The government started leaving the decision on masking largely up to individuals Monday. But that doesn’t mean that everyone can throw out their face coverings in all situations.
-
-제목: Another atmospheric river is coming for California, where neighborhoods are still flooded and hundreds of evacuated residents are in shelters - CNN
-요약: Still reeling from storms that inundated neighborhoods, forced rescues and damaged roads, storm-battered California is bracing for another atmospheric river that threatens even more flooding Monday.
+제목: FMIA Trade Notes: Jalen Ramsey goes MIA, Bears Send No. 1 Pick to Panthers for D.J. Moore and More - ProFootballTalk - NBC Sports
+요약: Jalen Ramsey to the Dolphins made too much sense, for both Miami and the Rams. It happened Sunday afternoon. We should have seen it coming for weeks.The trade—Ramsey to Miami for a mid-third-round pick, 77th overall, and an invisible tight end from the 2021 t…
 
 제목: Sudden unexpected infant deaths surged among Black babies in 2020 - CNN
 요약: Each year, thousands of babies die suddenly and unexpectedly, and more than 3,300 young lives were lost in 2020. Rates remained stubbornly high in the first year of the Covid-19 pandemic, even as overall infant mortality dropped to a record low.
 
-제목: Powerful nor'easter to bring widespread plowable snow, potential power outages Tuesday - CBS Boston
-요약: Batten down the hatches, our first real storm of the winter is on the way.
-
-제목: Crypto Market Rallies on FDIC Banking Intervention, USDC Regains Dollar Peg - Decrypt
-요약: While it may be ironic, crypto prices were buoyed by news of government intervention in a banking crisis.
-
-제목: Michelle Yeoh wins best actress Oscar for Everything Everywhere All at Once - The Guardian
-요약: Yeoh becomes the first south-east Asian performer to win the award, adding to her Golden Globe and Sag awards for the role
+제목: Here's What the Fed's US Bank Rescue Means For Markets - Bloomberg
+요약: The failure of Silicon Valley Bank and the government rescue of its depositors are ripping through market bets on everything from the economy to the US interest-rate outlook.
 
 제목: NCAA tournament bracket tips: Iowa, UConn are non-No. 1 seeds that could make run, plus trendy upset picks - Yahoo Sports
 요약: The No. 1 seeds in the NCAA women’s basketball tournament have the best roads and chances at a Final Four appearance. But there are teams below them that...
@@ -101,22 +102,22 @@ Error parsing article Article `download()` failed with ('Connection aborted.', C
 제목: Most men with prostate cancer can avoid or delay harsh treatments, long-term study confirms - CNN
 요약: Most men who are diagnosed with prostate cancer can delay or avoid harsh treatments without harming their chances of survival, according to new results from a long-running study in the United Kingdom.
 
-제목: Biden will announce sweeping protections preventing new Arctic drilling ahead of Willow decision - CNN
-요약: President Joe Biden on Monday is expected to announce sweeping new protections for federal lands and waters in Alaska, according to an administration official, as the administration is poised to soon approve a major oil drilling project in the state.
+제목: The best-dressed celebs at the 2023 Oscars: Michelle Yeoh, Rihanna, more - Page Six
+요약: The Academy Awards mark the grand finale of awards season, so it’s no surprise celebrities (and their stylists) went all out for Sunday’s carpet.
 
-제목: Ruth E. Carter becomes the first Black woman to win multiple Oscars - CNN
-요약: "Black Panther: Wakanda Forever" costume designer Ruth E. Carter won her second Oscar on Sunday. She last won in 2019, when she became the first Black woman to win an Oscar for costume design.
+제목: NY woman convicted in murder of 8-year-old stepson she forced to sleep in garage in freezing temps: 'evil' - Fox News
+요약: A Center Moriches, New York woman was found guilty of the second-degree murder of her 8-year-old stepson, who was forced to sleep in the garage in freezing temperatures.
 
-제목: Child shot and killed by 3-year-old after gaining access to gun inside northwest Harris County apartment complex, HCSO says - KTRK-TV
-요약: Five adults were said to be in the apartment when the 3-year-old got ahold of a loaded semi-automatic pistol and shot the 4-year-old, deputies said.
+제목: The Watches Of The 95th Oscars - HODINKEE
+요약: Every (okay, not every) watch at the Oscars, all at once.
 
-제목: "Everything Everywhere All at Once" star Ke Huy Quan delivers emotional acceptance speech for best supporting actor Oscar win - CBS News
-요약: The actor excitedly thanked his mother and told viewers not to give up on their dreams while accepting the award for his role in the hit sci-fi film.
+제목: 'Navalny' wins Oscar for best documentary feature - CNN
+요약: "Navalny," a film that explores the plot to kill Russian anti-corruption campaigner and former presidential candidate, Alexey Navalny, has won the Oscar for best documentary feature at Sunday's Academy Awards.
 
-제목: Midwest Region breakdown: Houston is No. 1; Texas-size surprises loom - USA TODAY
-요약: The NCAA Tournament Midwest Region bracket has some exciting matchups, including a potential second-round game between Texas and Texas A&M, with the winner advancing to the Final Four being held in Houston. The first-round matchup between Texas A&M and Penn State is also expected to be a great game,
+제목: Biden indefinitely blocks millions of acres of land, water from future oil drilling - Fox News
+요약: The Department of Interior announced aggressive actions blocking fossil fuel production in and off the coast of Alaska ahead of an expected announcement green-lighting other drilling.
 
-제목: Cyclone Freddy is officially Earth’s most energetic storm on record - The Washington Post
-요약: Freddy, which made landfall in Mozambique for a second time Saturday, is also the longest-lived tropical cyclone ever observed.
+제목: Dow futures surge higher as concerns about Silicon Valley Bank prompt emergency intervention by regulators - MarketWatch
+요약: U.S. equity markets traded higher Sunday afternoon, in the aftermath of the failure of Silicon Valley Bank on Friday, as regulators unfurled a batch of...
 
 
