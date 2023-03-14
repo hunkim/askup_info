@@ -14,7 +14,7 @@ def get_url_text(url):
         article.download()
         article.parse()
     except Exception as e:
-        print("Error parsing article", e)
+        #print("Error parsing article", e)
         return None
 
     return article.text
@@ -47,12 +47,12 @@ def get_news(country, category):
         return output
     elif response.status_code >= 400 and response.status_code < 500:
         # If rate limit is exceeded, sleep for 1 second and try again
-        print(f'Error {response.status_code}: {response.text}, retrying in 2 second...')
+        #print(f'Error {response.status_code}: {response.text}, retrying in 2 second...')
         time.sleep(2)
         return get_news(country, category)
     else:
         # If any other error occurs, print error message
-        print(f'Error {response.status_code}: Could not retrieve {category} news for {country}.')
+        #print(f'Error {response.status_code}: Could not retrieve {category} news for {country}.')
 
 
 if __name__ == "__main__":
