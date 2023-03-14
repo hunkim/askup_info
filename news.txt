@@ -1,120 +1,116 @@
-Error parsing article Article `download()` failed with 404 Client Error: Not Found for url: https://www.seoul.co.kr/news/newsView.php?id=20230314005001 on URL https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnNlb3VsLmNvLmtyL25ld3MvbmV3c1ZpZXcucGhwP2lkPTIwMjMwMzE0MDA1MDAx0gEsaHR0cHM6Ly9hbXAuc2VvdWwuY28ua3Ivc2VvdWwvMjAyMzAzMTQwMDUwMDE?oc=5
-'choices'
-제목: 대세는 '생산성 앱'...기업용 생성 AI 서비스 봇물 - AI타임스
-요약: 생산성 앱이 인공지능(AI)을 활용해 인기를 끌고 있으며, 많은 기업이 이를 개발하거나 도입하고 있다. 글쓰기 AI 분야 강자인 라이터는 우버에 공급하기로 계약했고, 고객관계관리(CRM) 전문업체인 세일즈포스와 허브스팟도 GPT 기반의 문서 생성 애플리케이션을 출시했다. 국내에서는 뤼튼이 '뤼튼 도큐먼트'를 출시했다. 구글도 AI 제품 20개를 공개할 예정이다.
+Error parsing article Article `download()` failed with ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) on URL https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vbS5jbmV0LmNvLmtyL3ZpZXcvP25vPTIwMjMwMzEzMjIxMDAx0gEA?oc=5
+Error parsing article Article `download()` failed with 403 Client Error: Forbidden for url: https://kr.investing.com/news/stock-market-news/article-890386 on URL https://news.google.com/rss/articles/CBMiPmh0dHBzOi8va3IuaW52ZXN0aW5nLmNvbS9uZXdzL3N0b2NrLW1hcmtldC1uZXdzL2FydGljbGUtODkwMzg20gEA?oc=5
+제목: [총게임 한 판 하러 갈까? 下] 세대별 '천하4분지계', 미래는? - 게임플
+요약: 국내 PC방에서 즐길 수 있는 슈팅 게임은 여러 종류가 있지만, '서든어택', '배틀그라운드', '발로란트', '오버워치2'가 현재 대세이다. 이전에는 '서든어택'이 국내 대표 슈팅 게임이었지만, 새로운 게임들이 등장하면서 경쟁이 치열해졌다. 현재는 저연령층을 대상으로 하는 '발로란트'가 대세이며, 이후에도 새로운 형태의 슈팅 게임이 등장할 가능성이 있다.
 
-제목: 미래지향적 한일 관계 강조한 尹 “부처별 사업 발굴” - 서울신문
+제목: [미국 정치 ABC] 연방헌법의 기본 원칙 1. 공화주의 - 한국어 방송 - VOA Korean
+요약: 미국 정치 ABC에서는 미국 연방헌법의 기본 원칙을 소개하고 있는데, 오늘은 첫 번째 시간으로 공화주의에 대해 다루고 있습니다. 미국 연방헌법은 세계에서 가장 오래된 성문헌법으로, 시대 변화에 대처할 수 있도록 유연하게 쓰여졌습니다. 이번 시간에서는 몇몇 사상, 이념, 그리고 원칙에 근거해 제정된 공화주의에 대해 알아보고 있습니다.
+
+제목: 尹대통령-김기현 당대표, 월 2회 정기회동 갖기로 - 동아일보
+요약: 윤석열 대통령과 김기현 국민의힘 당대표가 당정 간 원활한 협의를 위해 월 2회 가량 정기 회동을 갖기로 결정했다. 이에 따라 13일 국회 소통관에서 열린 만찬에서 당 지도부와 대통령실의 정기적 만남의 필요성에 대해 이야기하며, 새 지도부 출발에 대한 축하와 국민을 위한 당정 하나로 힘을 합쳐 일해 나가자는 뜻을 나눴다. 만찬은 전체적으로 화기애애한 분위기 속에서 진행되었으며, 메뉴는 정갈한 한식이었다.
+
+제목: [WBC 영상] '우물 안 개구리' 한국 야구…결국 침몰 - KBS뉴스
+요약: 한국 야구 대표팀이 2023 월드베이스볼클래식에서 4강 진출을 목표로 삼았지만, 3회 연속 1라운드 탈락을 하게 되었습니다. 한국은 중국을 이겨도 8강에 진출하지 못하게 되었으며, 이번 대회에서의 최종 성적은 초라한 것으로 마무리되었습니다.
+
+제목: "목사님 뜻 관철" 당선되자 마자 전광훈 찾아간 여당 수석 최고위원 - MBC뉴스
+요약: 새로 선출된 여당 최고위원들이 극우 성향의 전광훈 목사를 찾아가는 등 논란을 일으키고 있습니다. 김재원 수석 최고위원은 5.18 정신을 헌법에 넣겠다는 발언을 한 뒤 여당 내부에서 비판을 받았습니다. 또한 국민의힘 최고위원회에서는 핵무장 주장까지 등장했습니다. 이러한 발언들이 친윤석열계 일색이라는 비판 속에서 여당의 우경화 움직임을 더 뚜렷하게 보이게 하고 있습니다.
+
+제목: 큐소닉, '삼성 스마트 모니터 M7 S43BM701 화이트' 출시 이벤트 진행 - CNET Korea
+제목: SVB 사태에도 코스피는 상승...환율 22원 급락 - YTN
+요약: 미국 실리콘밸리뱅크 파산으로 인한 사태가 국내 금융시장에 큰 영향을 미치지는 않았으며, 오히려 미국의 긴축 정책에 영향을 미칠 것으로 예상됩니다. 원-달러 환율은 20원 이상 하락하여 1,300원대 초반으로 내려갔으며, 코스피와 코스닥 지수는 소폭 상승하였습니다. 정부와 한국은행은 국내 금융시장에 영향을 미친다면 빠른 대처를 취할 예정입니다.
+
+제목: '허위 뇌전증' 병역 회피 설계…브로커·면탈자 등 137명 기소 - 경향신문
+요약: 병역 면탈을 위해 거짓 증상으로 진단서를 제출한 병역브로커와 면탈자 137명이 검찰과 병무청의 3개월 합동수사를 통해 재판에 넘겨졌다. 이들 가운데는 연예인, 운동선수, 의사 등 사회 각계 인사들도 포함되어 있으며, 면탈 가담 변호사 등도 기소됐다. 병역비리 브로커 구씨와 김씨는 맞춤형 시나리오를 제공하며 130명의 면탈자를 유인했으며, 뇌전증 증상을 거짓으로 꾸며 발급받은 허위 진단서를 제출하는 방법을 썼다. 면탈자 가운데는 최초 현역 판정을 받았지만, 뇌전증 환자를 행세해 군복무가 면제되는 전시근로역 판정을 받은 사례도 있었다.
+
+제목: [국회의원 선거제도, 이번엔 바꾸자!] '승자독식' 정치의 위기…'한 표의 가치' 동등해야 - 경향신문
+요약: 한국의 선거제도 개편이 필요한 이유는 더불어민주당과 국민의힘, 거대 양당이 정당 지지율보다 훨씬 높은 의석 비율을 독과점하는 문제를 개선하기 위해서이다. 이를 위해 비례성 확대와 양당제 폐해 극복이 필요하며, 이를 위한 여러 개혁과제가 제기되고 있다. 국회 정치개혁특별위원회는 2개 최종안을 추릴 예정이며, 김진표 국회의장은 이달 말 국회의원 전원이 참여하는 전원위원회를 열어 4월까지 선거제도 개편안을 결정할 예정이다.
+
 제목: '포로 처형' 영상 사망자 신원 공개...젤렌스키, '우크라이나의 영웅' 칭호 수여 - 한국어 방송 - VOA Korean
-요약: 우크라이나 당국이 러시아의 '포로 처형' 영상 속 자국 병사의 신원을 확인하고, 대통령이 이 병사에게 '우크라이나의 영웅' 칭호를 수여했다. 해당 병사는 도네츠크 주에서 임무 수행 중 러시아군에 생포됐으며, 전쟁 범죄 혐의로 수사 중이다. 해당 영상은 러시아군으로 추정되는 병사가 욕설과 함께 우크라이나 병사를 사살하는 장면을 담고 있다.
+요약: 우크라이나 당국이 러시아군에 포로로 잡힌 우크라이나 병사가 총살되는 영상 속 병사의 신원을 확인했다고 발표했습니다. 이 병사는 '올렉산드르 이호로비치 마치예우스키'로, 우크라이나 대통령이 '우크라이나의 영웅' 칭호를 수여할 예정입니다. 해당 영상은 러시아군으로 추정되는 병사가 욕설과 함께 우크라이나 병사를 총격하면서 담배를 피우던 병사가 숨지는 장면을 담고 있습니다.
 
 제목: 뛰면 황홀한 '러너스하이'…건강한 장이 만든다? - 코메디닷컴
-요약: 미생물들로 이루어진 마이크로바이옴 구성이 운동 의지에도 영향을 미칠 수 있다는 연구 결과가 나왔다. 쥐를 대상으로 한 연구에서 마이크로바이옴 구성은 부분적으로 뇌에 신호를 보내 운동 욕구에 영향을 미치는 것으로 나타났다. 이에 따라 장 건강이 운동 습관에도 영향을 줄 수 있다는 것이다. 이번 연구는 쥐를 대상으로 한 것이지만, 인간을 대상으로 하더라도 같은 결과가 나올 가능성이 크다고 내다봤다.
+요약: 새로운 연구에 따르면 장 건강이 운동 습관에도 영향을 줄 수 있다는 것이 밝혀졌다. 마이크로바이옴 구성은 운동 욕구에 영향을 미치는 것으로 나타났으며, 운동을 꾸준히 하도록 독려할 수도 있고, 유도할 수도 있다. 이에 따라 운동을 열심히 하는 운동 선수의 마이크로바이옴에는 대산 건강과 관련된 좋은 미생물균이 더 많이 발견되기도 한다. 이번 연구는 쥐를 대상으로 이뤄졌지만, 인간을 대상으로 하더라도 같은 결과가 나올 가능성이 크다.
 
+제목: DKZ 경윤 "JMS 모태신앙→탈교..멤버 포교한 적 없어" 눈물[스타이슈] - MSN
 제목: 검은 옷 입고 "국정원입니다"‥잠시 뒤 7명이 '우당탕탕' - MBC뉴스
-요약: 12일 경기도 의회에 난입한 국정원 직원으로 자처한 남성이 건조물 침입 및 공무원 사칭 혐의로 경찰에 체포됐다. 경찰은 남성이 폭행 혐의로 지명통보가 내려진 인물이라며, 의회 난입 이유에 대해 조사 중이다. 경찰과의 몸싸움이 이어지는 등 저항을 했던 남성은 현장에서 수갑을 채웠다.
+요약: 12일 경기도 의회에 난입한 국정원 직원으로 자처한 남성이 건조물 침입 및 공무원 사칭 혐의로 경찰에 체포됐다. 경찰은 남성이 폭행 혐의로 지명통보가 내려진 인물이라고 밝혔다.
 
-제목: 생활고 호소 김새론, 카페 알바 사진 거짓 의혹 - YTN
-요약: 배우 김새론씨가 만취운전 사고 후 법정에서 경제적 어려움을 호소한 뒤 아르바이트를 하는 듯한 사진을 공개하자 거짓 의혹에 휩싸였다. 해당 업체는 김새론씨가 매장에서 일한 적이 없다고 밝혔으며, 김씨가 생활고를 호소하기 위해 거짓 인증샷을 올린 것 아니냐는 의혹이 제기되고 있다. 검찰은 김새론씨에게 벌금 2천만 원을 구형했다.
-
-제목: 사우디-이란 '외교 정상화' 훈풍에…예멘 '9년 대전' 종식 기대 - 한겨레
-요약: 사우디아라비아와 이란이 7년 만에 외교 관계를 정상화함에 따라 예멘 내전이 종식될 가능성이 커졌다. 예멘 정부군과 후티 반군이 유엔 중재하에 포로 교환 협상을 벌이고 있다. 이번 협상은 사우디와 이란이 7년간 적대적 관계를 종식하는 합의를 발표한 지 하루 만에 이뤄졌다. 전문가들은 이번 합의가 중동 지역의 긴장을 완화시킬 수 있다고 기대하고 있다.
-
-제목: SVB 파산에도 국내 금융시장 큰 충격 없어…환율·금리 급락 - 한겨레
-요약: 미국 실리콘밸리은행 파산으로 글로벌 금융시장이 불안해졌지만, 국내 금융시장은 큰 충격 없이 덤덤한 흐름을 보였다. 미국 정부가 실리콘밸리은행에 고객이 맡긴 돈을 전액 보증하고 유동성이 부족한 금융기관에 자금을 대출하기로 했다는 소식이 전해지면서 국내 시장은 안정적인 분위기를 보였다. 한국 정부도 신속한 대응에 나섰으며, 국내 은행·보험 등 기관투자자가 실리콘밸리은행에 직접 투자한 사례는 없는 것으로 보인다.
-
+제목: 애플 '애플페이' 출시 21일 확정…초대형 마케팅 예고 부터 Hankyung - Investing.com
+제목: [텔레그래프]SM 경영권 분쟁 종전...카카오-하이브-이수만, 손익계산서는? / 머니투데이방송 (뉴스) - MTN 머니투데이방송
 제목: 국힘 보이콧 속 외통위 개최…양금덕 할머니 “참말로 나라가 아니고 웬수들이요” - 한겨레
-요약: 일제 강점기 강제동원 생존 피해자인 양금덕 할머니가 국회 외교통일위원회 전체회의에 출석해 ‘제3자 변제안’을 제안한 윤석열 정부를 비난하고, 민주당은 강제동원 해법 철회 결의안을 채택했다. 이에 국민의힘은 한-일 정상회담을 흠집내기 위한 의도로 회의에 불참했다.
+요약: 일제 강점기 강제동원 생존 피해자인 양금덕 할머니가 국회 외교통일위원회 전체회의에 출석해 ‘제3자 변제안’을 제안한 윤석열 정부를 비난하고, 민주당은 ‘강제동원 해법 철회 결의안’을 채택했다. 이에 국민의힘은 한-일 정상회담을 흠집내기 위한 의도로 회의에 불참했다.
 
 제목: 인간 건강 위해 '동물 건강' 연구하는 이유 - 코메디닷컴
-요약: 동물 건강을 연구하는 이유는 인간 건강에도 적용할 수 있는 비밀스러운 특징을 갖고 있기 때문이다. 동물의 생활 방식, 유전적 특성 등을 연구하면 인간의 질병을 예방하거나 발병 시점을 지연시킬 수 있다. 예를 들어, 코끼리는 인간보다 체중이 100배 더 나가지만 암에 걸리는 비율이 훨씬 적은데, 이는 코끼리가 암세포를 퇴치하는 유전자를 더 많이 갖고 있기 때문이다. 또한, 새의 인지능력을 연구하여 치매 예방법을 찾는 등 다양한 방면에서 동물 건강을 연구하는 것이 인간 건강을 개선하는 중요한 전략이다.
+요약: 동물 건강을 연구하는 이유는 인간 건강에도 적용할 수 있는 비밀스러운 특징을 갖고 있기 때문이다. 동물의 생활 방식, 유전적 특성 등을 연구하여 인간의 건강을 개선하는 전략으로 활용할 수 있다. 예를 들어, 코끼리는 인간보다 체중이 100배나 더 나가지만 암에 걸리는 비율이 낮은 이유는 암세포를 퇴치하는 유전자를 더 많이 갖고 있기 때문이다. 이러한 연구는 알츠하이머, 심장병, 암 등과 같은 인간 질환을 예방하거나 발병 시점을 늦추는 효과를 기대할 수 있다.
 
-제목: 네 안의 잠자는 ‘수학 DNA’를 깨워라 : 교육 : 사회 : 뉴스 - 한겨레
-요약: GPT3 Return Error: 'choices'
+제목: 야당, 외통위 단독 개최…`강제징용 해법 철회 촉구` 결의안 채택 | 서울특별시 미디어재단 TBS - TBS뉴스
+요약: 13일, 더불어민주당은 국회 외교통일위원회 전체회의를 열어 일제 강제징용 해법 철회 및 일본의 사과를 촉구하는 결의안을 채택했다. 결의안에서는 정부의 해법을 "한국이 가해자 일본에 머리를 조아린 항복 선언이자 역사상 최악의 외교 참사"라고 규정하며, 즉각적인 철회를 촉구했다. 민주당은 또한 과거 강제동원의 불법성과 인권유린에 대한 일본 정부와 전범 기업의 사과와 배상을 촉구했다.
 
-제목: “'넌 머리가 좋아' 대신 '노력을 많이 했구나' 해보세요” - 한겨레
-요약: 부모의 말 한마디가 자녀의 공부의욕을 끌어올릴 수도 있고, 꺾을 수도 있다. 자녀의 공부의욕을 높이기 위해서는 자신감과 자존감을 높이는 말과 행동으로 공부를 왜 해야 하는지 깨닫게 해야 한다. 칭찬은 공부의욕을 끌어올리는 지름길이지만, 과도한 칭찬은 독이 될 수 있다. 부모의 언행일치는 동기 부여에 중요한 요소다.
+제목: '더 글로리2' 임지연, 출연자 화제성 1위 등극…더글로리 출연진 7명 'Top10 진입' - 경북일보
+요약: '더 글로리2'의 주인공인 임지연이 TV-OTT 화제성 드라마 출연자 화제성 부문에서 1위를 차지했다. 굿데이터코퍼레이션이 발표한 조사 결과, '더 글로리2'는 TV-OTT 통합 화제성 드라마 부문에서도 1위를 차지했다. 이번 조사는 TV와 OTT에서 방영 중인 드라마와 시리즈 콘텐츠 25편에 출연한 출연자 300여 명을 대상으로 진행되었다.
 
-제목: ‘마약 투약 혐의’ 유아인, 이르면 내주 경찰 소환 - 동아일보
-요약: 배우 유아인이 마약류 4종을 투약한 혐의로 경찰에 조사받을 예정이다. 경찰은 유아인이 마약을 구매한 경로와 투약 경위 등을 조사할 계획이며, 현재는 비공개 조사 방침이다. 유아인의 소속사는 조사를 성실히 받을 예정이라 밝혔다.
-
-제목: 리창 신임 총리, 중국 경제의 신뢰 제고를 위해 노력 - BBC News 코리아
-요약: 중국의 신임 국무원 총리 리창은 중국 경제에 대한 신뢰 회복을 모색하고 있다. 그는 경제가 안정되고 다시 회복되고 있지만, 5% 성장 목표 달성이 쉽지 않을 것이라고 말했다. 최근 몇 년 동안 투자자의 신뢰도가 흔들렸지만, 리창은 민간 경제 환경이 개선되고 더 많은 기회가 만들어질 것이라고 밝혔다. 또한, 중국과 미국은 협력해야 하며, 고립과 압박은 누구에게도 유리하지 않다고 말했다.
-
-제목: '후쿠시마 오염수 방류 철회' 공동광고주 모집 중 - 한겨레
-요약: 한일정상회담 이전, 녹색연합이 후쿠시마 오염수 방류 철회를 요구하는 신문광고를 내기로 하고 공동광고주를 모집 중입니다. 이 광고는 15일 <한겨레>에 실리며, 한국 정부가 오염수 방류 철회를 요구할 수 있도록 시민들의 목소리를 담을 예정입니다. 참여 신청은 링크를 통해 가능합니다.
-
-제목: HPV, '만12세~17세 여성청소년·만18세~26세 저소득층 여성' 무료접종 - 거제저널 모바일 사이트
-요약: 거제시보건소에서는 만12세~17세 여성청소년과 만18세~26세 저소득층 여성을 대상으로 HPV 무료 예방접종을 실시한다. 자궁경부암은 HPV 감염이 주요 원인이며, 예방접종은 90% 이상의 높은 예방 효과가 있다. HPV 예방접종은 성경험 이전에 접종을 권고하며, 만 12세가 지났어도 성경험이 없는 경우라면 조기에 접종을 권장한다. HPV 국가예방접종 지원 대상자는 가까운 지정의료기관이나 보건소에서 백신을 맞을 수 있다.
-
-제목: 골드만삭스 "SVB 붕괴로 RBA 금리 인상 중단 가능성↑" - 연합인포맥스
-요약: 호주중앙은행(RBA)의 금리 인상이 미국의 실리콘밸리은행(SVB) 파산 여파로 중단될 가능성이 있다는 주장이 제기되었다. 그러나 호주의 금리가 여전히 미국보다 낮고 인플레이션도 높은 수준이며, 미국에서 호주 은행 시스템으로 위기가 전이될 가능성이 작다는 점을 고려하면 RBA는 긴축을 지속해야 한다는 압박을 받을 것이라고 전문가는 말했다. RBA는 4월 이사회에서 결정할 것으로 예상된다.
-
-제목: ‘13남매 장녀’ 남보라, 동생들이 사준 선물에 감동 “망가질 때까지 쓸 것” - 조선일보 - 조선일보
-제목: 러군 어머니들, 푸틴에 “우리 아들들 죽음으로 몰아넣지 말라” - 동아일보
-요약: 러시아군 병사 가족들이 블라디미르 푸틴 대통령에게 "제대로 된 훈련과 군수품 없이 전장에 보내 죽음으로 몰아넣지 말라"고 호소했다. 이들은 예비군 동원령으로 징집된 남편과 아들들이 전장으로 강제 동원되어 중무장한 적군 100명에 대항해 요새화된 지역을 습격하기 위해 한 번에 5명씩 도살장에 끌려가는 양처럼 투입된다는 주장을 했다. 이에 대한 직접적인 확인은 되지 않았으며, 러시아군은 예비군 동원령으로 약 30만 명을 징집한 것으로 알려졌다.
-
-제목: 애플페이 21일부터 결제 가능...'절대 방어' 삼성페이 연합전선 구축 - 머니투데이
-요약: 애플페이가 21일 국내에 상륙한다. 현대카드와의 협력으로 출시되며, 당장의 파급력은 크지 않을 것으로 예상되나, 장기적으로는 삼성페이를 위협할 만한 게임체인저가 될 수 있다는 관측이 나온다. 하지만 현재는 사용처와 결제 단말기가 한정적이며, 삼성페이의 MST 기술과의 경쟁에서는 아직 뒤쳐지고 있다. 삼성은 네이버페이, 카카오페이와 연합전선을 구축해 애플페이 대항에 나선다.
+제목: 전립선암, 수술보단 장기적 관찰 관리로 충분 - 코메디닷컴
+요약: 전립선암 진단을 받은 남성 중 85%는 전립선 제거수술이나 방사선치료를 받을 필요가 없다는 20년에 걸친 장기 추적 연구결과가 나왔다. 암세포가 공격적으로 퍼지는 15% 정도를 제외하면 대부분 장기적 추적 관찰로 충분하다는 것. 이번 연구 결과는 고위험군으로 판정된 전립선암을 앓고 있는 남성에게는 적용되지 않는다. 전체 전립선 암 진단의 약 15%를 차지하는 이러한 공격적인 암은 여전히 즉각적인 치료가 필요하다.
 
 
-제목: Another atmospheric river is coming for California, where neighborhoods are still flooded and hundreds of evacuated residents are in shelters - CNN
-요약: Still reeling from storms that inundated neighborhoods, forced rescues and damaged roads, storm-battered California is bracing for another atmospheric river that threatens even more flooding Monday.
+제목: UK prime minister calls China a ‘systemic challenge’ to world order ahead of Biden meeting - The Hill
+요약: British Prime Minister Rishi Sunak said Sunday that China threatens the country’s economic interests and poses a “systemic challenge” for global order. “China represents the biggest state threat to our economic interests, for sure. And it’s a systemic challen…
 
-제목: March Madness 2023 for Kentucky, Indiana: Game times, tickets, brackets, more - WLKY Louisville
-요약: The brackets are set for the 2023 NCAA tournament.
+제목: Samsung caught faking zoom photos of the Moon - The Verge
+요약: A Reddit post has revealed just how much post-processing the Galaxy S23’s camera applies when it detects it’s taking a photo of the Moon, inserting extra detail that isn’t present in reality.
 
-제목: Silicon Valley Bank: Money in failed bank is safe, US government says - BBC
-요약: Authorities take emergency action to shore up the banking system after two institutions collapse.
+제목: NCAA Tournament 2023 bracket: Computer simulation reveals surprising upsets, March Madness picks, sleepers - CBS Sports
+요약: When does the March Madness 2023 schedule start? The 2023 March Madness bracket begins Thursday with Round 1
 
-제목: First Republic Bank shares slump 60% in premarket trade - MarketWatch
-요약: First Republic Bank shares fell 60% after the weekend collapse of Signature Bank and Friday’s closure of SVB Financial, even as federal regulators stepped...
+제목: Brendan Fraser flooded with emotion as he wins best actor Oscar for 'The Whale' - CNN
+요약: Brendan Fraser tearfully accepted the Academy Award for best actor for his role in the film "The Whale" on Sunday.
+
+제목: Rihanna Changed Into a Bump-Baring Cropped Faux Fur Stole at the Oscars - InStyle
+요약: Her third and final look of the night.
+
+제목: New health monitoring features powered by AirPods coming soon, 'Bloomberg' says - 9to5Mac
+요약: Apple itself has acknowledged the health potential of AirPods, teasing that it’s an area in which it’s heavily investing. Now,...
+
+제목: C.J. Stroud rockets to top of the first-pick betting odds - ProFootballTalk - NBC Sports
+요약: The rising Panthers draft tide has lifted C.J. Stroud’s betting boat.With Carolina moving from No. 9 to No. 1 in the 2023 NFL draft, the Ohio State quarterback has jumped to the favorite to be the first player drafted.A week ago, Alabama quarterback Bryce You…
+
+제목: Oscars 2023: 10 things to know, from a heartwarming comeback story to an excruciating red carpet interview - The Washington Post
+요약: The Academy Awards were dominated by « Everything Everywhere All at Once, » plus the most memorable speeches and cringeworthy red carpet moment.
+
+제목: Does NFL free agency work? Ranking all 32 teams in value added the last 3 seasons - The Athletic
+요약: The Bengals have found great value in building a defense through free agency. Which other teams have done well on the open market?
+
+제목: First Mover Americas: Bitcoin Gains as FDIC Steps In for Silicon Valley Bank - CoinDesk
+요약: The latest price moves in crypto markets in context for March 13, 2023.
+
+제목: Tucker Carlson firestorm over Trump texts threatens to engulf Fox News - The Guardian
+요약: The network is facing a $1.6bn false-claims lawsuit – and its top star’s private texts about the ex-president are causing anguish
+
+제목: Standoff underway in Missouri after suspect shoots 2 officers, killing 1 - Fox News
+요약: Police have identified the man accused of shooting two police officers in Missouri overnight. One of the officers died at the hospital, according to MSHP.
 
 제목: HSBC buys SVB's UK business, ending 'nightmare' for British tech - CNN
 요약: HSBC has scooped up the UK arm of failed Silicon Valley Bank, securing the deposits of thousands of British tech firms that hold money at the lender.
 
-제목: Britain’s BBC agrees star soccer host Gary Lineker can return to air after impartiality dispute - CNBC
-요약: The BBC, Britain's public service broadcaster, agreed on a deal with star soccer presenter Gary Lineker on Monday.
+제목: Gary Lineker, former English soccer star, to return to BBC show after tweets critical of UK government - Fox News
+요약: Former English soccer star Gary Lineker will return to BBC's "Match of the Day" program after a row over a critical tweet of the U.K. government's migrant policy.
 
-제목: China's Xi wants bigger global role after Saudi-Iran deal - The Associated Press - en Español
-요약: BEJIING (AP) — President Xi Jinping called Monday for China to play a bigger role in managing global affairs after Beijing scored a diplomatic coup as the host of talks that produced an agreement by Saudi Arabia and Iran to reopen diplomatic relations .
+제목: Iran-Saudi Arabia deal casts China in unfamiliar global role - The Associated Press - en Español
+요약: BEIJING (AP) — An agreement between Iran and Saudi Arabia to reestablish diplomatic relations  has cast China in a leading role in Middle Eastern politics — a part previously reserved for longtime global heavyweights like the U.S.
 
-제목: Check out the Google Pixel 7a in these hands-on images - Android Police
-요약: Another Pixel leak originating from Vietnam
+제목: Opinion: A night of dreams, comebacks and casualties at the Oscars - CNN
+요약: Five CNN Opinion culture critics share their takeaways from the 95th Academy Awards.
 
-제목: Ukraine live briefing: Russia suffering heavy losses in Bakhmut, Zelensky says - The Washington Post
-요약: Russia’s military leadership could be letting the Wagner mercenary group bear the brunt of casualties in Bakhmut, analysts say.
+제목: Should You Buy AppleCare Plus or Get Phone Insurance? We Do the Math - CNET
+요약: We compare whether Apple's plans or your wireless carrier's insurance are the better value.
 
-제목: FMIA Trade Notes: Jalen Ramsey goes MIA, Bears Send No. 1 Pick to Panthers for D.J. Moore and More - ProFootballTalk - NBC Sports
-요약: Jalen Ramsey to the Dolphins made too much sense, for both Miami and the Rams. It happened Sunday afternoon. We should have seen it coming for weeks.The trade—Ramsey to Miami for a mid-third-round pick, 77th overall, and an invisible tight end from the 2021 t…
+제목: After SVB failure, regulators close crypto-friendly bank Signature Bank - TechCrunch
+요약: Signature Bank is the second casualty of the ongoing banking crisis in the U.S. The New York-based financial institution stopped operating abruptly on Sunday — customers will be made whole. Regulators said that Signature Bank also caused a systemic risk and c…
 
-제목: Samsung wrapped in controversy over 'fake' Space Zoom moon shots - Android Authority
-요약: Samsung is being called out for misleading marketing regarding its 100x Space Zoom feature and the "fake" moon shots it produces.
+제목: Iwao Hakamada: Japan retrial for world's longest-serving death row inmate - BBC
+요약: Iwao Hakamada, now 87, was on death row for nearly half a century after being convicted of murder.
 
-제목: 2023 Oscars Recap: 'Everything Everywhere All at Once' Wins Big & Most Memorable Moments | THR News - The Hollywood Reporter
-요약: 'Everything Everywhere All at Once' wins seven Oscars, including best picture and acting nods for Michelle Yeoh, Ke Huy Quan and Jamie Lee Curtis. Brendan Fr...
-
-제목: World Baseball Classic: Mexico crushes Team USA behind two Joey Meneses home runs in pool play - CBS Sports
-요약: Mexico controlled Team USA from start to finish in Sunday night's WBC bout
-
-제목: Oceans May Have Once Graced Venus Before It Became a Hell Planet - ScienceAlert
-요약: Venus may be one of the brightest and most beautiful objects in our night sky, but don't be fooled.
-
-제목: Oscars: Jimmy Kimmel's BEST Monologue Jokes - Entertainment Tonight
-요약: Jimmy Kimmel addresses the slap heard around the world at the 95th Academy Awards. In his monologue, the comedian jokes plenty about Will Smith slapping Chri...
-
-제목: Prostate cancer study shows some men can avoid, delay aggressive treatments - The Washington Post
-요약: In a group of men followed for a median of 15 years, mortality from prostate cancer was similar whether they received radiation, surgery or active monitoring.
-
-제목: Goldman Sachs no longer expects the Fed to hike rates in March, cites stress on banking system - CNBC
-요약: Goldman Sachs no longer sees a case for the Federal Reserve to deliver a rate hike at the FOMC's March meeting, economist Jan Hatzius said.
-
-제목: Oscars 2023: Michelle Yeoh makes history with best actress win at Academy Awards - CBS News
-요약: "For all the little girls and boys who look like me watching tonight, this is a beacon of hope and possibility," she said during her speech.
-
-제목: Sudden unexpected infant deaths surged among Black babies in 2020 - CNN
-요약: Each year, thousands of babies die suddenly and unexpectedly, and more than 3,300 young lives were lost in 2020. Rates remained stubbornly high in the first year of the Covid-19 pandemic, even as overall infant mortality dropped to a record low.
-
-제목: Tim Cook pushes to get this device shipped against the wishes of Apple engineers - PhoneArena
-요약: PhoneArena is the premium website for new phone information such as full specifications, in-depth reviews, latest news, carrier available and upcoming phones. It features advanced phone filter, visual size comparison and 360 degree views of all hot phones.
+제목: NASA identifies new asteroid that could impact Earth in 2046 - The Hill
+요약: Have any plans for Valentine’s Day in 2046? This asteroid might.
 
 
