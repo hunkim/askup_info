@@ -1,116 +1,117 @@
+'choices'
+Error parsing article Article `download()` failed with HTTPSConnectionPool(host='en.seoul.co.kr', port=443): Max retries exceeded with url: /news/newsView.php?id=20230313500224 (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:1129)'))) on URL https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vZW4uc2VvdWwuY28ua3IvbmV3cy9uZXdzVmlldy5waHA_aWQ9MjAyMzAzMTM1MDAyMjTSASlodHRwczovL2FtcC5zZW91bC5jby5rci9lbi8yMDIzMDMxMzUwMDIyNA?oc=5
 Error parsing article Article `download()` failed with ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) on URL https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vbS5jbmV0LmNvLmtyL3ZpZXcvP25vPTIwMjMwMzEzMjIxMDAx0gEA?oc=5
-Error parsing article Article `download()` failed with 403 Client Error: Forbidden for url: https://kr.investing.com/news/stock-market-news/article-890386 on URL https://news.google.com/rss/articles/CBMiPmh0dHBzOi8va3IuaW52ZXN0aW5nLmNvbS9uZXdzL3N0b2NrLW1hcmtldC1uZXdzL2FydGljbGUtODkwMzg20gEA?oc=5
+제목: 강제동원 해법 반쪽 외통위… 생존자 ‘제3자 변제안’ 거부 - 서울신문
+요약: 일제 강제동원 피해 생존자 3명이 3자 변제안에 대한 거부 의사를 공식화하며 한일 정상회담을 앞두고 파장이 지속되고 있다. 이에 대해 피해자지원단체와 법률대리인단은 내용증명을 재단 측에 전달하고, 국제우편으로 일본제철에도 제3자 변제를 불허한다는 의사를 발송했다. 이날 국회에서는 외교통일위원회 전체회의에서도 정부안에 대한 비판이 이어졌다.
+
+제목: 빌 애크먼 'SVB 사태에 구제금융 아닌 예금자 보호 '올바른 일'' - 연합인포맥스
+요약: 미국 억만장자 투자자 빌 애크먼은 실리콘밸리뱅크(SVB) 사태에서 미 정부가 구제 금융이 아닌 예금자 보호를 위해 개입한 것은 올바른 결정이었다고 평가했다. 미 재무부와 연방준비제도(Fed), FDIC는 공동 성명을 통해 SVB의 모든 예금을 보험 대상 한도와 상관 없이 전액 보증한다고 선언했다. 이는 금융위기 때 세금으로 은행 구제금융에 나섰던 조치와 달라진 행보이다.
+
+제목: 라데온 프로 W6000 시리즈 그래픽카드, 드라이버 업데이트로 성능 150% 향상 - 위클리포스트
+요약: 라데온 프로 그래픽카드의 드라이버 업데이트는 권장이 아닌 필수이며, 최신 드라이버로 업데이트하면 성능이 향상된다는 내용이다. 또한, 라데온 프로 뷰포트 부스트 기술을 활성화하면 GPU 성능에 의존하는 프로그램에서 최대 114%까지 성능을 높일 수 있다는 팁도 제공하고 있다.
+
+제목: 타격감 맛집이 되어 돌아온 후속작, '데드 아일랜드2' - 인벤
+요약: GPT3 Return Error: 'choices'
+
+제목: ‘발작 쇼’ 병역면탈… 전문직들 비양심 엄중히 책임 물으라[사설] - 동아일보
+요약: 검찰과 병무청의 합동수사 결과, 뇌전증 등 정신질환자 행세를 해 병역 면탈을 받아 기소된 피고인이 래퍼 라비, 나플라, 프로배구 선수 조재성, 배우 송덕호 씨 등 109명에 이른다. 이들은 발작 등의 증세를 거짓으로 꾸며 발급받은 진단서를 병무청에 제출해 병역을 감면받은 혐의다. 병역면탈자의 부모 등 21명도 공범으로 기소됐다. 검찰은 공무원 5명도 기소됐다. 병역법 위반 공소시효가 남은 뇌전증 환자를 전수 조사해서라도 협조한 의사가 있는지 밝혀내야 한다.
+
+제목: “고데기로 지져줄까”…황보, 학폭 의심 받자 정색 - 서울En
+제목: 허니제이 “남편 직업은 원래 모델…해외에서 주로 활동해” - 동아일보
+요약: SBS 예능 프로그램 '동상이몽 2 - 너는 내 운명'에서 출연한 허니제이가 남편의 직업을 공개했다. 남편은 키가 180cm가 넘는 패션업계 종사자이며, 모델로 활동하고 있었다. 결혼식 때 춤을 잘 추는 것으로 알려진 허니제이는 남편의 춤 실력에 대해 자랑했다.
+
 제목: [총게임 한 판 하러 갈까? 下] 세대별 '천하4분지계', 미래는? - 게임플
-요약: 국내 PC방에서 즐길 수 있는 슈팅 게임은 여러 종류가 있으며, 세대교체를 이끄는 신작들도 등장하고 있다. 대표적인 게임으로는 '서든어택', '배틀그라운드', '발로란트', '오버워치2' 등이 있으며, 이들 게임은 각자의 장르와 유저층에서 인기를 끌고 있다. 미래에는 또 다른 형태의 슈팅 게임이 등장할 가능성이 있으며, 함께 즐길 최적의 게임이 등장할 경우 언제든 트렌드가 돌아올 가능성도 있다.
+요약: 국내 PC방에서 대중적인 슈팅 게임인 '서든어택'과 '배틀그라운드', 최근 떠오르는 '발로란트' 등 대표적인 슈팅 게임들이 경쟁하고 있다. 이전에는 '서든어택'이 국내 대세였으나, 최근에는 새로운 게임들이 등장해 경쟁이 치열해졌다. 하지만, 새로운 게임이 등장할 경우 기존과 다른 형태의 슈팅 게임이 될 가능성이 높다.
 
 제목: [미국 정치 ABC] 연방헌법의 기본 원칙 1. 공화주의 - 한국어 방송 - VOA Korean
-요약: 미국 정치 ABC에서는 미국 연방헌법의 기본 원칙을 알아보는데, 오늘은 첫 번째 시간으로 공화주의에 대해 다룹니다. 미국 연방헌법은 세계에서 가장 오래된 성문헌법으로, 시대변화에 대처할 수 있도록 유연하게 쓰인 특징이 있습니다. 이러한 특징을 가진 미국 연방헌법은 몇몇 사상이나 이념, 그리고 원칙에 근거해 제정됐습니다.
-
-제목: 尹대통령-김기현 당대표, 월 2회 정기회동 갖기로 - 동아일보
-요약: 윤석열 대통령과 김기현 국민의힘 당대표가 당정 간 원활한 협의를 위해 월 2회 가량 정기 회동을 갖기로 결정했다. 이에 대해 김 최고위원은 이번 만찬에서 당정 간 원만한 협의가 이뤄질 수 있도록 정기적 만남의 필요성에 대한 언급이 있었고, 월 2회 정도 대통령과 당대표 간 정기 회동을 갖기로 했다고 밝혔다. 이번 만찬은 새 지도부 전원이 참석하였으며, 전임 지도부를 이끌었던 정진석 전 비상대책위원장과 주호영 원내대표도 참석하였다.
+요약: 미국 정치 ABC에서는 미국 연방헌법의 기본 원칙을 소개하고 있는데, 오늘은 첫 번째 시간으로 공화주의에 대해 다루고 있습니다. 미국 연방헌법은 세계에서 가장 오래된 성문헌법으로, 시대변화에 대처할 수 있도록 유연하게 쓰인 것이 특징입니다. 이러한 특징을 가진 미국 연방헌법은 몇몇 사상, 이념, 그리고 원칙에 근거해 제정되었습니다.
 
 제목: [WBC 영상] '우물 안 개구리' 한국 야구…결국 침몰 - KBS뉴스
-요약: 한국 야구 대표팀이 2023 월드베이스볼클래식에서 4강 진출을 목표로 삼았지만, 3회 연속 1라운드 탈락을 하게 되었습니다. 중국과의 경기에서는 22:2로 이겼지만, 호주가 체코를 이겨 한국은 8강 진출에 실패했습니다. 이로써 한국 야구 대표팀은 귀국하게 되었습니다.
+요약: 한국 야구 대표팀이 2023 월드베이스볼클래식에서 4강 진출 목표를 세웠지만, 3회 연속 1라운드 탈락을 하게 되었습니다. 중국을 이겨도 8강 진출이 불가능해졌고, 호주가 체코를 이겨 한국의 탈락이 확정되었습니다. 이로써 한국 야구 대표팀은 귀국하게 되었습니다.
+
+제목: 윤 대통령·김기현, 월 2회 정례 회동키로···국민의힘 지도부 선출 후 첫 만찬 - 경향신문
+요약: 윤석열 대통령과 김기현 국민의힘 대표가 만찬에서 월 2회 정기 회동을 하기로 합의했다. 이를 통해 당·정 간 원만한 협의가 이뤄질 수 있도록 하고, 대통령과 여당 대표 간 정례 회동을 통해 당·정·대 간 협조 시스템을 강화하고자 한다. 이날 만찬에서는 한·일 관계와 경제 현안 등이 논의되었다.
 
 제목: "목사님 뜻 관철" 당선되자 마자 전광훈 찾아간 여당 수석 최고위원 - MBC뉴스
 요약: 새로 선출된 여당 최고위원들이 극우 성향의 전광훈 목사를 찾아가는 등 논란을 일으키고 있습니다. 김재원 수석 최고위원은 5.18 정신을 헌법에 넣겠다는 발언을 한 뒤 여당 내부에서 비판을 받았습니다. 또한 국민의힘 최고위원회에서는 핵무장 주장까지 등장했습니다. 이러한 발언들이 여당의 우경화 움직임을 더 뚜렷하게 만들고 있습니다.
 
 제목: 큐소닉, '삼성 스마트 모니터 M7 S43BM701 화이트' 출시 이벤트 진행 - CNET Korea
-제목: SVB 사태에도 코스피는 상승...환율 22원 급락 - YTN
-요약: 미국 실리콘밸리뱅크 파산으로 인한 사태가 국내 금융시장에 큰 영향을 미치지는 않았으며, 오히려 미국의 긴축 정책에 영향을 미칠 것으로 예상됩니다. 원-달러 환율은 20원 이상 급락하여 1,300원대 초반으로 내려갔으며, 코스피와 코스닥 지수는 소폭 상승하였습니다. 정부와 한국은행은 국내 금융시장에 영향을 미친다면 적절한 조치를 취할 예정입니다.
+제목: 피치, 韓 국가신용등급 'AA-' 유지…"올해 말 물가 2.0% 전망" - 블록미디어
+요약: 한국의 국가신용등급과 전망이 안정적으로 유지되었다는 국제 신용평가사 피치의 발표가 있었다. 올해 성장률은 1.2%로 예상되며, 높은 가계 부채로 인해 소비 약화가 우려된다. 그러나 하반기에는 긍정적인 성장 모멘텀으로 전환되어 내년 성장률은 2.7%로 반등할 것으로 전망되었다. 자금시장 여건은 개선되었으며, 재정건전성도 긍정적으로 평가되었다. 북한 리스크와 관련해서는 높은 긴장 수준을 유지 중이라고 언급되었다.
 
-제목: '허위 뇌전증' 병역 회피 설계…브로커·면탈자 등 137명 기소 - 경향신문
-요약: 병역 면탈을 위해 거짓 증상으로 진단서를 제출한 병역브로커와 면탈자 137명이 검찰과 병무청의 합동수사를 통해 재판에 넘겨졌다. 이들 가운데는 연예인, 운동선수, 의사 등 사회 각계 인사들도 포함되어 있었다. 병역 면탈을 꾀하기 위해 맞춤형 시나리오를 제공하고, 허위 진단서를 발급받도록 하고, 약물 검사에서 양성 반응이 나오도록 약물을 복용하도록 하는 등의 방법을 사용했다. 검찰은 이번 사건이 우리 사회의 공정과 통합을 저해하는 중대 범죄라며, 각 책임에 상응하는 처벌을 받도록 할 것이라고 밝혔다.
+제목: 한반도 '위기의 봄'…한미 연합훈련 vs 북한 추가도발 예고 - 연합뉴스TV
+요약: 한반도에서는 한미 연합훈련과 북한의 추가도발 예고로 '위기의 봄'이 찾아올 가능성이 있다. 이번 연합훈련은 과거와는 차이가 크며, 대규모 야외기동훈련도 실시된다. 북한은 이에 극도로 반발하며 고강도 무력 도발을 위협하고 있다. 연합훈련 후에도 미국의 핵 항모와 핵추진 잠수함, 전략폭격기 등이 전개될 가능성이 있어 북한의 반발이 더욱 거세질 수 있다. 북한 외무성은 유엔 안보리 회의를 개최키로 한 것을 "미국의 비열한 인권압박 소동"이라며 "초강력 대응"을 예고했다.
 
-제목: [국회의원 선거제도, 이번엔 바꾸자!] '승자독식' 정치의 위기…'한 표의 가치' 동등해야 - 경향신문
-요약: 한국의 선거제도 개편이 필요한 이유는 더불어민주당과 국민의힘, 거대 양당이 정당 지지율보다 훨씬 높은 의석 비율을 독과점하는 문제를 개선하기 위해서이다. 이를 위해 비례성 확대와 양당제 폐해 극복이 필요하며, 이를 위한 여러 개혁과제가 제기되고 있다. 이번 개편의 핵심은 비례성 확대와 양당제 폐해 극복이며, 이를 위해 국회 정치개혁특별위원회에서 2개 최종안을 추릴 예정이다.
-
+제목: 신다은, '음주운전 자숙' 중인 임성빈과 카페 나들이..'눈길' - MSN
 제목: '포로 처형' 영상 사망자 신원 공개...젤렌스키, '우크라이나의 영웅' 칭호 수여 - 한국어 방송 - VOA Korean
-요약: 우크라이나 당국이 러시아의 '포로 처형' 영상 속 자국 병사의 신원을 확인하고, 대통령이 이 병사에게 '우크라이나의 영웅' 칭호를 수여했다. 해당 병사는 러시아군에 생포된 후 총격당해 숨졌으며, 전쟁 범죄 혐의로 수사 중이다.
+요약: 우크라이나 당국이 러시아군에 포로로 잡힌 우크라이나 병사가 총살되는 영상 속 병사의 신원을 확인하고, 대통령이 그에게 '우크라이나의 영웅' 칭호를 수여했다. 해당 병사는 도네츠크 지역의 국토방위여단 제163대대 소속 저격수로, 전쟁 범죄 혐의로 수사 중이다.
 
 제목: 뛰면 황홀한 '러너스하이'…건강한 장이 만든다? - 코메디닷컴
-요약: 미생물들로 이루어진 마이크로바이옴 구성이 운동 의지에도 영향을 미칠 수 있다는 연구 결과가 나왔다. 쥐를 대상으로 한 연구에서 마이크로바이옴 구성은 부분적으로 뇌에 신호를 보내 운동 욕구에 영향을 미치는 것으로 나타났다. 이에 따라 장 건강이 운동 습관에도 영향을 줄 수 있다는 것을 알 수 있었다. 이번 연구는 쥐를 대상으로 했지만, 활동적인 사람과 운동을 거의 하지 않는 사람의 마이크로바이옴이 상당히 다를 수 있다는 것을 보여준다.
+요약: 장 건강이 운동 습관에 영향을 미칠 수 있다는 연구 결과가 나왔다. 마이크로바이옴 구성은 운동 욕구에 영향을 미치는 것으로 나타났으며, 운동을 꾸준히 하도록 독려할 수도 있으며, 운동을 건너뛰도록 유도할 수도 있다. 이에 따라 마이크로바이옴의 건강상태가 운동을 하도록 장려하는 지 여부는 아직 불확실하지만, 운동이 마이크로바이옴의 건강에 영향을 미친다는 것은 이미 알려져 있다.
 
-제목: DKZ 경윤 "JMS 모태신앙→탈교..멤버 포교한 적 없어" 눈물[스타이슈] - MSN
 제목: 검은 옷 입고 "국정원입니다"‥잠시 뒤 7명이 '우당탕탕' - MBC뉴스
-요약: 12일 경기도 의회에 난입한 남성이 건조물 침입 및 공무원 사칭 혐의로 경찰에 체포됐다. 이 남성은 국정원 직원이라며 청원 경찰을 밀치고 의회에 들어갔으나, 신분증을 요구하는 경찰과 몸싸움을 벌이며 체포됐다. 경찰은 이 남성이 다른 폭행 혐의로 지명통보가 내려진 인물이었다며, 의회 난입 이유에 대해 조사 중이다.
+요약: 경기도 의회에 난입한 남성이 건조물 침입 및 공무원 사칭 혐의로 경찰에 체포됐다. 이 남성은 국정원 직원이라며 청원 경찰을 밀치고 의회에 들어갔다가 제압됐다. 경찰은 이 남성이 다른 폭행 혐의로 지명통보가 내려진 인물이었다며, 의회의 난입한 이유에 대해 조사하고 있다.
 
-제목: 애플 '애플페이' 출시 21일 확정…초대형 마케팅 예고 부터 Hankyung - Investing.com
-제목: [텔레그래프]SM 경영권 분쟁 종전...카카오-하이브-이수만, 손익계산서는? / 머니투데이방송 (뉴스) - MTN 머니투데이방송
-제목: 국힘 보이콧 속 외통위 개최…양금덕 할머니 “참말로 나라가 아니고 웬수들이요” - 한겨레
-요약: 일제 강점기 강제동원 생존 피해자인 양금덕 할머니가 국회 외교통일위원회 전체회의에서 ‘제3자 변제안’을 제안한 윤석열 정부를 비난하며 “무도한 정부”라고 말했다. 이에 더불어민주당은 정부가 제시한 제3자 변제안을 ‘굴욕적 해법’이라고 맹비난하며, ‘강제동원 해법 철회 결의안’을 채택했다. 반면 국민의힘은 이를 ‘한-일 정상회담 앞 정부 비방만 생각한 것’이라며 회의에 불참했다.
+제목: 삼성-TSMC, 작년 4분기 파운드리 점유율 격차 더 벌어져 - 조선일보
 
-제목: 인간 건강 위해 '동물 건강' 연구하는 이유 - 코메디닷컴
-요약: 동물 건강을 연구하는 이유는 인간 건강에도 적용할 수 있는 비밀스러운 특징을 갖고 있기 때문이다. 동물의 생활 방식, 유전적 특성 등을 연구하면 인간의 질병을 예방하거나 발병 시점을 늦출 수 있다. 예를 들어, 코끼리는 인간보다 체중이 100배나 더 나가지만 암에 걸리는 비율이 훨씬 적은데, 이는 코끼리가 암세포를 퇴치하는 유전자를 더 많이 갖고 있기 때문이다. 이러한 연구는 미래 감염병에 대응하는 유용한 정보가 될 수 있다.
+제목: The latest on the Silicon Valley Bank collapse: Live updates - CNN
+요약: US and UK authorities are taking action to prevent wider financial chaos after the collapse of Silicon Valley Bank — the biggest failure of a US bank since 2008. Follow here for live updates.
 
-제목: 야당, 외통위 단독 개최…`강제징용 해법 철회 촉구` 결의안 채택 | 서울특별시 미디어재단 TBS - TBS뉴스
-요약: 13일, 더불어민주당은 국회 외교통일위원회 전체회의를 열어 일제 강제징용 해법 철회 및 일본의 사과를 촉구하는 결의안을 채택했다. 결의안에서는 정부의 해법을 "한국이 가해자 일본에 머리를 조아린 항복 선언이자 역사상 최악의 외교 참사"라고 규정하며, 즉각적인 철회를 촉구했다. 민주당은 또한 과거 강제동원의 불법성과 인권유린에 대한 일본 정부와 전범 기업의 사과와 배상을 촉구했다.
+제목: At least 12 inches of heavy, wet snow possible in parts of New Hampshire; gusty winds also a concern - WMUR Manchester
+요약: A long-duration nor'easter will move into the region Monday evening and will bring heavy snow and strong winds for the first half of the workweek.
 
-제목: '더 글로리2' 임지연, 출연자 화제성 1위 등극…더글로리 출연진 7명 'Top10 진입' - 경북일보
-요약: '더 글로리2'의 임지연이 TV-OTT 화제성 드라마 출연자 화제성 부문 1위를 차지했다. 굿데이터코퍼레이션의 조사 결과, '더 글로리2'는 TV-OTT 통합 화제성 드라마 부문에서도 1위를 차지했다. 이번 조사는 TV와 OTT에서 방영 중인 드라마와 시리즈 콘텐츠 25편에 출연한 출연자 300여 명을 대상으로 진행되었다.
+제목: Cohen to testify before grand jury in Trump hush money probe - The Associated Press - en Español
+요약: NEW YORK (AP) — Donald Trump’s former lawyer and fixer Michael Cohen is expected to testify Monday before a Manhattan grand jury investigating hush money payments he arranged and made  on the former president’s behalf.
 
-제목: 전립선암, 수술보단 장기적 관찰 관리로 충분 - 코메디닷컴
-요약: 전립선암 진단을 받은 남성 중 85%는 전립선 제거수술이나 방사선치료를 받을 필요가 없다는 20년에 걸친 장기 추적 연구결과가 나왔다. 암세포가 공격적으로 퍼지는 15% 정도를 제외하면 대부분 장기적 추적 관찰로 충분하다는 것. 이번 연구 결과는 고위험군으로 판정된 전립선암을 앓고 있는 남성에게는 적용되지 않는다. 전체 전립선 암 진단의 약 15%를 차지하는 이러한 공격적인 암은 여전히 즉각적인 치료가 필요하다.
+제목: 4 Killed in Overnight Shooting at Northwest Dallas Apartment Complex - NBC 5 Dallas-Fort Worth
+요약: The investigation into the North Texas shooting is ongoing.
 
+제목: Source - Falcons acquire TE Jonnu Smith from Patriots for pick - ESPN
+요약: The Patriots have traded tight end Jonnu Smith to the Falcons for a seventh-round draft pick, according to ESPN and multiple reports.
 
-제목: UK prime minister calls China a ‘systemic challenge’ to world order ahead of Biden meeting - The Hill
-요약: British Prime Minister Rishi Sunak said Sunday that China threatens the country’s economic interests and poses a “systemic challenge” for global order. “China represents the biggest state threat to our economic interests, for sure. And it’s a systemic challen…
+제목: Dead Island 2 Ditches The Open World, But Ramps Up The Gore - GameSpot
+요약: After years in development hell, Dead Island 2 is looking better than you might assume, even as its scope seems to have been scaled down over the years.
 
-제목: Samsung caught faking zoom photos of the Moon - The Verge
-요약: A Reddit post has revealed just how much post-processing the Galaxy S23’s camera applies when it detects it’s taking a photo of the Moon, inserting extra detail that isn’t present in reality.
+제목: NCAA bracket predictions: College basketball model releases surprising March Madness 2023 tournament picks - CBS Sports
+요약: SportsLine's model has nailed 18 double-digit seed upsets and simulated the 2023 NCAA bracket 10,000 times
 
-제목: NCAA Tournament 2023 bracket: Computer simulation reveals surprising upsets, March Madness picks, sleepers - CBS Sports
-요약: When does the March Madness 2023 schedule start? The 2023 March Madness bracket begins Thursday with Round 1
+제목: Poor sleep decreases vaccine effectiveness, especially for men - CNN
+요약: Gettting a bad night's sleep decreases the body's antibody response to vaccines, a new study finds, especially for men.
 
-제목: Brendan Fraser flooded with emotion as he wins best actor Oscar for 'The Whale' - CNN
-요약: Brendan Fraser tearfully accepted the Academy Award for best actor for his role in the film "The Whale" on Sunday.
+제목: 2023 Oscars winners: 'Everything Everywhere All At Once' dominates, with wins for Michelle Yeoh, Ke Huy Quan, Jamie Lee Curtis - 6abc Philadelphia - WPVI-TV
+요약: Highlights included Lady Gaga's emotional performance, Brendon Fraser's moving win and host Jimmy Kimmel's jokes on "the slap."
+
+제목: European stocks fall 2.4%, banks slide 6% after HSBC rescues Silicon Valley Bank UK - CNBC
+요약: European markets closed sharply lower Monday.
+
+제목: First Republic and other US regional banks tumble on fears of deposit flight - Financial Times
+요약: News, analysis and comment from the Financial Times, the worldʼs leading global business publication
+
+제목: The Apple Watch SE is cheaper than ever right now | Engadget - Engadget
+요약: The Apple Watch SE is currently on sale for $219, down from its usual $249..
 
 제목: Rihanna Changed Into a Bump-Baring Cropped Faux Fur Stole at the Oscars - InStyle
 요약: Her third and final look of the night.
 
+제목: President Biden tells US to have confidence in banks after collapse - WESH 2 Orlando
+요약: U.S. regulators closed the Silicon Valley Bank on Friday after it experienced a traditional bank run, where depositors rushed to withdraw their funds all at once.
+
+제목: Three-year-old girl accidentally shoots sister, 4, dead in Texas - The Guardian US
+요약: Girl killed sibling in family home with semi-automatic pistol but unclear if any of five adults present will face charges
+
 제목: New health monitoring features powered by AirPods coming soon, 'Bloomberg' says - 9to5Mac
 요약: Apple itself has acknowledged the health potential of AirPods, teasing that it’s an area in which it’s heavily investing. Now,...
 
-제목: C.J. Stroud rockets to top of the first-pick betting odds - ProFootballTalk - NBC Sports
-요약: The rising Panthers draft tide has lifted C.J. Stroud’s betting boat.With Carolina moving from No. 9 to No. 1 in the 2023 NFL draft, the Ohio State quarterback has jumped to the favorite to be the first player drafted.A week ago, Alabama quarterback Bryce You…
+제목: Ukraine war live updates: Kyiv claims over 1,000 Russians died in Bakhmut in the last week; Wagner mercenaries pivoting recruitment - CNBC
+요약: Bakhmut remains the hot spot in the war between Ukraine and Russia, with the head of Ukraine's armed forces describing the situation in the city as "difficult."
 
-제목: Oscars 2023: 10 things to know, from a heartwarming comeback story to an excruciating red carpet interview - The Washington Post
-요약: The Academy Awards were dominated by « Everything Everywhere All at Once, » plus the most memorable speeches and cringeworthy red carpet moment.
+제목: NFL Free Agency 2023: Who’s Going to Land the Big-Money Deals - Sports Illustrated
+요약: Offensive and defensive linemen will cash in on the open market, while it figures to be tough going for running backs and wide receivers. And don’t forget about Jimmy Garoppolo and Lamar Jackson.
 
-제목: Does NFL free agency work? Ranking all 32 teams in value added the last 3 seasons - The Athletic
-요약: The Bengals have found great value in building a defense through free agency. Which other teams have done well on the open market?
-
-제목: First Mover Americas: Bitcoin Gains as FDIC Steps In for Silicon Valley Bank - CoinDesk
-요약: The latest price moves in crypto markets in context for March 13, 2023.
-
-제목: Tucker Carlson firestorm over Trump texts threatens to engulf Fox News - The Guardian
-요약: The network is facing a $1.6bn false-claims lawsuit – and its top star’s private texts about the ex-president are causing anguish
-
-제목: Standoff underway in Missouri after suspect shoots 2 officers, killing 1 - Fox News
-요약: Police have identified the man accused of shooting two police officers in Missouri overnight. One of the officers died at the hospital, according to MSHP.
-
-제목: HSBC buys SVB's UK business, ending 'nightmare' for British tech - CNN
-요약: HSBC has scooped up the UK arm of failed Silicon Valley Bank, securing the deposits of thousands of British tech firms that hold money at the lender.
+제목: Bitcoin spikes amid Silicon Valley Bank collapse - Fox Business
+요약: Cryptocurrency got a boost of $70 billion and topped $1 trillion on Monday amid the downfall of Silicon Valley Bank, with Bitcoin alone spiking 10%.
 
 제목: Gary Lineker, former English soccer star, to return to BBC show after tweets critical of UK government - Fox News
 요약: Former English soccer star Gary Lineker will return to BBC's "Match of the Day" program after a row over a critical tweet of the U.K. government's migrant policy.
-
-제목: Iran-Saudi Arabia deal casts China in unfamiliar global role - The Associated Press - en Español
-요약: BEIJING (AP) — An agreement between Iran and Saudi Arabia to reestablish diplomatic relations  has cast China in a leading role in Middle Eastern politics — a part previously reserved for longtime global heavyweights like the U.S.
-
-제목: Opinion: A night of dreams, comebacks and casualties at the Oscars - CNN
-요약: Five CNN Opinion culture critics share their takeaways from the 95th Academy Awards.
-
-제목: Should You Buy AppleCare Plus or Get Phone Insurance? We Do the Math - CNET
-요약: We compare whether Apple's plans or your wireless carrier's insurance are the better value.
-
-제목: After SVB failure, regulators close crypto-friendly bank Signature Bank - TechCrunch
-요약: Signature Bank is the second casualty of the ongoing banking crisis in the U.S. The New York-based financial institution stopped operating abruptly on Sunday — customers will be made whole. Regulators said that Signature Bank also caused a systemic risk and c…
-
-제목: Iwao Hakamada: Japan retrial for world's longest-serving death row inmate - BBC
-요약: Iwao Hakamada, now 87, was on death row for nearly half a century after being convicted of murder.
-
-제목: NASA identifies new asteroid that could impact Earth in 2046 - The Hill
-요약: Have any plans for Valentine’s Day in 2046? This asteroid might.
 
 
