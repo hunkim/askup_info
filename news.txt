@@ -1,114 +1,122 @@
+'choices'
+Error parsing article Article `download()` failed with HTTPSConnectionPool(host='www.yna.co.kr', port=443): Max retries exceeded with url: /view/AKR20230313055700009 (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1129)'))) on URL https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L0FLUjIwMjMwMzEzMDU1NzAwMDA50gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9BS1IyMDIzMDMxMzA1NTcwMDAwOQ?oc=5
+제목: 리얼사이즈 슈퍼마리오 가죽신발 공개 - 얼리어답터
+요약: 3DCG로 만들어진 '더 슈퍼 마리오 브라더스 무비'에서는 최신 기술로 리얼한 마리오의 모습을 볼 수 있습니다. 이를 기념해 레드윙사에서 리얼사이즈 슈퍼마리오 가죽신발을 이벤트용으로 제작했으며, 4월까지 미국 뉴욕 록펠러 플라자의 'Nintendo NEW YORK'에서 전시됩니다.
+
+제목: 남성형 탈모증의 새로운 치료 옵션, 스프레이형 Finasteride - 메디칼업저버
+요약: GPT3 Return Error: 'choices'
+
+제목: 레고로 만든 무한 루프 도미노 - 테크레시피
+요약: 레고 블록으로 만든 무한 루프 도미노 머신이 개발되었다. 이 머신은 레고 도미노 64개가 무한 루프로 이뤄져 있으며, 마인드스톰 EV3 센서를 사용하여 속도를 제어하고 항상 도미노를 쓰러뜨리고 일어나는 걸 같은 속도로 할 수 있게 했다. 이 머신은 24시간 동안 2,000만 개 이상 도미노를 쓰러뜨릴 수 있다.
+
+제목: 경찰 “압수물 분석 이번주 완료 후 유아인 비공개 소환 예정” - 동아일보
+요약: 배우 유아인씨가 마약류 진통제인 프로포폴 상습 투약 혐의로 경찰 수사를 받고 있으며, 경찰은 유씨의 주거지 2곳을 압수수색한 자료와 병원에서 입수한 자료들을 분석하고 있다. 이번 주 안에 분석이 마무리되면 유씨를 소환조사할 예정이며, 공범 수사와 관련해서는 아직 특이단서가 발견되지 않았다. 경찰은 불구속 상태로 수사를 이어가고 있으며, 출국 금지 조치도 내렸다.
+
+제목: 한국타이어 화재 14시간째 진화‥11시 초진완료 - MBC뉴스
+요약: 한국타이어 대전공장에서 큰 불이 발생하여 40만 개의 타이어가 타고 있으며, 인근 5개 학교의 등교가 중단되었습니다. 10명이 연기를 마셔 병원으로 이송되었으며, 진화하던 소방관 1명도 다쳤습니다. 현재 소방당국은 초진을 완료하고 소방비상 대응단계를 낮추었습니다. 인근 주민들은 대피령이 내려졌고, 경찰과 소방당국은 화재 원인과 피해 규모를 조사할 예정입니다.
+
+제목: 우리 몸에 지나친 지방은 해롭다! < 전문가 칼럼 < SPECIAL < 기사본문 - 엠디저널
+요약: 지방은 탄수화물과 단백질보다 열량이 높아 에너지 공급원으로 중요하지만, 포화지방산은 몸에 해로우므로 적게 섭취해야 한다. 불포화지방산은 세포막을 부드럽게 하여 신진대사를 원활하게 하지만, 오메가-6지방산은 과다 섭취하면 동맥경화를 유발하여 심혈관 질환 및 뇌혈관 질환의 발생 위험을 높인다. 필수지방산은 반드시 음식으로 섭취해야 하지만, 트랜스지방산은 건강에 나쁘므로 가급적이면 먹지 않는 것이 좋다.
+
+제목: 흥행·성적 다 잡았다…'김연경 파워' 흥국생명 1위 확정 눈앞 - 한겨레
+요약: 흥국생명이 여자 프로배구 정규리그 1위를 확정할 수 있는 승점 1점을 남겨두었다. 이번 시즌 김연경 선수의 활약으로 흥국생명은 현재 2위인 현대건설과 6점 차이를 두고 있으며, 김연경 선수의 인기는 관중 수와 올스타 투표에서 입증되었다. 다만, 정규리그 1위를 확정할 수 있는 상황이지만 아직 확신할 수 없다.
+
+제목: 檢, ‘병역면탈’ 래퍼 라비 불구속기소·나플라 구속기소…137명 재판행 - 동아일보
+요약: 래퍼 라비와 나플라를 포함한 병역면탈자 49명과 공범 9명 등이 불구속기소되었다. 이들은 온라인에서 활동하던 병역 브로커와 공모해 뇌전증 환자인 것처럼 행세하며 병무청을 속여 병역을 감면받았다. 검찰은 이들에 대해 병역법위반·위계공무집행방해·허위공문서 작성·행사 등의 혐의를 적용했다. 이번 기소로 병역 브로커 2명, 병역면탈자 109명, 공무원 5명 및 공범 21명 등 총 137명을 적발해 기소했다.
+
+제목: '영어 일타강사'의 고백…"ADHD·난독증, 학창시절 따돌림 당해" - 머니투데이
+요약: 온라인 영어 강사 박세진이 ADHD(주의력결핍 과다행동장애)를 투병 중이라고 고백했다. 그는 초등학교 이전부터 '사회 부적응자'라는 낙인이 찍혔으며, 병 때문에 선생님에게 과체벌을, 주변인에게 따돌림을 당했다고 밝혔다. 현재는 약물치료로 나아졌지만, 작은 실수에도 스스로 상처를 주는 생각을 반복하며 학습 장애의 한 유형인 난독증까지 있다고 전했다. 이에 대해 박미선은 "현재 상태는 어떻냐"고 물었고, 박세진은 "사회인으로 기본적인 계획을 세우는 것이나 시간, 일, 순서에 대한 개념이 아예 없다"고 답했다.
+
+제목: 우크라이나, 포로 처형 영상 희생자 '42살 저격수' 확인 - MBC뉴스
+요약: 우크라이나가 전쟁 포로를 총격살해한 러시아군의 영상에서 죽은 병사의 신원을 확인했다. 해당 병사는 우크라이나 북동부 체르니히우 지역의 국토방위여단 제163대대 소속의 42살 저격수 마치예우스키이다. 이에 우크라이나 대통령은 마치예우스키에게 '우크라이나의 영웅' 칭호를 수여할 예정이다.
+
+제목: 혜리, ENA ‘혜미리예채파’ 역시 ‘믿혜리’ - 빛가람뉴스
+요약: 혜리가 ENA의 새 예능프로그램 '혜미리예채파'에서 맏언니로 출연해 첫 방송부터 예능감과 리더십을 보여줬다. 혜리는 멤버들에게 칭찬을 아끼지 않으면서도 게임에서는 격려를 하며 듬직한 맏언니 캐릭터를 구축했다. 또한, 자신의 예능감을 발휘해 시그니처 사운드 퀴즈에서 멤버들의 정답을 유도하며 댄스 퍼포먼스로 명불허전 다운 면모를 뽐냈다. '혜미리예채파'는 매주 일요일 저녁 7시 50분에 방송된다.
+
 제목: 피해자는 일상 잃었는데 가해자는 건재…분노가 체념으로 - 한겨레
-요약: 미투 운동 5주년을 맞아, 가해자들이 복귀하거나 승진하는 등 일상으로 돌아가는 모습이 나타나면서 피해자들은 여전히 고통스러운 상황에 처해있다. 가해자들의 영향력이 여전히 존재하고, 피해자들은 일상을 잃어버리고 상처를 계속 간직하고 있다. 전문가들은 가해자들과 함께 일할 수 있는가, 성폭력 예방 교육과 관련 제도를 마련했는가, 피해자에 대한 2차 가해를 방지할 제도와 지원 체계를 갖추었는가를 되돌아봐야 한다고 지적하고 있다. 또한, 가해자들의 진심이 담긴 사과와 함께 피해자 복귀를 담보할 수 있는 대응 매뉴얼과 교육이 필요하다는 목소
+요약: 미투 운동 5주년을 맞아, 가해자들이 복귀하거나 승진하는 등 일상으로 돌아가는 모습이 나타나고 있다. 이에 대해 피해자들은 고통스러운 상황에서 여전히 상처를 입고 있으며, 가해자의 영향력이 여전히 존재하는 것으로 나타났다. 전문가들은 이러한 상황에서 가해자에 대한 진심어린 사과와 함께 피해자의 복귀를 담보할 수 있는 대응 매뉴얼과 교육이 필요하다고 강조하고 있다.
 
 제목: [SVB 파산] 연준 금리 인상 물건너가나…'100bp 인하' 전망도 등장 - 연합인포맥스
-요약: 미국 실리콘밸리의 은행인 실리콘밸리은행(SVB)의 파산으로 인해 금융시장이 불안에 떨고 있다. 이로 인해 연방준비제도(연준)의 금리 인상에 제동이 걸릴 것이라는 전망이 나오고 있다. SVB의 파산으로 인해 예금 보호를 받지 못하는 금액이 1천515억 달러에 달하며, 연준이 금리 인상을 일시 중단할 가능성이 제기되고 있다. 연준은 오는 21~22일 연방공개시장위원회(FOMC) 회의를 개최할 예정이다.
+요약: 미국의 실리콘밸리은행(SVB) 파산으로 인해 금융시장이 불안에 떨고 있다. 이로 인해 연방준비제도(연준)의 금리 인상에 제동이 걸릴 것이라는 전망이 나오고 있다. 지난주 초만 해도 시장에서는 연준이 이달 금리를 50bp 인상할 가능성이 있다고 점쳤으나, SVB의 파산으로 인해 금융 시스템에 대한 불안이 커졌다. SVB의 파산으로 예금 보호를 받지 못하는 금액이 1천515억 달러(약 200조4천345억 원)에 달하는 것으로 추정되면서 파장이 만만치 않을 것이라는 우려가 나온다.
 
-제목: 공수처, '간첩단 사건' 피의사실 공표 수사 착수…고발인 쪽 조사 - 한겨레
-요약: 대한민국 고위공직자범죄수사처(공수처)가 간첩단 수사 과정에서 피의사실이 공표됐다는 의혹과 관련해 본격 수사에 착수했다. 이 사건과 관련해 국정원 등 대공수사기관이 아니면 알 수 없는 사건 영장 내용 등이 언론에 공개돼 피의사실 공표 논란이 인 바 있다. 이 사건 피의자들은 캄보디아 등 동남아 국가에서 북한 관련 인사와 접촉하고 2016년 경남 창원을 중심으로 ‘자주통일 민중전위’를 결성해 반정부 활동을 한 혐의로 지난달 1일 구속됐다.
-
+제목: 젤렌스키 "바흐무트서 일주일 새 러시아군 1천명 이상 사망" - 연합뉴스
 제목: 강지섭, JMS 신도 의혹에 예수 그림 정리 인증→SNS 돌연 삭제 - 한국아이닷컴
-요약: 배우 강지섭이 기독교복음선교회(JMS) 신도였다는 추측이 온라인 커뮤니티에서 제기되자 SNS를 삭제하고, 현재는 신도가 아니라고 밝혔다. 이에 논란이 지속되자 강지섭은 예수 그림을 찢어 정리하는 사진을 올리고 SNS 계정을 삭제했다.
-
-제목: [윤정선 원장 건강칼럼] 엄마의 성조숙증 고민, '우유, 사골, 계란 먹여도 괜찮을까?' - 헬스인뉴스
-요약: 성장기 아이가 우유, 사골, 계란을 좋아한다면 적절한 섭취량과 함께 다른 음식과 함께 먹는 것이 좋습니다. 우유는 1일 1~2잔, 저지방, 유기농 제품을 권장하며 사골은 일주일에 1~2번, 계란은 1일 1~2개 이내 섭취하는 것이 좋습니다. 부모님의 역할이 중요하며 규칙적인 식사와 약속을 잘 지키면서 동기부여를 해주는 것이 좋습니다. 성장기 맞춤 식단 관리도 중요합니다.
+요약: 배우 강지섭이 기독교복음선교회(JMS) 신도였다는 의혹이 제기되자 SNS를 삭제했다. 강지섭은 "한때 힘든 시기에 기도하고 싶어 갔던 곳이었고 일반적인 곳인 줄 알았다. 애초 제가 생각했던 신앙관과 거리가 있는 이질감을 느껴 그곳을 떠났다. 이런 추악한 일이 있었음을 인지하기도 전에 나왔다"라며 현재는 신도가 아니라고 밝혔다.
 
 제목: 위암·간암·자궁경부암 원인과 예방 백신은? - 스포츠조선
-요약: 3월 21일은 '암 예방의 날'이며, 우리나라의 주요 사망원인 1위는 암이다. 암 사망률은 전년대비 0.6% 증가했으며, 매년 20만명 이상의 암 환자가 발생하고 7만명 이상이 사망한다. 원인균이 밝혀진 암 중 위암, 간암, 자궁경부암이 있다. 이 중 헬리코박터 파일로리균은 위암을 유발하는 원인균으로, 국내 의학회에서는 감염 시 꼭 제균 치료를 권고하지만 치료율이 매우 낮다. 간암은 만성 B형 간염이 원인이며, B형, C형 간염 바이러스는 백신으로 예방이 가능하다. 자궁경부암은 인유두종 바이러스(HPV)에 의해 발생하며, 백신 접종
+요약: 3월 21일은 '암 예방의 날'이며, 우리나라의 주요 사망원인 1위는 암이다. 암 환자는 매년 20만명 이상 발생하고, 7만명 이상이 사망한다. 원인균이 밝혀진 암 중 위암, 간암, 자궁경부암이 있다. 이 중 헬리코박터 파일로리균에 감염되면 위암 발생 가능성이 높아지므로 제균 치료를 권고한다. 간암은 만성 B형 간염이 주요 원인이므로 백신 접종이 중요하다. 자궁경부암은 인유두종 바이러스에 의해 발생하므로 백신 접종으로 예방할 수 있다.
 
-제목: AMD 라이젠 7 7800X3D 게임 성능, 코어 i9-13900K보다 최대 24% 빠르다? - 보드나라 (Bodnara)
-요약: AMD의 라이젠 7 7800X3D의 게임 테스트 자료가 유출되었다. 그러나 어떤 그래픽 카드가 사용되었는지는 명시되지 않았다. 이 자료에 따르면, 라이젠 7 7800X3D는 이전 세대 대비 30% 빠르며, 게임이 주 용도인 메인스트림 게이머에게 뛰어난 가성비 모델로 자리잡을 것으로 예상된다. 이 제품은 4월 6일에 출시될 예정이다.
+제목: 아직도 농약으로 새를 죽이는 사람들이 있습니다 - 한겨레
+요약: 한국에서 발생한 야생조류 집단폐사 46건 중 11건이 농약 중독으로 확인됐다. 이번 사건에서는 멧비둘기, 새매, 독수리 등이 피해를 입었다. 농약으로 인한 야생조류 집단폐사는 해당 개체의 생명을 앗아갈 뿐만 아니라, 농약에 중독된 폐사체를 먹은 독수리 등 상위 포식자의 2차 피해로 이어질 수 있다. 이러한 행위는 야생생물 보호 및 관리에 관한 법률 위반으로 2년 이하의 징역 또는 2천만원 이하의 벌금을 물린다.
 
-제목: [Y이슈] '더글로리2' 흥행 성공했는데...작품 메시지 퇴색시킨 감독 학폭 논란 - YTN
-요약: 넷플릭스 시리즈 '더 글로리' 파트2가 흥행에 성공했지만, 작품의 연출을 맡은 안길호 감독은 작품 공개와 동시에 학교폭력 가해자로 지목되었다. 이에 넷플릭스는 "제작진과 사실 확인 중"이라며 즉답을 보류했고, 안 감독은 학폭 의혹을 부인했다가 추가 제보가 이어지자 내용을 인정하며 사과 입장을 내놓았다. 작품이 담은 메시지를 퇴색시키고, 함께 한 팀에게 민폐를 끼치는 상황이 돼버렸다.
+제목: [속보] 국민의힘 사무총장 이철규…부총장에 박성진·배현진 - 연합뉴스TV
+요약: 국민의힘에서 이철규 사무총장이 부총장에 박성진과 배현진을 지명하고, 최고위원에 강대식을 선임했습니다. 또한, 구자근을 당대표 비서실장으로, 강민국과 유상범을 수석대변인으로 임명하고, 윤희석, 김예령, 김민수가 대변인단에 합류했습니다.
 
-제목: [브레이크뉴스] 삼성전자, 2023년형 사운드바 신제품 국내 출시 - 브레이크뉴스
-제목: 바이러스 판도라 상자가 열렸다!... 온난화로 잠들고 있던 바이러스들이 께어났다 - 뉴스퀘스트
-요약: 영구동토에서 수만 년간 잠자던 고대바이러스가 온난화로 인해 부활하면서 인간 건강에 위협이 될 수 있다는 연구 결과가 발표됐다. 프랑스, 러시아, 독일 기후과학자들로 이루어진 연구팀은 시베리아 영구동토에서 수집한 바이러스 샘플들을 실험실에서 테스트해 아메바를 감염시킬 수 있다는 것을 확인했다. 이에 따라 지구가 따뜻해지면서 영구동토층이 녹기 시작해 인간을 감염시킬 수 있는 바이러스가 나타날 가능성이 있다는 것이다.
+제목: 신장이식 전 대상포진 예방접종, 이식 후 발병 위험 낮춘다 - 의학신문
+요약: 신장이식 환자에게 이식 전 대상포진 백신을 접종하면 이식 후 대상포진 발생을 줄일 수 있다는 연구결과가 나왔다. 이번 연구는 대상포진 예방에 대한 생백신 접종이 적절한 면역반응을 유발하는 것으로 알려져 있었으나, 실제 대상포진을 효과적으로 예방하는 지는 현재까지 증명된 바 없었다. 연구팀은 이식 전 대상포진 생백신을 접종 받은 환자군에서 대상포진 발병률이 3.31배 더 낮았다는 결과를 발표하며, 이식 전 대상포진 예방접종을 권고하는 현재 지침을 뒷받침하는 근거를 수립하였다.
 
-제목: 드래곤볼을 입는다... 크리틱X드래곤볼 Z, 두 번째 협업 컬렉션 - 스타패션
-요약: 스트리트 캐주얼 브랜드 크리틱이 토에이 애니메이션의 대표작 '드래곤볼 Z'와의 두 번째 협업 컬렉션을 선보인다. 이번 협업 컬렉션은 드래곤볼 Z의 캐릭터들을 중심으로 전개되며, 무신사에서 3월 13일부터 판매된다.
-
-제목: 영하로 기온 '뚝' 꽃샘추위, 내륙 한파특보…14일 낮부터 풀려 - 한겨레
-요약: 한파특보가 발효되어 전국이 추워지고, 바람도 강하게 불 것으로 예상된다. 13일 아침 기온은 전날보다 10도 이상 떨어져 내륙은 영하 5도 이하, 강원 내륙·산지는 영하 10도 이하로 대부분 지역에서 0도 이하의 분포를 보일 것으로 예상된다. 14일부터는 따뜻한 남서기류가 유입되어 낮 기온이 15도 내외로 오르겠지만, 강풍특보가 발효되어 해안과 산지, 일부 남부내륙에는 바람이 매우 강하게 불 것으로 예상된다.
-
-제목: 사이비교주-악덕 정치인 성격이 혹시 내게도? - 코메디닷컴
-요약: 사이비교주나 일부 정치인들은 자기애적 인격장애, 분열형 인격장애, 반사회적 인격장애 등이 겹쳤을 가능성이 크다. 자기애적 인격장애는 자신이 특별한 존재이고 다른 사람이 이를 인정해줘야 한다고 여기며 남의 인격과 감정을 무시하는 특징이 있다. 자기애적 인격장애 진단법은 DSM-5에서 5개 이상의 증상이 있어야 하며, 성인기 초기부터 시작되어야 한다.
-
-제목: 통근 거리 먼 직원 ‘늦은 출근’ 봐주다 해고…법원 “징계 무겁다” - 서울신문
-요약: 근무태도 불량 등을 이유로 해고된 근로자가 법원에서 구제받았다. 서울행정법원은 직원을 해고한 회사가 중앙노동위원회 위원장을 상대로 낸 소송에서 원고 패소 판결했다. 재판부는 사측이 내놓은 해고 사유 대부분을 인정하면서도 징계가 무겁다고 지적하며, 미승인 출장 등의 이유는 업무상 절차 위반에 불과하다고 판단했다.
-
-제목: 포트나이트, '챕터4' 시즌 2 '메가' 공개...7가지 신규 현실 증강 추가 - 메트로신문-중산층과 서민을 위한 알찬 정보
-제목: 北선전매체, 한미연합연습 개시 비난…"전쟁 먹구름의 장본인" - 연합뉴스
-제목: 김새론, 생활고 거짓 알바 인증샷?…"정식으로 일한 적 없어" / SBS / 굿모닝연예 - SBS 뉴스
-제목: [속보] 한국타이어 대전공장 진화 10시간째…타이어 40만개 불타 - 한겨레
-요약: 한국타이어 대전공장에서 발생한 화재로 11명이 경상을 입었으며, 경부고속철도 운행이 중단되었다. 화재는 10시간째 이어지고 있으며, 진화 작업은 계속되고 있다. 인화성 물질이 많아 불길이 번지고 있어 소방당국은 헬기 9대를 투입해 진화 작업에 속도를 내고 있다. 경부고속철도는 이날 새벽 6시27분부터 재개됐다.
-
-제목: 더 글로리, 배우 김히어라, '신선한 매력'에 뜨거운 해외 관심 '화제' - 한국강사신문
-요약: 김히어라가 넷플릭스 오리지널 시리즈 '더 글로리' 파트2에서 놀라운 연기력을 선보이며 국내외에서 호평을 받고 있다. 이전 작품에서의 모성 가득한 탈북민 캐릭터와는 180도 달라진 연기 변신으로 강렬한 신스틸러에 등극하며 안방극장을 사로잡았다. '더 글로리' 파트2는 글로벌 순위 3위, 일본, 홍봉, 태국 등 26개 국가에서 1위를 차지하며 김히어라의 해외 반응도 뜨거운 관심을 받고 있다.
-
-제목: 김은중호, 중국 꺾고 U-20 월드컵 본선 진출 - 연합뉴스TV
-요약: 20세 이하 남자 축구대표팀이 아시안컵 8강에서 중국을 이겨 월드컵 본선 진출권을 획득했습니다. 대표팀은 선제골을 내줬지만 끈질긴 공세로 동점골을 넣은 뒤 연장에서 두 골을 더 달아 승리를 쟁취했습니다. 대표팀은 결승 진출 여부와 관계 없이 5월 인도네시아에서 열리는 20세 이하 월드컵 진출권을 획득했습니다.
+제목: 이 사양이 준중형이면 선 넘었지…3년만에 나온 ‘더 뉴 아반떼’ - 서울경제 - 서울경제신문
+요약: 현대자동차가 준중형 세단 아반떼의 부분 변경 모델 ‘더 뉴 아반떼’를 출시했다. 디자인 개선과 안전 사양, 첨단 운전자 지원 시스템 등이 적용되었으며, 스마트스트림 가솔린 1.6, LPI 1.6, 하이브리드 1.6 등 3개의 엔진 제품군으로 운영된다. N 라인과 N 모델은 하반기 중 출시될 예정이다.
 
 
-제목: Oscars 2023: Complete winners list - Entertainment Weekly News
-요약: Check back throughout the ceremony as the 95th Academy Awards winners are revealed.
+제목: Ke Huy Quan & Harrison Ford Have ‘Indiana Jones’ Reunion On Oscar Stage - Deadline
+요약: In September, Indiana Jones and the Temple of Doom stars Harrison Ford and Ke Huy Quan reunited after 38 years, with their sweet embrace backstage at the D23 Expo going viral on Instagram. (You can…
 
-제목: FDIC puts SVB up for auction amid collapse; Feds offer rescue plan - USA TODAY
-요약: Treasury Department, Federal Reserve and FDIC said all Silicon Valley Bank clients will be protected and have access to their funds.
+제목: 2023 Oscars recap: Biggest wins, all the star-studded performances and more - ABC News
+요약: 2023년 제95회 아카데미 시상식에서 'Everything Everywhere All at Once'가 7개 부문에서 수상해 최우수작품상, 감독상, 원작각본상 등을 받았다. 이 영화는 11개 부문에서 후보에 올랐다. 'All Quiet on the Western Front'는 4개 부문에서 수상했다. 여우주연상에서는 미셸 여(Michelle Yeoh)가 아시아 여성 최초 수상을 했고, 남우주연상에서는 브렌던 프레이저(Brendan Fraser)가 수상했다. 이 영화의 케 후이 콴(Ke Huy Quan)과 제이미 리 커티스(Jami
 
-제목: NCAA bracket 2023: Printable March Madness bracket, tournament seeds determined on Selection Sunday - CBS Sports
-요약: Get ready for this year's NCAA Tournament with a blank printable bracket to fill-in with the 68-team field revealed
+제목: Sudden unexpected infant deaths surged among Black babies in 2020 - CNN
+요약: Each year, thousands of babies die suddenly and unexpectedly, and more than 3,300 young lives were lost in 2020. Rates remained stubbornly high in the first year of the Covid-19 pandemic, even as overall infant mortality dropped to a record low.
 
-제목: Mexico leads USA early: WBC live updates and score - FOX Sports
-요약: The 2023 World Baseball Classic continues on Sunday night, as Mexico takes on the USA in Pool C. Here are the top plays!
+제목: Thousands evacuated after California levee breached by flooding - CBS News
+요약: The levee breach occurred as California was hit by its tenth atmospheric river of the winter season.
 
-제목: Ke Huy Quan Fights Through Tears While Winning Best Supporting Actor Oscar: ‘This Is the American Dream!’ - Variety
-요약: Ke Huy Quan, a child star who returned to the spotlight after decades for “Everything Everywhere All at Once,” won the Oscar for best supporting actor. Earning the first standing ovatio…
+제목: Most men with prostate cancer can avoid or delay harsh treatments, long-term study confirms - CNN
+요약: Most men who are diagnosed with prostate cancer can delay or avoid harsh treatments without harming their chances of survival, according to new results from a long-running study in the United Kingdom.
 
-제목: US stock futures rally as Fed acts to stabilise banks - Reuters.com
-요약: U.S. stock futures rallied in Asian trade on Monday as authorities <a href="/business/finance/regulators-urged-find-silicon-valley-bank-buyer-industry-frets-about-fallout-2023-03-12/">announced plans</a> to limit the fallout from the collapse of Silicon Valle…
+제목: Rihanna brings bold maternity style to the Oscars - CNN
+요약: Dressed in a sheer, form-fitting gown, Rihanna arrived on the Oscars' champagne-colored carpet with her baby bump proudly on display — her first high-profile public appearance since last month's Super Bowl.
 
-제목: Oscars Host Jimmy Kimmel Mocks Tom Cruise’s Scientology Ties, Will Smith Slap - Rolling Stone
-요약: Late-night funnyman dedicated his Oscars opening monologue to Nicole Kidman *and* Tom Cruise, and addressed the slap seen ‘round the world
+제목: Oscars Host Jimmy Kimmel Mocks Slap and Tom Cruise, James Cameron for Not Showing Up - Hollywood Reporter
+요약: Here are some of Kimmel's best jokes from his monologue at the 95th Academy Awards.
 
-제목: Iowa women's basketball lands No. 2 seed, on collision course with Stanford - Hawk Central
-요약: The Hawkeyes landed a No. 2 seed and will open the NCAA Tournament Friday. The Hawkeyes and Stanford are on an Elite Eight collision course in Seattle.
+제목: 2023 March Madness TV schedule, announcers: How to watch NCAA Tournament, tip times, TV channels, bracket - CBS Sports
+요약: The complete television and streaming schedule for how to watch March Madness 2023
 
-제목: Prostate cancer study shows some men can avoid, delay aggressive treatments - The Washington Post
-요약: In a group of men followed for a median of 15 years, mortality from prostate cancer was similar whether they received radiation, surgery or active monitoring.
+제목: Biden expected to OK controversial Alaska drilling project Monday - The Hill
+요약: The Biden administration is expected to approve a controversial Alaska oil drilling project known as the Willow Project on Monday, a source familiar with the plans told The Hill.  ConocoPhillips’s Willow Project would allow for as many as 629,000 barrels of o…
 
-제목: Oscars best-dressed: Jaw-dropping looks from Lady Gaga, Michelle Yeoh, Angela Bassett - USA TODAY
-요약: And the title of best dressed at the Oscars goes to... See the stars who are stunning with their sensational style.
+제목: Large group in Mexico attempted mass entry into US at El Paso, Texas border crossing, officials say - CNN
+요약: A large group of people in Mexico approached a US border entry point in El Paso, Texas, Sunday in an attempt at mass entry into the country, causing disruptions along the border and authorities to erect barricades, US Customs and Border Protection said.
 
-제목: World markets set for aftershocks as SVB collapse ripples out - Reuters.com
-요약: Markets were set for a bumpy ride this week as the fallout from collapsed startup-focused lender Silicon Valley Bank (SVB), the biggest U.S. bank failure since the 2008 financial crisis, coincides with <a href="/business/take-five/global-markets-themes-graphi…
+제목: Signature, SVB, Silvergate failures: Effects on crypto sector - CNBC
+요약: The failure of crypto-focused banks once again showed the vulnerability of stablecoins, which can lose their peg in unusual financial situations.
 
-제목: 8 dead after smuggling boats capsize off San Diego coast - The Associated Press - en Español
-요약: SAN DIEGO (AP) — At least eight people were killed when two migrant smuggling boats capsized in shallow but treacherous surf amid heavy fog, authorities said Sunday, marking one of the deadliest maritime human smuggling operations ever off of U.S.
+제목: Cyclone Freddy is officially Earth’s most energetic storm on record - The Washington Post
+요약: Freddy, which made landfall in Mozambique for a second time Saturday, is also the longest-lived tropical cyclone ever observed.
 
-제목: As atmospheric river exits, a new storm threatens California - The Associated Press - en Español
-요약: WATSONVILLE, Calif. (AP) — Wet, miserable weather continued across huge swaths of California on Sunday as an atmospheric river that caused major flooding flowed eastward, while a new storm threatened another onslaught of rain, snow and gusting winds as soon a…
+제목: N Korea conducts new weapons tests; US, S Korea start drills - Al Jazeera English
+요약: North Korea says allies’ military exercises are a rehearsal for war so its weapons are vital for defence.
 
-제목: North Korea fires 2 missiles from submarine, state media reports - CNN
-요약: North Korea launched two missiles from a submarine in the waters of the Sea of Japan Sunday morning local time, according to the state-run news agency KCNA.
+제목: Ukraine Russia war updates: Russian confirms Kremlin infighting - USA TODAY
+요약: Russian Foreign Ministry spokesperson confirmed at a forum that the Kremlin has lost control over the Russian information space. Ukraine updates.
 
-제목: Joint Statement by Treasury, Federal Reserve, and FDIC - Federal Reserve
-요약: Washington, DC -- The following statement was released by Secretary of the Treasury Janet L. Yellen, Federal Reserve Board Chair Jerome H. Powell, and FDIC Cha
+제목: Opinion: Mike Pence's massive display of hypocrisy about January 6 - CNN
+요약: Former Vice President Mike Pence's speech at the annual Gridiron Club Dinner served up a few laughs, some kernels of truth and a massive helping of hypocrisy, writes Dean Obeidallah.
 
-제목: Houston, Kansas, Purdue join Alabama as NCAA tourney's No. 1 seeds - ESPN
-요약: The NCAA men's tournament selection committee named Alabama as the overall No. 1 seed Sunday night, hours after the Crimson Tide defeated Texas A&M to win the SEC championship, capping off a season full of headlines on and off the court.
+제목: 15 million people could endure flooding as another atmospheric river takes aim at storm-battered California - CNN
+요약: Another round of storms is headed to flood-ravaged California, where residents are still grappling with impassable roads, overflowing rivers, inundated neighborhoods and a levee breach that forced hundreds to evacuate.
 
-제목: Stop! This mistake is loading your device with adware and trackers! - Fox News
+제목: Daron Payne contract creates more than $9.4 million in 2023 cap space - NBC Sports
+요약: The Commanders could have signed defensive tackle Daron Payne to a long-term deal before applying the franchise tag. They could have signed him to a long-term deal on or before July 15. Instead, they signed him to a long-term deal today.The contract creates $…
+
+제목: USA vs. Mexico: Free live stream, start time, TV, how to watch World Baseball Classic - MassLive.com
+요약: How to watch Saturday's game.
+
+제목: Treasury, Federal Reserve, FDIC release joint statement mapping out approach to Silicon Valley Bank collapse - Fox Business
+요약: Treasury Department, Federal Reserve, and the FDIC issued a joint statement Sunday mapping out how regulators will handle the failure of Silicon Valley Bank.
+
+제목: This mistake is loading your device with adware and trackers! - New York Post 
 요약: Your computer is sluggish, but you’re not even doing much. Here are five processes you can end right now for a faster, smoother experience.
-
-제목: Google Pixel 7a surfaces in hands-on leak with 8GB RAM, updated camera bar design - 9to5Google
-요약: Breaking news on all things Google and Android. We provide breaking Google Pixel news, everything Android, Google Home, Google apps, Chromebooks, and more!
-
-제목: No Evidence Russia Is Making Progress in Bakhmut: Report - The Daily Beast
-요약: The Wagner Group is “likely becoming increasingly pinned in urban areas” of the Ukrainian city, a U.S.-based think tank said.
-
-제목: Dozens arrested at protests against govt in Moldova - Al Jazeera English
-요약: Some 4,500 people decrying high prices massed in the capital Chisinau to protest against President Maia Sandu.
 
 
