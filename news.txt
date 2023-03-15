@@ -1,118 +1,120 @@
-제목: 뉴스 투데이 2023/3/14 3부 - 한국어 방송 - VOA Korean
-요약: 미국과 한국이 연합훈련을 하고 있는데, 북한은 미사일 도발을 이어가고 있습니다. 백악관은 한반도 안정을 위해 북한의 어떤 행동도 용납하지 않을 것이라고 경고했습니다. 한국을 주요 7개국(G7)에 포함시키는 제안이 나왔는데, 전직 주한 미국대사들은 이를 환영합니다.
+'choices'
+Expecting value: line 1 column 1 (char 0)
+제목: 박성광 “영화 감독 하면서 신경쓸 일 많아…스트레스에 탈모까지” - 동아일보
+요약: 개그맨 겸 영화 감독 박성광이 SBS 예능 프로그램 '신발벗고 돌싱포맨'에 출연해 감독으로서의 고충을 토로했다. 이에 최민수가 박성광에게 영화 출연 이유를 물었고, 박성광은 다른 배우들은 자신이 캐스팅했지만 최민수는 제작사 대표님이 캐스팅했다고 전했다. 박성광은 영화 감독으로서의 압박감과 스트레스를 토크하려 했지만, 최민수의 산만한 태도로 폭소를 유발하며 마무리했다.
 
-제목: '수박 색출' 청원에 입 연 이재명…비명계 "선당후사 해야" - 연합뉴스TV
-요약: 이재명 더불어민주당 대표가 이탈표 사태에 대해 입을 열었다. 생각이 다르다고 해서 색출하고 공격하면 당 단합을 해친다며, 강성 지지층에 자제를 요청했다. 이 대표는 비이재명계로 분류되는 의원들을 대거 배치한 공천 제도 TF 회의에 참석해서도 적극 손을 내밀었다. 하지만 비이재명계에서는 여전히 당 진로에 대한 우려 섞인 발언이 나왔다. 이 대표와 비이재명계의 평행선이 이어지는 가운데, 오는 16일 열리는 민주당 의원총회에서 당의 미래를 둘러싼 난상토론이 예상된다.
+제목: 강제동원 해법 이행·수출 규제 해소… 한일 관계 정상화 속도 낼 듯 - 서울신문
+제목: 손태진 "'불타는 트롯맨' 경연하면서 8㎏ 빠져"…에녹 "난 -10㎏" - 한국아이닷컴
+요약: '불타는 트롯맨' 손태진과 에녹이 경연을 준비하면서 각각 8kg, 10kg의 체중을 감량했다. 이에 MC 도경완은 "터가 안 좋은 건가. 저도 5kg 빠졌다"고 했다.
+
+제목: 흑해 곡물 수출 협정 연장 합의...오커스, 호주에 핵잠수함 공급 계획 발표 - 한국어 방송 - VOA Korean
+요약: GPT3 Return Error: 'choices'
+
+제목: 뉴스 투데이 2023/3/14 3부 - 한국어 방송 - VOA Korean
+요약: 미국과 한국이 연합훈련을 하고 있는데, 북한은 미사일 도발을 이어가고 있습니다. 백악관은 북한의 어떤 행동도 용납하지 않을 것이라고 경고했습니다. 한국을 주요 7개국(G7)에 포함시키는 제안이 나왔는데, 전직 주한 미국대사들은 이를 환영합니다.
+
+제목: 복지부, 국민연금 기금운영위 '민주노총 추천' 위원 해촉 통보 - 한겨레
+요약: 정부가 국민연금 기금운용위원회 위원 구성 변경에 반발한 민주노총 추천 기금운용위원을 해촉하기로 했다. 복지부는 “귀 단체가 추천한 윤택근(민주노총 수석부위원장) 위원이 회의 안건 심의에 반발해 고성과 함께 물건을 집어 던지며 회의 진행을 방해하는 등 위원회 품위를 손상시키는 행위를 했다”며 “국민연금법 시행령에 따라 위원으로 적합하지 않다고 판단돼 해당 위원을 대신할 새 후보를 3월20일까지 추천해 달라”고 요청했다. 이에 민주노총은 반박 공문을 복지부에 보내고, 복지부가 제시한 시한까지 새 위원 후보를 추천하지 않겠다는 입장이다.
+
+제목: 유동규 "양심의 가책으로 자백"…진술 신빙성 공방 - 연합뉴스TV
+요약: 유동규 전 성남도시개발공사 본부장이 김용 전 민주연구원 부원장의 불법 정치자금 혐의 재판에서 진술을 놓고 신빙성 공방이 벌어졌다. 유 전 본부장은 "양심의 가책"으로 적극 진술에 나섰다고 밝혔는데, 김 전 부원장 측은 신빙성을 문제 삼았다. 유 전 본부장은 김만배 씨로부터 428억 원 상당의 천화동인1호 지분 절반을 받아 이 대표를 대통령으로 만드는 데 쓰기로 했다고 주장하며, 이에 대해 김 전 부원장 측은 유 전 본부장이 이 가운데 5억 원을 받아 일부를 썼다면서 신빙성을 공격했다.
+
+제목: 서울 강남 아파트서 70대 경비원 극단 선택‥"인격적 모멸감" - MBC뉴스
+요약: 서울 강남구 대치동 아파트에서 근무하던 70대 경비원이 야외 주차장에서 숨진 채 발견됐다. 경비원은 숨지기 전 동료들에게 관리책임자의 갑질 때문에 힘들다는 취지로 글을 보낸 것으로 알려졌다. 경찰은 정확한 사망 경위를 조사하고 있다.
 
 제목: '어디서든 쏘겠다'‥한미연합연습 중 잇따라 미사일 도발 - MBC뉴스
-요약: 북한이 동해상에서 이동식 발사대로 단거리 탄도미사일 2발을 발사했다. 이번 미사일은 북한이 핵탄두를 탑재할 수 있는 KN-23일 가능성이 제기되고, 발사 지점인 황해남도 장연은 남측 전역이 사정권에 닿는 지역이다. 북한은 이번 미사일 발사로 안정적인 미사일 발사 능력을 과시한 것으로 분석되고 있다.
+요약: 북한이 동해로 이동식 발사대에서 단거리 탄도미사일 2발을 발사했다. 이번 미사일은 북한이 핵탄두를 탑재할 수 있는 KN-23일 가능성이 제기되고, 발사 지점은 남측 전역이 사정권에 닿는 황해남도 장연이었다. 북한은 이번 미사일 발사로 안정적인 미사일 발사 능력을 과시한 것으로 보인다. 한미는 북한의 도발에도 연합연습을 정상적으로 진행할 것이라고 밝혔다.
 
-제목: 이재명 공직 날아갈 재판 앞, 자금 요구?…유동규 신빙성 공방 - 한겨레
-요약: 김용 전 민주연구원 부원장의 불법 정치자금 수수 혐의 재판에서 핵심 증인인 유동규 전 성남도시개발공사 기획본부장의 증언에 대한 신빙성 공방이 벌어졌다. 유 전 본부장은 돈이 건네진 상황 자체를 명확히 기억한다며 맞섰지만, 재판부는 그 시점이 대선 경선 자금을 마련해달라는 정진상 전 민주당 대표실 정무조정실장의 요청으로 대장동 민간사업자인 김만배씨에게 돈을 요구했지만 거절당했다는 취지로 증언한 것과 일치하지 않는다는 의문을 제기했다. 또한, 유 전 본부장이 돈을 주고받은 날짜를 특정하지 못하는 점도 쟁점으로 부각되었다.
+제목: SK 최태원 “루머 짜깁기”…최 회장과 동거인 관련 글 누리꾼에 소송 - 한겨레
+요약: SK그룹 회장 최태원이 자신과 동거인에 대해 부정적인 글을 올린 누리꾼을 상대로 명예훼손 고소 이후, 이번에는 수천만원 규모의 손해배상소송을 냈다. 최 회장은 해당 누리꾼을 형사 고소한 바 있으며, 이번에는 민사 소송까지 제기한 것으로 알려졌다. 최 회장은 누리꾼이 자극적인 루머를 짜깁기하여 악플러들이 활동할 수 있는 공간을 제공하고 있다며, 피고가 댓글 작성자들의 입을 빌어 원고에게 인신공격을 가하고 있다고 주장했다.
 
-제목: 윤 대통령, '근로시간 제도 개편 방안' 재검토 지시 - 한겨레
-요약: 대한민국 대통령 윤석열은 최대 80.5시간까지 일할 수 있도록 하는 정부의 ‘근로시간 제도 개편방안’을 보완하라고 지시했다. 이에 대해 노동자들은 반발하고 있으며, 대통령은 법안을 튼실하게 만들라는 지시를 내리면서 청년 노동자들의 의견을 면밀히 청취하라고 지시했다.
+제목: 윤 대통령-정부-여당, 노동시간 제도 개편 재검토 발언 두고 우왕좌왕 - 한겨레
+요약: 윤석열 대통령이 일자리창출 우수기업 CEO 초청 오찬에서 인사말을 하였다. 그러나 대통령실과 정부, 여당은 윤 대통령의 노동시간 유연화 법안 재검토 지시를 두고 혼선을 자초하였다. 윤 대통령의 발언과 대통령실의 추가 설명은 비판 여론이 높은 정부 법안을 손질하는 쪽으로 물러섰다는 관측을 낳았다. 그러나 한덕수 국무총리는 법안 내용 수정은 없다고 선을 그었다. 여당은 입법 과정에서 수정 가능성을 열어둔 것이다.
 
 제목: 미·영·호주 "호주에 핵잠수함 공급"…中 견제 - 연합뉴스TV
 요약: 미국과 영국, 호주 정상이 중국을 견제하기 위해 호주에 핵잠수함을 공급하기로 합의했습니다. 미국이 2030년대 초에 3척의 핵추진 잠수함을 호주에 판매하고 필요시 2척을 추가로 더 판매할 예정입니다. 이는 중국에 대한 견제의 메시지를 내포하고 있으며, 세 나라 정상은 중국의 반발을 의식하면서도 "핵무기는 탑재하지 않을 것"이라고 밝혔습니다.
 
 제목: 좌완 에이스, 태극마크 내려놓았다… 김광현, 대표팀 은퇴 선언 - 한국아이닷컴
-요약: 김광현이 대표팀 은퇴를 선언했다. 대표팀에서의 경력을 회고하며, 후배들에게 배울 수 있는 기회를 넘겨주어야 한다는 생각을 밝혔다. 김광현은 2008 베이징올림픽 금메달, 2009 WBC 준우승의 주역이었으며, 대표팀의 좌완 에이스로 활약했다.
+요약: 김광현이 대표팀 은퇴를 선언했다. 대표팀에서의 경력을 돌아보며 "대표팀을 하면서 많이 성장했고 배웠다"며 "가슴에 태극기를 달고 경기에 임했을 때의 심정, 금메달을 목에 걸고 애국가를 제창하던 그 모습은 평생 자랑거리이자 자부심"이라고 말했다.
 
 제목: 치매 예방 돕는 '비타민 D'…한국인 90%는 결핍 - 하이닥
-요약: 비타민 D가 치매 예방에 효과가 있다는 연구 결과가 발표되었다. 뇌 연구소에서 10년간 1만 2천 여 명의 고령자를 추적 관찰한 결과, 비타민 D를 복용한 그룹은 비타민 D를 전혀 섭취하지 않은 대조군에 비해 치매 발병률이 40% 낮았다. 비타민 D는 뼈 건강과 면역력에도 좋으며, 결핍 시 만성질환과 자가 면역 관련 질환 발병 위험이 높아지는 등 건강에 중요한 영양 성분이다. 혈중 비타민 D 농도를 파악하고 적정량의 비타민 D를 복용하는 것이 좋으며, 비타민 D 검사는 3~6개월 간격으로 1년에 약 2회를 권장한다.
+요약: 비타민 D가 치매 예방에 효과적이라는 연구 결과가 발표되었다. 또한, 비타민 D 결핍이 코로나19 발생 위험과 중증도를 악화시키는 것으로 나타났다. 비타민 D는 뼈 건강과 면역력에 좋으며, 결핍되면 만성질환과 자가 면역 관련 질환 발병 위험이 높아진다. 혈중 비타민 D 농도를 파악하고 적정량의 비타민 D를 복용하는 것이 중요하며, 비타민 D 검사를 받아 혈중 농도를 파악하는 것이 좋다.
 
-제목: '허파에 바람' 키 큰 남성에게 흔하다는데… - 헬스조선
-요약: 키가 크고 마른 남성에게서 잘 나타나는 기흉은 폐에 구멍이 생겨 공기가 새면서 흉막강 안에 공기나 가스가 고이는 질환이다. 기흉이 생긴 환자가 가장 많이 호소하는 증상은 가슴통증이며, 흡연자는 기낭이 잘 생기므로 기흉 발생률도 증가한다. 기흉은 엑스레이 검사를 통해 확인하고, CT를 통해 범위나 크기 등을 확인해 치료법을 결정한다. 금연이 기본적인 치료법이자 예방법이며, 수술적 치료를 통해 재발을 5~10% 내외로 낮출 수 있다.
-
-제목: "친일파 되련다" 김영환 충북지사 발언 연일 뭇매 - MBC뉴스
-요약: 충북지사 김영환이 일제 강제 동원 피해 배상안을 두둔하면서 "친일파가 되겠다"는 발언으로 여론의 비난을 받고 있습니다. 김 지사는 사과를 거부하며 외부 공식 일정이 줄줄이 연기되거나 취소되는 등 파장이 커지고 있습니다. 공무원 노조는 김 지사가 사과할 때까지 대외 일정을 막겠다고 나섰습니다.
+제목: “단일대오 필요” 민주당 친문계 모임, 이재명 체제 힘 싣기 - 한겨레
+요약: 문재인 대통령의 출신 의원 모임인 '초금회'가 이재명 더불어민주당 대표를 중심으로 단일대표제를 유지해야 한다는 공감대를 이루었다. 이 대표 체제에 대한 논쟁이 이어지면서 초금회는 당 내 화합을 위한 해법을 논의하고 있다. 이 대표 퇴진론에 대해서는 언급되지 않았으며, 비명계 의원모임인 '민주당의 길'은 이 대표 거취론에 대해 일단 선을 그었다. 이 대표는 당원과의 대화에서 당의 단합을 해치는 적대감을 더 강화시키는 것을 우려하며, 체포동의안 표결에서 무효, 기권한 분들의 충정도 이해한다는 입장을 밝혔다.
 
 제목: 중국이 '우크라 평화' 중재자로?…시진핑, 미국 대체 행보 '눈길' - 한겨레
-요약: 중국 국가주석 시진핑은 러시아와 우크라이나와 연속 회담에 나서는 등 본격적인 외교 행보에 나설 전망이다. 중국은 미국을 대체하는 국제사회의 ‘평화 중재자’가 될 수 있을까. 중국의 연속된 외교 행보가 비상한 주목을 끄는 것은 미국 등이 해법을 찾지 못한 세계의 주요 갈등을 푸는 데 중국이 ‘인상적인 돌파구’를 만들어냈기 때문이다.
+요약: GPT3 Error: Expecting value: line 1 column 1 (char 0)
 
-제목: 최근 북반구에서의 아름다운 천문 현상들 – Sciencetimes - Science Times
-요약: 2023년 1~2분기에는 서울에서도 행성 합과 정렬 현상이 발생할 예정이다. 이러한 현상은 착시 현상일 뿐이며, 실제로는 행성들이 어떠한 천문학적인 의미를 가지며 정렬하지는 않는다. 이러한 현상은 우주 탐사선의 스윙바이 항법에도 활용될 수 있다. 최근 북반구에서는 오로라가 자주 관측되고 있으며, 이는 지구의 북극권, 남극권 지역에서 관측할 수 있는 천문현상이다.
+제목: 삼성전자, 日 반도체 조직 통합…우수인력 유치·공급망 대응 - 서울경제 - 서울경제신문
+요약: 삼성전자가 일본 내 반도체와 디스플레이 연구 조직을 통합하여 R&D 기능을 강화하고 일본의 우수 인력을 포섭하기 위한 조치를 취했다. 이번 조직 개편은 글로벌 반도체 공급망에서 일본의 중요성이 점차 높아지는 상황을 대비한 것으로 해석된다. 이에 따라 삼성전자가 일본 관련 사업에 힘을 실을 것으로 예상된다.
 
-제목: 윤 대통령, 기시다와 '2차 만찬'도 예정…강제동원 성과 전망은 불투명 - 한겨레
-요약: 윤 대통령이 16일부터 1박2일 일정으로 일본을 방문해 한-일 정상회담과 ‘한-일 비즈니스 라운드테이블’ 참석 등 본격 대일 외교에 나선다. 윤 대통령은 방일 이틀째인 17일 한일의원연맹·한일협력위원회 소속 정·관계 인사들과 만난 뒤 양국 재계 인사들이 참석하는 ‘한-일 비즈니스 라운드테이블’에 참석한다. 윤 대통령은 지난 13일 국민의힘 지도부와 한 만찬에서 “일본은 이웃 나라인데, 누군가는 부담을 지고 정리하고 가야 한다. 비난이 두려워서 아무것도 안 하면 국익에 도움이 되겠냐”며 강제동원 배상 판결 문제로 얼어붙은 한-일 관계
+제목: 물가 우려 여전한 금통위…"하향세 가시화 않으면 추가 금리 인상"(종합) - 연합인포맥스
+요약: 한국은행 금융통화위원회는 물가 상황에 대한 우려를 표명했다. 일부 위원은 물가가 하향 안정되지 않으면 추가 금리 인상 가능성을 열어둬야 한다고 주장했으며, 다른 위원들은 추가 긴축의 효용보다 과도한 경기 위축 부작용이 클 수 있다고 지적했다. 이에 따라 금리 동결을 주장하는 위원도 있었다. 또한, 물가를 중심으로 국내외 경제여건의 전개상황을 점검해 나가면서 추가인상 가능성을 열어두어야 할 것이라는 의견도 나왔다.
 
+제목: SBS, 양쯔충 오스카 수상소감서 '여성' 삭제했다가 뭇매 - 연합뉴스
 제목: [9988 프로젝트] 거품 소변ㆍ붓는 다리…신장질환 의심하라 - 대전일보
-요약: 만성 콩팥병은 콩팥의 손상으로 인해 정상적인 기능을 수행하는 능력이 감소된 상태를 말한다. 이 질병은 당뇨병과 고혈압, 만성사구체질환, 유전성 질환, 약물에 의한 콩팥 손상, 요로감염, 선천성 콩팥질환 등 다양한 원인으로 발생할 수 있다. 만성 콩팥병은 조기 발견과 예방이 중요하며, 혈액검사와 소변검사를 통해 간단하게 진단할 수 있다. 예방을 위해서는 고혈압과 심혈관 질환의 위험인자를 조절하고, 나트륨 섭취를 제한하며, 흡연을 금하고, 단백질 섭취를 제한하는 등의 생활습관 개선이 필요하다.
+요약: 건강한 콩팥은 생명에 필요한 물질을 생산하고 노폐물을 걸러내는 역할을 합니다. 만성 콩팥병은 콩팥의 손상으로 인해 정상적인 기능을 수행하는 능력이 감소된 상태를 말하며, 당뇨병과 고혈압 등이 원인입니다. 만성 콩팥병은 조기 발견과 예방이 중요하며, 혈액검사와 소변검사로 간단하게 진단할 수 있습니다. 예방을 위해서는 나트륨 섭취를 줄이고, 비만의 교정, 적절한 약물 복용, 흡연과 고지혈증 등 위험인자를 교정하는 것이 필요합니다.
 
-제목: 동결 주장한 금통위원들 "금리인상의 성장·물가 영향 지켜봐야" - MBC뉴스
-요약: 한국은행 금융통화위원회는 지난달 기준금리를 동결하기로 결정하였습니다. 위원들은 1년 반에 걸친 인상이 성장과 물가 등에 미칠 영향을 시간을 두고 지켜볼 필요가 있다고 주장하였습니다. 이에 따라 추가 인상 가능성을 언급한 위원들도 있었지만, 대체로 경제회복력을 위축시키거나 금융안정 측면에서의 리스크를 높일 가능성에 더 주목할 필요가 있다며 동결을 지지하였습니다.
 
-제목: 'SVB 파산' 제2의 리먼 사태?…닮았지만 그때와 다른 이유 / SBS / 이슈Q&A - SBS 뉴스
-제목: 흑해 곡물협정 연장 합의 하루 만에 이견...'악마의 무기' 소이탄 러시아군 격전지 사용 의혹 - 한국어 방송 - VOA Korean
-요약: 우크라이나와 러시아가 흑해 곡물 협정 연장에 대해 합의했지만, 연장 기간을 두고 서로 다른 입장을 나타내 이행에 진통이 예상됩니다. 우크라이나는 120일, 러시아는 60일로 기간을 달리 보고 있습니다. 이에 대해 중재국인 튀르키예 국방부는 "협상과 조정이 계속되고 있다"고 밝혔습니다. 또한, 러시아군이 우크라이나 동부 격전지 주거지역에 소이탄을 사용했다는 주장이 이어지고 있습니다. 이에 대해 우크라이나와 러시아 양측 사상자가 급증하고 있습니다.
+제목: The latest on the Silicon Valley Bank collapse: Live updates - CNN
+요약: Moody's Investors Service, a US-based credit rating firm, cut its outlook for the entire US banking sector Tuesday after placing six US banks on review for potential credit rating downgrades. Follow here for live updates.
 
-제목: 바란, 맨유의 스쿼드를 말하다 - Man Utd
-요약: 뉴스 내용을 파악할 수 없어요. 뉴스 내용을 입력해주세요!
+제목: Russian jet collides with US drone over Black Sea - BBC
+요약: The US says its drone was operating in international airspace when Russian jets tried to intercept it.
 
-제목: 가성비 휴대용 미니 빔프로젝터, 프로젝터매니아 PJM 미니 7 리뷰 - 다나와
-요약: 프로젝터매니아의 'PJM 미니7'은 미니 빔프로젝터로 가정용과 휴대, 캠핑용에 적절한 제품이다. 무게가 가볍고 크기가 작으며, 유선사용과 충전 후, 무선으로 사용할 수 있어서 집안에서도 이곳 저곳 옮겨다니며 사용하거나, 캠핑등의 야외에서 사용하기에도 편리하다. 또한, 기본적인 프로젝터 성능도 준수하며, 와이파이나 블루투스 연결, 편의성등이 높은 편이어서 가성비 제품이라는 생각이 든다. 단점은 높은 퀄리티의 음질을 선호하는 유저에게는 별도의 스피커 연결이 필요하다는 것이다.
+제목: A24 Scores Oscars Sweep, Even as Its Secretive Founders Shun the Spotlight - Variety
+요약: A24, the scrappy indie studio that has built a brand for itself as a home for hip and cutting-edge movies, triumphed over its deeper-pocketed rivals at the Oscars on Sunday. It scored a leading nin…
 
-제목: “총상 사망자 보고 발포 알았다”... 5·18 계엄군 부사관 증언·사과 - 조선일보 - 조선일보
+제목: NFL free agency news, rumors: Latest buzz on top players, teams - USA TODAY
+요약: NFL free agency doesn't officially start until Wednesday, but many of the top players are agreeing to deals during the negotiating period.
 
-제목: NFL free agency 2023 tracker: Jimmy Garoppolo reportedly joining Raiders - Yahoo Sports
-요약: Follow the NFL's annual signing and negotiating bonanza right here with Yahoo Sports.
+제목: Poland ready to provide MiG-29s to Ukraine in 4 to 6 weeks; Russia fighter jet strikes US drone: Live updates - USA TODAY
+요약: The Polish military has almost 30 of the MiG-29 fighter jets, but the prime minister did not say how many jets he would be willing to commit. Updates.
 
-제목: Meta to Lay Off 10,000 More Employees, Mark Zuckerberg Says - Variety
-요약: Meta, parent company of Facebook and Instagram, is pink-slipping another 10,000 employees, coming on the heels of laying off 11,000 last fall. Mark Zuckerberg, Meta’s co-founder and CEO, anno…
+제목: Zuckerberg's Meta to lay off another 10000 employees - The Guardian
+요약: Restructuring, as part of the company’s ‘Year of Efficiency’, also sees 5,000 unfulfilled job adverts closed
 
-제목: Sources - Raiders add WR Jakobi Meyers on 3-year deal - ESPN
-요약: Receiver Jakobi Meyers has agreed to a three-year contract with the Las Vegas Raiders worth $33 million, including $21 million guaranteed, sources told ESPN's Adam Schefter.
+제목: SVB collapse was driven by 'the first Twitter-fueled bank run' - CNN
+요약: The massive amount of customer withdrawals that led to the collapse of Silicon Valley Bank had all the hallmarks of an old-fashioned bank run, but with a new twist befitting the primary industry the bank served: much of it unfolded online.
 
-제목: Google pushes further into generative A.I. with tool that creates text for Gmail and Docs - CNBC
-요약: Google has started testing features to create text with artificial intelligence in its Gmail and Google Docs applications.
+제목: Russia's war in Ukraine: Live updates - CNN
+요약: Fighting in Bakhmut appears to be focused around a sprawling industrial plant in the north of the city. Follow here for live news updates.
 
-제목: Bayonetta Origins: Cereza and the Lost Demon is a gorgeous and gimmicky breath of fresh air - The Verge
-요약: Bayonetta Origins: Cereza and the Lost Demon — out March 17th — is a beautiful new spin on PlatinumGames’ iconic Umbra Witch that plays more like an interactive storybook than a game.
+제목: Lindsay Lohan Pregnant, Expecting First Baby with Husband Bader Shammas - PEOPLE
+요약: Lindsay Lohan and Bader Shammas tied the knot in April
 
-제목: 2023 NCAA Tournament bracket predictions: March Madness expert picks, winners, upsets, favorites to win - CBS Sports
-요약: Our experts have filled out their brackets, so check who they predict will be cutting down the nets before you fill out yours
+제목: Google Pixel 8 Pro gets revealed in newly leaked renders - XDA Developers
+요약: It looks like the Google Pixel 8 Pro has leaked, giving us a excellent look at its exterior.
 
-제목: Dow futures gain nearly 200 points after in-line inflation report, bank stock rebound: Live updates - CNBC
-요약: Investors pushed up bank stocks while watching the latest inflation data
+제목: Google is shoving generative AI into Gmail, Docs, Sheets, Meet, Chat and Slides - Engadget
+요약: You'd better already be comfortable with using AI in your daily life because Google's about to put the tech front and center in all of its Workspace products..
 
-제목: Donald Trump: 'In many ways' you could blame Jan. 6 violence on .... Mike Pence - USA TODAY
-요약: Trump responded to Pence's statement that history would hold the former president accountable for the insurrection of Jan. 6, 2021.
+제목: Cyclone Freddy kills 190 in Malawi as rain complicates rescue efforts - Reuters
+요약: Cyclone Freddy, one of the most powerful storms ever recorded in the southern hemisphere, has killed 190 people in Malawi after ripping through southern Africa for the second time in a month, Malawi's government said on Tuesday.
 
-제목: Inflation rose 0.4% in February as prices remain stubbornly high - Fox Business
-요약: Inflation rose in line with expectations in February as price pressures in the economy remain uncomfortably high, according to CPI data released Tuesday.
+제목: NASA's Latest Request for Cash Includes Big Plans for a Deorbiting ISS 'Space Tug' - Gizmodo
+요약: The Biden administration wants $27.2 billion for NASA’s 2024 budget, with the space agency prioritizing Moon and Mars missions.
 
-제목: Asset management firm Baron Capital bought Charles Schwab shares, CNBC reports - Yahoo Finance
-요약: The 79-year-old founder of Baron Capital didn't disclose how much he purchased, according to the report.  On Monday, the Texas-based Charles Schwab reported ...
+제목: First nor'easter of the season brings rain, wind to the Big Apple - New York Post 
+요약: A powerful nor’easter dumped over a foot of heavy snow in parts of upstate New York this week while mostly sparing the Big Apple, where heavy rain and damaging winds will continue to intensif…
 
-제목: Jason Kennedy praises Ashley Graham for handling Hugh Grant's Oscars 'nonsense' - Page Six
-요약: The entertainment journalist threw shade at the English actor, writing, “Now you see why Hugh Grant isn’t one of our favorites to interview live.”
+제목: Missing Dallas teen was abducted and raped by man she met online and locked in a shed in North Carolina, authorities say - CNN
+요약: A 13-year-old girl reported missing in Dallas was found locked in a shed more than 1,000 miles away in North Carolina after she was abducted and raped by a man she met on a social media platform, authorities said.
 
-제목: Manchin aligns with GOP on Biden oil drilling project, defends record on energy production as Dems fret - Fox News
-요약: Democrat West Virginia Sen. Joe Manchin aligned himself with Republicans in support of President Biden's decision to reapprove a massive oil drilling project in Alaska.
+제목: SVB collapse: Moody's flags six other banks with concerning credit ratings - Fox Business
+요약: Moody's Investors Services placed six banks on review for downgrade after the sudden collapse of Silicon Valley Bank on Friday.
 
-제목: North Carolina's top court to hear redistricting case with national implications - Reuters
-요약: The new conservative majority on North Carolina's top court will consider on Tuesday whether to overturn the court's decision last year outlawing partisan redistricting, a move that would boost Republicans ahead of the 2024 congressional elections.
+제목: NASA's SpaceX Crew-5 to Discuss Mission Following Return to Earth - NASA
+요약: Following a five-month stay aboard the International Space Station, the four members of NASA’s SpaceX Crew-5 mission are safely back on Earth and will answer questions in a news conference at 2 p.m. EDT Wednesday, March 15.
 
-제목: This Hollywood Star "Literally Gasped" When Natasha Poonawalla Passed By At Vanity Fair Party - NDTV Movies
-요약: For the event, Natasha Poonawalla stepped out in a Jean Paul Gaultier ensemble in bright gold
+제목: 49ers Rumors: Sam Darnold Signs 1-Year Contract After Jimmy Garoppolo Joins Raiders - Bleacher Report
+요약: <b>SIGNS WITH TEAM X</b> After spending the last two seasons with the Carolina Panthers, quarterback Sam Darnold has found a new home. According to...
 
-제목: Huliapole in Southern Ukraine Braces for 'Decisive' Counteroffensive on Russian Forces - The Daily Beast
-요약: The next onslaught could very well be this town’s do-or-die moment.
+제목: San Francisco to air Black reparations plan, $5M per person - The Associated Press - en Español
+요약: SAN FRANCISCO (AP) — A controversial draft reparations proposal that includes a $5 million lump-sum payment for each eligible Black person could make San Francisco the first major U.S. city to fund reparations, though it faces steep financial headwinds and bl…
 
-제목: Nor'easter Brings Heavy Snow, High Winds To East - The Weather Channel
-요약: Here's our latest forecast for who will see heavy snowfall, rain, high winds and coastal flooding. - Articles from The Weather Channel | weather.com
-
-제목: Biden reveals that he'll deliver a eulogy for Jimmy Carter - The Washington Post
-요약: President Biden said he had recently spent time with the former president — who is in home hospice care — and was asked to deliver a eulogy.
-
-제목: NASA, DOE Telescope on Far Side of the Moon Will Reveal the Dark Ages of the Universe - SciTechDaily
-요약: NASA and the Department of Energy (DOE) are working together to develop a science instrument that will survive the harsh and unforgiving environment of the lunar surface at night on the far side of the Moon to attempt first-of-its-kind measurements of the Dar…
-
-제목: China looms large as Biden makes submarine moves with UK, Australia - CNN
-요약: President Joe Biden was flanked on Monday by a 377-foot submarine -- the USS Missouri -- as he announced an accelerated timeline for Australia to receive its own nuclear-powered submarines early next decade.
-
-제목: War in Ukraine: Intense fighting in Bakhmut as Finland considers sending fighter jets to Kyiv - Euronews
-요약: Intense fighting continues in the Eastern Ukrainian city of Bakhmut as Moscow agrees to a 60-day grain deal extension.
+제목: Biden to issue order to strengthen gun background checks - The Associated Press - en Español
+요약: SAN DIEGO (AP) — President Joe Biden is expected to sign an executive order on Tuesday aiming to increase the number of background checks to buy guns, promote better and more secure firearms storage and ensure U.S.
 
 
