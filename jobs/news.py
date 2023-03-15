@@ -53,6 +53,7 @@ def get_news(country, category):
     else:
         # If any other error occurs, print error message
         #print(f'Error {response.status_code}: Could not retrieve {category} news for {country}.')
+        pass
 
 
 if __name__ == "__main__":
