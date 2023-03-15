@@ -22,7 +22,7 @@ def get_clean_text_from_url(url):
 
 if __name__ == "__main__":
     # Get the text from the URL
-    text = get_clean_text_from_url('https://weather.naver.com/')
+    text = get_clean_text_from_url('https://www.weather.go.kr/w/weather/forecast/mid-term.do')
 
     # Print the text
     print(text)

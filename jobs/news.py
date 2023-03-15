@@ -3,10 +3,12 @@ import datetime
 import os
 import time
 from newspaper import Article
+import sys
 
 from chatgpt import summary
 
 NEWS_API_KEY = os.environ["NEWS_API_KEY"]
+
 
 def get_url_text(url):
     try:
@@ -14,7 +16,7 @@ def get_url_text(url):
         article.download()
         article.parse()
     except Exception as e:
-        #print("Error parsing article", e)
+        sys.stderr.write(f'Error parsing article {e}')
         return None
 
     return article.text
@@ -40,29 +42,23 @@ def get_news(country, category):
                 desc = get_url_text(article['url'])
                 if desc:
                     desc = summary(desc)
-            
+
             if desc:
                 output += f"요약: {desc[:300]}\n\n"
-            #output += 'URL: {}\n\n'.format(article['url'])
+            output += 'URL: {}\n\n'.format(article['url'])
+            sys.stderr.write(f'Output: {output}')
         return output
-    elif response.status_code >= 400 and response.status_code < 500:
-        # If rate limit is exceeded, sleep for 1 second and try again
-        #print(f'Error {response.status_code}: {response.text}, retrying in 2 second...')
-        time.sleep(2)
-        return get_news(country, category)
     else:
-        # If any other error occurs, print error message
-        #print(f'Error {response.status_code}: Could not retrieve {category} news for {country}.')
+        sys.stderr.write(f'Error {response.status_code}: {response.text}')
 
 
 if __name__ == "__main__":
     # Define countries and categories
-    countries = ['kr', 'us']
+    countries = ['kr']
     categories = ["general"]
     # Get today's date as a string
     today = datetime.date.today().strftime('%Y-%m-%d')
-    
+
     for country in countries:
         for category in categories:
             print(get_news(country, category))
-
