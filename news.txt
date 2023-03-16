@@ -1,15 +1,15 @@
 제목: 용인에 세계 최대 반도체클러스터 구축…300조 투자·160만 고용 유발 | 서울특별시 미디어재단 TBS - TBS뉴스
-요약: 취약계층 중에서도 씻을 곳이 없는 사람들이 많은데, 이들을 위해 공공목욕탕과 바우처를 활용하는 방안이 제시되고 있다.
+요약: 취약계층 중 씻을 곳이 없는 사람들을 위해 공공목욕탕과 바우처를 활용하는 해결책이 제시되고 있다.
 
 URL: https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdGJzLnNlb3VsLmtyL25ld3MvbmV3c1ZpZXcuZG8_dHlwXzgwMD0xJmlkeF84MDA9MzQ5MjA0MyZzZXFfODAwPTIwNDg0NzQ00gEA?oc=5
 
 제목: 미·러 국방장관, 무인기 충돌 관련 전화 통화 - 연합뉴스TV
-요약: 러시아와 미국 국방장관이 미국 무인기와 러시아 전투기의 충돌 사건과 관련하여 전화 통화를 진행했다. 자세한 내용은 공개되지 않았지만, 양국은 우크라이나 상황 등에 대해 논의했다. 이번 통화는 미·러 양국의 3번째 전화 통화로, 가장 최근 통화는 5개월 전에 이뤄졌다.
+요약: 러시아와 미국 국방장관이 미국 무인기와 러시아 전투기의 충돌 사건과 관련하여 전화 통화를 진행했다. 자세한 내용은 공개되지 않았지만, 양국은 우크라이나 상황 등을 논의했다. 이번 통화는 미·러 양국의 3번째 전화 통화로, 가장 최근 통화는 5개월 전에 이뤄졌다.
 
 URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwMzE2MDAxMTAwNjQx0gEA?oc=5
 
 제목: 카톡 오픈채팅방 '이용자 식별번호'는 개인정보일까 아닐까 - 한겨레
-요약: 카카오톡 오픈채팅방에서 불법 프로그램을 사용해 추출한 이용자 식별번호 ‘톡유저아이디’가 개인정보보호법 적용을 받는 개인정보에 해당되는지를 두고 논란이 일고 있다. 카카오와 개인정보보호위원회(이하 개인정보위)가 이견을 보이는 가운데, 정보인권단체 쪽에선 “카카오가 개인정보의 범위를 다소 좁게 해석해 당국 신고 및 이용자 고지 절차가 늦어진 것 아니냐”는 지적과 함께, “개인정보 유출 사고 발생 시 기업들이 개인정보의 범위를 되도록 폭넓게 해석해 이용자 보호 조치를 적극적으로 취하는 계기가 되게 해야 한다”는 주문이 나온다.
+요약: 카카오가 불법 프로그램을 사용해 추출한 이용자 식별번호 '톡유저아이디'가 개인정보보호법 적용을 받는 개인정보에 해당되는지를 두고 논란이 일고 있다. 카카오는 톡유저아이디만으로는 개인 식별이 불가능하다며 개인정보에 해당하지 않는다고 주장하고 있지만, 개인정보보호위원회는 다른 정보와 결합돼 개인 식별이 가능해지면 개인정보에 해당된다는 입장이다. 이에 대해 정보인권단체는 기업들이 개인정보의 범위를 폭넓게 해석해 이용자 보호 조치를 적극적으로 취하는 계기가 되어야 한다는 주장을 내놓았다.
 
 URL: https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9lY29ub215L2l0LzEwODM4MjIuaHRtbNIBAA?oc=5
 
@@ -20,45 +20,45 @@ URL: https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vaGVhbHRoLmNob3N1bi5jb2
 URL: https://news.google.com/rss/articles/CCAiC041V2V0LWdsMjhnmAEB?oc=5
 
 제목: 전두환 손자 "연희동 집에 돈·채권 넘쳐났다" 폭로 이어가 - 뉴스핌
-요약: 전두환 전 대통령 일가의 비리와 비자금 의혹을 폭로한 손자 전우원씨는 미국에서 자신의 주장을 이어가며 "범죄자들은 심판을 받아야 한다"고 말했다. 전씨는 할아버지인 전두환 전 대통령 일가의 자금력이 어마어마하다며 수십억, 수백억이 얼마나 있는지 알 수 없다고 주장했고, 거액의 비자금 돈을 받은 사람들은 주변의 명의를 빌려서 많은 곳의 부동산 등에 투자했다고 말했다. 전씨의 아버지인 전재용씨는 전날 언론에 "아들이 많이 아프다"며 "저는 가족이니까 괜찮은데 지인들이 피해를 보셔서 죄송하다. 아들을 돌보지 못한 애비 잘못"이라고 말했다
+요약: 전두환 전 대통령 일가의 비리와 비자금 의혹을 폭로한 손자 전우원씨는 미국에서 자신의 주장을 이어가며 "범죄자들은 심판을 받아야 한다"고 말했다. 전씨는 할아버지인 전두환 전 대통령 일가의 자금력이 어마어마하다며 수십억, 수백억이 얼마나 있는지 알 수 없다고 주장하며 거액의 비자금 돈을 받은 사람들은 주변의 명의를 빌려서 많은 곳의 부동산 등에 투자했다고 말했다.
 
 URL: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lm5ld3NwaW0uY29tL25ld3Mvdmlldy8yMDIzMDMxNjAwMDAxNtIBMWh0dHBzOi8vbS5uZXdzcGltLmNvbS9uZXdzYW1wL3ZpZXcvMjAyMzAzMTYwMDAwMTY?oc=5
 
 제목: 오늘 한일 정상회담‥"12년 만의 셔틀외교" - MBC뉴스
-요약: 윤석열 대통령이 1박 2일간의 일본 방문을 시작했다. 윤 대통령과 일본 총리는 강제동원 배상 문제와 관련한 회담을 가졌다. 이번 회담에서는 공동선언문은 없었지만, 관계 개선과 경제협력에 대한 기대감을 내비쳤다. 대통령실은 경제 분야의 장관급 협력 채널을 조속히 복원하고, 주요 협력 사업을 속도감 있게 논의하고 합의해 나갈 것이라고 밝혔다. 윤 대통령은 강제동원 배상안과 관련해 "구상권 행사로 이어지지 않을 방법을 검토해 일본 측이 걱정하지 않아도 된다"고 밝혔다.
+요약: 윤석열 대통령이 1박 2일간의 일본 방문을 시작했다. 대통령실은 "12년 만의 셔틀외교 복원"이라며 한일 관계 개선에 기대감을 표명했다. 윤 대통령은 일본 총리와 만나 강제동원 배상안과 관련해 "구상권 행사로 이어지지 않을 방법을 검토해 일본 측이 걱정하지 않아도 된다"고 밝혔다. 대통령은 내일 한일 비즈니스 라운드테이블에 참석하고, 일본 게이오대학을 방문해 강연할 예정이다.
 
 URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253dG9kYXkvYXJ0aWNsZS82NDY0NDM3XzM2MjA3Lmh0bWzSAUZodHRwczovL2ltbmV3cy5pbWJjLmNvbS9yZXBsYXkvMjAyMy9ud3RvZGF5L2FydGljbGUvNjQ2NDQzN18zNjIwOC5odG1s?oc=5
 
 제목: SVB 사태에 예금자 보호 한도 '5천만원' 높일까… 위기시 '전액 보호'도? - 한겨레
-요약: 한국 금융기관의 예금자 보호 한도가 2001년 이후로 23년째 제자리를 유지하고 있는 가운데, 미국 실리콘밸리은행 파산 사태를 계기로 예금자 보호 한도 상향에 대한 목소리가 높아지고 있다. 금융당국은 금융 시스템 전체가 마비될 정도로 위기가 발생했을 때는 예금 전액을 보호해주는 방안까지 검토하고 있다. 이에 대한 제도 개선안은 8월 말 발표될 예정이다. 다만, 예금 보호 확대에는 도덕적 해이 논란도 뒤따를 수 있다.
+요약: 한국 금융기관의 예금자 보호 한도가 2001년 이후로 23년째 제자리를 유지하고 있어, 금융당국은 이를 개선하기 위한 제도 개선 TF를 구성하고, 8월 말에 개선안을 발표할 예정이다. 미국 실리콘밸리은행(SVB) 파산 사태를 계기로, 금융 시스템 전체가 마비될 정도로 위기가 발생했을 때는 예금 전액을 보호해주는 방안까지 검토하고 있다. 현재 예금자 보호법에 따르면, 고객 예금은 예금보험공사로부터 1인당 최대 5천만원까지 돌려받을 수 있으며, 이 보호 한도는 2001년 국내총생산(GDP) 등을 근거로 책정된 것이다.
 
 URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9lY29ub215L2Vjb25vbXlfZ2VuZXJhbC8xMDgzODE4Lmh0bWzSAQA?oc=5
 
 제목: 김연경만큼 중요했던 인물… ‘구원투수’ 김대경, 1위 흥국생명 이끈 영웅 - 한국아이닷컴
-요약: 흥국생명이 V-리그 여자부 6라운드에서 IBK기업과의 원정경기에서 3-0으로 승리해 정규리그 1위를 차지했다. 이번 1위는 감독 경질 사태로 휘청이던 팀을 이끈 김대경 코치의 헌신 덕분이라는 평가를 받았다. 김대경 코치는 감독대행으로서 선수들을 다독이며 엉망진창으로 변한 팀을 수습하고, 김연경-옐레나 로테이션 문제를 수정해 팀의 공격력을 끌어올렸다.
+요약: 흥국생명이 V-리그 여자부 정규리그 1위를 차지했다. 이번 성과는 감독대행으로 일을 맡은 김대경 코치의 노력 덕분이라는 평가다. 김대경 코치는 감독대행으로서 선수들을 다독이며 엉망진창으로 변한 팀을 수습하고, 김연경-옐레나 로테이션 문제를 수정해 팀의 공격력을 끌어올렸다. 이로 인해 흥국생명은 정규리그 1위를 차지하게 됐다.
 
 URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NjQwNjDSAT1odHRwczovL3d3dy5oYW5rb29raS5jb20vbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTY0MDYw?oc=5
 
 제목: 윤대통령·기시다 오늘 한일정상회담…공동기자회견서 나란히 발표 - 연합뉴스TV
-요약: 윤대통령이 1박 2일 일정으로 일본 도쿄를 방문하여 기시다 일본 총리와 정상회담을 갖습니다. 이번 회담에서는 강제징용 배상해법 논의가 최대 쟁점으로 떠오르고 있습니다. 양측의 입장을 정리하기에 시간이 충분치 않아 공동선언은 없을 예정이며, 추후 한일 공동선언이 발표될 수 있을 것으로 기대됩니다.
+요약: 윤대통령이 1박 2일 일정으로 일본 도쿄를 방문해 김건희 여사와 함께 한일정상회담을 갖습니다. 이번 회담에서는 강제징용 배상해법 논의가 최대 쟁점으로 떠오르고 있습니다. 양측의 입장을 정리하기에 시간이 충분치 않아 공동선언은 없을 예정이며, 회담 결과는 공동 기자회견에서 발표될 예정입니다. 이번 일정에서는 한일 공동선언문은 나오지 않을 것으로 보입니다.
 
 URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwMzE2MDAwMTAwNjQx0gEA?oc=5
 
 제목: 국민의힘, 오늘 MZ노조와 토론회 열고 '주 69시간 근로제' 의견 청취 - MBC뉴스
-요약: - 국민의힘은 MZ세대 노동조합을 만나 여론 수렴에 나섭니다.
-- 국회 환경노동위원회 여당 간사인 임이자 의원실은 MZ노조로 불리는 '새로고침 노동자협의회'와 IT 기업, 전문가의 의견을 들을 예정입니다.
+요약: - 국민의힘은 MZ세대 노동조합과 만나 여론 수렴에 나섭니다.
+- 국회 환경노동위원회 여당 간사인 임이자 의원실은 MZ노조와 IT 기업, 전문가의 의견을 들을 예정입니다.
 - 이정식 고용노동부 장관도 MZ노조 등과 가진 비공개 면담에서 주 69시간 근로제와 관련된 우려 사항을 전달받고 보완 방안을 마련하겠다고 밝혔습니다.
-- 윤석열 대통령은 근로시간제 개편안을 두고 논란이 일자, 근로자들의 다양한 의견, 특히 MZ세대의 의견을 면밀히 청취해 법안 내용과 대국민 소통에 보완할 점을 검토하라고 지시했습
+- 윤석열 대통령은 근로시간제 개편안에 대해 다양한 의견을 청취하고 보완할 점을 검토하라고 지시했습니다.
 
 URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9wb2xpdGljcy9hcnRpY2xlLzY0NjQ0MjlfMzYxMTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9wb2xpdGljcy9hcnRpY2xlLzY0NjQ0MjlfMzYxMjAuaHRtbA?oc=5
 
 제목: “이 안개 속에서도 35층 위 올라가야…'태업'이라 몰아대니” - 한겨레
-요약: 한겨레 신문에 따르면, 윤석열 정부의 건설현장 불법·부당행위 근절대책으로 월례비가 사라지면서 타워크레인 조종사들이 위험한 작업을 하고 있다. 또한, 작업을 지연시키면 조종사 면허를 정지하겠다는 대책으로 인해 조종사들은 안전에 대한 문제 제기가 어려워졌다. 이에 대해 전문가들은 느슨한 안전규정이 산업재해로 이어질 수 있다고 경고하고 있다.
+요약: 한겨레가 보도한 타워크레인 조종사들의 위험한 작업 현실에 대한 기사입니다. 윤석열 정부의 건설현장 불법·부당행위 근절대책으로 월례비가 사라졌지만, 여전히 불법 작업이 이어지고 있습니다. 또한, 조종사들은 태업 때리기 대책으로 인해 안전에 대한 문제 제기가 어려워졌다고 지적하고 있습니다. 이에 대해 전문가들은 느슨한 안전규정이 산업재해로 이어질 수 있다고 경고하고 있습니다.
 
 URL: https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L2xhYm9yLzEwODM4MTcuaHRtbNIBAA?oc=5
 
 제목: '한-일청구권 협정-대법 판결 모순” 일본식 논리로 사법부 판단 무시 - 한겨레
-요약: 한일청구권 협정 적용 문제로 대법원 판결을 부정하는 발언이 윤석열 대통령에 의해 이루어졌다. 이는 헌법 가치에 정면으로 반하는 것으로 지적되고 있다. 대법원은 2018년 한일청구권 협정의 적용 대상이 아니라고 밝혔다. 이에 대해 일본은 국제법 위반이라고 주장해왔다. 이번 일본 방문을 앞둔 윤 대통령은 일본 피고 기업에 대한 구상권 행사 가능성을 배제하면서 일본 쪽 의구심을 씻으려는 모습을 보였다.
+요약: 한일 청구권 협정과 강제동원 피해자 배상 판결 사이에 모순이 있다는 발언으로 대법원의 결정을 부정하는 것이라는 비판이 일어났다. 대법원은 2018년 강제동원 피해자에 대한 배상 판결에서 청구권 협정의 적용 대상이 아니라고 밝혔다. 이에 대해 국회가 새로운 합의를 모아 입법을 하면 모를까, 행정부가 행정 행위로 이를 뒤집는 것은 명백히 헌법적 가치에 반한다는 의견이 제시되었다.
 
 URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9wb2xpdGljc19nZW5lcmFsLzEwODM4MTQuaHRtbNIBAA?oc=5
 
@@ -66,22 +66,22 @@ URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYX
 URL: https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmNob3N1bi5jb20vY3VsdHVyZS1saWZlL2hlYWx0aC8yMDIzLzAzLzE2L0o1RFhWT1lRUUpEVDNLRVZUVE1FRElVRlRRL9IBYGh0dHBzOi8vd3d3LmNob3N1bi5jb20vY3VsdHVyZS1saWZlL2hlYWx0aC8yMDIzLzAzLzE2L0o1RFhWT1lRUUpEVDNLRVZUVE1FRElVRlRRLz9vdXRwdXRUeXBlPWFtcA?oc=5
 
 제목: 미 국무부 고위 관리 “한국과 핵잠수함 기술 공유 계획 없어” - 한국어 방송 - VOA Korean
-요약: 미국 국무부는 한국과 핵 잠수함 기술을 공유할 계획이 없다고 밝혔습니다. 이에 대해 국방부 대변인은 한국과 함께 다양한 첨단 군사 역량에 대한 프로그램을 실행하고 있으며, 상호 이익이 있다면 동맹과 긴밀한 파트너를 관여시킬 수 있다고 말했습니다. 미국은 호주에 최신형 공격용 잠수함을 판매할 예정이지만, 다른 동맹국에는 핵 잠수함을 공유할 계획이 없다는 입장을 분명히 했습니다.
+요약: 미국 국무부는 한국과 핵 잠수함 기술을 공유할 계획이 없다고 밝혔습니다. 이에 대해 국방부 대변인은 한국과 함께 다양한 첨단 군사 역량에 대한 프로그램을 실행하고 있으며, 상호 이익이 있다면 동맹과 긴밀한 파트너를 관여시킬 수 있다고 말했습니다. 미국은 호주에 최신형 공격용 잠수함을 판매할 예정이지만, 다른 동맹국에는 핵 잠수함을 공유할 계획이 없다는 입장을 밝혔습니다.
 
 URL: https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hLzcwMDcxMTAuaHRtbNIBKWh0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hbXAvNzAwNzExMC5odG1s?oc=5
 
 제목: [전문가 칼럼] 보험의 본질은 변하지 않는다 - 아주경제_모바일
-요약: 보험산업은 급격한 환경 변화에 직면하고 있으며, 이에 맞추어 보험의 역할도 변화가 요구되고 있다. 보험의 본질은 이웃사랑을 실천하는 것이며, 이웃의 어려움을 돕는 것이 보험산업의 핵심 역할이다. 최근에는 건강을 관리하고 돌봄으로써 사고를 미리 방지하는 위험의 사전 예방이 주요한 역할로 요구되고 있다. 이러한 변화에 맞추어 보험사의 새로운 비즈니스 모델과 법규의 대대적인 변신이 필요하다.
+요약: 보험산업은 급변하는 환경에서도 변하지 않는 본질을 가지고 있다. 이웃에 대한 사랑을 실천하는 것이 보험의 본질이며, 이를 통해 경제적 도움을 제공한다. 최근에는 기술 진보로 인해 위험예방이 주요한 역할로 요구되고 있으며, 이를 위해 보험사의 새로운 비즈니스 모델과 법규의 대대적인 변신이 필요하다. 그러나 보험의 본질, 즉 이웃에 대한 사랑의 마음은 변하지 않을 것이다.
 
 URL: https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vbS5hanVuZXdzLmNvbS92aWV3LzIwMjMwMzE1MDgwMDA5NjUx0gEraHR0cHM6Ly9tLmFqdW5ld3MuY29tL2FtcC8yMDIzMDMxNTA4MDAwOTY1MQ?oc=5
 
 제목: 뉴스 투데이 2023/3/15 3부 - 한국어 방송 - VOA Korean
-요약: 북한이 황해남도에서 지대지 탄도미사일 2발을 사격하는 훈련을 실시했다고 발표했습니다. 미국 백악관은 이러한 도발이 미한 연합훈련을 방해하려는 의도라면 실패할 것이라고 지적했습니다. 윤석열 대통령은 북한의 핵 위협에 대처하기 위해 미국과 일본과의 협력이 중요하다고 강조했습니다.
+요약: 북한이 황해남도에서 지대지 탄도미사일 2발을 사격하는 훈련을 실시했다고 발표했습니다. 미국 백악관은 이러한 도발이 미한 연합훈련을 방해하려는 의도라면 성공하지 못할 것이라고 지적했습니다. 윤석열 대통령은 북한의 핵 위협에 대처하기 위해 미국과 일본과의 협력이 중요하다고 강조했습니다.
 
 URL: https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hLzY5ODQ0NDMuaHRtbNIBKWh0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hbXAvNjk4NDQ0My5odG1s?oc=5
 
 제목: 김용준, 장영란 소개로 아이스하키 감독과 데이트...문세윤 “더 웃었으며 조커 될 뻔” (신랑수업) - iMBC연예
-요약: 김용준이 '자만추' 현장에서 아이스하키를 배우며 넘어지는 모습이 방송됐다. 김용준은 안감독과의 만남이 부끄러웠지만, 계속해서 넘어질 때마다 안감독이 도와주며 김용준과 친해졌다. 김용준은 이후 패널들에게 배우고 싶으면 어떻게 연락을 드려야 하는지 물어봤다. 이 프로그램은 매주 수요일 오후 9시 10분에 방송된다.
+요약: 김용준이 '자만추' 현장에서 아이스하키를 배우며 넘어졌다는 뉴스입니다. 김용준은 안감독과의 만남이 부끄러웠지만, 계속해서 넘어질 때마다 안감독이 도와주며 김용준은 밝은 표정으로 즐겁게 시간을 보냈습니다. 이에 시청자들은 김용준의 모습에 반응하며, 프로그램 '요즘 남자 라이프 - 신랑수업'은 매주 수요일 오후 9시 10분에 방송된다고 합니다.
 
 URL: https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vZW5ld3MuaW1iYy5jb20vTmV3cy9SZXRyaWV2ZU5ld3NJbmZvLzM3NjMzNdIBAA?oc=5
 
@@ -91,7 +91,7 @@ URL: https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vZW5ld3MuaW1iYy5jb20vTm
 URL: https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmJvc2lrLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz05ODE50gE4aHR0cHM6Ly93d3cuYm9zaWsua3IvbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTk4MTk?oc=5
 
 제목: '비례 확대' 여 반대, 야 찬성…국민의힘 “병립형으로” 민주당 “권역별 연동형” 정의당 “병립형 안 돼” - 경향신문
-요약: 국회 전원회의가 2주간 열리면서 선거제 개편안을 논의하고 있다. 국민의힘과 더불어민주당은 각각 의원총회를 열어 선거제도 당론을 논의하고 있으며, 비례대표 제도를 병립형으로 할지 연동형으로 할지를 두고 뚜렷한 차이를 보이고 있다. 이 간극을 메우고 4월 안에 합의안을 도출할 수 있을지가 선거제 개편의 주요 관건이다.
+요약: 국회 전원회의에서 선거제 개편안을 논의하고 있는데, 비례대표 제도를 병립형으로 할지 연동형으로 할지를 두고 양당 간에 차이가 있어 합의안 도출이 관건이다. 국민의힘은 지역구 의석수를 줄이지 않으려면 지역구 의석이 늘어날 수 밖에 없다는 입장이며, 더불어민주당은 권역별 비례제를 도입해야 한다는 입장이다. 정의당은 연동형이나 준연동형 비례제를 지지하고 있다.
 
 URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmtoYW4uY28ua3IvcG9saXRpY3MvYXNzZW1ibHkvYXJ0aWNsZS8yMDIzMDMxNTIxMjAwMTXSAQA?oc=5
 
