@@ -1,5 +1,5 @@
 제목: 구글 '픽셀 8' 시리즈 평면 OLED 디스플레이 탑재하나 - 케이벤치 (KBench)
-요약: 구글의 차세대 플래그십 스마트폰 '픽셀 8' 시리즈에는 평면 OLED 디스플레이가 탑재될 것으로 보인다. 이전 모델과 비교해 엣지 부분이 거의 평면에 가까워졌으며, 모서리 부분은 둥글게 처리됐다. 픽셀 8 시리즈는 올 가을 출시될 예정이며, 3세대 구글 텐서 칩을 제외한 세부 정보는 아직 공개되지 않았다.
+요약: 구글의 차세대 플래그십 스마트폰 '픽셀 8' 시리즈에는 평면 OLED 디스플레이가 탑재될 것으로 예상됩니다. 이전 모델인 픽셀 7 시리즈와 비교해 엣지 부분이 거의 평면에 가까워졌으며, 모서리 부분은 둥글게 처리되었습니다. 픽셀 8 시리즈는 올 가을 출시될 예정이며, 3세대 구글 텐서 칩을 제외한 세부 정보는 아직 공개되지 않았습니다.
 
 URL: https://news.google.com/rss/articles/CBMiIWh0dHBzOi8va2JlbmNoLmNvbS8_cT1ub2RlLzI0MTk4ONIBAA?oc=5
 
@@ -7,12 +7,12 @@ URL: https://news.google.com/rss/articles/CBMiIWh0dHBzOi8va2JlbmNoLmNvbS8_cT1ub2
 URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmFpdGltZXMuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xNDk5NzbSAQA?oc=5
 
 제목: "가볍고 유연하면서 극한환경 견딘다"...NASA, 40여년 만에 새 우주복 공개 - 동아사이언스
-요약: NASA가 인류의 달 복귀을 위해 개발한 새 우주복을 공개했다. 이 우주복은 기존의 우주복보다 가볍고 유연하며, 달의 극한 환경을 견딜 수 있다. 또한, 미국 남성과 여성의 최소 90%가 입을 수 있도록 설계되었다. 이를 통해 더 많은 이들이 우주 탐사에 참여할 수 있도록 하고자 한다.
+요약: NASA가 인류의 달 복귀을 위해 개발한 새 우주복을 공개했다. 이 우주복은 기존의 우주복보다 가볍고 유연하며, 달의 극한 환경을 견딜 수 있도록 설계되었다. 또한, 미국 남성과 여성의 최소 90%가 입을 수 있도록 범용 사이즈로 제작되었다. 이를 통해 더 많은 이들이 우주 탐사에 참여할 수 있도록 하고자 한다.
 
 URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmRvbmdhc2NpZW5jZS5jb20vbmV3cy5waHA_aWR4PTU4OTg30gEA?oc=5
 
 제목: 경비원 숨진 대치동 아파트…'3개월 쪼개기 계약'이 불씨 됐나 - 한겨레
-요약: 서울 강남구 대치동 아파트 경비원들이 올해부터 3개월 단위의 초단기 계약을 맺고 있다는 사실이 밝혀졌다. 이로 인해 경비원들은 고용불안을 호소하며 부당 인사나 업무 지시를 거부하지 못하는 상황이 발생하고 있다. 이에 고용노동부 강남지청은 사업장 근로감독에 착수했다. 경비원들은 추가 업무 지시와 인사 강등에도 제 목소리를 내지 못하는 원인 중 하나로 작용한 것으로 추정된다. 노동부는 경비원들 상대로 사실관계를 파악하고 사업장 근로감독을 진행할 예정이다.
+요약: 서울 강남구 대치동 아파트 경비원들이 올해부터 3개월 단위의 초단기 계약을 맺고 있다는 사실이 밝혀졌다. 이로 인해 경비원들은 고용불안을 호소하며 부당한 지시를 거절하지 못하는 상황이 발생하고 있다. 이에 고용노동부 강남지청은 사업장 근로감독에 착수했다. 경비원들은 추가 업무 지시와 인사 강등에도 제 목소리를 내지 못하는 원인 중 하나로 작용한 것으로 추정된다. 노동부는 경비원들 상대로 사실관계를 파악하고 사업장 근로감독을 진행할 예정이다.
 
 URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDgzODc4Lmh0bWzSAQA?oc=5
 
@@ -23,32 +23,32 @@ URL: https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmNob3N1bi5jb20vcG
 URL: https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vaGVhbHRoLmNob3N1bi5jb20vc2l0ZS9kYXRhL2h0bWxfZGlyLzIwMjMvMDMvMTYvMjAyMzAzMTYwMTUyMC5odG1s0gEA?oc=5
 
 제목: 윤 대통령, 일본 언론에 "국민 위한 대국적 결단" - MBC뉴스
-요약: 윤석열 대통령이 일본 언론과의 인터뷰에서, 한국 정부가 일본군 강제동원 피해 배상 문제를 국익과 국민을 위해 대국적 차원에서 결정한 것이라며, 일본도 이에 대한 행동을 취해야 한다고 강조했습니다. 윤 대통령은 양국이 갈등과 반목을 넘어 미래를 향한 역사적 기회의 창을 열도록 함께 노력해야 한다며, 일본 측의 호응을 촉구했습니다.
+요약: GPT3 Error: Expecting value: line 1 column 1 (char 0)
 
 URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy93b3JsZC9hcnRpY2xlLzY0NjQ2MzJfMzYxMzMuaHRtbNIBQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy93b3JsZC9hcnRpY2xlLzY0NjQ2MzJfMzYxMzQuaHRtbA?oc=5
 
 제목: 이 시각 도쿄…윤대통령·기시다 총리 잠시 후 한일정상회담 - 연합뉴스TV
-요약: 윤석열 대통령과 김건희 여사가 일본 도쿄에 도착해 1박 2일 방일 일정을 시작했습니다. 윤 대통령은 잠시 후 기시다 후미오 일본총리와 한일정상회담을 갖는데, 회담의 최대 쟁점은 강제징용 배상해법 이행 논의입니다. 윤 대통령은 일본 언론과의 인터뷰에서 일본도 강제징용 배상에 걸맞는 행동에 나서야 한다고 강조했습니다.
+요약: 윤석열 대통령과 김건희 여사가 일본 도쿄에 도착해 1박 2일 방일 일정을 시작했습니다. 윤 대통령은 잠시 후 기시다 후미오 일본총리와 한일정상회담을 갖는데, 회담의 최대 쟁점은 강제징용 배상해법 이행 논의입니다. 윤 대통령은 일본 언론과의 인터뷰에서 일본도 강제징용 문제에 대해 적극적으로 대처해야 한다고 강조했습니다.
 
 URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwMzE2MDExMjAwNjQx0gEA?oc=5
 
 제목: '김민재 평점 7.6점' 나폴리, 첫 챔스리그 8강 진출 - YTN
-요약: 나폴리가 유럽 챔피언스리그 8강에 처음 진출했다. 김민재 선수는 66분을 뛰며 높은 평가를 받았다. 나폴리는 후반에 추가골을 넣어 3대 0으로 이겼다. 레알 마드리드는 벤제마의 결승골로 리버풀을 1대 0으로 이겼다. 레알 마드리드는 8강에 진출했다.
+요약: 나폴리가 유럽 챔피언스리그 8강에 처음 진출했다. 김민재 선수는 66분을 뛰며 높은 평가를 받았다. 나폴리는 리그에서도 18점 차로 1위를 달리며 최고의 시즌을 보내고 있다. 레알 마드리드는 벤제마의 결승골로 리버풀을 1대 0으로 이겼다. 레알은 8강에 진출했다.
 
 URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lnl0bi5jby5rci9fbG4vMDEwN18yMDIzMDMxNjEzNDcwMzEzMTbSAQA?oc=5
 
 제목: 965억 떼먹고 떠난 전두환…손자 폭로로 힘 얻은 '추징3법' - 한겨레
-요약: 전두환 추징 3법이 국회에서 계류 중인 가운데, 전두환 일가가 출처를 알 수 없는 '검은돈'을 사용하고 있다는 전우원씨의 폭로로 법안 통과를 촉구하는 목소리가 커지고 있다. 전씨 일가는 법원이 확정한 추징금 2205억원 중 922억여원을 미납 중이며, 검찰은 범죄 혐의점을 살펴보고 있다. 추징 3법은 추징금을 미납한 자가 사망한 경우에도 상속재산에 대하여 추징할 수 있도록 하는 법안이다.
+요약: 전두환 추징 3법이 국회에서 계류 중인 가운데, 전두환 일가가 출처 모를 '검은 돈'을 사용하고 있다는 전우원씨의 폭로로 법안 통과를 촉구하는 목소리가 커지고 있다. 전씨 일가는 법원이 확정한 추징금 2205억원 중 922억여원을 내지 않은 상태이며, 검찰은 당장 환수는 어렵지만 범죄 혐의점이 될 수 있는 부분을 살펴보고 있다. 추징 3법은 추징금을 미납한 자가 사망한 경우에도 상속재산에 대하여 추징할 수 있도록 하는 법안이다.
 
 URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDgzODY2Lmh0bWzSAQA?oc=5
 
 제목: 유아인에 프로포폴 처방한 의사, '셀프 투약' 혐의로 현행범 체포 - 한겨레
-요약: 배우 유아인에게 마약 프로포폴을 처방한 의사가 자신도 처방 없이 프로포폴을 투약한 혐의로 경찰에 체포됐다. 경찰은 유아인의 주거지와 병‧의원 압수수색을 통해 자료를 분석 중이며, 유아인을 피의자 신분으로 불러 조사할 예정이다. 이전에도 유아인은 비정상적 처방 정황을 포착해 경찰에 조사 결과를 넘겨주었으며, 대마, 코카인, 케타민 등 4종의 마약 양성 반응이 확인됐다.
+요약: 배우 유아인에게 마약 프로포폴을 처방한 의사가 자신도 처방 없이 프로포폴을 투약한 혐의로 경찰에 체포됐다. 경찰은 유아인의 주거지와 병‧의원 압수수색을 통해 자료를 분석 중이며, 유아인을 피의자 신분으로 불러 조사할 예정이다. 이전에도 유아인은 비정상적 처방 정황을 포착해 경찰에 조사 결과를 넘겨주었으며, 대마와 다른 마약 4종류가 검출된 바 있다.
 
 URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDgzODYzLmh0bWzSAQA?oc=5
 
 제목: 북한, 한일정상회담 날 ICBM 도발…윤대통령 "대가 치를 것" - 연합뉴스TV
-요약: 북한이 한일 정상회담이 열리는 날 대륙간탄도미사일 ICBM급 미사일을 발사했다. 이는 지난달 화성-15형 이후 두 번째 ICBM 발사이며, 북한은 고체연료를 사용한 ICBM을 발사했을 가능성도 검토하고 있다. 북한의 무력 도발은 한일 정상회담을 겨냥한 것으로 평가되며, 대통령실은 국가안전보장회의를 개최해 대응 방안을 논의했다. 윤 대통령은 북한의 어떠한 위협도 억제할 수 있는 확고한 한미 연합방위태세 유지를 주문하면서, 한미일 안보협력을 더욱 강화할 것을 당부했다.
+요약: 북한이 한일 정상회담이 열리는 날 대륙간탄도미사일 ICBM급 미사일을 발사했다. 이는 지난달 화성-15형 이후 두 번째 ICBM 발사이며, 북한은 고체연료를 사용한 ICBM을 발사했을 가능성도 검토하고 있다. 북한의 무력 도발은 한일 정상회담을 겨냥한 것으로 평가되며, 대통령실은 국가안보보장회의를 개최해 대응 방안을 논의했다. 윤 대통령은 북한의 어떠한 위협도 억제할 수 있는 확고한 한미 연합방위태세 유지를 주문하면서, 한미일 안보협력을 더욱 강화할 것을 당부했다.
 
 URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwMzE2MDA4ODAwNjQx0gEA?oc=5
 
@@ -58,27 +58,27 @@ URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di
 URL: https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9lY29ub215L2l0LzEwODM4NjIuaHRtbNIBAA?oc=5
 
 제목: 딸 루아와 함께 서울 패션 위크 런웨이에 등장한 바다 - 보그 코리아
-요약: 2023 F/W 서울 패션 위크에서 가수 바다와 딸 루아 양이 함께 런웨이에 모습을 드러냈습니다. 루아 양은 이번 패션 위크에 참여한 모델 중 최연소 모델이었으며, 바다는 그녀와 함께 걸어 뜨거운 박수를 받았습니다. 바다는 이날 행사를 마친 후 인스타그램에 사진을 올리며, ‘그린하트 바자회’를 기획 중이며 발생하는 수익금 전액을 유니세프에 기부할 예정이라고 밝혔습니다.
+요약: 2023 F/W 서울 패션 위크에서 가수 바다와 딸 루아 양이 함께 런웨이에 모습을 드러냈습니다. 루아 양은 이번 패션 위크에 참여한 모델 중 최연소 모델이었으며, 엄마의 손을 꼭 잡고 걸으며 사랑스러운 모습으로 시선을 끌었습니다. 바다는 이번 패션 위크를 통해 ‘그린하트 바자회’를 기획하고 발생하는 수익금 전액을 유니세프에 기부할 예정이라고 밝혔습니다.
 
 URL: https://news.google.com/rss/articles/CBMi6QFodHRwczovL3d3dy52b2d1ZS5jby5rci8yMDIzLzAzLzE2LyVFQiU5NCVCOC0lRUIlQTMlQTglRUMlOTUlODQlRUMlOTklODAtJUVEJTk1JUE4JUVBJUJCJTk4LSVFQyU4NCU5QyVFQyU5QSVCOC0lRUQlOEMlQTglRUMlODUlOTgtJUVDJTlDJTg0JUVEJTgxJUFDLSVFQiU5RiVCMCVFQyU5QiVBOCVFQyU5RCVCNCVFQyU5NyU5MC0lRUIlOTMlQjElRUMlOUUlQTUlRUQlOTUlOUMtJUVCJUIwJTk0JUVCJThCJUE0L9IBAA?oc=5
 
 제목: 텐 하흐 감독이 전한 선수단 소식 - Man Utd
-요약: 뉴스 내용을 파악할 수 있도록 한두 줄로 요약해드리겠습니다.
+요약: 뉴스 내용을 파악할 수 있도록 요약해드리겠습니다.
 
 URL: https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm1hbnV0ZC5jb20va28vbmV3cy9kZXRhaWwvZXJpay10ZW4taGFnLXByb3ZpZGVzLW1hbi11dGQtdGVhbS1uZXdzLWJlZm9yZS1zZWNvbmQtbGVnLXYtcmVhbC1iZXRpcy0xNi1tYXJjaC0yMDIz0gF-aHR0cHM6Ly93d3cubWFudXRkLmNvbS9rby9hbXAvbmV3cy9kZXRhaWwvZXJpay10ZW4taGFnLXByb3ZpZGVzLW1hbi11dGQtdGVhbS1uZXdzLWJlZm9yZS1zZWNvbmQtbGVnLXYtcmVhbC1iZXRpcy0xNi1tYXJjaC0yMDIz?oc=5
 
 제목: 이란-사우디 中 중재로 관계 정상화…유엔 "예멘 분쟁 종식 기회" - 뉴스1 - 뉴스1
-요약: 중국의 중재로 이란과 사우디아라비아가 7년 만에 관계를 복원했다. 이로 인해 예멘 내전 종식 가능성이 커졌다. 이란은 시아파 무장단체인 후티 반군에게 무기 등을 지원하고 있고, 사우디는 이란의 영향력을 억제하기 위해 노력하고 있다. 이번 국교 정상화를 계기로 예멘에도 평화가 찾아올 수 있다는 관측도 나오고 있으나, 여전히 분리주의 운동이 벌어지고 있어 셈법을 복잡하게 만든다.
+요약: 중국의 중재로 이란과 사우디아라비아가 7년 만에 관계를 복원했다. 이로 인해 예멘 내전 종식 가능성이 커졌다. 이란은 시아파 무장단체인 후티 반군에게 무기 등을 지원하고 있고, 사우디는 이란의 영향력을 억제하기 위해 노력하고 있다. 이번 국교 정상화를 계기로 예멘에도 평화가 찾아올 수 있다는 관측도 나오고 있지만, 여전히 분리주의 운동 등의 문제가 남아있다.
 
 URL: https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vd3d3Lm5ld3MxLmtyL2FydGljbGVzLz80OTgzNzQy0gEqaHR0cHM6Ly93d3cubmV3czEua3IvYW1wL2FydGljbGVzLz80OTgzNzQy?oc=5
 
 제목: 결혼 안 하는 한국…'외국인'과의 혼인은 급증 - 한국경제
-요약: 한국의 혼인 건수가 작년에 11년 연속 감소하여 1970년대 이래 최저치를 기록했다. 이는 만혼 경향이 짙어지며 남성과 여성의 평균 초혼 연령이 각각 33.7세와 31.3세로 같은 기간 동안 상승했기 때문이다. 이러한 추세는 25~49세 연령 인구가 줄어들어 혼인 건수가 감소하는 것과 혼인에 대한 가치관 변화 등이 원인이라고 전망된다. 이에 따라 출생률도 감소할 것으로 예상된다. 이혼 건수는 작년에 8.3% 감소하여 3년 연속 하락했다.
+요약: 한국의 혼인 건수가 작년에 11년 연속 감소하여 1970년대 이래 최저치를 기록했습니다. 이는 만혼 경향이 짙어지며 남성과 여성의 평균 초혼 연령이 각각 33.7세와 31.3세로 같은 기간 동안 상승했기 때문입니다. 이러한 추세는 인구 구조적인 측면에서 혼인 건수가 감소하는 부분과 혼인에 대한 가치관의 변화도 감소 이유 중 하나라고 설명됩니다. 이에 따라 출생률도 감소할 것으로 전망됩니다. 이혼 건수는 작년에 8.3% 감소하여 3년 연속 하락했습니다.
 
 URL: https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FydGljbGUvMjAyMzAzMTYyNzE5adIBMmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FtcC8yMDIzMDMxNjI3MTlp?oc=5
 
 제목: 우디 해럴슨, 제니·리사·박보검과 깜짝 만남 "멋진 시간" - 한국아이닷컴
-요약: 할리우드 배우 우디 해럴슨이 인스타그램에 서울에서 블랙핑크 제니와 리사, 태양, 박보검 등과 만난 사진을 게시하며 멋진 시간을 보냈다는 글을 남겼다. 우디 해럴슨은 '꾸러기팀'으로 데뷔한 이후 다수의 작품에서 활약하였다.
+요약: 할리우드 배우 우디 해럴슨이 인스타그램에 서울에서 블랙핑크 제니와 리사, 태양, 박보검 등과 함께한 사진을 게시하며 멋진 시간을 보냈다는 글을 남겼다. 우디 해럴슨은 '꾸러기팀'으로 데뷔한 이후 다수의 작품에서 활약하였다.
 
 URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NjQxODLSAQA?oc=5
 
@@ -86,7 +86,7 @@ URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS
 URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lnlha3VwLmNvbS9uZXdzL2luZGV4Lmh0bWw_bW9kZT12aWV3Jm5pZD0yNzk1ODPSAQA?oc=5
 
 제목: '친박 실세' 최경환, 중진공 압박 채용비리 “무죄”…불법인데 왜? - 한겨레
-요약: 최경환 전 의원이 직원 채용을 압박한 혐의로 기소되었으나, 대법원은 국회의원에게 채용을 압박할 '직권'이 없으므로 직권남용 행위가 아니라는 이유로 무죄를 선고했다. 최 전 의원은 2013년 박철규 중진공 이사장과 만나 자신의 후원회 사무실에서 일했던 인턴을 채용하라며 압력을 행사한 혐의를 받았다. 대법원은 최 전 의원의 행위가 박 전 이사장의 의사결정 자유를 제한하지 않았다며 강요 혐의도 무죄로 판결했다.
+요약: 최경환 전 의원이 직원 채용을 압박한 혐의로 기소되었으나, 대법원은 국회의원은 채용 압박을 할 직권이 없으므로 직권남용 행위가 아니라는 이유로 무죄를 선고했다. 최 전 의원은 2013년 중소기업진흥공단 이사장과 만나 자신의 후원회 사무실에서 일했던 인턴을 채용하라며 압력을 행사한 혐의를 받았다. 대법원은 이번 사건에서 최 전 의원의 행위가 박 전 이사장의 의사결정 자유를 제한하지 않았다며 강요 혐의도 무죄로 판결했다.
 
 URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDgzODQ5Lmh0bWzSAQA?oc=5
 
