@@ -1,3 +1,8 @@
+제목: 백신 개발은 늦었지만… 한국인 과학자들 진단기술 분야서 맹활약 - 동아일보
+요약: 한국과학자들이 코로나19 진단기술 개발에 성과를 내고 있다. 기존 PCR 검사의 단점을 극복하는 새로운 진단기술이 개발되었는데, 이 기술은 검사 결과가 빠르게 나오면서도 정확도가 높고 비용도 저렴하다. 또한, 광열 나노소재를 활용한 검사 기술도 개발되어 검사 시간을 5분으로 단축시킬 수 있다. 더불어, 발광 효과를 일으켜 질병을 빠르고 쉽게 진단하는 기술도 개발되었다. 이러한 새로운 진단기술은 미래 감염병 대응에 필수적이다.
+
+URL: https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmRvbmdhLmNvbS9uZXdzL0l0L2FydGljbGUvYWxsLzIwMjMwMzE3LzExODM3MTYwNy8x0gE3aHR0cHM6Ly93d3cuZG9uZ2EuY29tL25ld3MvYW1wL2FsbC8yMDIzMDMxNy8xMTgzNzE2MDcvMQ?oc=5
+
 제목: '월드 클래스' 김민재, 유럽 챔피언스리그 이주의 팀 선정 - Goal.com
 URL: https://news.google.com/rss/articles/CBMirARodHRwczovL3d3dy5nb2FsLmNvbS9rci8lRUIlODklQjQlRUMlOEElQTQvJUUxJTg0JThCJUUxJTg1JUFGJUUxJTg2JUFGJUUxJTg0JTgzJUUxJTg1JUIzLSVFMSU4NCU4RiVFMSU4NSVCMyVFMSU4NiVBRiVFMSU4NCU4NSVFMSU4NSVBMiVFMSU4NCU4OSVFMSU4NSVCMy0lRTElODQlODAlRTElODUlQjUlRTElODYlQjclRTElODQlODYlRTElODUlQjUlRTElODYlQUIlRTElODQlOEMlRTElODUlQTItJUUxJTg0JThCJUUxJTg1JUIyJUUxJTg0JTg1JUUxJTg1JUE1JUUxJTg2JUI4LSVFMSU4NCU4RSVFMSU4NSVBMiVFMSU4NiVCNyVFMSU4NCU5MSVFMSU4NSVCNSVFMSU4NCU4QiVFMSU4NSVBNSVFMSU4NiVBQiVFMSU4NCU4OSVFMSU4NSVCMyVFMSU4NCU4NSVFMSU4NSVCNSVFMSU4NCU4MCVFMSU4NSVCMy0lRTElODQlOEIlRTElODUlQjUlRTElODQlOEMlRTElODUlQUUlRTElODQlOEIlRTElODUlQjQtJUUxJTg0JTkwJUUxJTg1JUI1JUUxJTg2JUI3LSVFMSU4NCU4OSVFMSU4NSVBNSVFMSU4NiVBQiVFMSU4NCU4QyVFMSU4NSVBNSVFMSU4NiVCQy9ibHRhOTU1MTU3NDIyMDQ5MDk00gGwBGh0dHBzOi8vd3d3LmdvYWwuY29tL2tyL2FtcC8lRUIlODklQjQlRUMlOEElQTQvJUUxJTg0JThCJUUxJTg1JUFGJUUxJTg2JUFGJUUxJTg0JTgzJUUxJTg1JUIzLSVFMSU4NCU4RiVFMSU4NSVCMyVFMSU4NiVBRiVFMSU4NCU4NSVFMSU4NSVBMiVFMSU4NCU4OSVFMSU4NSVCMy0lRTElODQlODAlRTElODUlQjUlRTElODYlQjclRTElODQlODYlRTElODUlQjUlRTElODYlQUIlRTElODQlOEMlRTElODUlQTItJUUxJTg0JThCJUUxJTg1JUIyJUUxJTg0JTg1JUUxJTg1JUE1JUUxJTg2JUI4LSVFMSU4NCU4RSVFMSU4NSVBMiVFMSU4NiVCNyVFMSU4NCU5MSVFMSU4NSVCNSVFMSU4NCU4QiVFMSU4NSVBNSVFMSU4NiVBQiVFMSU4NCU4OSVFMSU4NSVCMyVFMSU4NCU4NSVFMSU4NSVCNSVFMSU4NCU4MCVFMSU4NSVCMy0lRTElODQlOEIlRTElODUlQjUlRTElODQlOEMlRTElODUlQUUlRTElODQlOEIlRTElODUlQjQtJUUxJTg0JTkwJUUxJTg1JUI1JUUxJTg2JUI3LSVFMSU4NCU4OSVFMSU4NSVBNSVFMSU4NiVBQiVFMSU4NCU4QyVFMSU4NSVBNSVFMSU4NiVCQy9ibHRhOTU1MTU3NDIyMDQ5MDk0?oc=5
 
@@ -6,11 +11,19 @@ URL: https://news.google.com/rss/articles/CBMirARodHRwczovL3d3dy5nb2FsLmNvbS9rci
 
 URL: https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vbmV3cy5laW5mb21heC5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NDI1ODQxMNIBAA?oc=5
 
+제목: BTS 제이홉 "입대 날짜 나왔다…성숙한 모습 보여드릴 것" - 연합뉴스
+URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L0FLUjIwMjMwMzE2MTg2OTAwMDA10gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9BS1IyMDIzMDMxNjE4NjkwMDAwNQ?oc=5
+
+제목: 유럽 중앙은행 기준금리 50bp 인상…CS 보다 물가 - 머니투데이
+요약: 유럽 중앙은행(ECB)이 크레디트스위스(CS) 사태에도 불구하고 기준금리를 50bp 인상해 3.5%로 높였다. ECB는 물가와 금융 안정을 위해 대응하기로 했다며, 이번을 포함해 지난해 7월 이후 6차례 연속 금리를 인상했다. ECB는 물가가 너무 높은 상태를 유지하고 있다며, 이번 금리 인상은 물가상승을 막는데 집중하기 위한 것으로 보인다. ECB의 빅스텝은 오는 22일로 예고된 미국 연방준비제도(Fed)의 금리 결정에도 영향을 미칠 것으로 보인다.
+
+URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwMzE2MjMyNTQzMTg2MzDSAT1odHRwczovL20ubXQuY28ua3IvcmVuZXcvdmlld19hbXAuaHRtbD9ubz0yMDIzMDMxNjIzMjU0MzE4NjMw?oc=5
+
 제목: 지구의 물은 어디에서 왔을까? – 사이언스모니터 | The Science Monitor - 사이언스모니터
 URL: https://news.google.com/rss/articles/CBMihwFodHRwOi8vc2NpbW9uaXRvcnMuY29tLyVFQyVBNyU4MCVFQSVCNSVBQyVFQyU5RCU5OC0lRUIlQUMlQkMlRUMlOUQlODAtJUVDJTk2JUI0JUVCJTk0JTk0JUVDJTk3JTkwJUVDJTg0JTlDLSVFQyU5OSU5NCVFQyU5RCU4NCVFQSVCOSU4Qy_SAQA?oc=5
 
 제목: 오타니, 164㎞ 공 던지고 기습번트 대고…일본, 이탈리아 꺾고 4강 진출 - 한겨레
-요약: 일본의 오타니 쇼헤이가 2023 세계야구클래식(WBC) 2라운드 8강전 이탈리아와의 경기에서 4⅔이닝 4피안타 3사사구 5탈삼진 2실점을 기록하며, 9-3으로 이탈리아를 제압했다. 오타니는 메이저리그 데뷔 최고 구속의 공을 던지고, 기습 번트까지 댔다. 이번 대회 투수로는 마지막으로 등판한 오타니의 지휘 아래 일본은 조별리그 포함 도쿄돔에서 5연승을 거두면서 4강에 진출했다.
+요약: 일본의 오타니 쇼헤이가 2023 세계야구클래식(WBC) 2라운드 8강전에서 이탈리아를 9-3으로 제압했다. 오타니는 메이저리그 데뷔 최고 구속의 공을 던지고, 기습 번트까지 댔다. 이번 대회 투수로는 마지막으로 등판한 오타니의 지휘 아래 일본은 조별리그 포함 도쿄돔에서 5연승을 거두면서 4강에 진출했다. 일본은 2006년 초대 대회 때부터 올해까지 5연속 준결승에 오르는 첫 번째 팀이 됐다.
 
 URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zcG9ydHMvYmFzZWJhbGwvMTA4Mzk5NC5odG1s0gEA?oc=5
 
@@ -20,7 +33,7 @@ URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYX
 URL: https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hLzcwMDc5OTEuaHRtbNIBKWh0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hbXAvNzAwNzk5MS5odG1s?oc=5
 
 제목: 국민연금, 진옥동 신한금융 회장 선임안 반대 - 한겨레
-요약: 국민연금 수책위원회가 진옥동 신한금융 사내이사 선임에 반대하고, 포스코홀딩스 포항 이전과 이사 선임 등에 대해서는 찬성을 표했다. 삼성중공업 안건 가운데 '이사보수한도 승인의 건'에 대해서는 반대하고, 다른 안건에는 찬성하기로 결정했다. 메리츠증권, 삼성바이오로직스, 네이버, BNK금융지주, 롯데칠성음료, 현대모비스, 현대홈쇼핑의 주총 안건에는 회사가 제시한 안건 모두에 찬성하기로 했다.
+요약: 국민연금 수책위원회가 진옥동 신한금융 사내이사 선임에 반대하기로 결정했다. 이외에는 메리츠증권, 삼성바이오로직스, 네이버, BNK금융지주, 롯데칠성음료, 현대모비스, 현대홈쇼핑 등의 주총 안건에는 회사가 제시한 안건 모두에 찬성하기로 했다.
 
 URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9lY29ub215L21hcmtldGluZy8xMDgzOTkyLmh0bWzSAQA?oc=5
 
@@ -30,50 +43,40 @@ URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYX
 URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9wb2xpdGljc19nZW5lcmFsLzEwODM5ODkuaHRtbNIBAA?oc=5
 
 제목: 조민 "표창장 준다기에 그러려니 해… 문제 될 줄 알았다면 안 받았다" - 한국일보
-요약: 조국 전 법무부 장관의 딸인 조민씨가 부산대 의학전문대학원(의전원) 입학허가 취소처분 재판에 증인으로 나와 입시서 표창장이 청탁에 의한 것이 아니라고 강조했다. 부산대는 지난해 4월 조씨의 동양대 총장 표창장 위조와 법원의 허위 판결을 근거로 그의 의전원 입학을 취소했다. 이에 조씨 측은 부산대를 상대로 입학 취소 처분을 취소하라는 소송을 제기했다. 이번 재판에서는 입학 취소 처분을 두고 조씨 측과 부산대 측이 맞서고 있다.
+요약: 조국 전 법무부 장관의 딸인 조민씨가 부산대 의학전문대학원(의전원) 입학허가 취소처분 재판에 증인으로 나와 표창장 위조 혐의를 부인했다. 부산대는 지난해 4월 조씨의 동양대 총장 표창장 위조와 법원의 허위 판결을 근거로 그의 의전원 입학을 취소했다. 이에 조씨 측은 부산대를 상대로 입학 취소 처분을 취소하라는 소송을 제기했다. 이번 재판에서 조씨 측과 피고인 부산대 측은 입학 취소 처분을 두고 팽팽하게 맞섰다. 조씨의 부산대 의전원 입학허가 취소처분 선고는 다음 달 6일 열린다.
 
 URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpbGJvLmNvbS9OZXdzL1JlYWQvQTIwMjMwMzE2MTcxNzAwMDQ1OTbSAQA?oc=5
 
-제목: 방광염 말고도… 소변 참는 습관이 부르는 비극 - 헬스조선
-요약: 소변을 오래 참으면 방광염 발생 위험이 높아지는 것은 잘 알려져 있지만, 소변 참는 습관이 콩팥 기능 저하, 방광 기능 저하, 배뇨장애 등의 건강상 문제를 일으킬 수 있다는 것도 알려졌다. 하루에 4~6회 정도 소변을 누르고, 커피, 홍차, 탄산음료 등은 피하는 것이 좋다.
-
-URL: https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vbS5oZWFsdGguY2hvc3VuLmNvbS9zdmMvbmV3c192aWV3Lmh0bWw_Y29udGlkPTIwMjMwMzE2MDIwNTPSAQA?oc=5
-
-제목: 플레이즘 '서브웨이 미드나잇' 스위치 발매 < 동영상 < 콘솔/아케이드/PC방 < 종합/경제 < 기사본문 - 더게임스데일리
-요약: 액티브게이밍미디어가 플레이즘을 통해 닌텐도 스위치 전용 '서브웨이 미드나잇' 다운로드 버전을 발매했다. 이 게임은 호러 어드벤처 게임으로, 귀여운 캐릭터들이 지하철 배경의 컬러풀 패러렐 월드에서의 이야기를 풀어나가는 게임이다.
-
-URL: https://news.google.com/rss/articles/CBMiO2h0dHA6Ly93d3cudGdkYWlseS5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MzIzNDU40gEA?oc=5
-
-제목: CNN "무기로 개조된 중국산 드론, 우크라 공격에 활용 확인" - 연합뉴스
-URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L0FLUjIwMjMwMzE2MTc1NjAwMDA50gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9BS1IyMDIzMDMxNjE3NTYwMDAwOQ?oc=5
+제목: "개조된 중국산 드론, 우크라 공격에 활용 확인" - 노컷뉴스
+URL: https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3Lm5vY3V0bmV3cy5jby5rci9uZXdzLzU5MTEyMzTSAQA?oc=5
 
 제목: 김선호, '해시의 신루' 출연 불발…"김지운 감독 '망내인' 긍정 검토 중" - 한국아이닷컴
-요약: 배우 김선호가 드라마 '해시의 신루' 출연을 하지 않기로 결정했다. 이에 대해 소속사는 "망내인" 출연 제안을 받고 긍정적으로 검토 중이라고 밝혔다. '망내인'은 언니가 동생의 죽음을 파헤치면서 벌어지는 미스터리한 이야기를 그리는 드라마로, 총 6부작으로 OTT를 통해 공개될 예정이다.
+요약: 배우 김선호가 드라마 '해시의 신루' 출연을 하지 않기로 결정했다. 이에 대해 소속사는 "망내인" 출연 제안을 받고 긍정적으로 검토 중이라고 밝혔다. '망내인'은 동생의 죽음을 믿지 못한 언니가 사건을 파헤치면서 미스터리한 남자를 만나 벌어지는 이야기를 그리는 드라마로, 총 6부작으로 OTT를 통해 공개될 예정이다.
 
 URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NjQzNDLSAQA?oc=5
 
 제목: "바탕화면, 내가 만든 단어" 한국 최초 윈도우95 번역사 - SBS 뉴스
-요약: 1995년 마이크로소프트가 만든 윈도 95에서 처음 등장한 인터페이스 '데스크톱'이 한국어판으로 출시될 때 '바탕화면'으로 번역되었다. 이는 짧고 직관적인 한국어로 번역하기 위한 것이었다.
+요약: 1995년 마이크로소프트가 만든 윈도 95에서 처음 등장한 '데스크톱'이라는 인터페이스가 현재의 '바탕화면'이다. '데스크톱'은 컴퓨터 화면에서 아이콘이 책상 위에 놓인 물건처럼 배열된 영역 또는 창을 의미하는데, 이를 직관적인 한국어로 번역한 것이 '바탕화면'이다. 30년 전 이를 번역한 사람은 1세대 상업번역사였다.
 
 URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vbmV3cy5zYnMuY28ua3IvbmV3cy9lbmRQYWdlLmRvP25ld3NfaWQ9TjEwMDcxMTc5NDnSATdodHRwczovL25ld3Muc2JzLmNvLmtyL2FtcC9uZXdzLmFtcD9uZXdzX2lkPU4xMDA3MTE3OTQ5?oc=5
-
-제목: 북한, 한일정상회담 날 ICBM 발사…"무모한 도발 대가 치를 것" - 연합뉴스TV
-요약: 북한이 대륙간탄도미사일 ICBM을 발사했습니다. 이는 한일 정상회담 개최 날, 윤석열 대통령의 비행기가 이륙하기 전 도발을 감행한 것입니다. 윤석열 대통령은 "무모한 도발에는 대가를 치를 것"이라고 경고했습니다. 북한의 이번 도발은 한일 정상회담에 대한 반발로 평가되며, 군은 북한의 도발에도 오는 23일까지 이뤄지는 '자유의 방패' 훈련을 정상적으로 진행하겠다는 입장입니다.
-
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwMzE2MDE4NzAwNjQx0gEA?oc=5
 
 제목: ‘학과·전공의 벽’ 허물어라... 지방대 30곳에 1000억씩 지원한다 - 조선일보 - 조선일보
 URL: https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNob3N1bi5jb20vbmF0aW9uYWwvZWR1Y2F0aW9uLzIwMjMvMDMvMTYvSFpTNUVLQ1lMUkRZVEc2SUhMR0pRSU9DVk0v0gFfaHR0cHM6Ly93d3cuY2hvc3VuLmNvbS9uYXRpb25hbC9lZHVjYXRpb24vMjAyMy8wMy8xNi9IWlM1RUtDWUxSRFlURzZJSExHSlFJT0NWTS8_b3V0cHV0VHlwZT1hbXA?oc=5
 
-제목: 인구 절반이 서른 이하‥젊은 베트남에서 기회를 - MBC뉴스
-요약: 한국 콘텐츠와 음식의 인기로 베트남에서 한류 열풍이 일고 있습니다. 한국어는 베트남 제1외국어로 지정되어 취업 경쟁력이 높아지고, 대기업들은 한국형 베트남 인재 양성 교육에도 공을 쏟고 있습니다. 베트남은 젊은 인구와 저렴한 노동력으로 글로벌 생산기지와 거대한 소비시장으로 성장할 잠재력이 있습니다.
-
-URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NjQ3ODhfMzYxOTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NjQ3ODhfMzYyMDAuaHRtbA?oc=5
-
 제목: 전두환 손자 연이은 폭로 "5.18은 폭동‥우리가 피해자" - MBC뉴스
-요약: 전두환 일가가 검은 돈으로 호화로운 생활을 했다는 폭로를 받은 전 우원씨가 MBC와 인터뷰를 했다. 전씨는 전두환 일가가 어떻게 재산을 몰래 빼돌려 왔는지 구체적으로 밝혔으며, 5.18 민주화 운동은 폭동이라는 식으로 교육을 받았다고 주장했다. 전씨 일가가 재산을 자녀들에게 빼돌린 수법도 폭로했으며, 이 모든 것이 전두환의 '검은돈'이 있어서 가능했다고 했다. 전씨는 본인도 마약과 성매매를 한 범죄자라며 미국에서든 한국에서든 수사기관의 조사를 받고 처벌받겠다고 말했다.
+요약: 전두환 일가가 검은 돈으로 호화로운 생활을 했다는 폭로를 받은 전 우원씨가 MBC와 인터뷰를 했습니다. 전씨는 전두환 일가가 어떻게 재산을 몰래 빼돌려 왔는지 구체적으로 밝혔으며, 5.18 민주화 운동은 폭동이라는 식으로 교육을 받았다고 주장했습니다. 전씨 일가가 재산을 자녀들에게 빼돌린 수법도 폭로했습니다. 이 모든 것이 전두환의 '검은돈'이 있어서 가능했고, 그 돈 때문에 가족들은 전두환을 신처럼 떠받들었다고 했습니다.
 
 URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NjQ3NzlfMzYxOTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NjQ3NzlfMzYyMDAuaHRtbA?oc=5
+
+제목: 북한, 한일정상회담 겨냥한 ICBM 발사‥'화성-17형' 추정 - MBC뉴스
+요약: 북한이 대륙간 탄도미사일 ICBM 한 발을 동해상으로 발사했다. 이번 미사일은 최고 고도 6천 킬로미터로, 1천 킬로미터를 1시간 10분가량 비행한 뒤, 중국과 러시아 접경 해역에 떨어졌다. 북한은 이번에도 각도를 높인 고각 발사로 사거리를 조절한 것으로 보인다. 이번 발사는 한일정상회담이 열리는 날 오전에 발사된 것으로 분석되며, 한미일 3국에 대한 경고로도 해석된다.
+
+URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NjQ3NzVfMzYxOTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NjQ3NzVfMzYyMDAuaHRtbA?oc=5
+
+제목: 도심 곳곳 정상회담 규탄 행동‥여야 반응은 엇갈려 - MBC뉴스
+요약: 한일정상회담에 반대하는 대학생들과 시민사회의 단체들이 강제동원 피해자들이 거부하는 해법을 내놓고 정상회담을 진행한다고 규탄했습니다. 이에 대해 여야의 시각은 엇갈렸으며, 정부의 강제동원 해법을 비판하는 단체들은 이번 주말에도 대규모 집회를 예고해 갈등이 계속될 것으로 보입니다.
+
+URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NjQ3NzRfMzYxOTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NjQ3NzRfMzYyMDAuaHRtbA?oc=5
 
 제목: 다양한 의견 수렴·검토…근로시간 제도 보완방안 마련 - 대한민국정책포털 korea.kr
 요약: GPT3 Return Error: 'choices'
@@ -81,13 +84,8 @@ URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3
 URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmtvcmVhLmtyL25ld3MvYWN0dWFsbHlWaWV3LmRvP25ld3NJZD0xNDg5MTI4MjDSAQA?oc=5
 
 제목: "미쓰비시 돈 받아낸다"‥다시 소송 나선 양금덕 할머니 - MBC뉴스
-요약: 한일 정상회담 당일, 강제동원 피해자인 양금덕 할머니와 다른 피해자 유족은 일본 기업 미쓰비시의 돈으로 손해배상금을 받겠다는 의지를 다시 한번 행동으로 나타냈습니다. 이를 위해 미쓰비시의 한국 내 재산을 찾아 법적 다툼을 시작했습니다. 이 회사는 한국 국적 법인인 엠에이치파워시스템즈코리아의 손자회사이며, 지난해 강제동원 피해자 소송단은 이 회사가 미쓰비시에 보내려던 수수료 7천7백만 원을 압류했습니다. 이번 소송대상은 이미 현금이므로 상대도 한국 법인이기 때문에 소송 절차가 빨리 진행될 것으로 예상됩니다.
+요약: 한일 정상회담 당일, 강제동원 피해자인 양금덕 할머니와 다른 피해자는 일본 기업 미쓰비시의 돈으로 배상금을 받겠다는 의지를 다시 한번 행동으로 옮겼다. 이를 위해 미쓰비시 중공업의 한국 내 재산을 찾아 법적 다툼을 시작했다. 미쓰비시는 대법원 판결을 무시해왔으며, 피해자들은 상표권과 특허권을 압류해 현금화해 배상금을 받아내려 했으나, 대법원은 결정을 미뤄왔다. 이번에는 미쓰비시의 손자회사인 한국 법인인 MH파워시스템즈코리아의 수수료를 추심해 손해배상금으로 대신 받겠다는 계획이다.
 
 URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NjQ3NzNfMzYxOTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NjQ3NzNfMzYyMDAuaHRtbA?oc=5
-
-제목: [건강톡톡] '광견병' 증상, 놓치지 말아야 할 신호는? - 하이닥
-요약: 광견병은 개에게 감염되는 중추신경계 바이러스성 질환으로, 전염성이 매우 높아 예방이 중요하다. 광견병에 물린 경우, 즉시 물린 부위를 소독하고 의료기관에서 적절한 진료를 받아야 한다. 광견병은 전구기, 흥분기, 마비기로 나누어지며, 증상은 감기와 비슷한 증상에서 뇌염 증세로 진행된다. 광견병 예방접종은 3회 접종 후 1년 후 추가 접종을 받아야 하며, 이후에는 5년마다 재접종이 필요하다.
-
-URL: https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LmhpZG9jLmNvLmtyL2hlYWx0aHN0b3J5L25ld3MvQzAwMDA3NzY5NDnSAQA?oc=5
 
 
