@@ -52,7 +52,7 @@ def get_weather_api_result():
 
 def make_weather_dict(result_dict):
     total_result_dict = dict()
-    for city in list(MAP_DATA.keys()):
+    for city in MAP_DATA.keys():
         local_result_dict = {
             '오늘' : "",
             '내일' : "",
@@ -88,13 +88,13 @@ def make_weather_dict(result_dict):
                 local_result_dict[DAY_DATA[j]] += (" 오후-" + SKY_PTY_DATA[max(afternoon_sky_list)][max(afternoon_pty_list)])
         total_result_dict[city] = local_result_dict
 
-        #order is important
-        weather_dict = dict()
-        weather_dict["전국"] = total_result_dict["서울 인천 경기"]
-        for i in total_result_dict.keys():
-            weather_dict[i] = total_result_dict[i]
+    #order is important
+    weather_dict = dict()
+    weather_dict["전국"] = total_result_dict["서울 인천 경기"]
+    for i in total_result_dict.keys():
+        weather_dict[i] = total_result_dict[i]
 
-        return weather_dict
+    return weather_dict
 
 
 def make_weather_prompt(weather_dict):
