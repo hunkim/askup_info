@@ -29,6 +29,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: generate txt
         env:
+          WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }} 
           CHATGPT_ENGINE: ${{ secrets.CHATGPT_ENGINE }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
