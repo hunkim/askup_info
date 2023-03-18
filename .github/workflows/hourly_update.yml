@@ -5,7 +5,7 @@ name:  Hourly Build
 # Controls when the workflow will run
 on:
   schedule:
-    - cron: '45 * * * *'
+    - cron: '45 */4 * * *'
 
 
   # Allows you to run this workflow manually from the Actions tab
