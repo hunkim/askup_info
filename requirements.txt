@@ -1,3 +1,4 @@
 requests 
 newspaper3k
 beautifulsoup4
+xmltodict

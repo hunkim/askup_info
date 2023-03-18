@@ -1,6 +1,7 @@
 import os
 import requests
 import datetime
+import xmltodict
 from weather_data import MAP_DATA, SKY_PTY_DATA, DAY_DATA
 
 WEATHER_API_KEY = os.environ["WEATHER_API_KEY"]
@@ -35,8 +36,10 @@ def get_weather_api_result():
         try:
             response = requests.get(url, params=option)
             res = response.json()["response"]["body"]["items"]['item']
-        except:
-            print(i)
+        except KeyError:
+            print(response.content)
+        except requests.exceptions.JSONDecodeError:
+            print(xmltodict.parse(response.content))
         result_list = []
         for j in res:
             #PTY: 강수 형태, SKY: 하늘 상태, TMN: 최저 기온, TMX: 최고 기온
