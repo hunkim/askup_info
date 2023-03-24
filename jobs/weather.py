@@ -2,7 +2,7 @@ import os
 import requests
 import datetime
 import xmltodict
-from weather_data import MAP_DATA, SKY_PTY_DATA, DAY_DATA
+from weather_data import MAP_DATA, SKY_PTY_DATA, DAY_DATA, AREA_DATA
 
 WEATHER_API_KEY = os.environ["WEATHER_API_KEY"]
 TODAY = datetime.datetime.now()
@@ -16,6 +16,32 @@ def make_tilde_expression(list_value, unit):
         return str(min_value) + unit
     else:
         return str(min_value) + unit + '~' + str(max_value) + unit
+
+
+def get_dust_api_result():
+    result_dict = dict()
+    option = {
+        "serviceKey":WEATHER_API_KEY,
+        "returnType":"JSON",
+        "pageNo":1,
+        "numOfRows":1000,
+        "searchDate":TODAY.strftime("%Y-%m-%d"),
+    }
+
+    response = requests.get("http://apis.data.go.kr/B552584/ArpltnInforInqireSvc/getMinuDustFrcstDspth", params=option)
+    res = response.json()['response']['body']['items']
+    
+    for i in [0, 1, 2]:
+        data_dict = {}
+        for item in res[i]['informGrade'].split(','):
+            key, value = item.split(' : ')
+            data_dict[key] = value
+        formatted_data_dict = {}
+        for city in AREA_DATA.keys():
+            formatted_data_dict[city] = data_dict[AREA_DATA[city]]
+        result_dict[i] = formatted_data_dict
+
+    return result_dict
 
 
 def get_weather_api_result():
@@ -50,7 +76,7 @@ def get_weather_api_result():
     return result_dict
 
 
-def make_weather_dict(result_dict):
+def make_weather_dict(weather_api_result, dust_api_result):
     total_result_dict = dict()
     for city in MAP_DATA.keys():
         local_result_dict = {
@@ -64,7 +90,7 @@ def make_weather_dict(result_dict):
             afternoon_pty_list = []
             afternoon_sky_list = []
             temprature_list = []
-            for i in result_dict[city]:
+            for i in weather_api_result[city]:
                 if i['fcstDate'] == (TODAY + datetime.timedelta(days=j)).strftime("%Y%m%d"):
                     if i['fcstTime'] < '1200':
                         if i['category'] == "TMN":
@@ -86,6 +112,8 @@ def make_weather_dict(result_dict):
             else:
                 local_result_dict[DAY_DATA[j]] += (" 오전-" + SKY_PTY_DATA[max(morning_sky_list)][max(morning_pty_list)])
                 local_result_dict[DAY_DATA[j]] += (" 오후-" + SKY_PTY_DATA[max(afternoon_sky_list)][max(afternoon_pty_list)])
+            local_result_dict[DAY_DATA[j]] += (" 미세먼지-" + dust_api_result[j][city])
+            
         total_result_dict[city] = local_result_dict
 
     #order is important
@@ -107,7 +135,8 @@ def make_weather_prompt(weather_dict):
 
 if __name__ == "__main__":
     weather_api_result = get_weather_api_result()
-    weather_dict = make_weather_dict(weather_api_result)
+    dust_api_result = get_dust_api_result()
+    weather_dict = make_weather_dict(weather_api_result, dust_api_result)
     weather_prompt = make_weather_prompt(weather_dict)
 
     # Print the text
