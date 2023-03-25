@@ -1,93 +1,95 @@
-제목: 소니, '호라이즌 포비든 웨스트:버닝 쇼어스' 예약주문 시작 - 이데일리
-요약: 소니인터랙티브엔터테인먼트는 '호라이즌 포비든 웨스트: 버닝 쇼어스'의 예약주문을 시작했다. 이번 확장판에서 주인공 에일로이는 로스앤젤레스 화산 지역으로 모험을 떠나게 되며, 예약 주문을 하면 특별한 아이템을 받을 수 있다. 이 확장판은 본작과 이어지므로, 본작 메인 퀘스트를 완료한 후 즐기는 것을 추천한다. 가격은 2만2800원이다.
+제목: 혼다가 발표한 3세대 자율 작업용 EV - 테크레시피
+요약: 아메리칸혼다모터스가 자율주행 차량인 AWV(Honda Autonomous Work Vehicle)의 3세대 모델을 발표했다. 이번 모델은 적재량이 907kg으로 대폭 늘어나고, 내비게이션 개선과 거리에 있는 장애물 회피 기능 등이 강화되었다. 또한 배터리 용량이 늘어나 주행거리가 증가했다. 이 차량은 건축 현장에서 사용하는 것을 상정하고 있으며, 최고 속도는 16km/h이다.
 
-URL: https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmVkYWlseS5jby5rci9uZXdzL3JlYWQ_bmV3c0lkPTAxNTc0NDA2NjM1NTQ2NjAwJm1lZGlhQ29kZU5vPTI1N9IBAA?oc=5
+URL: https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vdGVjaHJlY2lwZS5jby5rci9wb3N0cy81MTU3MdIBKGh0dHBzOi8vdGVjaHJlY2lwZS5jby5rci9wb3N0cy81MTU3MS9hbXA?oc=5
 
-제목: 섀도우 택틱스 '해적판' | 웹진 인벤 - 인벤
-요약: 미미미 게임즈가 섀도우 택틱스와 데스페라도스3 이후 실시간 잠입 전술 게임 중 가장 성공적으로 장르 특징을 이어오고 있는 신작 '섀도우 갬빗: 더 커스드 크루'를 발표했다. 이번 게임은 해적 시대를 배경으로 하며, 8명의 해적 동료가 초자연적인 능력을 가지고 있어 임무를 해결하는데 도움이 된다. 게임은 2023년 PS5, XSX로 출시되며 PC 서비스도 이루어질 예정이다.
+제목: [PRNewswire] BIOHAZARD RE:4, 3월 24일 출시 - 무료 데모 버전도 다운로드 가능 - 연합뉴스
+URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L1JQUjIwMjMwMzI0MDA2MTAwMzUz0gEA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmludmVuLmNvLmtyL3dlYnppbmUvbmV3cy8_bmV3cz0yODMwNTHSAQA?oc=5
+제목: 네오위즈 로키 뮤직, 첫 앨범 DMRV 발매 - NSP통신
+요약: 네오위즈의 음악 레이블 로키 뮤직이 대표 리듬게임 '디제이맥스' 시리즈 세계관 속 캐릭터들을 활용한 첫 앨범 'DMRV 22FW'를 발매했다. 앨범에는 기존 게임 음악을 다채롭게 즐길 수 있는 타이틀, 오리지널, Inst.(Instrumental), 커버 등 총 4개 버전으로 공개되었다. 앞으로 로키 뮤직은 꾸준한 정규 앨범 시리즈를 선보일 예정이다.
 
-제목: [0324 개장체크] 美 증시, Fed 금리 인상 종료 기대감에 3대 지수 모두 상승 부터 인포스탁데일리 - Investing.com
-URL: https://news.google.com/rss/articles/CBMiPmh0dHBzOi8va3IuaW52ZXN0aW5nLmNvbS9uZXdzL3N0b2NrLW1hcmtldC1uZXdzL2FydGljbGUtODk0MjUw0gEA?oc=5
+URL: https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3Lm5zcG5hLmNvbS9uZXdzLz9tb2RlPXZpZXcmbmV3c2lkPTYyNzY0MdIBMmh0dHA6Ly9hbXAubnNwbmEuY29tL25ld3MvP21vZGU9dmlldyZuZXdzaWQ9NjI3NjQx?oc=5
+
+제목: [일상 속 뇌과학] 나쁜 기억은 왜 쉽게 잊혀지지 않을까 - 동아사이언스
+요약: GPT3 Return Error: 'choices'
+
+URL: https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vbS5kb25nYXNjaWVuY2UuY29tL25ld3MucGhwP2lkeD01OTA4OdIBAA?oc=5
+
+제목: 게임패드가 스위치처럼 분리되는 UMPC 게임기? ONEXPLAYER 2 메타덱 - 알럽피씨
+요약: GPT3 Return Error: 'choices'
+
+URL: https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3Lmlsb3ZlcGMuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTQ2NTE00gEA?oc=5
+
+제목: 우리금융 주총서 임종룡 회장 사내이사 선임…후임 행장 선정절차 돌입 - 인베스트조선
+요약: 우리금융이 주주총회에서 임종룡 신임 회장의 사내이사 선임을 확정하고, 후임 행장을 뽑기 위한 경영승계 프로그램에 들어갔다. 이에 따라, 이원덕 우리은행장의 사의 표명 이후 후임 행장을 정하기 위한 절차와 방식을 확정할 예정이다. 후보군에는 지난 임원후보추천위원회에서 경합한 후보 일부와 최근 계열 최고경영자로 선임된 인사들이 오르내리고 있다.
+
+URL: https://news.google.com/rss/articles/CBMiP2h0dHA6Ly93d3cuaW52ZXN0Y2hvc3VuLmNvbS9tL2FydGljbGUuaHRtbD9jb250aWQ9MjAyMzAzMjQ4MDA0NdIBAA?oc=5
+
+제목: 김지연, 시크→러블리 매력 총집합…모든 스타일링 찰떡 소화 - MBC뉴스
+요약: 배우 김지연의 패션 매거진 '마리끌레르' 4월호 화보 비하인드 스틸이 공개됐다. 김지연은 세련미 가득한 비주얼을 자랑하며, 다채로운 매력을 발산하고 있다. 또한, MBC 새 금토드라마 '조선변호사'에서 함께 출연하는 우도환과 환상적인 호흡을 자랑해 역대급 커플 화보를 완성했다는 후문이다.
+
+URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9lbnRlci9hcnRpY2xlLzY0NjcxNjJfMzYxNjEuaHRtbNIBQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9lbnRlci9hcnRpY2xlLzY0NjcxNjJfMzYxNjIuaHRtbA?oc=5
+
+제목: 유연석, 폭로글 작성자 고발장 접수…"명예훼손 혐의" - 한국일보
+요약: 배우 유연석이 인성 폭로글에 대한 형사 고발장을 접수했다. 유연석의 소속사는 최초 작성자에 대해 명예훼손 및 허위사실 공표의 혐의로 고발했다. 이는 인터넷 커뮤니티의 글로부터 시작된 진실공방이다. 해당 글에 대한 파장은 컸으며, 소속사는 해당 내용이 전혀 사실 무근이라고 반박하고, 강력한 법적 대응 절차를 준비하고 있다고 밝혔다.
+
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpbGJvLmNvbS9OZXdzL1JlYWQvQTIwMjMwMzI0MTAwMzAwMDQ4MTXSAQA?oc=5
+
+제목: 남경필 전 경기지사 장남, 필로폰 투약 혐의로 체포 - MBC뉴스
+요약: 남경필 전 경기도지사 장남이 필로폰 투약 혐의로 경찰에 붙잡혔습니다. 경찰은 압수수색 영장을 집행해 남 씨의 소변과 모발을 채취하고, 국립과학수사연구원에 마약 검사를 의뢰할 예정입니다. 남 씨는 과거 필로폰 투약 및 밀수 혐의로 유죄 판결을 받은 전력이 있습니다.
+
+URL: https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9zb2NpZXR5L2FydGljbGUvNjQ2NzE1OF8zNjEyNi5odG1s0gFEaHR0cHM6Ly9pbW5ld3MuaW1iYy5jb20vbmV3cy8yMDIzL3NvY2lldHkvYXJ0aWNsZS82NDY3MTU4XzM2MTI3Lmh0bWw?oc=5
+
+제목: 국립암센터, '암환자와 디스트레스-의료사회복지사 안내서' 출판 - 의학신문
+요약: 국립암센터가 암환자와 디스트레스(정신적 고통)를 경험하는 사람들을 위한 안내서를 발간했다. 이번 안내서는 디스트레스 평가와 개입에 대한 이해를 돕기 위해 국립암센터와 대한의료사회복지사협회가 함께 개발한 것으로, 암환자의 심리사회적 어려움을 완화하는 데 있어 디스트레스 평가와 개입에 대한 이해를 돕기 위해 제작됐다. 이번 안내서는 디스트레스 평가도구를 활용한 상담의 실제와 사례들을 포함해 임상현장에서 지속적으로 활용할 수 있는 실천 안내서가 될 것으로 기대된다.
+
+URL: https://news.google.com/rss/articles/CBMiOWh0dHA6Ly93d3cuYm9zYS5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjE5MzYwMNIBAA?oc=5
+
+제목: 美 억만장자 "연준 금리 인상에 경제 경착륙 중" - 연합인포맥스
+요약: 미국 월가 부동산 투자가인 배리 스턴리히트 스타우드캐피털 CEO는 연방준비제도(Fed)가 너무 공격적으로 금리를 인상해 미국이 경기침체로 접어들고 있다고 지적했다. 이에 따라 소규모 은행들이 보유한 장기채의 가치가 떨어져 유동성 위기를 불러올 수 있다는 우려가 제기되고 있다.
+
+URL: https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vbmV3cy5laW5mb21heC5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NDI1OTQyN9IBAA?oc=5
+
+제목: 전주혜 “헌재가 '의회 독재'에 날개 달아줘…우리법연구회 출신 편파적” - 한겨레
+요약: 국회의원 전주혜씨가 검수완박법에 대한 헌법재판소의 '유효' 결정을 비판했다. 전 의원은 헌재의 결정이 의회 독재에 날개를 달아준 것이라며, 국회 법제사법위원장을 상대로 권한쟁의 심판청구를 직접 제기한 당사자이다. 그는 민형배 의원과 더불어민주당의 사과가 필요하다고 밝혔다. 전 의원은 또한 헌재 재판관들의 성향을 문제 삼으며, 재판관의 중립성이 무너졌다고 주장했다.
+
+URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9wb2xpdGljc19nZW5lcmFsLzEwODUwMTIuaHRtbNIBAA?oc=5
+
+제목: 송민호 24일 군대간다...위너 3번째 군입대, 강승윤도 '곧' - 뉴스컬처
+요약: 위너의 송민호가 대체복무를 위해 24일 훈련소에 입소한다. 송민호는 군 입대로 인해 JTBC '피크타임'에서 하차하게 되었다. 송민호는 내년 12월 24일까지 사회복무요원으로 군복무를 하게 된다.
+
+URL: https://news.google.com/rss/articles/CBMiP2h0dHA6Ly93d3cubmV3c2N1bHR1cmUucHJlc3MvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTUyMDU5NNIBAA?oc=5
+
+제목: 황제성 "난 명품 입고 아내는 헌옷수거함 뒤진다고…" 황당 목격담 해명 - 머니투데이
+요약: 코미디언 황제성이 자신의 아내가 헌 옷 수거함을 뒤지고 다닌다는 소문에 대해 가짜뉴스라고 해명했다. 이에 대해 이용진, 양세형, 이진호 등 예능프로그램에서 폭로한 적이 있었으나, 황제성은 이들의 주장을 모두 부인하며 가짜뉴스라고 강조했다. 또한, 이용진이 자신의 속옷 색깔이 노랗다는 유언비어를 퍼뜨리고 다닌 것에 대해서도 사실무근이라고 말했다.
+
+URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwMzI0MDk0MjQ4MzQ2MzbSAT1odHRwczovL20ubXQuY28ua3IvcmVuZXcvdmlld19hbXAuaHRtbD9ubz0yMDIzMDMyNDA5NDI0ODM0NjM2?oc=5
+
+제목: [속보]경찰, 민주노총 건설노조 압수수색…정치자금법 위반 혐의 - 한겨레
+요약: 서울경찰청 반부패·공공범죄수사대는 24일 오전 9시부터 민주노총 건설노조 사무실을 비롯해 건설노조 간부 4명의 주거지 등 10곳에 수사관을 보내 회계장부 등을 확보하고 있다. 경찰은 건설노조가 2019년 12월 건설노조 조합원들에게 돈을 걷어 노조 지부 명의로 당시 민중당(현 진보당)에 6500만원가량의 특별당비 명목의 후원금을 보내 정치자금법을 위반했다고 의심하고 있다.
+
+URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDg1MDA2Lmh0bWzSAQA?oc=5
+
+제목: [날씨] 오늘 전국 황사 영향권…고온현상 주춤 - 연합뉴스
+URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L01ZSDIwMjMwMzI0MDA1OTAwNjQx0gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9NWUgyMDIzMDMyNDAwNTkwMDY0MQ?oc=5
+
+제목: 헌재, 강제퇴거 외국인 무기한 구금 위헌 결정 - 한겨레
+요약: 한국의 출입국관리법 63조 1항에 따라 외국인보호소에서 강제퇴거 대상 외국인을 무기한 구금할 수 있는 조항이 헌법에 어긋난다는 헌법재판소의 판단이 나왔다. 이 조항은 행정의 편의성과 획일성만을 강조하고 피보호자의 신체의 자유를 과도하게 제한한다는 이유로 헌법불합치 결정을 받았다. 이 결정은 2025년 5월 31일까지 이 조항을 개정해야 한다는 것을 요구하며, 이주 구금 상한제도를 도입한 독일과 대만의 사례를 들어 이 조항이 없어도 강제퇴거 명령을 효과적으로 집행할 수 있다는 것을 보여주었다.
+
+URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDg1MDAyLmh0bWzSAQA?oc=5
 
 제목: 사우디, 이란 이어 시리아와도 외교 관계 복원 움직임 - 한겨레
-요약: 사우디아라비아가 10년간 단절한 시리아와의 관계를 복원하려는 움직임을 보이고 있다. 사우디 외교부 관계자는 시리아와 영사 업무를 재개하는 논의가 진행 중이라고 밝혔다. 이에 따라 시리아의 아랍 연맹 복귀도 가능성이 높아질 것으로 보인다. 이번 관계 회복은 사우디의 무하마드 빈 살만 왕세자의 안정적인 관계 원하는 의지가 큰 역할을 했다.
+요약: 사우디아라비아가 10년간 단절했던 시리아와의 관계를 복원하려는 움직임을 보이고 있다. 이에 따라 사우디와 시리아 사이에 영사 서비스 제공을 재개하는 것에 대한 논의가 진행 중이며, 시리아의 아랍 연맹 복귀도 급물살을 탈 것으로 보인다. 이번 관계 회복은 사우디의 무하마드 빈 살만 왕세자가 안정적인 관계를 원하고 있기 때문이라는 분석이 나오고 있다.
 
 URL: https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9pbnRlcm5hdGlvbmFsL2ludGVybmF0aW9uYWxfZ2VuZXJhbC8xMDg1MDAwLmh0bWzSAQA?oc=5
 
-제목: 골밀도 감소 치매 예고 신호 - 한국경제TV
-요약: 대퇴골의 골밀도 감소가 치매 발생 위험과 관련이 있다는 연구 결과가 나왔다. 네덜란드의 연구팀은 치매가 없는 노인 3,651명을 대상으로 대퇴골 경부와 요추 등의 골밀도 검사를 실시하고, 치매 검사도 받았다. 대퇴골 경부의 골밀도가 낮아질수록 모든 형태의 치매 위험이 12%씩 높아지는 것으로 나타났다. 이 연구 결과는 미국 신경학회 학술지 '신경학' 최신호에 발표됐다.
+제목: 골밀도 감소, 치매 예고 신호? - 한국경제TV
+요약: 대퇴골의 골밀도 감소가 치매 발생 위험과 연관이 있다는 연구 결과가 나왔다. 네덜란드의 연구팀은 치매가 없는 노인 3,651명을 대상으로 대퇴골 경부와 요추 등의 골밀도 검사와 치매 검사를 실시한 결과, 대퇴골 경부의 골밀도가 낮을수록 모든 형태의 치매 발생 위험이 12%씩 높아지는 것으로 나타났다. 특히, 알츠하이머 치매의 경우 위험이 14%씩 높아졌다. 이러한 결과는 남성에만 해당되며, 대퇴골 경부 골밀도가 낮은 남성은 모든 형태의 치매 발생 위험이 56% 높았다.
 
-URL: https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lndvd3R2LmNvLmtyL05ld3NDZW50ZXIvTmV3cy9SZWFkP2FydGljbGVJZD1BS1IyMDIzMDMyNDAzMTMwMDAwOdIBAA?oc=5
+URL: https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vbS53b3d0di5jby5rci9OZXdzQ2VudGVyL05ld3MvUmVhZD9hcnRpY2xlSWQ9QUtSMjAyMzAzMjQwMzEzMDAwMDnSAQA?oc=5
 
-제목: 세가 '소닉 프론티어' 업데이트 제1탄 봄의 여정 배포 - 더게임스데일리
-요약: 세가퍼블리싱코리아는 '소닉 프론티어' 무료 대규모 업데이트 제1탄 '봄의 여정'을 발표했다. 업데이트에는 음악 변경 기능인 '주크박스', 카메라 모드, 전뇌공간 챌린지, 배틀 러쉬 등이 포함되어 있다. 또한, 새로운 난이도 '익스트림'과 코코의 모습을 이스터 사양으로 변경하는 기능도 추가되었다. 이 회사는 인스타그램 이벤트를 통해 닌텐도 스위치 OLED 모델 및 소닉 티셔츠 등을 증정하며, PS 플러스 디럭스 가입자를 대상으로 체험판 배포를 시작했다.
-
-URL: https://news.google.com/rss/articles/CBMiO2h0dHA6Ly93d3cudGdkYWlseS5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MzIzNjQ00gE-aHR0cDovL3d3dy50Z2RhaWx5LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz0zMjM2NDQ?oc=5
-
-제목: 추경호 “한일, 용인 반도체클러스터 공급망 협력… 양국 항공편 늘리기로” - 조선일보 - 조선일보
-URL: https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNob3N1bi5jb20vZWNvbm9teS9lY29ub215X2dlbmVyYWwvMjAyMy8wMy8yNC9PNVhEN0VQT0FGR0U1Rk5HTDYzT1RJWVMzSS_SAWRodHRwczovL3d3dy5jaG9zdW4uY29tL2Vjb25vbXkvZWNvbm9teV9nZW5lcmFsLzIwMjMvMDMvMjQvTzVYRDdFUE9BRkdFNUZOR0w2M09USVlTM0kvP291dHB1dFR5cGU9YW1w?oc=5
-
-제목: 오렌지디, 웹툰 '마왕님은 죽고 싶어' 애니메이션 공개 - 이데일리
-요약: 리디의 자회사 오렌지디가 웹툰 '마왕님은 죽고 싶어'의 애니메이션을 라프텔을 통해 공개한다. 애니메이션은 총 10화 분량으로 오는 27일 1, 2화가 공개되며, 매주 1화씩 공개된다. 또한, 5월 중에는 애니메이션 '마왕님은 죽고 싶어' 굿즈 패키지 크라우딩 펀딩도 진행된다.
-
-URL: https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmVkYWlseS5jby5rci9uZXdzL3JlYWQ_bmV3c0lkPTAxMzk0MDA2NjM1NTQ2NjAwJm1lZGlhQ29kZU5vPTI1N9IBAA?oc=5
-
-제목: 우리의 식단에 첨가해야 할 최고의 씨앗들 - MSN
-URL: https://news.google.com/rss/articles/CBMizwFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvb3RoZXIvJUVDJTlBJUIwJUVCJUE2JUFDJUVDJTlEJTk4LSVFQyU4QiU5RCVFQiU4QiVBOCVFQyU5NyU5MC0lRUMlQjIlQTglRUElQjAlODAlRUQlOTUlQjQlRUMlOTUlQkMtJUVEJTk1JUEwLSVFQyVCNSU5QyVFQSVCMyVBMCVFQyU5RCU5OC0lRUMlOTQlQTglRUMlOTUlOTclRUIlOTMlQTQvc3MtQUExOTByNlXSAQA?oc=5
-
-제목: 피겨 차준환, 세계선수권 쇼트 3위…한국 남자 최초 메달 청신호 - 연합뉴스TV
-요약: 차준환 선수가 피겨 세계선수권에서 3위에 오르며 한국 남자 선수 최초의 대회 메달 수상 가능성을 높였습니다. 차준환은 일본에서 열린 대회 남자 싱글 쇼트프로그램에서 99.64점의 개인 최고점으로 3위에 올랐으며, 내일 열리는 프리스케이팅에서 역대 첫 메달 획득에 도전할 예정입니다.
-
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwMzI0MDAyMDAwNjQx0gEA?oc=5
-
-제목: [문화연예 플러스] 정동원, 자동차 전용도로에서 오토바이 주행 - MBC뉴스
-요약: 가수 정동원이 자동차 전용도로에서 오토바이를 타다 적발되어 경찰에 입건됐다. 경찰은 정동원이 미성년자인 것을 고려해 석방하고, 보호자를 동반한 상태에서 조사를 진행할 예정이라고 밝혔다.
-
-URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253dG9kYXkvYXJ0aWNsZS82NDY3MDk2XzM2MjA3Lmh0bWzSAUZodHRwczovL2ltbmV3cy5pbWJjLmNvbS9yZXBsYXkvMjAyMy9ud3RvZGF5L2FydGljbGUvNjQ2NzA5Nl8zNjIwOC5odG1s?oc=5
-
-제목: 틱톡 청문회 연 美의회 "중국 공산당 조종 도구...금지해야" - YTN
-요약: 미국 의회가 중국산 SNS인 틱톡을 금지하는 법안을 제출한 가운데, 틱톡 CEO를 불러 청문회를 열었다. 여야 의원들은 틱톡 배후에 중국 공산당이 있다며 CEO를 몰아 부쳤고, 미국 정부도 틱톡은 분명한 안보 위협이라고 밝혔다. 틱톡과 중국 공산당은 사실상 한 몸이라는 주장이 핵심이다. CEO는 중국 정부에 정보를 넘기지 않았다고 반박했지만, 일부 정보는 중국을 비롯한 외부에서 여전히 접근이 가능한 상태인 것으로 확인됐다.
-
-URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lnl0bi5jby5rci9fbG4vMDEwNF8yMDIzMDMyNDA3MjA0ODI4OTDSAQA?oc=5
-
-제목: 미 연준, 베이비스텝 금리인상..증시 급락세 돌변 마감 - 이로운넷
-요약: 미국 연방준비제도(Fed)가 기준금리를 0.25%포인트 추가 인상하여 4.75~5.00% 범위에 도달했다. 2023년 말까지 최소 25bp의 추가 금리 인상도 예고했다. 제롬 파월 연준 의장은 미국 은행 시스템의 건전성을 강조하며 최근 성사된 UBS의 크레디트스위스(Credit Suisse)은행 인수가 긍정적인 결과라고 말했다. 하지만 파월 의장은 여전히 인플레이션 대처에 대한 적극적인 의지를 갖고 있으며 최근 은행 파산으로 수요가 냉각되고 대출이 둔화되는 정도를 주시하고 있다. 이로 인해 뉴욕증시는 대폭 하락하였고, 지역은행주가 
-
-URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LmVyb3VuLm5ldC9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MzE0NTXSAQA?oc=5
-
-제목: [인터뷰] ‘삼남매가’ 임주환 “이하나와 편하게 소통, 큰 도움 받았죠” - 매일경제
-요약: GPT3 Return Error: 'choices'
-
-URL: https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3Lm1rLmNvLmtyL3N0YXIvYnJvYWRjYXN0aW5nLXNlcnZpY2Uvdmlldy8yMDIzLzAzLzIyOTE0My_SAUVodHRwczovL20ubWsuY28ua3Ivc3Rhci9icm9hZGNhc3Rpbmctc2VydmljZS92aWV3LWFtcC8yMDIzLzAzLzIyOTE0My8?oc=5
-
-제목: 다시 '지하철 탑승 시위'‥갈등 깊어진 서울시-전장연 - MBC뉴스
-요약: 서울시와 장애인 단체 간 갈등이 다시 시작되었다. 장애인 단체 회원들이 지하철 탑승 시위를 다시 시작하고, 도심 차로를 점거하며 시위를 이어갔다. 서울시는 장애인활동 지원 급여 수급자를 일제 점검하겠다고 발표하자 전장연은 반발하며 이중 조사를 비판했다. 양측 간 긴장이 높아지고 있으며, 전장연은 장애인의 날인 다음 달 20일까지 1호선 탑승 시위를 포함한 농성을 이어갈 계획이다.
-
-URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253dG9kYXkvYXJ0aWNsZS82NDY3MDcwXzM2MjA3Lmh0bWzSAUZodHRwczovL2ltbmV3cy5pbWJjLmNvbS9yZXBsYXkvMjAyMy9ud3RvZGF5L2FydGljbGUvNjQ2NzA3MF8zNjIwOC5odG1s?oc=5
-
-제목: 수도권·충남 황사위기경보 '주의'…미세먼지 '나쁨' | 서울특별시 미디어재단 TBS - TBS뉴스
-요약: 서울에는 한옥과 북한산이 있다는 것이 이번 뉴스의 주제이다. 신입 기자가 서울의 한옥과 북한산을 취재하며 그들의 매력을 발견하고 소개하고 있다. 한옥은 전통적인 한국식 주택으로, 서울의 많은 지역에서 볼 수 있다. 북한산은 서울의 자연 경관 중 하나로, 등산객들에게 인기가 있다. 이 뉴스는 서울의 다양한 매력을 알리고 있다.
-
-URL: https://news.google.com/rss/articles/CBMiT2h0dHA6Ly90YnMuc2VvdWwua3IvbmV3cy9uZXdzVmlldy5kbz90eXBfODAwPTYmaWR4XzgwMD0zNDkyNjk4JnNlcV84MDA9MjA0ODUzNjnSAQA?oc=5
-
-제목: 아들 부자 서하얀·임창정, 여섯째까지 계획? “공장 문 닫았어!” - 조선일보 - 조선일보
-URL: https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNob3N1bi5jb20vZW50ZXJ0YWlubWVudHMvZW50ZXJfZ2VuZXJhbC8yMDIzLzAzLzI0L0ZYV0haMjJTUFRKQkVGRDJNSFlHUVNTTVJRL9IBaWh0dHBzOi8vd3d3LmNob3N1bi5jb20vZW50ZXJ0YWlubWVudHMvZW50ZXJfZ2VuZXJhbC8yMDIzLzAzLzI0L0ZYV0haMjJTUFRKQkVGRDJNSFlHUVNTTVJRLz9vdXRwdXRUeXBlPWFtcA?oc=5
-
-제목: 北, 21~23일 핵수중공격형무기체계 시험… 김정은 참관 - 동아일보
-요약: 북한이 김정은 국무위원장이 참관한 가운데 핵무인수중공격정 수중폭발 시험과 전략순항미사일 핵탄두 모의 공중폭발시험을 진행했다고 밝혔다. 조선중앙통신은 이번 시험을 통해 핵무인수중공격정의 타격능력이 검증되었다고 전했다. 또한, 전략순항미사일도 발사훈련을 진행하며 목표를 명중 타격했다고 주장했다.
-
-URL: https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmRvbmdhLmNvbS9uZXdzL1BvbGl0aWNzL2FydGljbGUvYWxsLzIwMjMwMzI0LzExODQ5NjkxMS8x0gE3aHR0cHM6Ly93d3cuZG9uZ2EuY29tL25ld3MvYW1wL2FsbC8yMDIzMDMyNC8xMTg0OTY5MTEvMQ?oc=5
-
-제목: '테라·루나 사태' 권도형 몬테네그로 공항서 체포 - MBC뉴스
-요약: 가상화폐 폭락사태의 핵심 피의자인 권도형 테라폼랩스 대표로 추정되는 인물이 유럽 몬테네그로에서 체포됐다. 권 대표는 테라와 루나의 발행사인 테라폼랩스의 공동 창업자로, 투자자들에게 알리지 않은 채 계속해서 코인을 발행한 혐의가 있다. 권 대표는 1년 가까운 해외 도피 생활을 이어왔으며, 검찰은 최대한 신속하게 송환 절차에 착수할 예정이다.
-
-URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253dG9kYXkvYXJ0aWNsZS82NDY3MDU2XzM2MjA3Lmh0bWzSAUZodHRwczovL2ltbmV3cy5pbWJjLmNvbS9yZXBsYXkvMjAyMy9ud3RvZGF5L2FydGljbGUvNjQ2NzA1Nl8zNjIwOC5odG1s?oc=5
-
-제목: 야구선수 서준원 불구속기소…미성년 성착취물 제작 혐의 - 연합뉴스TV
-요약: 프로야구 선수 서준원이 미성년자로부터 신체 사진을 받아 성착취물을 제작한 혐의로 검찰 조사를 받았으며, 부산지검 여성아동범죄조사부는 아동청소년의 성보호에 관한 법률 위반 혐의로 불구속 기소했습니다. 롯데는 징계위원회를 열어 최고 수위인 퇴단을 결정했습니다.
-
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwMzI0MDAwNjAwNjQx0gEA?oc=5
+제목: 기우를 감탄으로…클린스만·손흥민의 '이상동몽' / 연합뉴스TV (YonhapnewsTV) - 연합뉴스TV
+URL: https://news.google.com/rss/articles/CCAiCzN1SEFvOGtkMGpJmAEB?oc=5
 
 
