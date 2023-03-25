@@ -1,95 +1,99 @@
-제목: 혼다가 발표한 3세대 자율 작업용 EV - 테크레시피
-요약: 아메리칸혼다모터스가 자율주행 차량인 AWV(Honda Autonomous Work Vehicle)의 3세대 모델을 발표했다. 이번 모델은 적재량이 907kg으로 대폭 늘어나고, 내비게이션 개선과 거리에 있는 장애물 회피 기능 등이 강화되었다. 또한 배터리 용량이 늘어나 주행거리가 증가했다. 이 차량은 건축 현장에서 사용하는 것을 상정하고 있으며, 최고 속도는 16km/h이다.
+제목: 부모와 친한 아이가 어른되면 더 건강 (연구) - 코메디닷컴
+요약: 부모와 친한 아이들은 어른이 되어서도 더 건강한 것으로 나타났다. 미국 필라델피아 아동병원(CHOP) 연구진은 부모와 자녀의 관계 개선이 아이들의 신체 정신 성 건강을 높이는 데 있어서 뿐만 아니라 성인기 초기 술이나 약물 등의 사용을 줄이는 데에도 도움이 될 수 있음을 시사하는 연구를 진행했다. 연구에서는 부모와의 관계가 좋은 아이들이 성인기에 건강한 것으로 나타났으며, 부모와 함께 보내는 시간이 많고 관계나 의사소통 만족도 수준이 높을수록 니코틴 의존 및 약물 남용 수준이 낮았다는 결과가 나왔다.
 
-URL: https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vdGVjaHJlY2lwZS5jby5rci9wb3N0cy81MTU3MdIBKGh0dHBzOi8vdGVjaHJlY2lwZS5jby5rci9wb3N0cy81MTU3MS9hbXA?oc=5
+URL: https://news.google.com/rss/articles/CBMivAFodHRwczovL2tvcm1lZGkuY29tLzE1NzcxNDUvJUVCJUI2JTgwJUVCJUFBJUE4JUVDJTk5JTgwLSVFQyVCOSU5QyVFRCU5NSU5Qy0lRUMlOTUlODQlRUMlOUQlQjQlRUElQjAlODAtJUVDJTk2JUI0JUVCJUE1JUI4JUVCJTkwJTk4JUVCJUE5JUI0LSVFQiU4RCU5NC0lRUElQjElQjQlRUElQjAlOTUtJUVDJTk3JUIwJUVBJUI1JUFDL9IBAA?oc=5
 
-제목: [PRNewswire] BIOHAZARD RE:4, 3월 24일 출시 - 무료 데모 버전도 다운로드 가능 - 연합뉴스
-URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L1JQUjIwMjMwMzI0MDA2MTAwMzUz0gEA?oc=5
+제목: 종류만 수백 가지…내 몸에 효과적인 유산균 고르는 법 - 전민일보
+요약: 유익균과 유해균의 비율이 80:20일 때 건강한 상태가 유지된다는데, 최근에는 장내 유익균이 면역력부터 피부, 뇌, 성장 등 인체 기능에 많은 영향을 준다는 것이 밝혀졌다. 따라서 프로바이오틱스 섭취 시엔 본인의 건강 상태에 맞는 유산균을 고르는 것이 좋다. 멀티바이오틱스 제품을 먹는 것이 좋다.
+
+URL: https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lmplb25taW4uY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTM3NTMwNtIBAA?oc=5
+
+제목: “사우디, 이란 이어 시리아와도 관계 정상화 합의” - 경향신문
+요약: 사우디아라비아가 이란과 외교관계를 복원한 후 시리아와도 관계를 정상화하기로 결정했다. 이슬람 명절 이드 알-피트르 때 대사관 재개관을 준비할 예정이며, 이번 결정은 사우디와 이란 간 관계 정상화와 함께 중동 정세에 큰 영향을 미칠 것으로 예상된다. 다만 미국은 이들의 관계 정상화에 대해 여전히 반대의 입장을 유지하고 있다.
+
+URL: https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmtoYW4uY28ua3Ivd29ybGQvbWlkZWFzdC1hZnJpY2EvYXJ0aWNsZS8yMDIzMDMyNDE0NTkwMDHSAQA?oc=5
+
+제목: [특허 in 마켓] 이든팜, 정확한 화장품 제조를 위한 배합 장치와 시스템 특허 획득 - 비즈월드
+요약: 화장품 OEM·ODM 전문 제조회사인 이든팜이 화장품 제조용 배합장치 및 시스템에 대한 특허를 등록받았다. 이 기술은 교반기 회전축의 길이 방향으로 블레이드가 승강되어 믹싱하우징에서 화장품의 위치에 관계없이 균등하게 교반·배합할 수 있는 장치이다. 이를 이용하면 정확한 양으로 재료가 투입되었는지 판단할 수 있으며, 성분을 분석해 균일하게 혼합되는지 판단하고 해당 부분의 농도를 균일하게 배합할 수 있다. 이든팜은 이번 기술로 제조 공정을 개선해 차별화된 제조 기술력을 한 단계 끌어올렸다.
+
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmJpenduZXdzLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NTM3MzjSAQA?oc=5
+
+제목: [데일리투데이] 김지연, '마리끌레르' 화보...순수X시크X러블리 매력 총집합 - Daily Today (데일리투데이)
+요약: 김지연이 패션 매거진 '마리끌레르' 4월호 화보에 출연해 세련미 가득한 비주얼을 자랑하며 다채로운 매력을 발산했다. 또한, MBC 새 금토드라마 '조선변호사'에서 우도환과 함께 출연해 역대급 커플 화보를 완성해 스태프들의 찬사를 받았다.
+
+URL: https://news.google.com/rss/articles/CBMiM2h0dHA6Ly93d3cuZGFpbHl0b2RheS5jby5rci9uZXdzL3ZpZXcucGhwP2lkeD04NTUwOdIBAA?oc=5
+
+제목: ‘임창정♥’ 서하얀, 힙한 패션도 완벽 소화…애 엄마 맞아? - 매일경제
+요약: 임창정의 아내인 서하얀이 인스타그램에 트렌디한 패션 사진을 게재해 화제가 되었다. 서하얀은 찢어진 청바지와 빨간색 야구 모자를 착용해 스타일을 완벽히 소화하였으며, 긴 생머리를 늘어뜨린 모습으로 힙한 분위기를 자아냈다. 이에 누리꾼들은 서하얀의 날씬하고 예쁜 모습에 감탄을 보였다.
+
+URL: https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3Lm1rLmNvLmtyL3N0YXIvaG90LWlzc3Vlcy92aWV3LzIwMjMvMDMvMjMwNTMzL9IBO2h0dHBzOi8vbS5tay5jby5rci9zdGFyL2hvdC1pc3N1ZXMvdmlldy1hbXAvMjAyMy8wMy8yMzA1MzMv?oc=5
+
+제목: 쉐보레 트랙스 크로스오버와 트레일블레이저, 어디가 다른가? - 탑라이더
+요약: 쉐보레가 SUV와 세단의 장점이 결합된 준중형 세그먼트인 트랙스 크로스오버의 사전계약을 시작했다. 트랙스 크로스오버는 차체 크기는 크지만 가격은 저렴하며, 일부 옵션은 차이가 있다. 트랙스 크로스오버의 가격은 LS 2052만원, LT 2366만원, 액티브 2681만원, RS 2739만원이다. 트레일블레이저는 프리미어 2571만원, 액티브 2728만원, RS 2772만원이다. 트랙스 크로스오버는 트레일블레이저보다 트림별로 각각 액티브 47만원, RS 33만원 저렴하다.
+
+URL: https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnRvcC1yaWRlci5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTYzMjIz0gEA?oc=5
+
+제목: KBL 이사회, 고양 캐롯 구단의 구단 명칭 변경 허용하지 않아 - 경인일보
+URL: https://news.google.com/rss/articles/CBMiO2h0dHA6Ly93d3cua3llb25naW4uY29tL21haW4vdmlldy5waHA_a2V5PTIwMjMwMzI0MDEwMDA0NzEx0gEA?oc=5
+
+제목: 한정수 "故 김주혁 사망 후 공황장애 생겼다" ('금쪽상담소') - 한국일보
+요약: 배우 조연우와 한정수가 채널A '오은영의 금쪽상담소'에 출연해 고민을 털어놓았다. 조연우는 거절 민감성이 강해 '안돼'라는 말을 못하고, 한정수는 김주혁의 죽음 이후 공황장애와 수면장애를 앓고 있다는 사실을 밝혔다. 오은영 박사는 한정수가 외상 후 스트레스 증후군과 애도가 합쳐진 외상 후 애도 증후군을 겪고 있다고 분석하며 상담을 진행했다. 이어 한정수는 김주혁이 부모 같은 애착 대상이었음을 밝히며, 일상으로 회복하기 위해선 김주혁과 마음의 이별부터 해야 한다는 조언을 받았다.
+
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpbGJvLmNvbS9OZXdzL1JlYWQvQTIwMjMwMzI0MTMyMjAwMDE0OTPSAQA?oc=5
+
+제목: '중금속 황사' 먼지 농도 평소 10배…몇 차례 더 올 듯 - 연합뉴스TV
+요약: 올봄 첫 황사가 전국을 뒤덮었으며, 이번 황사는 중국을 거쳐 오면서 오염물질이 다량 섞여 있었습니다. 황사 유입 후 서울과 대전 등에선 중금속인 납과 망간의 농도가 평소 대비 4~6배 치솟았습니다. 이번 황사는 주말까지 우리나라에 머물며 영향을 줄 것으로 예상되며, 남은 봄에도 몇 차례 더 날아들 가능성이 큽니다. 노약자와 호흡기 환자는 되도록 바깥 활동을 피하고, 외출 시 미세먼지 마스크를 착용하고, 가정에서는 먼지가 실내로 들어오지 않도록 주의해야 합니다.
+
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwMzI0MDA5ODAwNjQx0gEA?oc=5
+
+제목: 출항 임박한 클린스만호, 역대 대표팀 감독 데뷔전은 어땠나[한국-콜롬비아] - 한국아이닷컴
+요약: 한국 축구 국가대표팀의 새 감독 위르겐 클린스만 감독의 데뷔전이 24일 콜롬비아와 평가전에서 이루어집니다. 이에 따라 기사는 지금까지 한국 축구 대표팀 감독들의 데뷔전 기록을 살펴보았으며, 14명의 감독 중 8승4무2패로 승률은 57%였습니다. 외국인 감독의 데뷔전 성적이 국내 감독보다 좋았으며, 데뷔전 최다 득점 경기의 주인공은 최강희 감독이었습니다.
+
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NjU5OTLSAT1odHRwczovL3d3dy5oYW5rb29raS5jb20vbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTY1OTky?oc=5
+
+제목: 한동훈 “민주당 입버릇처럼 탄핵 말해…당당히 응할 것” - 한겨레
+요약: 한동훈 법무부 장관은 검찰 수사권 축소 ‘유효’ 헌재 결정에 대해 더불어민주당에서 사퇴·탄핵 주장이 나오자 “민주당은 입버릇처럼 탄핵을 말해왔다”면서도, “탄핵이 발의되면 당당히 응할 것”이라고 밝혔다. 이에 대해 일부 당원들은 한 장관의 책임론을 거론하며 사퇴를 요구하고 있다.
+
+URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDg1MDM0Lmh0bWzSAQA?oc=5
+
+제목: '新가스관 건설' 놓고 러-중 동상이몽?…중, 계약 체결 지연 이유는 - 뉴스1 - 뉴스1
+요약: 러시아와 중국은 '시베리아의 힘-2' 가스관 건설 계약을 체결하기 위해 마라톤 급 정상회담을 진행했다. 그러나 중국은 가스관 건설에 대한 명확한 답변을 회피하고 있어, 건설이 진행될지에 대한 의문이 제기되고 있다. 러시아는 유럽과 무역이 중단되면서 중국으로 수출길이 절실해졌지만, 중국은 러시아의 우크라이나 침공 등에 대한 우려로 인해 신중한 태도를 보이고 있다.
+
+URL: https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vd3d3Lm5ld3MxLmtyL2FydGljbGVzLz80OTkyNTQy0gEqaHR0cHM6Ly93d3cubmV3czEua3IvYW1wL2FydGljbGVzLz80OTkyNTQy?oc=5
+
+제목: 윤 대통령, 서해수호의 날 “북한 무모한 도발, 반드시 대가 치를 것” - 한겨레
+요약: 윤석열 대통령이 제8회 서해수호의 날 기념식에서 북한의 무모한 도발에 대해 대가를 치르게 할 것이라고 말했다. 이어 윤 대통령은 서해를 수호한 용사들의 헌신을 기억하며, 북한의 무력 도발로부터 엔엘엘(NLL)과 우리 영토를 피로써 지켜냈다고 강조했다. 윤 대통령은 이날 기념사를 발표하기 전 2002년 제2연평해전, 2010년 천안함 사건과 연평도 포격전에서 전사·순직한 55명 이름을 한 명씩 호명하는 ‘롤콜’(roll-call)을 통해 이들의 위훈을 기렸다.
+
+URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9wb2xpdGljc19nZW5lcmFsLzEwODUwMzAuaHRtbNIBAA?oc=5
+
+제목: 다음주 1839개 상장사 '슈퍼주총위크'…29일은 570개사 몰려 - 한국경제
+요약: GPT3 Return Error: 'choices'
+
+URL: https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9maW5hbmNlL2FydGljbGUvMjAyMzAzMjQxNTA3adIBMmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9maW5hbmNlL2FtcC8yMDIzMDMyNDE1MDdp?oc=5
+
+제목: 2023년 PC 유저는 무슨 게임 할 수 있나요? - 인벤
+요약: GPT3 Return Error: 'choices'
+
+URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmludmVuLmNvLmtyL3dlYnppbmUvbmV3cy8_bmV3cz0yODMwNDnSAQA?oc=5
+
+제목: [Y현장] '킬링 로맨스' 감독 “이선균, 잇몸약 광고 보고 예사롭지 않음 느꼈다" - YTN
+요약: 이원석 감독이 이하늬와 이선균을 주연으로 캐스팅한 이유를 밝혔다. 영화 '킬링 로맨스'는 섬나라 재벌과 운명적 사랑에 빠진 톱스타, 그리고 팬클럽 3기 출신 사수생이 모의하는 기상천외한 컴백 작전을 그린 영화이다. 이하늬는 코믹 연기와 과감한 몸짓으로 변신을 예고하고, 이선균은 20여 년간 쌓아온 필모그래피 중 가장 강렬한 비주얼 변신으로 눈길을 모은다. '킬링 로맨스'는 4월 14일 개봉 예정이다.
+
+URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lnl0bi5jby5rci9fbG4vMDExN18yMDIzMDMyNDExMjUyMTE0OTbSAQA?oc=5
+
+제목: 라보뱅크 "연준, 6월 금리 인상 전망 철회" - 연합인포맥스
+요약: 라보뱅크는 미국 연방준비제도(Fed)가 6월 기준금리를 25bp 인상하지 않을 것으로 예상하며, 연준의 최종 기준금리 수준 전망치를 5.25~5.5%에서 5~5.25%로 하향 조정할 것으로 전망했다.
+
+URL: https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vbmV3cy5laW5mb21heC5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NDI1OTQ0ONIBAA?oc=5
+
+제목: “틱톡은 중국공산당의 무기”…미 의원 수십명 틱톡 CEO 난타 - 한겨레
+요약: 중국 업체가 소유한 틱톡의 최고경영자가 미국 하원 청문회에 출석해 파상 공세에 시달렸다. 의원들은 틱톡이 미국인들 정보를 중국 정부에 넘길 수 있고, 중국 쪽의 여론 조작 도구로도 쓰일 수 있다며 퇴출시켜야 한다고 주장하고 있다. 미국 상·하원에는 행정부에 틱톡 사용을 전면 금지할 수 있는 권한을 주는 법안도 발의돼 있다.
+
+URL: https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9pbnRlcm5hdGlvbmFsL2FtZXJpY2EvMTA4NTAyMi5odG1s0gEA?oc=5
 
 제목: 네오위즈 로키 뮤직, 첫 앨범 DMRV 발매 - NSP통신
-요약: 네오위즈의 음악 레이블 로키 뮤직이 대표 리듬게임 '디제이맥스' 시리즈 세계관 속 캐릭터들을 활용한 첫 앨범 'DMRV 22FW'를 발매했다. 앨범에는 기존 게임 음악을 다채롭게 즐길 수 있는 타이틀, 오리지널, Inst.(Instrumental), 커버 등 총 4개 버전으로 공개되었다. 앞으로 로키 뮤직은 꾸준한 정규 앨범 시리즈를 선보일 예정이다.
+요약: 네오위즈의 음악 레이블 로키 뮤직이 대표 리듬게임 '디제이맥스(DJMAX) 시리즈' 세계관 속 캐릭터들을 활용한 첫 앨범 'DMRV 22FW'를 발매했다. 이 앨범은 기존 게임 음악을 새로운 콘셉트의 음악, 영상, 공연 콘텐츠로 선보이는 것으로, 국내외 음원 사이트에서 만나볼 수 있다. 앞으로 로키 뮤직은 꾸준한 정규 앨범 시리즈를 선보일 예정이다.
 
 URL: https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3Lm5zcG5hLmNvbS9uZXdzLz9tb2RlPXZpZXcmbmV3c2lkPTYyNzY0MdIBMmh0dHA6Ly9hbXAubnNwbmEuY29tL25ld3MvP21vZGU9dmlldyZuZXdzaWQ9NjI3NjQx?oc=5
-
-제목: [일상 속 뇌과학] 나쁜 기억은 왜 쉽게 잊혀지지 않을까 - 동아사이언스
-요약: GPT3 Return Error: 'choices'
-
-URL: https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vbS5kb25nYXNjaWVuY2UuY29tL25ld3MucGhwP2lkeD01OTA4OdIBAA?oc=5
-
-제목: 게임패드가 스위치처럼 분리되는 UMPC 게임기? ONEXPLAYER 2 메타덱 - 알럽피씨
-요약: GPT3 Return Error: 'choices'
-
-URL: https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3Lmlsb3ZlcGMuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTQ2NTE00gEA?oc=5
-
-제목: 우리금융 주총서 임종룡 회장 사내이사 선임…후임 행장 선정절차 돌입 - 인베스트조선
-요약: 우리금융이 주주총회에서 임종룡 신임 회장의 사내이사 선임을 확정하고, 후임 행장을 뽑기 위한 경영승계 프로그램에 들어갔다. 이에 따라, 이원덕 우리은행장의 사의 표명 이후 후임 행장을 정하기 위한 절차와 방식을 확정할 예정이다. 후보군에는 지난 임원후보추천위원회에서 경합한 후보 일부와 최근 계열 최고경영자로 선임된 인사들이 오르내리고 있다.
-
-URL: https://news.google.com/rss/articles/CBMiP2h0dHA6Ly93d3cuaW52ZXN0Y2hvc3VuLmNvbS9tL2FydGljbGUuaHRtbD9jb250aWQ9MjAyMzAzMjQ4MDA0NdIBAA?oc=5
-
-제목: 김지연, 시크→러블리 매력 총집합…모든 스타일링 찰떡 소화 - MBC뉴스
-요약: 배우 김지연의 패션 매거진 '마리끌레르' 4월호 화보 비하인드 스틸이 공개됐다. 김지연은 세련미 가득한 비주얼을 자랑하며, 다채로운 매력을 발산하고 있다. 또한, MBC 새 금토드라마 '조선변호사'에서 함께 출연하는 우도환과 환상적인 호흡을 자랑해 역대급 커플 화보를 완성했다는 후문이다.
-
-URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9lbnRlci9hcnRpY2xlLzY0NjcxNjJfMzYxNjEuaHRtbNIBQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9lbnRlci9hcnRpY2xlLzY0NjcxNjJfMzYxNjIuaHRtbA?oc=5
-
-제목: 유연석, 폭로글 작성자 고발장 접수…"명예훼손 혐의" - 한국일보
-요약: 배우 유연석이 인성 폭로글에 대한 형사 고발장을 접수했다. 유연석의 소속사는 최초 작성자에 대해 명예훼손 및 허위사실 공표의 혐의로 고발했다. 이는 인터넷 커뮤니티의 글로부터 시작된 진실공방이다. 해당 글에 대한 파장은 컸으며, 소속사는 해당 내용이 전혀 사실 무근이라고 반박하고, 강력한 법적 대응 절차를 준비하고 있다고 밝혔다.
-
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpbGJvLmNvbS9OZXdzL1JlYWQvQTIwMjMwMzI0MTAwMzAwMDQ4MTXSAQA?oc=5
-
-제목: 남경필 전 경기지사 장남, 필로폰 투약 혐의로 체포 - MBC뉴스
-요약: 남경필 전 경기도지사 장남이 필로폰 투약 혐의로 경찰에 붙잡혔습니다. 경찰은 압수수색 영장을 집행해 남 씨의 소변과 모발을 채취하고, 국립과학수사연구원에 마약 검사를 의뢰할 예정입니다. 남 씨는 과거 필로폰 투약 및 밀수 혐의로 유죄 판결을 받은 전력이 있습니다.
-
-URL: https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9zb2NpZXR5L2FydGljbGUvNjQ2NzE1OF8zNjEyNi5odG1s0gFEaHR0cHM6Ly9pbW5ld3MuaW1iYy5jb20vbmV3cy8yMDIzL3NvY2lldHkvYXJ0aWNsZS82NDY3MTU4XzM2MTI3Lmh0bWw?oc=5
-
-제목: 국립암센터, '암환자와 디스트레스-의료사회복지사 안내서' 출판 - 의학신문
-요약: 국립암센터가 암환자와 디스트레스(정신적 고통)를 경험하는 사람들을 위한 안내서를 발간했다. 이번 안내서는 디스트레스 평가와 개입에 대한 이해를 돕기 위해 국립암센터와 대한의료사회복지사협회가 함께 개발한 것으로, 암환자의 심리사회적 어려움을 완화하는 데 있어 디스트레스 평가와 개입에 대한 이해를 돕기 위해 제작됐다. 이번 안내서는 디스트레스 평가도구를 활용한 상담의 실제와 사례들을 포함해 임상현장에서 지속적으로 활용할 수 있는 실천 안내서가 될 것으로 기대된다.
-
-URL: https://news.google.com/rss/articles/CBMiOWh0dHA6Ly93d3cuYm9zYS5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjE5MzYwMNIBAA?oc=5
-
-제목: 美 억만장자 "연준 금리 인상에 경제 경착륙 중" - 연합인포맥스
-요약: 미국 월가 부동산 투자가인 배리 스턴리히트 스타우드캐피털 CEO는 연방준비제도(Fed)가 너무 공격적으로 금리를 인상해 미국이 경기침체로 접어들고 있다고 지적했다. 이에 따라 소규모 은행들이 보유한 장기채의 가치가 떨어져 유동성 위기를 불러올 수 있다는 우려가 제기되고 있다.
-
-URL: https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vbmV3cy5laW5mb21heC5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NDI1OTQyN9IBAA?oc=5
-
-제목: 전주혜 “헌재가 '의회 독재'에 날개 달아줘…우리법연구회 출신 편파적” - 한겨레
-요약: 국회의원 전주혜씨가 검수완박법에 대한 헌법재판소의 '유효' 결정을 비판했다. 전 의원은 헌재의 결정이 의회 독재에 날개를 달아준 것이라며, 국회 법제사법위원장을 상대로 권한쟁의 심판청구를 직접 제기한 당사자이다. 그는 민형배 의원과 더불어민주당의 사과가 필요하다고 밝혔다. 전 의원은 또한 헌재 재판관들의 성향을 문제 삼으며, 재판관의 중립성이 무너졌다고 주장했다.
-
-URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9wb2xpdGljc19nZW5lcmFsLzEwODUwMTIuaHRtbNIBAA?oc=5
-
-제목: 송민호 24일 군대간다...위너 3번째 군입대, 강승윤도 '곧' - 뉴스컬처
-요약: 위너의 송민호가 대체복무를 위해 24일 훈련소에 입소한다. 송민호는 군 입대로 인해 JTBC '피크타임'에서 하차하게 되었다. 송민호는 내년 12월 24일까지 사회복무요원으로 군복무를 하게 된다.
-
-URL: https://news.google.com/rss/articles/CBMiP2h0dHA6Ly93d3cubmV3c2N1bHR1cmUucHJlc3MvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTUyMDU5NNIBAA?oc=5
-
-제목: 황제성 "난 명품 입고 아내는 헌옷수거함 뒤진다고…" 황당 목격담 해명 - 머니투데이
-요약: 코미디언 황제성이 자신의 아내가 헌 옷 수거함을 뒤지고 다닌다는 소문에 대해 가짜뉴스라고 해명했다. 이에 대해 이용진, 양세형, 이진호 등 예능프로그램에서 폭로한 적이 있었으나, 황제성은 이들의 주장을 모두 부인하며 가짜뉴스라고 강조했다. 또한, 이용진이 자신의 속옷 색깔이 노랗다는 유언비어를 퍼뜨리고 다닌 것에 대해서도 사실무근이라고 말했다.
-
-URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwMzI0MDk0MjQ4MzQ2MzbSAT1odHRwczovL20ubXQuY28ua3IvcmVuZXcvdmlld19hbXAuaHRtbD9ubz0yMDIzMDMyNDA5NDI0ODM0NjM2?oc=5
-
-제목: [속보]경찰, 민주노총 건설노조 압수수색…정치자금법 위반 혐의 - 한겨레
-요약: 서울경찰청 반부패·공공범죄수사대는 24일 오전 9시부터 민주노총 건설노조 사무실을 비롯해 건설노조 간부 4명의 주거지 등 10곳에 수사관을 보내 회계장부 등을 확보하고 있다. 경찰은 건설노조가 2019년 12월 건설노조 조합원들에게 돈을 걷어 노조 지부 명의로 당시 민중당(현 진보당)에 6500만원가량의 특별당비 명목의 후원금을 보내 정치자금법을 위반했다고 의심하고 있다.
-
-URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDg1MDA2Lmh0bWzSAQA?oc=5
-
-제목: [날씨] 오늘 전국 황사 영향권…고온현상 주춤 - 연합뉴스
-URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L01ZSDIwMjMwMzI0MDA1OTAwNjQx0gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9NWUgyMDIzMDMyNDAwNTkwMDY0MQ?oc=5
-
-제목: 헌재, 강제퇴거 외국인 무기한 구금 위헌 결정 - 한겨레
-요약: 한국의 출입국관리법 63조 1항에 따라 외국인보호소에서 강제퇴거 대상 외국인을 무기한 구금할 수 있는 조항이 헌법에 어긋난다는 헌법재판소의 판단이 나왔다. 이 조항은 행정의 편의성과 획일성만을 강조하고 피보호자의 신체의 자유를 과도하게 제한한다는 이유로 헌법불합치 결정을 받았다. 이 결정은 2025년 5월 31일까지 이 조항을 개정해야 한다는 것을 요구하며, 이주 구금 상한제도를 도입한 독일과 대만의 사례를 들어 이 조항이 없어도 강제퇴거 명령을 효과적으로 집행할 수 있다는 것을 보여주었다.
-
-URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDg1MDAyLmh0bWzSAQA?oc=5
-
-제목: 사우디, 이란 이어 시리아와도 외교 관계 복원 움직임 - 한겨레
-요약: 사우디아라비아가 10년간 단절했던 시리아와의 관계를 복원하려는 움직임을 보이고 있다. 이에 따라 사우디와 시리아 사이에 영사 서비스 제공을 재개하는 것에 대한 논의가 진행 중이며, 시리아의 아랍 연맹 복귀도 급물살을 탈 것으로 보인다. 이번 관계 회복은 사우디의 무하마드 빈 살만 왕세자가 안정적인 관계를 원하고 있기 때문이라는 분석이 나오고 있다.
-
-URL: https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9pbnRlcm5hdGlvbmFsL2ludGVybmF0aW9uYWxfZ2VuZXJhbC8xMDg1MDAwLmh0bWzSAQA?oc=5
-
-제목: 골밀도 감소, 치매 예고 신호? - 한국경제TV
-요약: 대퇴골의 골밀도 감소가 치매 발생 위험과 연관이 있다는 연구 결과가 나왔다. 네덜란드의 연구팀은 치매가 없는 노인 3,651명을 대상으로 대퇴골 경부와 요추 등의 골밀도 검사와 치매 검사를 실시한 결과, 대퇴골 경부의 골밀도가 낮을수록 모든 형태의 치매 발생 위험이 12%씩 높아지는 것으로 나타났다. 특히, 알츠하이머 치매의 경우 위험이 14%씩 높아졌다. 이러한 결과는 남성에만 해당되며, 대퇴골 경부 골밀도가 낮은 남성은 모든 형태의 치매 발생 위험이 56% 높았다.
-
-URL: https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vbS53b3d0di5jby5rci9OZXdzQ2VudGVyL05ld3MvUmVhZD9hcnRpY2xlSWQ9QUtSMjAyMzAzMjQwMzEzMDAwMDnSAQA?oc=5
-
-제목: 기우를 감탄으로…클린스만·손흥민의 '이상동몽' / 연합뉴스TV (YonhapnewsTV) - 연합뉴스TV
-URL: https://news.google.com/rss/articles/CCAiCzN1SEFvOGtkMGpJmAEB?oc=5
 
 
