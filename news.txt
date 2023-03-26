@@ -1,40 +1,64 @@
-제목: '무어의 법칙' 제시한 반도체의 전설 고든 무어 별세 - 한겨레
-요약: 인텔의 공동 창립자이자 '무어의 법칙'을 제시한 고든 무어가 94세로 세상을 떠났다. 무어는 1965년 '무어의 법칙'을 예측해 반도체 성능이 2년마다 2배씩 증가한다는 것을 밝혔으며, 이는 전자부품과 컴퓨터뿐 아니라 일상 생활에까지 큰 변화를 가져왔다. 인텔은 1971년 세계 최초로 상업용 마이크로프로세서를 출시해 개인용 컴퓨터(PC)의 소형화와 대중화의 길을 열었다.
+제목: 휘발유·경유 가격 동반 하락 - 헬로티 – 매일 만나는 첨단 산업, IT 소식
+요약: 국내 주유소에서 이번 주 휘발유와 경유 판매 가격이 전주 대비 각각 0.4원과 11.8원 하락했다. 이번 주 국제 유가는 주요국 중앙은행의 금리인상, 미국 상업원유 재고 증가, 미국 에너지부의 전략비축유 구입 연기 등의 영향으로 하락했다.
 
-URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9lY29ub215L2Vjb25vbXlfZ2VuZXJhbC8xMDg1MTI0Lmh0bWzSAQA?oc=5
+URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmhlbGxvdC5uZXQvbmV3cy9hcnRpY2xlLmh0bWw_bm89NzY1MTPSAQA?oc=5
 
-제목: 북, 이번엔 '핵어뢰' 도발…7차 핵실험 임박? - 연합뉴스TV
-요약: 북한이 핵어뢰 폭발 시험을 진행하고, 전략순항미사일에 핵을 탑재할 수 있다는 것을 공개했다. 이는 한미연합연습에 맞춰 핵 실전능력을 과시하는 측면으로 이해되며, 북한의 핵 능력이 얼마나 갖춰져 있는지에 대한 우려가 제기되고 있다. 북한의 핵 탄두 소형화 기술이 어느 정도 진전됐는지, 핵어뢰 폭발 시험이 미뤄지고 있는지 등에 대한 질문이 제기되고 있다.
+제목: 대학로‧광화문 대규모 집회… “소음 낮추라” 안내에도 구호 계속 - 조선일보 - 조선일보
+URL: https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmNob3N1bi5jb20vbmF0aW9uYWwvbmF0aW9uYWxfZ2VuZXJhbC8yMDIzLzAzLzI1L1JWSDVLT1ZCUzVIVExMUDRaVFpGRjRWUUJFL9IBZmh0dHBzOi8vd3d3LmNob3N1bi5jb20vbmF0aW9uYWwvbmF0aW9uYWxfZ2VuZXJhbC8yMDIzLzAzLzI1L1JWSDVLT1ZCUzVIVExMUDRaVFpGRjRWUUJFLz9vdXRwdXRUeXBlPWFtcA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwMzI1MDA4MDAwNjQx0gEA?oc=5
+제목: 서울 벚꽃 공식 개화…역대 두 번째로 빨라 - 매일경제
+요약: 기상청에 따르면, 서울의 벚꽃이 작년보다 열흘, 평년보다 14일 일찍 피어서 2021년에는 3월 24일에 개화했다. 이는 1922년 이후 역대 두 번째로 이른 날짜이다. 이러한 이유는 2월과 3월에 맑고 포근한 날씨가 이어져서 벚꽃이 빨리 폈다는 것이다. 전국 곳곳에서도 벚꽃이 평년보다 이른 시기에 개화하고 만발하고 있다.
+
+URL: https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3Lm1rLmNvLmtyL25ld3Mvc29jaWV0eS8xMDY5NjE3ONIBH2h0dHBzOi8vbS5tay5jby5rci9hbXAvMTA2OTYxNzg?oc=5
+
+제목: 김정은 밤샘에···노동신문은 '불후불면의 노고', 정보당국은 '불면증' - 경향신문
+요약: 북한의 노동신문은 김정은 국무위원장이 밤을 새워 일하는 것을 보도하며 '애민 지도자' 이미지를 부각시키고 있다. 그러나 우리측 정보당국은 김 위원장이 불면증에 시달리고 있다는 분석을 내놓고 있다. 김 위원장은 밤을 새우며 일하는 것이 습관이 되어 체질화되었다고 밝혔다.
+
+URL: https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmtoYW4uY28ua3IvcG9saXRpY3MvcG9saXRpY3MtZ2VuZXJhbC9hcnRpY2xlLzIwMjMwMzI1MTYxNzAwMdIBAA?oc=5
+
+제목: 북, 이번엔 '핵어뢰' 도발…7차 핵실험 임박? - 연합뉴스
+URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L01ZSDIwMjMwMzI1MDA4MDAwNjQx0gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9NWUgyMDIzMDMyNTAwODAwMDY0MQ?oc=5
+
+제목: 넥슨과 분쟁 겪던 '다크앤다커', 美저작권법 조치로 스팀서 퇴출 - 전자신문
+요약: 넥슨의 미공개 게임 개발 프로젝트를 유출해 제작됐다는 의혹을 받는 아이언메이스의 게임 '다크앤다커' 판매 페이지가 스팀에서 폐쇄됐다. DMCA를 근거로 운영중단을 요청한 넥슨에 대해 아이언메이스는 왜곡된 주장을 지속하고 있다는 입장이다. 이전에는 넥슨이 아이언메이스 전 직원을 고소한 바 있다. 해당 사안에 대한 수사는 진행 중이다.
+
+URL: https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3LmV0bmV3cy5jb20vMjAyMzAzMjUwMDAwMDbSAQA?oc=5
 
 제목: ‘금발이 너무해’ 리즈 위더스푼, 짐 토스와 재혼 12년만 이혼 - 매일경제
-요약: 할리우드 배우 리즈 위더스푼이 12년 만에 이혼을 하게 되었다. 이혼 사실은 인스타그램을 통해 직접 밝혔으며, 리즈 위더스푼은 1999년 배우 라이언 필립과 이혼한 후 2011년 짐 토스와 재혼해 아들을 낳았다. 이들은 아들과 가족을 우선순위로 살아갈 것이라고 밝혔다.
+요약: 할리우드 배우 리즈 위더스푼이 12년 만에 이혼을 하게 되었다. 그녀는 인스타그램에 남편 짐 토스와 함께 작성한 글을 공개하여 이혼 사실을 밝혔다. 리즈 위더스푼은 1999년 배우 라이언 필립과 결혼해 두 아이를 낳았으나 2007년 이혼하고, 2011년 짐 토스와 재혼해 아들을 낳았다. 그녀는 이혼 결정을 내린 것에 대해 "우리 가족의 우선 순위는 아들과 우리 가족이 나아갈 방향"이라고 말했다.
 
 URL: https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3Lm1rLmNvLmtyL3N0YXIvaG90LWlzc3Vlcy92aWV3LzIwMjMvMDMvMjMyNTk2L9IBO2h0dHBzOi8vbS5tay5jby5rci9zdGFyL2hvdC1pc3N1ZXMvdmlldy1hbXAvMjAyMy8wMy8yMzI1OTYv?oc=5
 
+제목: [이슈 직진] "미성년자인 줄 몰랐다" 롯데 투수 서준원의 거짓말 #shorts #뉴스7 | MBN 230324 방송 - MBN News
+URL: https://news.google.com/rss/articles/CCAiC3JYaTdRQ2pOYWRJmAEB?oc=5
+
 제목: [날씨] 주말 온화하지만 황사 영향…오후부터 비 조금 - 연합뉴스TV
-요약: 오늘은 황사와 뿌연 하늘이 이어지고 있으며, 오후부터는 비가 조금 내릴 것으로 예상됩니다. 내일은 공기질이 나쁘지 않겠지만, 오후부터 찬바람이 강해질 예정입니다. 광화문 광장에서는 태권도 국기 5주년 지정 기념 행사가 열리고 있습니다. 미세먼지 주의보가 발효 중이며, 내일은 비가 내릴 가능성이 있습니다.
+요약: 오늘은 황사 영향으로 공기가 탁하고, 비도 조금 내릴 예정입니다. 내일은 공기질이 나아지겠지만, 오후부터 찬바람이 강해질 예정입니다. 광화문 광장에서는 태권도 국기 5주년 지정 기념 행사가 열리고 있습니다. 미세먼지 주의보가 발효 중이며, 내일은 비가 내릴 가능성이 있습니다. 낮 동안은 예년기온을 웃돌겠으며, 내일부터는 찬바람이 강해질 예정입니다.
 
 URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwMzI1MDA3NzAwNjQx0gEA?oc=5
 
 제목: '물 건너온 아빠들' 인교진 "딸 하은, 절대음감 같아 학원 데려가" - 한국아이닷컴
-요약: MBC '물 건너온 아빠들'에서는 일본 아빠가 자신의 아이 리온이가 영재일 가능성이 있다고 생각해 영재 테스트를 받는 모습이 방송됩니다. 육아 반상회 아빠들은 자신의 아이가 영재라고 생각한 순간을 공유하며, 인교진은 딸 하은이가 아이돌 노래를 듣고 음을 따라 치는 모습을 보고 절대음감이라고 생각해 학원에 데려갔다는 이야기를 합니다.
+요약: MBC '물 건너온 아빠들'에서는 일본 아빠가 자신의 아이 리온이가 영재일 가능성이 있다고 생각해 영재 테스트를 받는 모습이 공개된다. 육아 반상회 아빠들은 자신의 아이가 영재라고 생각한 순간을 공유하며, 인교진은 딸 하은이가 아이돌 노래를 듣고 음을 따라 치는 모습을 보고 절대음감이라고 생각해 학원에 데려갔다는 이야기를 한다.
 
 URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NjYxOTbSAQA?oc=5
 
+제목: 몬테네그로, '테라·루나' 권도형 구금 최장 30일 연장…송환 늦어질 듯 - 뉴스핌
+요약: 한숲시티 아파트의 몸값이 경기도 용인시 남사읍·이동읍 일대가 세계 최대 '반도체 메가 클러스터' 예정지로 선정되면서 급등하고 있다. 일주일 사이 매도 호가가 수천만원 이상 오르고, 직전 거래보다 1억원 이상 높은 가격에 거래가 성사되기도 했다. 대형호재 소식에 당분간 한숲시티 가격은 상승세가 이어질 것으로 전망되지만, 아직까지 인프라가 부족해 섣불리 매수에 나서는 것은 유의해야 한다는 지적이 있다. 사업계획의 큰 틀만 잡힌 초장기인 만큼, 장기적으로 변수가 많아 섣부르게 매수에 나서는 것은 주의해야 한다.
+
+URL: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lm5ld3NwaW0uY29tL25ld3Mvdmlldy8yMDIzMDMyNTAwMDA0NdIBMWh0dHBzOi8vbS5uZXdzcGltLmNvbS9uZXdzYW1wL3ZpZXcvMjAyMzAzMjUwMDAwNDU?oc=5
+
+제목: [유로2024 예선] 프랑스 vs 네덜란드 음바페 주요장면 - YouTube
+URL: https://news.google.com/rss/articles/CBMiKWh0dHBzOi8vbS55b3V0dWJlLmNvbS93YXRjaD92PUZHdmczTUpER3Jr0gEA?oc=5
+
 제목: 다음 펜데믹은 영국?…코로나 유사 바이러스 영국 박쥐서 발견 - MBN
-요약: 영국 토종 박쥐에서 코로나와 유사한 바이러스가 발견됐다. 이 바이러스들은 인간에게 위협을 가할 수 있는 가능성이 있으며, 기후 변화와 도시화로 인한 서식지 손실, 환경 파괴로 인한 동물의 이동 증가가 인수공통감염병의 원인이 될 수 있다는 우려가 있다.
+요약: 영국의 박쥐에서 코로나와 유사한 바이러스가 발견됐다. 이 바이러스들은 인간에게 위협을 가할 수 있는 가능성이 있으며, 기후 변화와 환경 파괴로 인한 동물의 이동 증가가 인수공통감염병의 원인이 될 수 있다는 우려가 제기되고 있다.
 
 URL: https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vbS5tYm4uY28ua3IvbmV3cy93b3JsZC80OTE0ODAz0gEA?oc=5
 
 제목: 유니티-Xbox가 DX12와 실시간 레이트레이싱에 주목하는 이유는? - 인벤
-요약: 유니티와 마이크로소프트가 다이렉트X12와 실시간 레이트레이싱 기술을 적용하여 게임 환경을 개선하고 있다. 유니티는 2024년까지 윈도우 플랫폼에서 다이렉트12를 메인 그래픽 백엔드까지 올리는 것을 목표로 하고 있으며, Xbox에서는 HDRP에서만 레이트레이싱이 가능하다. 유니티의 HDRP에는 Xbox용으로 제공되는 레이트레이싱 효과들이 있으며, 이를 적용한 게임인 '레고 빌더스 저니'는 Xbox 시리즈 X에서는 4K, Xbox 시리즈 S에서는 QHD 해상도를 기반으로 구동된다. 다이렉트X12와 실시간 레이트레이싱 기술을 적용하면 게
+요약: 유니티와 마이크로소프트는 최근 Xbox에 실시간 레이트레이싱 및 다이렉트X12 적용을 다방면으로 접근하고 있다. 유니티에서는 2024년까지 윈도우 플랫폼에서 다이렉트12를 메인 그래픽 백엔드까지 올리는 것을 목표로 계속 관련 기능을 개선 중이다. Xbox에서는 유니티에서 HDRP에서만 가능한 레이트레이싱을 적용할 수 있으며, 유니티의 HDRP에는 Xbox용으로 제공되는 레이트레이싱 효과들이 총 5종으로 구성되어 있다. 이를 통해 빌드 개발의 퀄리티를 끌어올리고, 관리 역시도 궁극적으로 한층 더 편해진다는 것이 연구진의 결론이었다.
 
 URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmludmVuLmNvLmtyL3dlYnppbmUvbmV3cy8_bmV3cz0yODI4MzTSAQA?oc=5
-
-제목: 하이브, 남은 SM 주식 처분 어떻게…손실 우려 전망 나왔다 / SBS / #D리포트 - SBS 뉴스
-URL: https://news.google.com/rss/articles/CCAiC0dVODlGVnNKay1jmAEB?oc=5
 
 제목: 이해인, 세계선수권 은메달…김연아 이후 10년 만에 입상 / SBS - SBS 뉴스
 URL: https://news.google.com/rss/articles/CCAiC050VzFHU3N4MG1FmAEB?oc=5
@@ -49,49 +73,19 @@ URL: https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LmFzaWFlLmNvLmtyL2
 
 URL: https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmxlY3R1cmVybmV3cy5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTEyMjEzMdIBAA?oc=5
 
-제목: 한 곳은 거리·한 곳은 호프집…같은 'MZ 노조'가 서 있던 곳 - 서울경제신문
-요약: 서울에는 MZ세대(밀레니얼+Z세대) 노동조합인 청년유니온과 새로고침노동자협의회가 각각 모임을 가졌다. 청년유니온은 고용노동부 장관과 면담을 하여 근로시간 개편안 반대를 전달하였으며, 비공개로 진행된 면담에 대해 불만을 표시했다. 반면 새로고침노동자협의회는 여당인 국민의힘과 호프집에서 만나 의견을 청취하였다. 윤석열 대통령도 참석자들에게 직접 전화를 걸어 의견을 들었다.
-
-URL: https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LnNlZGFpbHkuY29tL05ld3NWaWV3LzI5TjVXVEY2SzjSAQA?oc=5
-
-제목: 한상혁 “모든 힘을 다해 무고를 적극 소명할 것” - 한겨레
-요약: 한상혁 방송통신위원장이 TV조선 재승인 점수조작 의혹과 관련해 검찰의 구속영장 청구와 관련해 입장을 공개했다. 그는 모든 힘을 다해 개인의 무고함 뿐 아니라 방통위 전체 직원들의 무고함을 적극 소명하겠다는 입장을 밝혔다. 또한, 페이스북에 심경·혐의 조목조목 반박 공개했다. 이에 대해 민주언론시민연합은 공영방송 장악을 위한 정치수사·표적수사를 당장 중단하고 방송통신위원회 독립성 훼손 행태를 당장 멈출 것을 촉구했다.
-
-URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDg1MTE3Lmh0bWzSAQA?oc=5
-
 제목: 경찰, 남경필 전 지사 장남 구속영장 신청…필로폰 투약 혐의 - 매일경제
 요약: 경찰이 남경필 전 경기도지사의 장남인 남모씨를 마약류 관리에 관한 법률 위반 혐의로 구속영장을 신청했다. 남씨는 필로폰을 투약한 혐의를 받고, 경찰에 체포됐다. 이전에도 여러 차례 마약 투약 혐의로 구속된 적이 있었다.
 
 URL: https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3Lm1rLmNvLmtyL25ld3Mvc29jaWV0eS8xMDY5NjA4NNIBH2h0dHBzOi8vbS5tay5jby5rci9hbXAvMTA2OTYwODQ?oc=5
 
 제목: 키위 꾸준히 먹었더니, 독소 배출·노화에 변화가? - 코메디닷컴
-요약: 키위는 건강식으로 유명하며, 체중 감량과 노화 지연에 효과적이다. 키위는 식이섬유가 풍부하여 몸속 독소를 줄이고, 피부미용에도 좋다. 또한, 항산화 성분이 많아 몸속 세포의 산화를 늦추어 노화를 지연시키는 효과가 있다. 글루탐산, 아르기닌, 엽산 등의 영양소도 풍부하다. 국내산 키위는 뉴질랜드산에 비해 껍질이 더 녹갈색이며, 불규칙한 모양과 강한 신맛을 가지고 있다.
+요약: 키위는 건강식으로 유명하며, 체중 감량과 노화 지연에 효과적이다. 키위는 식이섬유가 풍부하여 몸속 독소를 줄이고, 피부미용에도 좋다. 노화를 지연시키는 항산화 성분이 많아 유해산소를 줄이는 능력이 뛰어나다. 글루탐산, 아르기닌, 엽산 등의 성분이 풍부하여 성장기 어린이에게 도움이 된다. 국내산 키위는 뉴질랜드산에 비해 껍질이 더 녹갈색이며, 불규칙한 모양과 강한 신맛이 특징이다.
 
 URL: https://news.google.com/rss/articles/CBMi0wFodHRwczovL2tvcm1lZGkuY29tLzE1Nzc1MjIvJUVEJTgyJUE0JUVDJTlDJTg0LSVFQSVCRSVCOCVFQyVBNCU4MCVFRCU5RSU4OC0lRUIlQTglQjklRUMlOTclODglRUIlOEQlOTQlRUIlOEIlODgtJUVCJThGJTg1JUVDJTg2JThDLSVFQiVCMCVCMCVFQyVCNiU5QyVDMiVCNyVFQiU4NSVCOCVFRCU5OSU5NCVFQyU5NyU5MC0lRUIlQjMlODAlRUQlOTklOTQlRUElQjAlODAv0gEA?oc=5
 
 제목: '이별 위기' 김장년 “카드 빚 나오잖아” vs 정윤진 “갚아달라는 것 아냐” (결혼 말고 동거) - iMBC연예
-요약: 채널A '결혼 말고 동거'에서는 김장년과 정윤진이 경제관념 차이로 언쟁하며 다툼을 한 후 화해하는 모습이 공개됐다. 그러나 이후에도 경제관념 차이로 인해 다툼이 이어지며, 다른 커플들도 각자의 문제점을 겪으며 동거 생활을 하고 있다는 것이 전해졌다.
+요약: 채널A의 '결혼 말고 동거' 프로그램에서는 김장년과 정윤진이 경제관념 차이로 언쟁을 했다. 하지만 이후 서로 어른스럽게 대화를 나누며 오해를 풀었고, 둘의 사이는 더욱 끈끈해졌다. 또한, 초보 동거 커플 최준석과 정세미는 긍정적인 결혼 이야기를 나누며 MC들도 환호했다. 그러나 새 출연자들인 한중 국제 동거커플은 박시원이 조나윤의 일 선택에 대해 화를 내며 문제가 생겼다. 이에 두 사람은 말다툼을 벌이며 결국 대화 자체를 포기하며 끝났다.
 
 URL: https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vZW5ld3MuaW1iYy5jb20vTmV3cy9SZXRyaWV2ZU5ld3NJbmZvLzM3NzE2OdIBAA?oc=5
-
-제목: 다량의 광원과 카툰풍도 OK, 새로운 URP 샘플 선보인 유니티 - 인벤
-요약: 유니티에서는 멀티플랫폼 빌드를 지원하면서도 각 기기마다 환경이 다른 만큼, 그 환경에 맞춰서 일일이 작업해야 할 때도 있었다. 이를 해결하기 위해 2019년부터 LWRP를 URP로 새롭게 도입해 렌더링이 손쉽게 가능하도록 하는 반면, 프로젝트를 다른 플랫폼에서 돌려도 퀄리티나 해상도 변화가 없이 구동할 수 있게끔 하는 것으로 방향성을 바꾸었다. 이번 GDC 2023에서는 URP를 활용한 크로스플랫폼 게임 개발이 얼마나 쉬워졌는지, 또 유니티에서 개발자를 돕기 위해 어떤 샘플을 준비했는지 소개되었다. 각각 테마에 맞춘 샘플을 새롭게 
-
-URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmludmVuLmNvLmtyL3dlYnppbmUvbmV3cy8_bmV3cz0yODI4MzLSAQA?oc=5
-
-제목: '테라' 권도형 구금 연장…미 검찰 투자회사와 공모, 시세 조작도 확인 - 한겨레
-요약: 몬테네그로 법원이 루나·테라 코인 폭락 사태의 핵심 당사자인 권도형 테라폼랩스 대표의 구금 기간을 최장 30일로 연장했다. 미국 검찰은 권 대표가 테라·루나 코인 폭락 전 시세조작도 확인했다. 권 대표는 1년 전 미국의 한 투자회사와 공모해 이 코인 시세를 조작했다는 혐의도 받고 있다. 테라폼랩스는 시세를 조작한 사실을 숨긴 채 소셜미디어에서 유에스티의 가격 안정성을 보장하는 알고리즘 구조를 홍보하며 투자자들을 속였다.
-
-URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9lY29ub215L2Vjb25vbXlfZ2VuZXJhbC8xMDg1MTE2Lmh0bWzSAQA?oc=5
-
-제목: [뉴스룸 뒤(D)｜오픈 뉴스룸] 치킨값, 왜 3천원이나 올리나? 교촌 측 얘기 들어보니… / JTBC News - JTBC News
-URL: https://news.google.com/rss/articles/CCAiC2x0LW9IQ1hKb2FJmAEB?oc=5
-
-제목: 헌재 판단 이후 한동훈 탄핵·민형배 복당 요구‥여당 "민주당은 대한민국의 부끄러움" - MBC뉴스
-요약: - 헌법재판소가 '검수완박법'이 유효하다는 판단을 내린 이후, 더불어민주당 내에서 한동훈 법무부 장관의 탄핵과 민형배 무소속 의원의 복당 목소리가 나오는 것에 대해 국민의힘이 비판했다.
-- 국민의힘 장동혁 원내대변인은 민주당의 뻔뻔함에 대해 비판하며, 민형배 의원은 의원직에서 물러나야 한다고 주장했다.
-- 이미선 재판관을 겨냥해 법적 양심을 팔아가면서 민주당을 살려보겠다고 절벽에서 뛰어내렸다는 비판도 나왔다.
-
-URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9wb2xpdGljcy9hcnRpY2xlLzY0Njc0MzhfMzYxMTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9wb2xpdGljcy9hcnRpY2xlLzY0Njc0MzhfMzYxMjAuaHRtbA?oc=5
 
 
