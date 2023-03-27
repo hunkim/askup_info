@@ -1,89 +1,87 @@
-제목: 디아블로 4 오픈 베타, 대기열 대폭 줄이는 패치 진행됐다 - 게임메카
-요약: 디아블로 4의 대기열이 줄어들었다. 블리자드는 대기열 문제를 해결하기 위해 몇 가지 변경사항을 적용하고, 이후에도 지속적으로 모니터링하면서 패치할 예정이라고 밝혔다. PC용 추가 패치도 업데이트되어 윈도우 환경에서 전체 환경으로 플레이하는 유저가 Alt+Tab을 눌러 화면을 전환했을 때 충돌이 발생하는 문제를 해결했다. 이번 오픈 베타는 예약 구매 여부에 상관 없이 전세계 게이머들이 자유롭게 접속해 즐길 수 있는 일종의 스트레스 테스트 성격을 지니고 있다.
+제목: [D리포트] SK도 LG도…대기업 '평균 연봉 1억 원' 시대 / SBS - SBS 뉴스
+URL: https://news.google.com/rss/articles/CCAiC0I2SlF1ZWcyblcwmAEB?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LmdhbWVtZWNhLmNvbS92aWV3LnBocD9naWQ9MTcwNzAzNdIBL2h0dHBzOi8vbS5nYW1lbWVjYS5jb20vYW1wL3ZpZXcucGhwP2dpZD0xNzA3MDM1?oc=5
+제목: 남경필 장남 마약 투약 6년 만에 다시 검거…구속영장 기각 - 경기신문
+요약: 남경필 전 경기도지사의 장남이 마약을 투약한 혐의로 검거됐으나 법원이 구속영장을 기각했다. 수원지법은 구속영장 기각 사유로 “현재까지 제출된 자료만으로는 구속의 필요성을 인정하기 어렵다”고 밝혔다. 이에 일각에서는 검찰이 영장청구에 소홀했다는 지적과 마약류 범죄를 엄단하려는 사회적 분위기와는 거리가 있다는 비판이 나오고 있다.
 
-제목: 올봄 유난하게 기승을 부리는 감기 이야기 - 우리문화신문
-요약: GPT3 Return Error: 'choices'
+URL: https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LmtnbmV3cy5jby5rci9uZXdzL2FydGljbGUuaHRtbD9ubz03NDE1MTTSAQA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmtveWEtY3VsdHVyZS5jb20vbmV3cy9hcnRpY2xlLmh0bWw_bm89MTM5NzQ50gEA?oc=5
+제목: 분양권 전매제한 완화 이달 말부터 시행 - 연합뉴스TV
+요약: 수도권에서는 분양권 전매제한 기간이 최대 10년에서 최대 3년으로 줄어들 예정입니다. 이번 개정안은 시행령 개정 이전에 분양을 마친 아파트에도 적용됩니다.
 
-제목: '애플페이=MZ'…고객 선점 나선 유통·외식업계 - 신아일보
-요약: 국내 유통 및 외식업계에서는 애플페이 도입이 확산되고 있다. 롯데그룹, 홈플러스, SPC그룹, 우아한형제들 등 대부분의 매장에서 애플페이 결제가 가능해졌다. 이를 통해 애플 제품 사용자들에게 쇼핑 편의를 제공하고 긍정적인 사용 경험을 제공해 충성고객으로 확보하려는 업계의 의도가 담겨있다.
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwMzI2MDA3MjAwNjQx0gEA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiPmh0dHA6Ly93d3cuc2hpbmFpbGJvLmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xNjc5MDkz0gEA?oc=5
+제목: 제2대 국수본부장 우종수 경기남부경찰청장 내정…27일 공식 발표 전망 - 경기신문
+요약: 우종수 경기남부경찰청장이 제2대 경찰청 국가수사본부장으로 내정됐다. 대통령실은 이를 오는 27일 공식 발표할 예정이다. 우 청장은 경찰청 내부 인사 가운데 선발되었으며, 일선 수사부서 경험을 두루 갖춘 ‘수사통’으로 꼽히며 정무 감각도 뛰어나다는 평가를 받고 있다. 이전에는 검찰 출신 정순신 변호사가 국수본부장으로 임명되었으나 자녀 학교폭력 문제로 인해 하루 만에 사퇴하면서 국수본부장직은 공석이었던 상황이었다.
 
-제목: 영양제 복용 깜박하고 몰아서 먹었다간 '부작용' 위험 - 비즈니스워치
-요약: 코로나19로 건강에 대한 관심이 높아지면서 영양제를 먹는 사람이 늘어나고 있습니다. 그러나 영양제를 과다 복용하면 해가 돼 돌아올 수 있으므로 종류별로 하루 적정 섭취량과 과다 복용시 나타날 수 있는 부작용에 대해 알아보아야 합니다. 비타민A, B, C, D, E, K, 아연 등의 종류와 일일 적정 섭취량, 최대 섭취용량, 과다 복용시 나타날 수 있는 부작용 등을 알아보았습니다.
+URL: https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LmtnbmV3cy5jby5rci9uZXdzL2FydGljbGUuaHRtbD9ubz03NDE1MzbSAQA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiO2h0dHA6Ly9uZXdzLmJpendhdGNoLmNvLmtyL2FydGljbGUvY29uc3VtZXIvMjAyMy8wMy8yNC8wMDQ40gEA?oc=5
+제목: 코로나 펜데믹 기간 업종별 임금인상률 ‘극과극’ - 한국아이닷컴
+요약: 한국경영자총협회(경총)가 발표한 '2022년 기업 규모 및 업종별 임금인상 특징 분석' 보고서에 따르면, 지난해 상용근로자 평균임금은 4650만원으로 2019년보다 10.7% 증가했다. 금융보험업은 17.5% 인상으로 인상액과 인상률 모두 최고치를 기록했으며, 교육서비스업은 3.6% 감소하여 최저치를 보였다. 특별급여 인상률은 13.6%로 정액급여 인상률(10.3%)보다 높았으며, 업종별 인상액·인상률 격차도 특별급여에서 두드러졌다.
 
-제목: '은메달' 차준환 “경기 앞 스케이트 부러져…그것도 발전할 기회” - 한겨레
-요약: 한국 남자 피겨 선수인 차준환이 한국 남자 선수 최초로 세계선수권 시상대에 오르며 새로운 역사를 썼다. 차준환은 2위를 차지하며 한국에 2024년 세계선수권 남자 싱글 출전권을 3장 확보시켰다. 이번 대회에서는 여자 싱글에서 이해인도 은메달을 따내며 역대 최고 성적을 냈다.
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NjYyNzDSAT1odHRwczovL3d3dy5oYW5rb29raS5jb20vbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTY2Mjcw?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zcG9ydHMvc3BvcnRzX2dlbmVyYWwvMTA4NTE0OS5odG1s0gEA?oc=5
+제목: 유튜버 랄랄 "이상형? 야하고 다정한 男…전 남친 때문에 꿈도 포기해" - 조선비즈 - 조선비즈
+URL: https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vYml6LmNob3N1bi5jb20vZW50ZXJ0YWlubWVudC90di8yMDIzLzAzLzI2L1hHUE1YQ0s3RTc0QkNETFIzVk9QRkJMSjdNL9IBXWh0dHBzOi8vYml6LmNob3N1bi5jb20vZW50ZXJ0YWlubWVudC90di8yMDIzLzAzLzI2L1hHUE1YQ0s3RTc0QkNETFIzVk9QRkJMSjdNLz9vdXRwdXRUeXBlPWFtcA?oc=5
 
-제목: 용산 일대서 가스밸브 200여개 잠근 여성 붙잡혀 - 한겨레
-요약: 서울 용산구 일대에서 도시가스 밸브를 잠근 여성이 경찰에 붙잡혔다. 해당 여성은 전날 용산동에서 갈월동까지 2㎞에 달하는 거리를 돌며 200여 가구의 도시가스 공급을 차단한 혐의를 받는다. 이로 인해 해당 지역 일부 식당은 가스가 나오지 않아 오전 장사를 하지 못하기도 했다. 해당 행위는 가스·전기 등의 사용을 방해한 것으로 1년 이상 10년 이하의 징역에 처할 수 있다.
+제목: [연합시론] '힘대힘', '강대강' 대결만 반복하는 정치실종 국회 - 연합뉴스
+URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L0FLUjIwMjMwMzI2MDI4ODAwMDIy0gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9BS1IyMDIzMDMyNjAyODgwMDAyMg?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDg1MTQ1Lmh0bWzSAQA?oc=5
+제목: 기시다, '필승 주걱' 젤렌스키에 선물…"전쟁 뭔지 모르나" - 한국일보
+요약: 일본 총리 기시다 후미오가 우크라이나 대통령에게 전통 공예품인 '필승 주걱'을 선물한 사실이 알려졌다. 이에 대해 일부 야당은 전쟁 중인 나라의 지도자에게 선물하기엔 부적절하다는 비판을 내놓았다. 필승 주걱은 일제강점기에 일본군 출정지였던 히로시마현의 섬 이쓰쿠시마에서 생산되는 공예품으로, 일본에서는 시험을 치르는 수험생이나 경기를 앞둔 스포츠 선수에게 행운을 기원하며 주는 기념품으로 통한다.
 
-제목: 푸틴 "러, 벨라루스에 전술핵 배치 합의" - 연합뉴스TV
-요약: 러시아 대통령인 푸틴은 벨라루스와의 동맹에서 전술 핵무기 배치를 합의했다고 밝혔습니다. 이에 대해 푸틴 대통령은 "전혀 문제가 없다"며 미국이 수십 년간 전술 핵무기를 동맹국에 배치해왔다는 주장을 했습니다. 벨라루스는 북대서양조약기구와 나토 회원국인 폴란드 등과 국경을 맞대고 있습니다.
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpbGJvLmNvbS9OZXdzL1JlYWQvQTIwMjMwMzI1MjIyNjAwMDMyMDTSAQA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwMzI2MDAyMjAwNjQx0gEA?oc=5
+제목: 집값 약세 계속…매매·전세시장 전망은 소폭 개선 | 서울특별시 미디어재단 TBS - TBS뉴스
+요약: 3월 지역별 매매전망지수에 따르면, 서울 전체 집값은 0.65% 하락하였으며, 아파트와 연립주택은 각각 1.17%와 0.03% 하락하였고, 단독주택은 보합세를 보였습니다. 경기와 인천의 집값은 각각 1.25%와 1.36% 하락하여 수도권 전체 집값은 1.04% 하락하였습니다. 전국 전셋값은 0.93% 하락하였으며, 수도권의 하락세가 이어졌지만 낙폭은 좁혀졌습니다. 전국 주택의 매매가 전망지수는 76에서 80으로 상승하였고, 세종은 유일하게 상승 전망을 보였습니다. 전세가격 전망지수도 전국적으로 상승하였으며, 세종은 89에서 100으
 
-제목: 여야 내일 '검수완박' 충돌 예고...野, 외교 맹공 속 내홍 수습 고심 - YTN
-요약: 헌법재판소의 검찰 수사권 축소 법안에 대한 결정으로 인해 여야가 충돌하고 있으며, 내일 국회 법사위 전체회의에서 현안 질의가 이뤄질 예정입니다. 이번 주에는 헌재 재판관 후보자의 인사청문회도 예정되어 있어 공방이 반복될 것으로 예상됩니다. 더불어민주당 이재명 대표는 한일회담 규탄 집회에 참석하면서 대여 공세에 고삐를 쥐고 있으며, 국민의힘은 이를 비판하고 있습니다. 이 대표는 이번 주 비명계를 아우르는 당직 개편에 나설 예정이며, 거취 논란은 수면 아래로 들어간 상태입니다.
+URL: https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdGJzLnNlb3VsLmtyL25ld3MvbmV3c1ZpZXcuZG8_dHlwXzgwMD0xJmlkeF84MDA9MzQ5MjgyNiZzZXFfODAwPTIwNDg1NDk30gEA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lnl0bi5jby5rci9fbG4vMDEwMV8yMDIzMDMyNjEwMDQzMTIzMzjSAQA?oc=5
+제목: 차태현, 촬영 후 배우·스태프들에게 골드 카드 선물 "비용만 수천만 원"('당나귀 귀') - 한국아이닷컴
+요약: KBS 2TV 예능 '사장님 귀는 당나귀 귀'에서는 200회를 맞아 초대 보스 이연복 셰프와 함께 역대 보스들의 근황 등을 알아보는 중간 점검 시간을 가졌다. 스페셜 MC 차태현은 드라마나 영화 촬영이 끝나면 함께 고생한 동료 배우들과 스태프들에게 작품명이 새겨진 골드 카드를 선물했다.
 
-제목: [찐비트]'화수'는 사무실, '월금'은 재택…'짬짜면' 같은 하이브리드 근무[오피스시프트]⑭ - 아시아경제
-요약: GPT3 Return Error: 'choices'
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NjYyNjfSAQA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LmFzaWFlLmNvLmtyL2FydGljbGUvMjAyMzAzMjMyMjMyNDA1MDE5ONIBAA?oc=5
+제목: 방울토마토·채소 볶아 먹었더니, 피·혈관의 변화가? - 코메디닷컴
+요약: 방울토마토와 아스파라거스는 열을 가하면 영양소가 더 좋아지는 식품으로, 볶음으로 먹으면 혈관 건강에 좋다. 아스파라거스는 아스파라긴산이 많아 신진대사를 촉진하고 피로감을 줄이며, 봉오리에는 루틴이 풍부해 혈압을 낮추고 혈관을 좋게 해 고혈압, 혈관병 예방에 도움이 된다. 방울토마토는 유기산이 위액 분비를 촉진시켜 소화를 돕고, 눈의 망막 보호에 좋은 성분도 많다. 육류를 추가하면 단백질 보강에 좋으며, 양파와 올리브유, 들기름을 함께 먹으면 혈액-혈관 건강에 시너지효과를 낼 수 있다.
 
-제목: [지금은 우주-영상] 소행성의 깨끗한 샘플…우주역사 바꿀까 - 뉴스통
-URL: https://news.google.com/rss/articles/CBMiMWh0dHA6Ly93d3cubmV3c3RvbmcuY28ua3IvdmlldzMuYXNweD9zZXE9MTE1NzQ2ODnSAQA?oc=5
+URL: https://news.google.com/rss/articles/CBMi4QFodHRwczovL2tvcm1lZGkuY29tLzE1Nzc3NDYvJUVCJUIwJUE5JUVDJTlBJUI4JUVEJTg2JUEwJUVCJUE3JTg4JUVEJTg2JUEwJUMyJUI3JUVDJUIxJTg0JUVDJTg2JThDLSVFQiVCMyVCNiVFQyU5NSU4NC0lRUIlQTglQjklRUMlOTclODglRUIlOEQlOTQlRUIlOEIlODgtJUVEJTk0JUJDJUMyJUI3JUVEJTk4JTg4JUVBJUI0JTgwJUVDJTlEJTk4LSVFQiVCMyU4MCVFRCU5OSU5NCVFQSVCMCU4MC_SAQA?oc=5
 
-제목: 김정은 딸 김주애는 ‘디올’ 입는데…北주민 ‘옷차림’ 단속하는 북한 - 서울신문
-요약: 북한이 주민들에게 ‘올바른 옷차림’을 강조하면서 김정은 일가가 해외 명품 브랜드를 애용하는 모습이 빈번히 포착되고 있다. 북한은 외부 문물의 유입으로 남한의 옷차림과 말투를 따라하는 주민이 늘어나면서 체제 결속력이 약화할 것을 우려하고 있다. 이에 북한은 ‘평양문화어보호법’을 채택하고 남한말을 비롯한 외국식 말투에 대한 단속을 강화하겠다고 밝혔다.
+제목: 지구와 달 사이 통과한 파르테논 크기 소행성 – 사이언스모니터 | The Science Monitor - 사이언스모니터
+URL: https://news.google.com/rss/articles/CBMitwFodHRwOi8vc2NpbW9uaXRvcnMuY29tLyVFQyVBNyU4MCVFQSVCNSVBQyVFQyU5OSU4MC0lRUIlOEIlQUMtJUVDJTgyJUFDJUVDJTlEJUI0LSVFRCU4QyU4QyVFQiVBNSVCNCVFRCU4NSU4QyVFQiU4NSVCQy0lRUQlODElQUMlRUElQjglQjAtJUVDJTg2JThDJUVEJTk2JTg5JUVDJTg0JUIxLSVFRCU4NiVCNSVFQSVCMyVCQy_SAQA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnNlb3VsLmNvLmtyL25ld3MvbmV3c1ZpZXcucGhwP2lkPTIwMjMwMzI2NTAwMDEw0gEsaHR0cHM6Ly9hbXAuc2VvdWwuY28ua3Ivc2VvdWwvMjAyMzAzMjY1MDAwMTA?oc=5
+제목: [뇌치유상담] 중년기의 뇌, 작업 기억이 약화되는 시기이다 - 기독일보
+요약: 뉴스 내용을 파악할 수 없습니다. 주어진 정보가 충분하지 않습니다.
 
-제목: 밥에 넣어 먹으면 치매예방되는 착한 음식은? - 코메디닷컴
-요약: 고구마, 검정콩, 양파, 브로콜리는 뇌 기능을 지원하고 치매 예방에 도움이 된다. 고구마에는 베타카로틴과 가바, 검정콩에는 레시틴과 이소플라본, 양파에는 콜린과 퀘르세틴, 브로콜리에는 설포라페인이 함유돼 있다. 이러한 음식들을 주식인 '밥'에 넣어 먹거나 식사할 때 같이 먹으면 치매 예방에 도움이 된다.
+URL: https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LmNocmlzdGlhbmRhaWx5LmNvLmtyL25ld3MvMTIzNjYw0gEwaHR0cHM6Ly93d3cuY2hyaXN0aWFuZGFpbHkuY28ua3IvYW1wL25ld3MvMTIzNjYw?oc=5
 
-URL: https://news.google.com/rss/articles/CBMixAFodHRwczovL2tvcm1lZGkuY29tLzE1Nzc2OTIvJUVCJUIwJUE1JUVDJTk3JTkwLSVFQiU4NCVBMyVFQyU5NiVCNC0lRUIlQTglQjklRUMlOUMlQkMlRUIlQTklQjQtJUVDJUI5JTk4JUVCJUE3JUE0JUVDJTk4JTg4JUVCJUIwJUE5JUVCJTkwJTk4JUVCJThBJTk0LSVFQyVCMCVBOSVFRCU5NSU5Qy0lRUMlOUQlOEMlRUMlOEIlOUQlRUMlOUQlODAv0gEA?oc=5
+제목: 푸틴 "벨라루스에 전술 핵무기 배치"…美 "징후 없어" - 연합뉴스TV
+요약: 러시아 대통령인 푸틴이 벨라루스에 전술 핵무기를 배치할 것이라고 밝혔습니다. 이는 미국과의 핵무기 통제 조약인 신전략무기감축 협정에 대한 참여 중단 이후 발표된 것입니다. 벨라루스는 러시아에 군사기지를 제공하고 합동 훈련을 하는 등 러시아를 적극 지원하고 있습니다. 미국은 이에 대해 확대 해석을 경계하면서 신중한 태도를 보이고 있습니다.
 
-제목: [표지로 읽는 과학] 신소재 '맥신'을 합성하는 새로운 방법 - 동아사이언스
-요약: 미국 시카고대 화학과 교수 연구팀은 '식각' 과정을 생략한 맥신(MXene)의 직접 합성 경로를 입증하고, 이를 국제학술지 '사이언스'에 발표했다. 맥신은 전이금속과 탄소 또는 질소의 다양한 조합으로 만들어지는 나노물질로, 전기전도도가 높으면서도 친수성이 있어 용액공정이 가능하다. 연구팀은 가스 화학 반응으로 형성된 입자 표면에 수증기를 쏘아 증착시켜 맥신 시트를 개발하였으며, 이는 단단하면서도 우수한 에너지 저장 용량을 나타낸다.
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwMzI2MDA2MTAwMDMy0gEA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmRvbmdhc2NpZW5jZS5jb20vbmV3cy5waHA_aWR4PTU5MTA50gEA?oc=5
+제목: 헬륨 핵 융합 백색 왜성 쌍성계 발견 – 사이언스모니터 | The Science Monitor - 사이언스모니터
+URL: https://news.google.com/rss/articles/CBMinAFodHRwOi8vc2NpbW9uaXRvcnMuY29tLyVFRCU5NyVBQyVFQiVBNSVBOC0lRUQlOTUlQjUtJUVDJTlDJUI1JUVEJTk1JUE5LSVFQiVCMCVCMSVFQyU4MyU4OS0lRUMlOTklOUMlRUMlODQlQjEtJUVDJThDJThEJUVDJTg0JUIxJUVBJUIzJTg0LSVFQiVCMCU5QyVFQSVCMiVBQy_SAQA?oc=5
 
-제목: “선발 기회 주어진다면…” 훌쩍 큰 오현규, ‘클린스만호’ 원톱 경쟁 불 지폈다 - 조선일보 - 조선일보
-URL: https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNob3N1bi5jb20vc3BvcnRzL2Zvb3RiYWxsLzIwMjMvMDMvMjYvVkVDQ0ZWQ0VKTlRPUkkzWTdKQ1VISllHSTQv0gFcaHR0cHM6Ly93d3cuY2hvc3VuLmNvbS9zcG9ydHMvZm9vdGJhbGwvMjAyMy8wMy8yNi9WRUNDRlZDRUpOVE9SSTNZN0pDVUhKWUdJNC8_b3V0cHV0VHlwZT1hbXA?oc=5
+제목: [사진] 토네이도 강타한 미시시피의 쓰러진 급수탑 - 뉴스1
+요약: 미시시피주 롤링포크에서 강력한 토네이도가 발생해 최소 26명이 사망하고, 급수탑이 무너졌습니다.
 
-제목: 미세먼지 잦아들며 대기 다소 '회복'..전국 곳곳 '봄비' - KBC광주방송
-요약: 오늘(26일)은 미세먼지가 조금 줄어들면서 대기질이 회복되고, 전국적으로 '봄비'가 내릴 것으로 예상됩니다. 미세먼지 농도는 부산·울산은 '나쁨', 그 외 지역은 '보통' 수준이며, 일부 지역에서는 황사의 영향으로 높겠지만, 오후부터는 해소될 것입니다. 지역별 기온은 5~12도로 예상되며, 바다의 물결은 0.5~1.5m로 일겠습니다. 광주·전남 지역도 대체로 흐리게 시작해 오전부터 차츰 맑아지겠으며, 미세먼지 농도는 '보통' 수준을 유지할 것입니다.
+URL: https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3Lm5ld3MxLmtyL3Bob3Rvcy9kZXRhaWxzLz81OTAzMTk10gEA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiMmh0dHA6Ly93d3cuaWtiYy5jby5rci9hcnRpY2xlL3ZpZXcva2JjMjAyMzAzMjYwMDAx0gEA?oc=5
+제목: 차준환, 세계선수권 은메달…한국 남자 피겨 새 역사 / JTBC News - JTBC News
+URL: https://news.google.com/rss/articles/CCAiCzlQNFBrTWwtSVhNmAEB?oc=5
 
-제목: [법정B컷]'편향성 상처'만 남긴 헌법재판소의 '검수완박' 심판 - 노컷뉴스
-URL: https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3Lm5vY3V0bmV3cy5jby5rci9uZXdzLzU5MTU1NznSASpodHRwczovL20ubm9jdXRuZXdzLmNvLmtyL25ld3MvYW1wLzU5MTU1Nzk?oc=5
+제목: '테라' 권도형 "구금 연장 불복"…국내송환은 산넘어 산 - 연합뉴스TV
+요약: 테라폼랩스 대표 권도형이 몬테네그로에서 구금 연장 결정에 항소하기로 했다. 국내 송환은 어려울 것으로 보이며, 미국과 몬테네그로 당국과의 법적 분쟁이 예상된다. 권 대표는 암호화폐 천재에서 수십조 사기를 친 도망자로 비난받고 있다.
 
-제목: 美 미시시피 한 밤 토네이도...23명 사망·3개주 정전 피해 - YTN
-요약: 미국 동남부 미시시피주에서 강력한 토네이도가 발생해 적어도 23명이 숨지고 3개 주에서 정전피해가 발생했다. 골프공 크기의 우박도 쏟아져 시골 마을이 거의 지도서 지워질 만큼 쑥대밭을 만들었다. 인명 피해도 갈수록 늘고 있으며, 정전도 발생해 미시시피, 앨라배마, 테네시주에서 6만5천 가구 이상이 정전됐다. 바이든 대통령은 사망자와 실종자 가족을 위로하며, 전문가들은 토네이도와 우박을 만들어내는 슈퍼셀 초대형 폭풍우가 미 동남부를 쑥대밭으로 만들었다고 설명했다.
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwMzI2MDA0ODAwNjQx0gEA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lnl0bi5jby5rci9fbG4vMDEwNF8yMDIzMDMyNjA2MjMyNDg5NDDSAQA?oc=5
+제목: 두살아들 굶어죽인 친모, 밥 한 공기 놓고 놀러나갔다 - 파이낸셜뉴스
+요약: 20대 친모가 생후 20개월 아들을 사흘 동안 집에 홀로 방치해 숨지게 한 혐의로 구속기소됐다. 수사 결과, 이 여성은 남자친구를 만나 식당에서 술을 마시거나 함께 외박한 것으로 드러났다. 아이는 상습적인 유기 및 방임으로 극심한 발육부진과 영양결핍 상태였던 것으로 밝혀졌다. A씨는 아동학대범죄의 처벌 등에 관한 특례법 위반(아동학대살해), 아동복지법 위반(상습아동유기·방임) 혐의로 구속기소됐다. 첫 재판은 다음달 18일에 열릴 예정이다.
 
-제목: [스타트UP] “무자비하게 줄였다” 생활용품 '가격 파괴' 꿈꾸는 와이즐리 - 조선비즈
-URL: https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vYml6LmNob3N1bi5jb20vaW5kdXN0cnkvY29tcGFueS8yMDIzLzAzLzI2L1hQU0VITlk1NlJFUVRMQlBXVFJZM01HQVBZL9IBAA?oc=5
+URL: https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmZubmV3cy5jb20vbmV3cy8yMDIzMDMyNjEyMzI0ODIzMTfSATFodHRwczovL3d3dy5mbm5ld3MuY29tL2FtcE5ld3MvMjAyMzAzMjYxMjMyNDgyMzE3?oc=5
 
-제목: 조승우, 베트남 아내 학대 남편 소송 맡았다 “명예 회복해야”(신성한 이혼)[어제TV] - 뉴스엔
-URL: https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vbS5uZXdzZW4uY29tL25ld3Nfdmlldy5waHA_dWlkPTIwMjMwMzI1MjAzOTM5NjExMNIBAA?oc=5
-
-제목: 젤렌스키에 ‘주걱’ 선물한 기시다…“부끄럽다” 日 네티즌들도 비판 - 조선일보 - 조선일보
-URL: https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmNob3N1bi5jb20vaW50ZXJuYXRpb25hbC9pbnRlcm5hdGlvbmFsX2dlbmVyYWwvMjAyMy8wMy8yNS83REpJWTM0U1VSQ0U1R0VQWVUzQjJHQlZDRS_SAXBodHRwczovL3d3dy5jaG9zdW4uY29tL2ludGVybmF0aW9uYWwvaW50ZXJuYXRpb25hbF9nZW5lcmFsLzIwMjMvMDMvMjUvN0RKSVkzNFNVUkNFNUdFUFlVM0IyR0JWQ0UvP291dHB1dFR5cGU9YW1w?oc=5
+제목: 생선 튀길 때, 맥주를 넣으라고? [주방 속 과학] - MSN
+URL: https://news.google.com/rss/articles/CBMi0QFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvb3RoZXIvJUVDJTgzJTlEJUVDJTg0JUEwLSVFRCU4QSU4MCVFQSVCOCVCOC0lRUIlOTUlOEMtJUVCJUE3JUE1JUVDJUEzJUJDJUVCJUE1JUJDLSVFQiU4NCVBMyVFQyU5QyVCQyVFQiU5RCVCQyVFQSVCMyVBMC0lRUMlQTMlQkMlRUIlQjAlQTktJUVDJTg2JThELSVFQSVCMyVCQyVFRCU5NSU5OS9hci1BQTE5NTBRRNIBAA?oc=5
 
 
