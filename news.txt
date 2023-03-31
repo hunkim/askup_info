@@ -1,87 +1,102 @@
-제목: 분당서울대학교병원 내분비대사내과 임수 교수 - 의약뉴스
-요약: GPT3 Return Error: 'choices'
+제목: [뉴스포커스] 방미 앞두고 외교안보사령탑 교체…민주당 "해명해야" - 연합뉴스TV
+요약: - 김성한 국가안보실장이 전격 사퇴하면서 방미 한 달 전 대통령실 비서관들과 외교안보라인 총책임자가 연달아 사퇴하면서 여러 가지 추측이 나오고 있음
+- 김 실장의 갑작스런 사퇴 배경을 두고 여러 루머가 돌고 있음
+- 민주당은 대통령실의 명확한 해명을 요구하고 있음
+- 양곡관리법과 관련해서는 양당이 너무 다른 주장을 펴고 있어서 국민들 입장에서는 판단이 쉽지 않음
+- 여야가 오늘 법사위에서 '50억 특검법'에 대한 논의를 시작함
+- 본회의에서 '정치자금법 위반 혐의' 등으로 구속영장이 청구된 하영제 국민의힘 의원의 '체포동의안' 표결
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHA6Ly93d3cubmV3c21wLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjMxNTc50gE7aHR0cDovL3d3dy5uZXdzbXAuY29tL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz0yMzE1Nzk?oc=5
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwMzMwMDA3NDAwNjQx0gEA?oc=5
 
-제목: 웹기반 인지행동치료 활성화될까…DTx 효과 검증 본격화 - medicaltimes.com
-URL: https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3Lm1lZGljYWx0aW1lcy5jb20vTW9iaWxlL05ld3MvTmV3c1ZpZXcuaHRtbD9JRD0xMTUyODI10gEA?oc=5
+제목: 소행성 구성성분, 인공지능 기술로 알아낸다 - 동아사이언스
+요약: 한국천문연구원과 연세대 교수가 공동으로 개발한 기계학습법으로 4528개 소행성의 표면 구성 성분을 분류하는 데 성공했다. 이 기술은 소행성 형성 과정을 밝히는 데 도움이 될 것으로 예상된다. 연구 결과, 기존 9개 분류형(A, B, C, K, L&D, O, S, V, X)을 확인하고, K형과 X형을 3차원 공간에서 뚜렷하게 구분짓는 데 성공했다. 이 기술은 태양계 소천체의 비밀을 파헤칠 수 있는 빅데이터 분석에도 적용될 수 있다.
 
-제목: 생방송 여기는 워싱턴입니다 2023/3/30 아침 - 한국어 방송 - VOA Korean
-요약: 2023년 3월 30일 아침, '생방송 여기는 워싱턴입니다'에서는 볼로디미르 젤렌스키 우크라이나 대통령이 시진핑 중국 국가주석을 초청한 소식과 마이크 펜스 전 부통령에게 연방 법원이 특검 증언을 명령한 이야기를 다룹니다. 방송 시간은 한반도 오전 4:00~5:00 (UTC 19:00~20:00)입니다.
+URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmRvbmdhc2NpZW5jZS5jb20vbmV3cy5waHA_aWR4PTU5MTgw0gEA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hLzcwMDcyMjguaHRtbNIBKWh0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hbXAvNzAwNzIyOC5odG1s?oc=5
+제목: '태계일주' 시즌2·3 연달아 제작…무작정 떠날 기안84 - 뉴스컬처
+요약: MBC의 '태어난 김에 세계일주'와 기안84의 세계일주 여정이 시즌 2와 시즌 3로 이어진다. 시즌 1에서는 기안84와 함께 남미를 여행하며 현지 문화와 삶을 체험하는 내용이 인기를 끌었다. '태계일주'는 시즌 2와 3을 연달아 제작하며, 기안84와의 세계일주 여정을 기획하고 있다.
 
-제목: ‘계엄 문건’ 조현천 체포… 법원 “사령관이 작성 지시” 이미 판시 - 서울신문
-요약: 조현천 전 기무사령관이 5년 3개월 만에 미국에서 귀국한 뒤 검찰에 체포됐다. 조 전 사령관은 박근혜 전 대통령 탄핵을 앞두고 작성된 '계엄령 문건' 의혹의 핵심 인물로 지목되어 수사를 받고 있다. 그러나 내란음모 혐의가 입증될지는 불투명하다.
+URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3Lm5ld3NjdWx0dXJlLnByZXNzL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz01MjEwMzfSAQA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnNlb3VsLmNvLmtyL25ld3MvbmV3c1ZpZXcucGhwP2lkPTIwMjMwMzMwMDA5MDA40gEsaHR0cHM6Ly9hbXAuc2VvdWwuY28ua3Ivc2VvdWwvMjAyMzAzMzAwMDkwMDg?oc=5
+제목: 오나미 "고시원·반지하→내 명의로 한강뷰 신혼집, 성공 체감" - 머니투데이
+요약: 코미디언 김민경과 오나미가 KBS2 예능 프로그램 '옥탑방의 문제아들'에 출연해 자신들의 성공 이야기를 밝혔다. 김민경은 개그맨으로 데뷔한 후 1년 동안 코너가 없어 막막한 시기를 겪었지만, 추어탕을 먹으면서 선풍기를 켜는 방법으로 무더위를 이겨냈다. 오나미는 고시원부터 시작해 지금은 도심에 있는 신혼집을 아파트 전세로 얻었다.
 
-제목: 'TV조선 점수조작 의혹' 한상혁 방통위원장 구속영장 기각 - 한겨레
-요약: 한상혁 방송통신위원장이 <티브이조선> 재승인 심사 당시 점수를 일부러 감점하는 데 개입한 혐의로 구속영장을 청구받았으나, 법원이 기각했다. 법원은 "주요 혐의에 대해 다툼의 여지가 있어 현단계에서의 구속은 피의자의 방어권을 지나치게 제한한다"며 이유를 밝혔다. 검찰은 감사원 자료를 토대로 지난해 9월부터 수사를 벌여 당시 심사위원장과 방통위 국장, 과장 등 3명을 구속기소했다.
+URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwMzMwMDkzMzQxNjIyNzPSAT1odHRwczovL20ubXQuY28ua3IvcmVuZXcvdmlld19hbXAuaHRtbD9ubz0yMDIzMDMzMDA5MzM0MTYyMjcz?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDg1NzY3Lmh0bWzSAQA?oc=5
+제목: “후쿠시마산 수산물 들어올 일 결코 없을 것”…대통령실 또 늦게 해명 - 한겨레
+요약: 윤석열 대통령이 일본에서 강연을 한 후, 일본의 교도통신이 대통령이 후쿠시마 오염수 방류 문제에 대해 한국 국민의 이해를 구해나가겠다고 말했다는 보도를 전하자 대통령실은 일본산 수산물 수입 관련 국민의 건강과 안전이 최우선이라는 입장을 밝혔다. 그러나 대통령실은 후쿠시마 원전 오염수 문제에 대해서는 직접적인 해명을 하지 않았다.
 
-제목: 우주가 던지는 질문 - 당당뉴스
-요약: 미국항공우주국(NASA)에서 차세대 우주망원경 ‘제임스웹(JWST)’으로 촬영한 완전 천연색의 우주 사진을 공개했다. 이 사진은 현재까지 촬영한 우주 사진 중 가장 높은 해상도를 자랑하는 사진이다. 이 책은 빅뱅 이론과 우주에 대한 이야기를 담고 있으며, 기독교 신앙은 현대 과학이 발견한 사실들을 거부하지 않아야 하며, 오히려 진지한 대화와 수용이 필요하다는 것을 강조한다. 또한, 우주의 신비는 인간과 우주를 바라보는 우리의 시야를 넓혀주고 사고를 깊게 해 준다는 것을 말하며, 우리가 어디서 와서 어디로 가는지에 대한 질문을 던진다
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9hc3NlbWJseS8xMDg1Nzg2Lmh0bWzSAQA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiPWh0dHA6Ly93d3cuZGFuZ2RhbmduZXdzLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MzkyMTXSAQA?oc=5
+제목: 간에서 독성 물질 씻어내는 자연식품 5 - 코메디닷컴
+요약: 간 건강을 위해 좋은 자연식품 5가지를 소개합니다. 마늘, 호두, 브로콜리, 자몽, 사과는 간 해독 기능을 증진시켜 독성 물질을 배출하는데 도움을 줍니다. 이들 식품에는 각각 다양한 성분이 함유되어 있으며, 글루타티온, 비타민C, 펙틴 등이 간 건강에 좋은 효과를 줍니다.
 
-제목: '나는 솔로' 13기 영수 '옥순 알아갈지 현숙 선택할지 고민…쓰레기 같아' - 한국아이닷컴
-요약: '나는 솔로' 13기 영수가 옥순과 현숙을 두고 고민에 빠졌다. 현숙은 상철이 자신을 선택할 줄 몰랐다며 "(상철이) 그냥 3명 중에 선택하고 싶다, 선택할 것 같다고 했다"고 전했다. 이어 옥순이 자신에게 먼저 다가왔기 때문에 1:1 데이트 상대로 선택했다고 밝혔다.
+URL: https://news.google.com/rss/articles/CBMiqgFodHRwczovL2tvcm1lZGkuY29tLzE1Nzg3MjMvJUVBJUIwJTg0JUVDJTk3JTkwJUVDJTg0JTlDLSVFQiU4RiU4NSVFQyU4NCVCMS0lRUIlQUMlQkMlRUMlQTclODgtJUVDJTk0JUJCJUVDJTk2JUI0JUVCJTgyJUI0JUVCJThBJTk0LSVFQyU5RSU5MCVFQyU5NyVCMCVFQyU4QiU5RCVFRCU5MiU4OC01L9IBAA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NjcyMzDSAT1odHRwczovL3d3dy5oYW5rb29raS5jb20vbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTY3MjMw?oc=5
+제목: “전광훈이 천하통일” 김재원 징계 안 한다…김기현 “지켜볼 것” - 한겨레
+요약: 국민의힘 최고위원인 김재원이 최근 발언으로 논란이 되면서, 국민의힘 지도부는 김재원 최고위원을 징계하지 않을 것을 내비쳤다. 김기현 대표는 김재원 최고위원이 공개적으로 사과한 것으로 보고, 앞으로 그런 언행이 반복되지 않도록 지켜볼 것이라고 말했다. 이철규 사무총장도 김재원 최고위원의 발언은 바람직하지 않다고 생각하지만, 징계 조치를 개시할 수 있는 정도까지 갔는가 하는 데 대해서는 당내 이견들이 있다고 밝혔다.
 
-제목: KIA, 장정석 단장 전격 해임...박동원 계약 협상 과정 '뒷돈' 요구 / YTN - YTN
-URL: https://news.google.com/rss/articles/CCAiC1RjOHROalFCWTB3mAEB?oc=5
+URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9wb2xpdGljc19nZW5lcmFsLzEwODU3ODQuaHRtbNIBAA?oc=5
 
-제목: 미한 정상 공동성명 "공통 가치로 깊은 유대...3차 민주주의 정상회의 한국 주최" - 한국어 방송 - VOA Korean
-요약: 미국 주도의 제2차 민주주의 정상회의 총회에서 조 바이든 미국 대통령과 윤석열 한국 대통령이 양국 간 깊은 유대와 협력을 강조했습니다. 양국 대통령은 공동성명을 통해 민주주의 가치와 인권 존중에 뿌리를 둔 깊은 유대관계를 공유하고 있으며, 강력한 정치∙경제∙안보와 국민 간 유대를 더욱 강화하기 위해 노력하고 있다고 밝혔습니다. 이번 정상회의는 30일까지 화상으로 진행됩니다.
+제목: LG전자, 대용량 '무드업' 냉장고 출시 기념 사진전 - 이데일리
+요약: LG전자가 냉장고 컬러를 바꿀 수 있는 'LG 디오스 오브제컬렉션 무드업'의 대용량 신제품 출시 기념 사진전을 창원 컨벤션센터에서 내달 2일까지 열 예정이다. 전시는 국내 유명 사진가 김용호씨가 직접 촬영한 작품을 전시하며, 무드업 냉장고를 비롯해 창원시와 LG전자의 역사를 담았다. 이번 전시는 최근 라인업에 추가한 대용량 무드업 냉장고 826·829(노크온)리터 신제품 출시를 기념하기 위해 마련됐다.
 
-URL: https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hLzcwMjY5NzguaHRtbNIBKWh0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hbXAvNzAyNjk3OC5odG1s?oc=5
+URL: https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmVkYWlseS5jby5rci9uZXdzL3JlYWQ_bmV3c0lkPTAxOTg3Njg2NjM1NTQ4NTY4Jm1lZGlhQ29kZU5vPTI1N9IBAA?oc=5
 
-제목: 내수 살리자...온누리상품권 더 풀고 여행비도 지원 / YTN - YTN
-URL: https://news.google.com/rss/articles/CCAiC0hCNVlKZFpuZnRzmAEB?oc=5
+제목: "아이폰15 프로, 배터리 방전되도 버튼 작동" - MSN
+URL: https://news.google.com/rss/articles/CBMiyAFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvb3RoZXIvJUVDJTk1JTg0JUVDJTlEJUI0JUVEJThGJUIwMTUtJUVEJTk0JTg0JUVCJUExJTlDLSVFQiVCMCVCMCVFRCU4NCVCMCVFQiVBNiVBQy0lRUIlQjAlQTklRUMlQTAlODQlRUIlOTAlOTglRUIlOEYlODQtJUVCJUIyJTg0JUVEJThBJUJDLSVFQyU5RSU5MSVFQiU4RiU5OS9hci1BQTE5ZjU4eNIBAA?oc=5
 
-제목: [날씨] 국외 먼지 추가 유입…내일 더 따뜻 - 연합뉴스TV
-요약: 내일은 기온이 더 올라 20도를 넘을 지역도 있겠지만, 미세먼지 때문에 공기질이 좋지 않을 것입니다. 전국 건조주의보가 발효 중이며, 안개로 인한 가시거리 저하로 차량 운전 시 주의가 필요합니다. 다음 주 중반쯤 비가 내릴 것으로 예상됩니다.
+제목: [김남엽 칼럼] 여성 인생 절반 뼈가 약해진 상태로 살아간다 - 아시아타임즈
+요약: 여성의 골다공증은 폐경 후 에스트로겐의 분비 감소로 인해 발생하는데, 이는 뼈의 대사성질환으로 골밀도가 감소하고 골절 위험이 증가하는 상태를 의미한다. 골다공증은 대퇴골, 손목, 발목, 척추 등에서 빈발하며, 대퇴골절로 인한 사망률은 2.5%로 유방암과 유사하다. 골다공증을 예방하기 위해서는 체중 관리, 운동, 식이요법, 신장 기능 강화 등이 필요하다. 한의학에서는 신장이 뼈와 골수의 발달을 주관한다는 이론으로 골다공증을 치료하는데 유효한 녹용, 당귀, 지황, 산수유 등의 한약재가 있다.
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwMzI5MDI0MDAwNjQx0gEA?oc=5
+URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmFzaWF0aW1lLmNvLmtyL2FydGljbGUvMjAyMzAzMzA1MDAwNTjSAQA?oc=5
 
-제목: '폭탄발언' 김민재, 사과 글 올려…대표팀에 무슨 일이 / JTBC 뉴스룸 - JTBC News
-URL: https://news.google.com/rss/articles/CCAiC0JWSmtpSml1WDRjmAEB?oc=5
+제목: 블랙핑크 지수 '솔로 앨범 고민하며 새로운 나 발견…단단해졌다' [일문일답] - 서울경제 - 서울경제신문
+요약: 블랙핑크의 지수가 첫 솔로 앨범 '미(ME)'을 발표한다. 이번 앨범에서는 지수가 그동안 보여주지 못했던 색다른 매력을 선보인다. 지수는 앨범 제작 과정에서 많은 시간과 노력을 들였으며, 팬들이 새로운 지수를 발견할 수 있기를 바란다고 전했다. 타이틀곡 '꽃(FLOWER)'과 수록곡 '올 아이즈 온 미(All Eyes On Me)'는 지수만의 다채로운 매력을 담아냈다. 지수는 팬들과 함께하는 월드투어 중이지만, 솔로 앨범 발매로 팬들과 더 가까이 소통할 수 있는 기회를 만들기 위해 노력 중이다.
 
-제목: 김성한 안보실장 이례적 교체 미스터리 : 국회·정당 : 정치 : 뉴스 - 한겨레
-요약: 한-미 동맹 70주년을 맞아 윤석열 대통령이 4월 말 미국 방문과 한-미 정상회담을 진행하는 시점에 김성한 국가안보실장을 사실상 전격 경질하는 초강수를 뒀다. 이로 인해 방미라는 대형 외교 행사를 목전에 두고 이뤄진 국가안보실장 교체에 대한 파장이 예상된다. 김 실장은 외교안보라인의 방미 관련 ‘보고 누락’ 사태를 인지한 것으로 알려졌다.
+URL: https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LnNlZGFpbHkuY29tL05ld3NWaWV3LzI5Tjg3RkM5SkbSASxodHRwczovL20uc2VkYWlseS5jb20vTmV3c1ZpZXdBbXAvMjlOODdGQzlKRg?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9hc3NlbWJseS8xMDg1NzU5Lmh0bWzSAQA?oc=5
+제목: 공간, 애플그린 장흥군 인재육성장학금 500만원 기탁 - 정남진 장흥신문
+요약: 장흥군인재육성장학회에 ㈜공간과 ㈜애플그린이 5백만원의 장학금을 기부했다. 이번 인재육성장학금 기탁을 시작으로 앞으로 장흥군의 발전에 도움이 될 수 있는 부분이 있다면 관심을 가지고 노력할 것이라 밝혔다. 김성 이사장은 선순환 구조가 실현될 수 있도록 더욱 더 노력하겠다고 말했다.
 
-제목: 소아과 의사들 '폐과' 선언…복지부 "긴급 점검" - 연합뉴스
-URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L01ZSDIwMjMwMzI5MDIzNTAwNjQx0gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9NWUgyMDIzMDMyOTAyMzUwMDY0MQ?oc=5
+URL: https://news.google.com/rss/articles/CBMiOGh0dHA6Ly93d3cuamh0b2RheS5uZXQvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTEwNTUz0gEA?oc=5
 
-제목: ‘마약 투약 혐의’ 전두환 손자, 경찰 조사 끝 석방…“광주에 오래 머물것” - 동아일보
-요약: 전두환 전 대통령의 손자인 전우원씨가 마약 투약 혐의로 체포된 후, 경찰 조사에서 협조적인 태도를 보여 석방됐다. 전우원씨는 광주를 찾아 5·18 희생자와 유족들에게 직접 사죄할 계획이며, 이를 위해 5·18기념문화센터에서 사과 자리가 마련될 예정이다.
+제목: "16강 자축합시다..승부조작범들 사면해주죠" 이게 말이 되나요? [뉴스.zip/MBC뉴스] - MBCNEWS
+URL: https://news.google.com/rss/articles/CCAiC3lWdjVlZWd4Q1ZFmAEB?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LmRvbmdhLmNvbS9uZXdzL2FydGljbGUvYWxsLzIwMjMwMzI5LzExODU4NTk4MS8x0gE3aHR0cHM6Ly93d3cuZG9uZ2EuY29tL25ld3MvYW1wL2FsbC8yMDIzMDMyOS8xMTg1ODU5ODEvMQ?oc=5
+제목: [특징주]카나리아바이오, 정기보고서 제출에 급등 - 아시아경제
+요약: 카나리아바이오(016790)가 전일 대비 29.26% 상승한 36,000원에 거래되고 있다. 이 회사는 사료 전문회사로, 경쟁력을 높이기 위해 농가 맞춤형 사료 공급시스템, 산란계 사료 특화, 제품 품질 기술용역 계약 및 자체 연구를 통한 품질 개선, 특수 가공기술 확보 등을 추진하고 있다.
 
-제목: 정정미 청문회에서도 한일관계·검수완박 공방 - 연합뉴스TV
-요약: 정정미 헌법재판관 후보자 인사청문회에서는 윤석열 정부의 대일외교와 최근 내려진 헌재의 '검수완박' 결정을 놓고 질의가 이어졌습니다. 여야는 서로 다른 주장을 펴며 정 후보자의 생각을 물었습니다. 정 후보자는 대법원 판결을 존중해야 한다고 말했고, 한일관계와 검수완박 법안에 대한 질문에는 구체적인 답변을 하지 않았습니다. 또한 자신의 농지법 위반 의혹에 대해서는 부친이 자신의 이름으로 농지를 취득한 사실을 뒤늦게 알았다며 이를 방치한 게 자신의 잘못이라고 말했습니다.
+URL: https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LmFzaWFlLmNvLmtyL2FydGljbGUvMjAyMzAzMzAwOTQ1MDgxMTEwN9IBAA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwMzI5MDIxODAwNjQx0gEA?oc=5
+제목: [핫클릭] 원룸 덮친 37m 중장비에 인근 주민 5명 부상 外 - 연합뉴스TV
+요약: 울산시 남구에서 지반을 뚫는 중장비가 인근 원룸 건물로 넘어져 인근 주민 5명이 부상한 사고가 발생했다. 경찰은 사고 원인을 파악하고 추가 위험에 대비해 현장을 통제하고 있다. 또한, 서울 영등포경찰서는 금은방을 털고 달아난 남성을 추적 중이다. 마지막으로, 강원도 원주의 야산에 온몸이 하얀색인 노루가 나타났는데, 전문가들은 이 노루가 알비노로 인해 멜라닌 색소가 결핍돼 나타난 백색증에 걸렸을 가능성이 크다며 지나친 관심은 역효과를 낳을 수 있다고 당부하고 있다.
 
-제목: '정산금 분쟁' 노제, 소속사와 갈등 해결 "모든 소 취하" - 한국일보
-요약: 스타팅하우스와 댄서 노제 간의 갈등이 해결됐다. 스타팅하우스는 노제와 대화를 통해 오해를 풀었으며, 양측 모두 서로의 부족한 부분과 잘못을 인정하고 원만히 해결했다고 밝혔다. 이번 일로 스타팅하우스는 많은 것을 배우고, 더 이상 이와 같은 상황이 재발하지 않도록 아티스트의 활동을 최선을 다해 지원할 것이라고 약속했다. 이전에는 노제와 스타팅하우스의 정산금을 둘러싼 갈등이 있었다.
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwMzMwMDA2MDAwNjQx0gEA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vbS5oYW5rb29raWxiby5jb20vTmV3cy9SZWFkL0EyMDIzMDMyOTE5MzUwMDAyNzk40gEA?oc=5
+제목: 대만 총통, 미국 경유 중남미 순방에 중국 "도발" VS 미국 "관행" - 한국일보
+요약: 차이잉원 대만 총통이 중앙아메리카 국가 순방을 시작하면서 미국 경유 일정이 포함되어 미국 정부는 "이번 경유는 관행"이라고 설명했다. 이에 대해 중국 정부는 '하나의 중국' 원칙 위반이라며 반발하고 있다. 차이잉원 대만 총통은 9박 10일간 중미 수교국인 과테말라와 벨리즈를 방문하며 미국 뉴욕과 LA를 경유할 예정이다.
 
-제목: 전기·가스 요금 조정안 31일 발표 예정…“인상 불가피” / KBS 2023.03.29. - KBS News
-URL: https://news.google.com/rss/articles/CCAiC1NXVnVUUWtVRnlvmAEB?oc=5
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpbGJvLmNvbS9OZXdzL1JlYWQvQTIwMjMwMzMwMDg0MDAwMDI2NTbSAQA?oc=5
 
-제목: 5월 코로나 격리의무 5일로 단축 - 경남일보
-요약: 코로나19 감염자의 격리 의무가 완전히 해제되는 시점은 7월이 될 것으로 예상된다. 정부는 방역 의료체계의 일상회복을 추진하는 내용의 ‘코로나19 위기단계 조정 로드맵’을 발표하였으며, 1단계에서는 확진자의 격리 의무가 7일에서 5일로 단축되고, 2단계에서는 격리 의무가 완전히 해제된다. 하지만 여전히 코로나19 사망자가 발생하고 있으며, 코로나19가 종식되지 않을 것이라는 예상에 힘이 실리고 있다.
+제목: 임영웅, 3월 스타 브랜드평판 2위 기록…1위 방탄소년단 - 한국아이닷컴
+요약: 가수 임영웅이 3월 스타 브랜드평판서 2위를 기록했다. 1위는 방탄소년단이다. 한국기업평판연구소에 따르면 임영웅은 참여지수, 미디어지수, 소통지수, 커뮤니티지수를 합한 브랜드평판지수 649만4742로 2위를 기록했다.
 
-URL: https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LmdubmV3cy5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NTI1MzM20gEA?oc=5
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NjcyNTPSAT1odHRwczovL3d3dy5oYW5rb29raS5jb20vbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTY3MjUz?oc=5
 
-제목: 크로이츠펠트-야콥병 환자 가족, 질병청서 무료 진단검사 - 연합뉴스
-URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L01ZSDIwMjMwMzI5MDIwODAwNjQx0gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9NWUgyMDIzMDMyOTAyMDgwMDY0MQ?oc=5
+제목: 김민재-손흥민 불화설 제기…'SNS 언팔' 소동 - 연합뉴스TV
+요약: 미국 백악관은 러시아가 북한에게 추가적인 탄약을 제공하기 위해 노력하고 있으며, 대가로 북한에게 식량을 제공하고 있다는 새로운 정보를 공개했습니다.
+
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwMzMwMDA1MjAwNjQx0gEA?oc=5
+
+제목: 전립선암, 경과 관찰과 적극적인 치료가 생존율에서 차이 없어 - 메디컬투데이
+요약: 전립선암을 진단받은 경우, 적극적으로 치료하는 것과 경과를 관찰하는 것이 생존율에서 차이가 없는 것으로 나타났다. 전립선암은 천천히 진행되며 다른 장기로 전이되는 데까지 오랜 시간이 걸리기 때문에 치료를 선택할 때 효과와 부작용을 잘 비교해서 결정해야 한다. 연구 결과, 경과를 관찰한 경우 암으로 인한 사망자는 없었으며, 전립선 절제술이나 방사선 치료를 받은 경우 그로 인한 부작용이 12년 이상 지속됐다.
+
+URL: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vbWR0b2RheS5jby5rci9uZXdzL3ZpZXcvMTA2NTU3MzIzODIwMzIzNtIBAA?oc=5
+
+제목: 몬테네그로 당국 "미국이 한국보다 먼저 권도형 인도 청구" - 연합뉴스TV
+요약: 몬테네그로 당국은 자국에서 체포된 권도형 테라폼랩스 대표에 대해 "미국이 한국보다 먼저 범죄인 인도 청구를 했다"고 밝혔습니다. 현재 어느 국가가 우선권이 있는지는 말하기 어렵다고 합니다. 권 대표는 가상화폐 테라와 루나 폭락 사태 직전인 지난해 4월 잠적했고, 지난 23일 포드고리차 국제공항에서 검거됐습니다.
+
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwMzMwMDAxNTAwNjQx0gEA?oc=5
 
 
