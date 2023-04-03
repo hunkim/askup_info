@@ -1,93 +1,83 @@
-제목: 소액생계비 대출, 출시 1주일 만에 5천499건 신청 - 시사경제신문
-요약: 한국에서 소액생계비 대출이 출시된 지 일주일 만에 5,499건의 신청이 들어왔다. 대출 금액은 평균 64만원으로, 총금액은 35억1천만원이다. 대출 한도는 100만원으로, 최초 50만원을 빌려주고 이자를 6개월 이상 성실하게 상환하면 추가 대출을 해준다. 대출 금리는 연 15.9%이며, 금융교육을 이수하고 성실 상환 시 연 9.4%까지 낮아진다.
+제목: 전도연 "너무 미안해서" 울컥‥설경구, 당황 "진짜 울어?" ('출장십오야') - 조선일보 - 조선일보
+URL: https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNob3N1bi5jb20vZW50ZXJ0YWlubWVudHMvYnJvYWRjYXN0LzIwMjMvMDQvMDMvRFdPVlhTRURFT0dMSUJCUUNWU08zUVRUN1Uv0gFlaHR0cHM6Ly93d3cuY2hvc3VuLmNvbS9lbnRlcnRhaW5tZW50cy9icm9hZGNhc3QvMjAyMy8wNC8wMy9EV09WWFNFREVPR0xJQkJRQ1ZTTzNRVFQ3VS8_b3V0cHV0VHlwZT1hbXA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHA6Ly93d3cuc2lzYW5ld3Mua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTk4OTkz0gE7aHR0cDovL3d3dy5zaXNhbmV3cy5rci9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89OTg5OTM?oc=5
+제목: '토트넘 추격' 뉴캐슬 vs '카세미루 결장' 맨유, 선발 명단 공개 - MSN
+URL: https://news.google.com/rss/articles/CBMiggJodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvb3RoZXIvJUVEJTg2JUEwJUVEJThBJUI4JUVCJTg0JTk4LSVFQyVCNiU5NCVFQSVCMiVBOS0lRUIlODklQjQlRUMlQkElOTAlRUMlOEElQUMtdnMtJUVDJUI5JUI0JUVDJTg0JUI4JUVCJUFGJUI4JUVCJUEzJUE4LSVFQSVCMiVCMCVFQyU5RSVBNS0lRUIlQTclQTglRUMlOUMlQTAtJUVDJTg0JUEwJUVCJUIwJTlDLSVFQiVBQSU4NSVFQiU4QiVBOC0lRUElQjMlQjUlRUElQjAlOUMvYXItQUExOW5JRXnSAQA?oc=5
+
+제목: 피 1cc로 6대 암 한꺼번에 발견하는 AI 검진법 - YTN
+요약: 국내 연구진이 피 몇 방울로 1시간 만에 6가지 암을 정확하게 진단할 수 있는 인공지능 기술을 개발했다. 혈액에서 분리한 혈장을 필터에 통과시켜 혈액 속 엑소좀을 얻고, 금 나노 칩에 떨어뜨려 분석 기계에 넣어 빛이 엑소좀을 통과하면서 고유의 그래프가 나타나게 한다. 이를 학습한 인공지능이 환자의 암 여부를 알려주며, 폐암, 유방암, 대장암, 간암, 췌장암, 위암, 모두 6개 암에 대해 암 종류도 구별한다. 연구팀은 폐암 검진에 대해 올해 안에 임상시험을 진행하고 내년에 인허가를 신청할 예정이다.
+
+URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lnl0bi5jby5rci9fbG4vMDEwNV8yMDIzMDQwMzAwMTg1MjgyMTXSAQA?oc=5
+
+제목: 건조 특보에 강한 바람… 인왕산 산불, 축구장 20개 면적 태웠다 - 서울신문
+요약: 2일 서울 인왕산에서 큰불이 발생해 등산객과 인근 주민들이 급하게 대피했다. 전국 곳곳에서 크고 작은 산불이 발생해 소방청은 긴급중앙통제단을 가동하고 직원 비상소집을 발령했다. 인근 하늘은 흰 화재 연기로 뒤덮였고 소방헬기가 연달아 소화수를 날렸다. 홍성, 금산 등에서도 산불이 발생해 대피하고 진화작업이 이루어졌다. 윤석열 대통령은 “산림청과 소방청을 중심으로 가용 자원을 총동원해 산불 진화와 예방에 총력을 다하고 관계부처는 헬기, 인력 등 가용 자원이 지원될 수 있도록 협력체계를 가동하라”고 지시했다.
+
+URL: https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnNlb3VsLmNvLmtyL25ld3MvbmV3c1ZpZXcucGhwP2lkPTIwMjMwNDAzMDA5MDEw0gEsaHR0cHM6Ly9hbXAuc2VvdWwuY28ua3Ivc2VvdWwvMjAyMzA0MDMwMDkwMTA?oc=5
+
+제목: 타이완 총통, 미국서 민주당 하원 대표 만나 - 한국어 방송 - VOA Korean
+요약: 차이잉원 타이완 총통이 미국을 방문해 하킴 제프리스 하원 민주당 대표와 회동했다. 총통은 이틀 뒤 캘리포니아에서 연설하고, 그 후 과테말라와 벨리즈를 방문한 뒤 귀국할 예정이다. 타이완은 중국 군용기 9대가 타이완해협 중앙선을 통과한 것을 발표하고, 중국의 긴장 조성에 대응해 군용기를 감시 중이다.
+
+URL: https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hLzcwMzI3ODUuaHRtbNIBKWh0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hbXAvNzAzMjc4NS5odG1s?oc=5
+
+제목: [인포그래픽] 세계에서 가장 많이 팔린 비디오 게임 - 매드타임스(MAD Times)
+요약: 게임 산업이 가장 호황을 누리고 있으며, 2026년까지 3,200억 달러 규모로 성장할 것으로 예상됩니다. 2022년과 2023년에는 대규모 출시가 예정되어 있으며, 비주얼 캐피털리스트가 회사 보고서와 위키피디아에서 집계한 판매 데이터를 바탕으로 가장 많이 팔린 비디오 게임 차트를 공유했습니다. 가장 많이 팔린 비디오 게임은 마인크래프트로, 다양한 게임 시리즈에 걸쳐 있지만, 몇몇 개발자가 반복적으로 성공을 거두었습니다. 상위 10위권에서 가장 인기 있는 장르는 플레이어가 자유롭게 목표를 추구할 수 있는 자유를 제공하는 게임입니다.
+
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lm1hZHRpbWVzLm9yZy9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MTcyMznSAQA?oc=5
+
+제목: '신성한, 이혼' 조승우, 차화연 이혼소송에 의문 “돈 필요하니 많이 받아달라” - iMBC연예
+요약: 조승우가 출연하는 JTBC 드라마 '신성한, 이혼'에서 금희(차화연)의 이혼소송을 맡게 된 신성한(조승우)과 둘의 만남이 그려졌다. 신성한은 상대 변호인단이 여섯 명이지만 굴하지 않고 금희의 변호에 나섰다. 이에 금희는 "차일피일하다 늙고 두렵고, 끝까지 달려줄 엔진 있는 변호사가 신성한 변호사밖에 없었다"라고 답했다.
+
+URL: https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vZW5ld3MuaW1iYy5jb20vTmV3cy9SZXRyaWV2ZU5ld3NJbmZvLzM3NzkzOdIBAA?oc=5
+
+제목: 울산 2월 건설수주액 72%↓광공업 생산은 1년새 5%↑ - 울산제일일보
+요약: 울산지역의 건설수주액이 지난해 같은 달 대비 71.8% 감소한 것으로 나타났다. 건축부문에서는 사무실과 점포, 공장 및 창고에서 각각 줄어 94.8%가 감소했고, 토목부문은 항만 및 공항에서 늘었으나 기계설치에서 줄어 48.8%가 감소했다. 반면 광공업 생산은 전년 동월보다 5.0% 증가했다.
+
+URL: https://news.google.com/rss/articles/CBMiN2h0dHA6Ly93d3cudWplaWwuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0zMjQ1MjfSAQA?oc=5
+
+제목: 미, 한국산 '양극·음극재' 사용해도 보조금…한숨 돌린 K배터리 - 경향신문
+요약: 미국 정부가 전기차 보조금을 주는 인플레이션감축법(IRA) 시행과 관련해 지급 대상 요건을 대폭 완화한 세부 지침을 발표했다. 이번 지침에서 국내 배터리 업계에 우호적인 부분은 양극판과 음극판을 만드는 데 사용되는 ‘활물질’이 배터리 부품이 아닌 ‘구성 재료’로 규정됐다는 점이다. 하지만 여전히 불확실성도 존재한다. 미국 재무부는 배터리 부품은 오는 2024년부터, 핵심 광물은 2025년부터 ‘외국 우려 단체’에서 조달해서는 안 된다고 밝혔다.
+
+URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmtoYW4uY28ua3IvZWNvbm9teS9pbmR1c3RyeS10cmFkZS9hcnRpY2xlLzIwMjMwNDAyMjIwOTAyNdIBAA?oc=5
+
+제목: '0:6 → 8:6 역전승' 삼성‥'박진만 감독 첫 승' (2023.04.02/뉴스데스크/MBC) - MBCNEWS
+URL: https://news.google.com/rss/articles/CCAiC01wUDVFeFZ3dzJNmAEB?oc=5
+
+제목: 산업부, 전기·가스 요금 회의 돌연 취소…여권·여론 탓?[MBN 뉴스센터] - MBN News
+URL: https://news.google.com/rss/articles/CCAiC0V2cVpoaUtHV0s4mAEB?oc=5
 
 제목: 중대재해 처음으로 '오너'에 책임 물었다…삼표산업 회장 기소 - 한겨레
-요약: 한국에서 중대재해처벌법(중대재해법) 시행 1년2개월여 만에 기업의 소유주(오너)가 기소되는 첫 사례가 나왔다. 이번 사건은 지난해 1월29일 중대재해법 시행 이틀 만에 노동자 3명이 토사에 매몰돼 사망한 ‘삼표산업 양주사업소 채석장’ 사건이다. 검찰은 이번 사건에서 기업 오너인 정 회장을 중대재해처벌법 위반 혐의로 기소했다. 이번 사례는 중대재해법으로 기소된 11건은 모두 ‘대표이사’가 기소된 사건으로, ‘오너’가 기소된 것은 이번이 처음이다.
+요약: 한국에서 중대재해처벌법(중대재해법) 시행 1년2개월여 만에 기업의 소유주(오너)가 기소되는 첫 사례가 나왔다. 이번 사건은 지난해 1월29일 중대재해법 시행 이틀 만에 노동자 3명이 토사에 매몰돼 사망한 ‘삼표산업 양주사업소 채석장’ 사건이다. 검찰은 이번 사건에서 기업 오너인 정 회장을 중대재해처벌법 위반 혐의로 기소했다. 이번 기소는 ‘형식적’이 아닌 ‘실질적’으로 사업을 대표하고 총괄하는 사람을 경영책임자로 봤다는 점에서 의미가 있다고 평가된다.
 
 URL: https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L2xhYm9yLzEwODYxOTcuaHRtbNIBAA?oc=5
 
-제목: 최악 피한 K배터리… 국내 50% 가공 핵심광물 ‘美보조금’ 받는다 - 서울신문
-URL: https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnNlb3VsLmNvLmtyL25ld3MvbmV3c1ZpZXcucGhwP2lkPTIwMjMwNDAzMDA4MDAz0gEsaHR0cHM6Ly9hbXAuc2VvdWwuY28ua3Ivc2VvdWwvMjAyMzA0MDMwMDgwMDM?oc=5
+제목: [우알생] "독서실 총무 된 줄"…카페 주인, 콘센트 막았다 / JTBC 뉴스룸 - JTBC News
+URL: https://news.google.com/rss/articles/CCAiC3pCM2NpZWszZHZVmAEB?oc=5
+
+제목: 김성호 재난안전관리본부장, 홍성 산불 현장점검 - 뉴스핌
+요약: 하영제 국민의힘 의원에 대한 체포동의안이 가결되어 법원에서 구속 여부를 판단받게 되었다. 이에 이재명 더불어민주당 대표에 대한 체포동의안이 재차 부결될 경우, 민주당을 향한 비판이 거세질 수 있다는 관측이 나오고 있다. 이 대표는 이미 불구속 기소됐으며, 검찰 수사가 여전히 진행 중이다. 검찰이 수사 상황에 따라 일부 사건을 묶어 이 대표에 대한 구속영장을 다시 청구할 가능성이 크다는 분석도 나오고 있다.
+
+URL: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lm5ld3NwaW0uY29tL25ld3Mvdmlldy8yMDIzMDQwMjAwMDE1ONIBMWh0dHBzOi8vbS5uZXdzcGltLmNvbS9uZXdzYW1wL3ZpZXcvMjAyMzA0MDIwMDAxNTg?oc=5
 
 제목: “손자 사과로 유야무야 넘어가지 않길”···이번 사과가 ‘끝’이 아닌 ‘시작’이길 바라는 시민들 - 서울신문
 요약: 전두환 전 대통령의 손자 전우원씨가 광주 5·18 민주열사 묘역과 민주화운동 단체를 찾아 사죄했다. 이에 시민들은 전씨의 용기를 높게 평가하며, 다른 가족들도 사과에 동참해야 한다는 의견을 내놓았다. 그러나 전씨가 마약 투약 혐의로 경찰에 체포돼 조사를 받은 점 등이 사과의 진정성을 흐렸다는 반응도 나왔다. 시민들은 전씨의 사과를 시작으로 5·18 민주화운동에 대한 진상규명이 다시 시작돼야 한다는 의견을 내놓았다.
 
 URL: https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnNlb3VsLmNvLmtyL25ld3MvbmV3c1ZpZXcucGhwP2lkPTIwMjMwNDAyNTAwMTE50gEsaHR0cHM6Ly9hbXAuc2VvdWwuY28ua3Ivc2VvdWwvMjAyMzA0MDI1MDAxMTk?oc=5
 
-제목: 건조특보 속 인왕산·홍성 등 전국 산불 잇따라 - 한겨레
-요약: 전국적으로 건조특보가 내려진 2일, 충남 홍성군 등에서 산불이 발생해 주택이 불에 타고, 주민과 등산객이 대피했다. 산림당국은 홍성군에서 발생한 산불에 대해 산불 3단계를 발령하고, 진화에 어려움을 겪고 있다. 이날 산불로 밤 9시 기준 집 30채와 축사, 문화재 등 62개소가 불타고, 중리 등 산불 인근 지역 주민 230여명이 마을회관 등으로 대피했다. 산불은 전국에서 동시다발적으로 발생했으며, 건조한 날씨와 강풍이 원인으로 지목되고 있다.
-
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9hcmVhL2FyZWFfZ2VuZXJhbC8xMDg2MTk1Lmh0bWzSAQA?oc=5
-
 제목: 중일 외교장관 회담…동중국해·오염수·대만문제 놓고 신경전(종합2보) - 연합뉴스
 URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L0FLUjIwMjMwNDAyMDM5NjUyMDcz0gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9BS1IyMDIzMDQwMjAzOTY1MjA3Mw?oc=5
 
-제목: '승격 돌풍' 대전하나시티즌, 5경기 연속 무패 행진 - 대전일보
-요약: 대전하나시티즌이 5경기 연속 무패를 기록하며 K리그에서 2위에 올랐다. 대전은 FC서울과의 경기에서 전반부터 강하게 몰아쳤고, 3-2로 승리했다. 서울도 반격을 펼쳤지만 대전의 승리로 끝났다.
+제목: 정순신 아들, 학폭위 조사 때 9줄짜리 사과문 제출 - 연합뉴스
+URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L0FLUjIwMjMwNDAyMDQ1NTAwNTMw0gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9BS1IyMDIzMDQwMjA0NTUwMDUzMA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiPWh0dHA6Ly93d3cuZGFlam9uaWxiby5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTIwNTYxMTnSAUBodHRwOi8vd3d3LmRhZWpvbmlsYm8uY29tL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz0yMDU2MTE5?oc=5
-
-제목: 중독에 취약한 유전자 있다 - 코메디닷컴
-요약: 한 배우가 마약투약 혐의로 조사받으면서 ‘물질 사용 장애’란 용어가 자주 등장했다. 최근 연구에서는 물질 사용 장애, 즉 중독에는 유전자의 영향이 있다는 것이 밝혀졌다. 연구원들은 다양한 질병에 관련된 특정 유전자를 확인할 때 사용하는 ‘전장 유전체 연관분석’ 기법을 써서 물질 사용 장애가 유전될 수 있으며, 도파민 신호 조절의 유전적 변화가 중독의 핵심이라는 것을 밝혀냈다. 이 연구는 물질 사용 장애와 정신 장애는 종종 함께 발생하며, 두 가지 문제를 동시에 해결하는 게 효과적이라는 것을 보여주고, 앞으로 개인화된 예방과 치료를 
-
-URL: https://news.google.com/rss/articles/CBMigwFodHRwczovL2tvcm1lZGkuY29tLzE1Nzc3NjgvJUVDJUE0JTkxJUVCJThGJTg1JUVDJTk3JTkwLSVFQyVCNyVBOCVFQyU5NSVCRCVFRCU5NSU5Qy0lRUMlOUMlQTAlRUMlQTAlODQlRUMlOUUlOTAtJUVDJTlFJTg4JUVCJThCJUE0L9IBAA?oc=5
+제목: '술 못 마시는' 유재석, 전소민표 조개 술찜 먹고 호통 “가리비 살인마”(런닝맨) - 뉴스엔
+URL: https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vbS5uZXdzZW4uY29tL25ld3Nfdmlldy5waHA_dWlkPTIwMjMwNDAyMTkxODUwMjAxMNIBAA?oc=5
 
 제목: 경남FC, 김천 상무 잡고 선두 재탈환 - 경남일보
-요약: GPT3 Error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+요약: 경남FC가 김천 상무를 2-0으로 이겨 선두에 올랐다. 경남은 3승 2무, 개막 5경기 무패의 기세를 이어가며 안양FC와 승점은 같지만 다득점에서 앞서 리그 1위를 차지했다. 경남은 글레이손과 이준재의 골로 승리를 거뒀으며, 4-4-2 포메이션을 사용했다. 다음 경기는 15일 오후 6시 30분에 부산과 경기를 갖는다.
 
-URL: https://news.google.com/rss/articles/CBMiOmh0dHA6Ly93d3cuZ25uZXdzLmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz01MjU1NzXSAQA?oc=5
+URL: https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LmdubmV3cy5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NTI1NTc10gEA?oc=5
 
-제목: 충남 홍성 '대형산불'에 충남도, 전직원 비상소집 - 뉴스핌
-요약: 하영제 국민의힘 의원에 대한 체포동의안이 가결되어 법원에서 구속 여부가 결정될 예정이다. 이에 이재명 더불어민주당 대표에 대한 체포동의안이 재차 부결될 경우, 민주당을 향한 비판이 더욱 거세질 것으로 예상된다. 이 대표는 이미 불구속 기소됐지만, 검찰 수사가 여전히 진행 중이며, 검찰이 구속영장을 재청구할 가능성이 크다. 이에 대한 민주당의 대처가 관심을 받고 있다.
-
-URL: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lm5ld3NwaW0uY29tL25ld3Mvdmlldy8yMDIzMDQwMjAwMDE1MdIBMWh0dHBzOi8vbS5uZXdzcGltLmNvbS9uZXdzYW1wL3ZpZXcvMjAyMzA0MDIwMDAxNTE?oc=5
-
-제목: 아침에 '단호박' 먹었더니, 노화·폐에 변화가? - 코메디닷컴
-요약: 단호박은 노화를 늦추고 폐 기능 증진, 항암효과가 있는 베타카로틴 성분이 풍부하며, 단백질, 비타민, 칼슘 등 각종 영양소가 많아 근육 유지, 혈압 조절, 콜레스테롤 배출에 도움을 준다. 호박씨는 불포화지방산이 많아 혈액순환을 돕고, 레시틴 성분은 기억력 증진, 두뇌 활동에 좋은 영향을 준다. 단호박을 선택할 때는 색깔이 고르게 짙고 단단하며 크기에 비해 무거운 것을 고르는 것이 좋다.
-
-URL: https://news.google.com/rss/articles/CBMiwAFodHRwczovL2tvcm1lZGkuY29tLzE1Nzk1NTMvJUVDJTk1JTg0JUVDJUI5JUE4JUVDJTk3JTkwLSVFQiU4QiVBOCVFRCU5OCVCOCVFQiVCMCU5NS0lRUIlQTglQjklRUMlOTclODglRUIlOEQlOTQlRUIlOEIlODgtJUVCJTg1JUI4JUVEJTk5JTk0JUMyJUI3JUVEJThGJTkwJUVDJTk3JTkwLSVFQiVCMyU4MCVFRCU5OSU5NCVFQSVCMCU4MC_SAQA?oc=5
-
-제목: [단독] "보고 있나" 삼성 '쾌거'…TSMC 독식하던 자리 꿰찼다 - 한국경제
-요약: 삼성전자가 세계적인 자율주행차용 반도체 개발업체 모빌아이의 ADAS 칩을 생산한다. ADAS 칩은 자동차의 전방충돌 방지, 차로 유지, 스마트크루즈컨트롤 기능 등을 담당하는 핵심 부품이다. 삼성전자의 자동차용 파운드리(반도체 수탁생산) 수주 경험과 기술력 등이 긍정적인 영향을 준 것으로 분석된다. 삼성전자는 이전에도 테슬라와 암바렐라 등의 자율주행차용 반도체를 생산한 실적이 있으며, 차량용 반도체를 파운드리 사업의 미래 성장동력으로 삼고 계속 육성할 계획이다.
-
-URL: https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FydGljbGUvMjAyMzA0MDIwMTg2MdIBAA?oc=5
-
-제목: 강남 납치·살인 일당, 범행 동기는…내일 영장심사 - 연합뉴스TV
-요약: 강남에서 여성을 납치하고 살해한 일당에 대해 구속영장이 신청됐다. 범행 동기는 아직 밝혀지지 않았으나, 피의자 중 한 명은 피해자의 가상 화폐를 노리고 범행을 저질렀다는 진술을 했다. 이번 사건의 핵심인 이 씨는 아직 피해 여성과의 구체적인 관계에 대해 입을 열지 않고 있으며, 수사가 더 필요한 부분이다. 구속영장 실질심사는 3일 오전에 열릴 예정이다.
-
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNDAyMDEwOTAwNjQx0gEA?oc=5
-
-제목: 역대 가장 밝은 감마선 폭발 'BOAT GRB' 목격 – 사이언스모니터 | The Science Monitor - 사이언스모니터
-URL: https://news.google.com/rss/articles/CBMiwgFodHRwOi8vc2NpbW9uaXRvcnMuY29tLyVFQyU5NyVBRCVFQiU4QyU4MC0lRUElQjAlODAlRUMlOUUlQTUtJUVCJUIwJTlEJUVDJTlEJTgwLSVFQiVCOSU5Qi0lRUQlOEYlQUQlRUIlQjAlOUMlRUIlQTElOUMtJUVDJUE3JTgwJUVBJUI1JUFDLSVFQyU5QyU4NCVFQyU4NCVCMS0lRUIlODglODglRUMlOUQlQjQtJUVCJUE5JTgwJUVCJThCJUE0L9IBAA?oc=5
-
-제목: 대한축구협회 임시 이사회, 사면 철회 의결 - 비전21뉴스
-요약: 대한축구협회가 승부조작 가담자 100명에 대한 징계 사면 조치를 철회하기로 결정했다. 이사회는 승부조작과 같은 중대 범죄 행위에 대한 징계를 다룰 때는 더 깊이 고민하고 각계의 의견을 충분히 들어야 하는데, 생각이 짧았으며 경각심도 부족했다며 사과했다. 앞으로도 승부조작이나 폭력, 불법금품수수 등 위법 행위는 절대 용인하지 않을 것이며, 이를 위해 예방 장치를 강화하고 교육에도 더 힘쓸 것이라고 밝혔다.
-
-URL: https://news.google.com/rss/articles/CBMiMmh0dHA6Ly93d3cudmlzaW9uMjEua3IvbmV3cy9hcnRpY2xlLmh0bWw_bm89MjUzMjY10gEA?oc=5
-
-제목: 눈 잘 충혈되는 사람, '이 영양소' 부족한 탓 - MSN
-URL: https://news.google.com/rss/articles/CBMiyQFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvb3RoZXJzLyVFQiU4OCU4OC0lRUMlOUUlOTgtJUVDJUI2JUE5JUVEJTk4JTg4JUVCJTkwJTk4JUVCJThBJTk0LSVFQyU4MiVBQyVFQiU5RSU4Qy0lRUMlOUQlQjQtJUVDJTk4JTgxJUVDJTk2JTkxJUVDJTg2JThDLSVFQiVCNiU4MCVFQyVBMSVCMSVFRCU5NSU5Qy0lRUQlODMlOTMvYXItQUExOW1aVWXSAQA?oc=5
-
-제목: 방중 마잉주, 조상 묘에서 “‘중화민국 총통’ 두번 했습니다” - 서울신문
-요약: 대만 전 총통 마잉주가 중국 방문 중인 자신의 조부 묘에서 "민국(중화민국) 97년과 101년에 중화민국 총통으로 당선됐다"고 말했다. 이는 중국 민주주의 정통성이 대만에 있다는 사실을 드러내는 의도가 있다. 이전에도 마 전 총통은 중국과 대만 모두 '국부'로 추앙하는 쑨원의 묘소를 참배하면서 '중화민국'을 언급했다. 이번 방중은 내년 대만 총통 선거를 앞두고 양안 정책에 대한 국민당 정부의 입장을 상징적으로 보여주려는 취지로 인식된다.
-
-URL: https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnNlb3VsLmNvLmtyL25ld3MvbmV3c1ZpZXcucGhwP2lkPTIwMjMwNDAyNTAwMDg20gEsaHR0cHM6Ly9hbXAuc2VvdWwuY28ua3Ivc2VvdWwvMjAyMzA0MDI1MDAwODY?oc=5
-
-제목: '19세기 무기로 21세기 전쟁 중' 바흐무트 최전방 전투 상황 - BBC News 코리아 - BBC News 코리아
-요약: 우크라이나 동부 바흐무트에서 7개월 이상 지속된 전투가 계속되고 있으며, 수많은 우크라이나군과 러시아군이 전사했다. 러시아군은 큰 손실을 입었고, 아직 큰 성과를 내지 못했다.
-
-URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20va29yZWFuL2ludGVybmF0aW9uYWwtNjUxNTI1OTbSAQA?oc=5
-
-제목: 오타니 자비는 없었다, 고교시절 라이벌과 ML서 첫 맞대결→'호된 신고식' 선물 - 머니투데이
-요약: LA 에인절스의 오타니 쇼헤이가 메이저리그 홈 경기에서 후지나미 신타로를 상대로 멀티히트를 기록하며 라이벌 관계를 이어갔다. 고교 시절 함께 미래를 이끌 최고 유망주로 평가받았던 둘은 프로 무대에서 각자 다른 길을 걸어왔다. 후지나미는 2015년 개인 최다인 14승을 따내며 도약하는 듯했지만, 이후 활약을 보여주지 못했다. 반면 오타니는 2018년 메이저리그에 진출한 뒤 투타 겸업 신화를 써 내려갔다. 경기에서는 오타니가 후지나미를 상대로 적시타를 치며 호된 신고식을 선물했다. 에인절스는 13-1로 승리하며 시즌 첫 승을 거뒀다.
-
-URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwNDAyMTYwODE3MTU4MjTSAT1odHRwczovL20ubXQuY28ua3IvcmVuZXcvdmlld19hbXAuaHRtbD9ubz0yMDIzMDQwMjE2MDgxNzE1ODI0?oc=5
-
-제목: 대통령실 "4·3추념식, 올해는 총리 참석이 적절 판단" - 한국경제
-요약: 국민의힘 김기현 대표가 전북 전주에서 김경민 후보와 함께 거리 유세를 하며 재선거 지원을 호소했다. 김 대표는 이번 선거가 야권의 심장부인 호남에서 지지율을 끌어올리기 위한 '서진 정책'의 일환으로 볼 수 있다고 밝혔다. 또한, 김 대표는 더불어민주당을 저격하며 "주민 무서운 줄을 모르고 중앙당 눈치 보고 공천에만 급급할 텐데"라며 비판했다. 이번 재선거는 민주당 출신 이상직 전 의원의 의원직 상실로 열렸다.
-
-URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjMwNDAyMDAwM1nSATNodHRwczovL3d3dy5oYW5reXVuZy5jb20vcG9saXRpY3MvYW1wLzIwMjMwNDAyMDAwM1k?oc=5
+제목: "대출규제 풀리니"...20·30 아파트 매입 비중 25개월 만에 최대 / YTN - YTN
+URL: https://news.google.com/rss/articles/CCAiCzVCWmJ0Wk1JMlJZmAEB?oc=5
 
 
