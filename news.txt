@@ -1,89 +1,91 @@
-제목: 디어 리얼리티 엑소버브 마이크로 출시, 잔향 효과 부여 소프트웨어 - 위클리포스트
-요약: 디어 리얼리티가 엑소버브 마이크로라는 소프트웨어를 출시한다. 이 소프트웨어는 스테레오 사운드를 만들 때 '리버브(Reverb)' 효과를 제공하는 플러그인 방식의 소프트웨어로, 음향 효과를 8개 프리셋 형태로 제공한다. 이 소프트웨어는 윈도우 10 이상과 맥 10.12 상위 버전에서 사용할 수 있으며, 소비자 가격은 약 3만3천원이다.
+제목: [속보] 윤 대통령, 양곡관리법 개정안에 첫 거부권 행사 - 한겨레
+요약: 윤석열 대통령이 양곡관리법 개정안에 대한 재의요구권(거부권)을 행사했다. 이번 거부권 행사는 윤 대통령 취임 뒤 처음이자, 2016년 박근혜 대통령의 거부권 행사 뒤 약 7년 만이다. 양곡관리법은 쌀 수요 대비 초과 생산량이 3~5% 이상이거나, 쌀값이 전년도 대비 5~8% 이상 하락하면 정부가 초과 생산량을 모두 매입하도록 했다.
 
-URL: https://news.google.com/rss/articles/CBMiOWh0dHA6Ly93d3cud2Vla2x5cG9zdC5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NDczONIBAA?oc=5
+URL: https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9ibHVlaG91c2UvMTA4NjQwNy5odG1sP19mcj1tdDHSAQA?oc=5
 
-제목: 면역 반응 조절하는 염색질 3차 구조 규명 - 팜뉴스
-요약: 연세대학교 의과대학 김형표 교수와 양보배 박사 연구팀은 수지상세포의 유전자 발현을 조절하는 인핸서에 영향을 미치는 염색질 3차 구조를 밝혀냈다. 이를 통해 수지상세포의 면역 기능 조절에 대한 이해가 높아졌으며, 자가면역질환 등 수지상세포를 이용한 세포치료제 개발에 발판을 마련했다.
+제목: 무심코 먹는 약, 콩팥 망치는 성분은? - 코메디닷컴
+요약: 건강정보 사이트 '헬스라인'에서는 일부 처방약이나 일반의약품이 신장을 손상시킬 수 있다는 것을 알려주고 있다. 비스테로이드성 소염진통제, 항생제, 양성자펌프억제제, 혈압약, 영양보충제, 아리스토로크산 성분의 약, 정신과 약물 등이 그 예이다. 이러한 약물을 장기간 복용하거나 전문가와 상의 없이 복용하면 신장질환 가능성이 증가할 수 있으므로 주의해야 한다.
 
-URL: https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnBoYXJtbmV3cy5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTIyMTI5MdIBPmh0dHA6Ly93d3cucGhhcm1uZXdzLmNvbS9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89MjIxMjkx?oc=5
+URL: https://news.google.com/rss/articles/CBMisgFodHRwczovL2tvcm1lZGkuY29tLzE1Nzk4NjkvJUVCJUFDJUI0JUVDJThCJUFDJUVDJUJEJTk0LSVFQiVBOCVCOSVFQiU4QSU5NC0lRUMlOTUlQkQtJUVDJUJEJUE5JUVEJThDJUE1JUVDJTk3JTkwLSVFQiVBQyVCNCVFQiVBNiVBQyVFQyVBMyVCQyVFQiU4QSU5NC0lRUMlODQlQjElRUIlQjYlODQlRUMlOUQlODAv0gEA?oc=5
+
+제목: 석류 먹으면 여성호르몬 증가 효과...'이때'는 먹지 마세요 [건강톡톡] - 하이닥
+요약: 석류는 각종 비타민과 칼륨, 폴리페놀이 풍부하며 세포의 손상을 막는 여러 성분이 있어 피부 미용과 면역력 향상에 좋다. 또한 식물성 에스트로겐 성분도 다량 들어 있어 여성호르몬 분비를 도와 갱년기 증상 조절에도 좋다. 그러나 당뇨병 환자는 석류를 적당량 섭취해야 하며, 자궁근종이 있는 분은 과하게 먹으면 안 된다. 또한 석류를 먹으면 유방암 발생 위험이 커진다는 우려가 있지만 최근 연구에서는 피토에스트로겐이 유방암 발생에 안 좋은 것이 아니며 오히려 발생을 줄여줄 수 있다는 결과들이 나오고 있다.
+
+URL: https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LmhpZG9jLmNvLmtyL2hlYWx0aHN0b3J5L25ld3MvQzAwMDA3ODEwMjfSAQA?oc=5
+
+제목: 구글, 윈도우 앱용 'Nearby Share' 베타 출시.. 국내서도 이용 가능 - 케이벤치 (KBench)
+요약: 구글이 안드로이드 파일 공유 서비스 '니어바이 셰어'를 윈도우 PC에 제공한다. 이 기능은 애플 에어드롭과 유사하며, 블루투스, Wi-Fi 또는 NFC를 사용하여 안드로이드 스마트폰 및 태블릿과 사진, 동영상, 문서, 링크 등 다양한 콘텐츠를 공유할 수 있다. 윈도우 PC에서 블루투스 또는 와이파이를 활성화해야 하며, ARM 기반 노트북은 지원하지 않는다. 윈도우 앱용 니어바이 셰어 베타는 현재 미국 등 일부 지역에서 출시되고 있으며, 국내 사용자들도 무료로 받을 수 있다.
+
+URL: https://news.google.com/rss/articles/CBMiIWh0dHBzOi8va2JlbmNoLmNvbS8_cT1ub2RlLzI0MjQ5MtIBAA?oc=5
+
+제목: [에디터픽] '대규모 감산' 국제유가 급등.. 달라진 백악관 대응 수위 / YTN - YTN
+URL: https://news.google.com/rss/articles/CCAiC2J6cXVHbDh4R2Y4mAEB?oc=5
+
+제목: 여성·흑인 최초로 달 궤도 간다...NASA, 아르테미스 2호 탑승 우주인 공개 - 동아사이언스
+요약: NASA가 아르테미스 2호 미션에 참가할 4명의 우주비행사를 발표했다. 이들은 2024년 11월에 달 궤도를 비행하고 귀환하는 미션에 참여할 예정이다. 이번 미션에는 여성 우주비행사인 크리스티나 코크와 흑인 우주비행사인 빅터 글로버 등이 포함되어 있다. 이번 미션은 NASA의 역대 최강 발사체인 스페이스론치시스템(SLS)과 우주선 오리온의 첫 유인 비행이다.
+
+URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LmRvbmdhc2NpZW5jZS5jb20vbmV3cy5waHA_aWR4PTU5MjMz0gEA?oc=5
+
+제목: 독일 엔지니어 ‘소울’ 담은 ‘텐키리스 키보드’, 마운틴 에베레스트 코어 - 맨즈랩
+요약: 독일의 PC 주변 기기 제조사 마운틴이 개발한 기계식 게이밍 키보드 'MOUNTAIN EVEREST CORE'는 일반 키보드보다 가로 길이가 20% 짧아 마우스를 움직일 수 있는 공간이 더 많이 확보되어 게임을 보다 여유롭게 즐길 수 있다. 또한, 체리 MX 시리즈 키 스위치가 적용되고 부가 기능도 다수 제공되어 기본적인 키보드 성능도 우수하다.
+
+URL: https://news.google.com/rss/articles/CBMiOGh0dHA6Ly93d3cubWFuemxhYi5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTI2MTYw0gE7aHR0cDovL3d3dy5tYW56bGFiLmNvbS9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89MjYxNjA?oc=5
+
+제목: 거뭇거뭇한 기미·잡티, 여름 전에 관리해야 - 하이닥
+요약: 봄철 자외선은 겨울보다 3~4배 강하며, 이로 인해 기미나 잡티, 주근깨 등이 생길 수 있다. 기미는 유전적인 소인 외에 출산 후 호르몬 변화, 스트레스, 과도한 자외선 노출 등이 원인이 될 수 있다. 기미 및 잡티 관리 방법 중 하나로 'EGF'가 효과적이며, 멜라닌 세포의 활성을 억제하여 기미 및 잡티를 관리할 수 있다. 기미 치료는 여름이 되기 전에 진행하는 것이 좋으며, EGF 분자 크기가 작을수록 흡수율이 높다는 사실도 참고해야 한다.
+
+URL: https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LmhpZG9jLmNvLmtyL2hlYWx0aHN0b3J5L25ld3MvQzAwMDA3ODExMDbSAQA?oc=5
+
+제목: 송혜교 “'더 글로리'는 저에게 영광, 사랑에 감사”…자필 편지로 전한 인사 - YTN
+요약: 송혜교가 넷플릭스 오리지널 시리즈 '더 글로리'에 대한 시청자들의 사랑에 감사한 마음을 전했다. 송혜교는 자필 편지를 공개하며 "더 글로리와 함께 했던 시간들이 저에게는 '영광'이었습니다"라고 전했다. '더 글로리'는 학교폭력 피해자로 가해자들에게 복수하는 문등 역할을 맡아 시청자들에게 호평받았다.
+
+URL: https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lnl0bi5jby5rci9fY3MvX3NuXzAxMTdfMjAyMzA0MDQwOTQxNDMyNjQ3XzAwNS5odG1s0gEA?oc=5
+
+제목: '손흥민 부진' 토트넘 졸전 끝에 에버턴과 무승부 - 한라일보
+URL: https://news.google.com/rss/articles/CBMiOWh0dHA6Ly93d3cuaWhhbGxhLmNvbS9hcnRpY2xlLnBocD9haWQ9MTY4MDU2ODM5OTc0MDUwNjA1MdIBAA?oc=5
+
+제목: 먼지를 가르며 달리는 쾌감···포르자 호라이즌 5 신규 확장팩 '랠리 어드벤처' 전격 출시 - CNET Korea
+URL: https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vbS5jbmV0LmNvLmtyL3ZpZXcvP25vPTIwMjMwNDA0MDkzNzM10gEA?oc=5
+
+제목: 3월 소비자물가 4.2%↑…상승폭 줄었지만 유가 하락 요인 커 - 한겨레
+요약: 3월 국내 소비자 물가 상승률은 전년 대비 4.2%로 둔화되었다. 이는 유가 하락 영향이 크게 작용한 결과이다. 그러나 공공요금 인상, 산유국 감산 등 불확실성이 여전히 존재한다. 특히, 국제 유가 흐름이 불안정한 상황에서 물가 안정화에 대한 우려가 제기되고 있다.
+
+URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9lY29ub215L2Vjb25vbXlfZ2VuZXJhbC8xMDg2Mzk1Lmh0bWzSAQA?oc=5
+
+제목: [뉴스라이더] JMS 피해자 첫 법정 증언..."저항 안했냐 압박에 구토까지" - YTN
+요약: GPT3 Return Error: 'choices'
+
+URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lnl0bi5jby5rci9fbG4vMDEwM18yMDIzMDQwNDA5MjcwOTYzMjTSAQA?oc=5
+
+제목: [현장연결] 충남 홍성 산불 사흘째 진화중…피해상황 브리핑 - 연합뉴스TV
+요약: 충남 홍성 산불이 사흘째 이어지고 있으며, 2,875명의 인력과 186대의 장비가 투입되어 진화 작업이 진행 중이다. 현재 진화율은 67%이며, 인명 피해는 없지만 71동이 소실되었고, 309명이 대피 중이다. 평균 풍속은 2m이며, 동남동풍으로 풍향이 진행되고 있다. 산불은 돌풍성 바람으로 인해 확산되었다.
+
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNDA0MDA2MjAwNjQx0gEA?oc=5
 
 제목: 일본 애니 관심 많던 심형탁, 7월 일본인 여자친구와 결혼 / SBS / 굿모닝연예 - SBS 뉴스
 URL: https://news.google.com/rss/articles/CCAiCzB0SkhzeHlLUE13mAEB?oc=5
 
-제목: 키노라이츠, OTT 신작 제공 페이지 업데이트 기념 '소문내기 이벤트' 진행 - ACROFAN South Korea
-URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8va3IuYWNyb2Zhbi5jb20vZGV0YWlsLnBocD9udW1iZXI9MjkyOTIz0gEA?oc=5
+제목: 이영표·이동국 "사면 못 막아"…축구협회 부회장 사퇴 - 연합뉴스TV
+요약: 이영표와 이동국 대한축구협회 부회장이 승부 조작 사면과 관련한 책임을 지고 부회장직에서 물러나겠다고 밝혔다. 대한축구협회는 지난달 승부 조작 징계자 48명을 포함한 100인에 대한 사면을 결의했다가 사흘 만에 전격 철회했다.
 
-제목: '비보 X 플립' 라이브 이미지 유출.. 대형 커버 디스플레이 '눈길' - 케이벤치 (KBench)
-요약: 중국 스마트폰 제조사 비보(Vivo)의 첫 클램쉘 폴더블 스마트폰 '비보 X 플립'의 라이브 이미지가 유출됐다. 후면 디자인을 보여주며, 원형 카메라 모듈과 대형 커버 디스플레이가 특징이다. 이 스마트폰은 50MP IMX866 + 12MP IMX663 듀얼 카메라와 스냅드래곤 8+ 1세대, 12GB 램, 안드로이드 13 운영체제 등의 사양을 가지고 있다. 이번 달 중 이벤트에서 공개될 예정이다.
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNDA0MDA0ODAwNjQx0gEA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiIWh0dHBzOi8va2JlbmNoLmNvbS8_cT1ub2RlLzI0MjQ3NtIBAA?oc=5
+제목: "신기할정도"…'드림' 이병헌 감독, 박서준X아이유 첫 호흡 '엄지척' 이유 - 뉴스컬처
+요약: 영화 '드림'은 박서준과 아이유가 출연하여, 전직 축구선수와 PD가 꿈을 이루기 위해 노력하는 이야기를 그린 영화이다. 이들의 반전 케미와 말맛 나는 대사가 기대를 모은다. 이병헌 감독도 박서준과 아이유의 연기 케미에 대해 칭찬하며, 이 영화는 4월 26일 개봉한다.
 
-제목: '손흥민 82분, 평점 6.3점' 토트넘, 에버턴과 무승부 - YTN
-요약: 손흥민 선수가 프리미어리그 통산 100호 골 달성을 미루고 토트넘이 에버턴과 비겼습니다. 해리 케인이 선제골을 넣었지만 경기 종료 직전 동점골을 내주며 토트넘은 승점 1점을 추가하며 4위에 오르긴 했지만 5위 맨유와 승점이 같아 힘겨운 4위 싸움을 이어가게 됐습니다.
+URL: https://news.google.com/rss/articles/CBMiP2h0dHA6Ly93d3cubmV3c2N1bHR1cmUucHJlc3MvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTUyMTM0NtIBAA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lnl0bi5jby5rci9fbG4vMDEwN18yMDIzMDQwNDA4MTYwNjE4NzfSAQA?oc=5
-
-제목: 뉴욕증시, 유가 급등에도 제조업 부진에 혼조 (2023.04.04/뉴스투데이/MBC) - MBCNEWS
-URL: https://news.google.com/rss/articles/CCAiC29ZSVY4RUhsbzkwmAEB?oc=5
-
-제목: 3월 소비자물가 4.2% ↑‥상승폭 1년 만에 최소 - MBC뉴스
-요약: 3월 소비자물가동향에 따르면, 지난달 물가 상승률은 4% 초반대로 1년 만에 가장 낮은 상승폭을 보였다. 이는 석유류 가격 하락과 가공식품 상승세 둔화에도 불구하고, 농산물 가격 상승으로 인한 것이다. 물가 상승세는 7월 이후 점차 둔화하고 있으며, 석유류 가격 하락이 큰 역할을 했다.
-
-URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9lY29uby9hcnRpY2xlLzY0NzA1MjRfMzYxNDAuaHRtbNIBQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9lY29uby9hcnRpY2xlLzY0NzA1MjRfMzYxNDEuaHRtbA?oc=5
-
-제목: 트럼프 전 대통령, 법원 출석 앞두고 3일 뉴욕 도착 - 한국어 방송 - VOA Korean
-요약: 미국 전 대통령인 도널드 트럼프가 처음으로 형사기소되어 법원 출석을 위해 뉴욕에 도착했다. 트럼프는 4일 맨해튼 법원에서 기소인부절차를 밟을 예정이며, 이번 기소는 2016년 대선 당시 자신과 성관계를 맺었다고 주장하는 여성에게 입막음 조로 13만 달러를 지급해 선거법을 위반했다는 혐의 등을 받고 있다. 뉴욕시는 트럼프 지지자들의 시위에 대비해 보안 경계 수준을 강화했다.
-
-URL: https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hLzcwMzQ3NDcuaHRtbNIBKWh0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hbXAvNzAzNDc0Ny5odG1s?oc=5
-
-제목: 지구와 우주의 나이, 어떻게 알아냈을까[김정욱의 별별이야기](9) - 서울경제 - 서울경제신문
-요약: 우주의 나이를 알아내는 방법에 대해 설명하는 기사입니다. 지구의 나이는 방사성 연대 측정법을 이용해 45억년으로 알아냈으며, 우주의 나이는 허블상수와 도플러 효과를 이용해 137억년으로 계산되었습니다. 이를 통해 우주 탄생의 비밀을 알아낼 수 있으며, 천문학계와 인류학계에서 중요한 검증법으로 사용됩니다.
-
-URL: https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LnNlZGFpbHkuY29tL05ld3NWaWV3LzI5TzY2T0w4NknSASxodHRwczovL20uc2VkYWlseS5jb20vTmV3c1ZpZXdBbXAvMjlPNjZPTDg2SQ?oc=5
+제목: [문화연예 플러스] '생방송 중 욕설' 정윤정 쇼호스트 무기한 출연 금지 (2023.04.04/뉴스투데이/MBC) - MBCNEWS
+URL: https://news.google.com/rss/articles/CCAiC3RlWm81SEZhR3hVmAEB?oc=5
 
 제목: '리바운드' 정진운 "장항준 감독에 부담감 주고 싶었다" [인터뷰] - 한국일보
-요약: 배우 정진운이 영화 '리바운드'에서 규혁 역할을 맡아 열심히 연기했다. 이를 위해 농구 스타일을 변화시키고, 태닝을 10번 정도 하며 물건도 준비했다. 그는 이번 영화를 통해 배우로서 시도를 이어가고 있으며, 대중이 자신을 그룹 2AM 멤버가 아닌 배우 정진운으로 바라봐 주길 바란다. '리바운드'는 5일 극장에서 개봉된다.
+요약: 배우 정진운이 영화 '리바운드'에서 규혁 역할을 맡아 열심히 연기했다. 이를 위해 농구 스타일을 변화시키고, 태닝을 10번 정도 하며 물건을 구하고, 신발을 수선하는 등 많은 노력을 기울였다. 그는 이번 영화를 통해 배우로서 시도를 이어가고 있으며, 대중이 자신을 그룹 2AM 멤버가 아닌 배우 정진운으로 바라봐 주길 바란다고 밝혔다. '리바운드'는 5일 극장에서 개봉한다.
 
 URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpbGJvLmNvbS9OZXdzL1JlYWQvQTIwMjMwNDAzMTA1MzAwMDI0MTfSAQA?oc=5
 
-제목: 대한항공 3연속 통합 우승…한선수 챔프전 MVP / KBS 2023.04.04. - KBS News
-URL: https://news.google.com/rss/articles/CCAiC0hUNjhwcUZSVnFzmAEB?oc=5
+제목: 공정위, 한화-대우조선해양 기업결합 심사 일지 - 뉴스로드
+요약: 한화가 대우조선해양 인수로 인해 방위 산업 분야에서 경쟁이 제한될 우려가 있어 공정거래위원회가 한화와 시정 방안을 협의 중이다.
 
-제목: 홍성·대전 산불 사흘째, 강풍에 재확산…진화율 67% - 한겨레
-요약: 충남 홍성과 대전에서 산불이 사흘째 이어지고 있으며, 강풍으로 인해 불이 다시 확산하는 상황에서 산림당국은 밤새 진화 작업을 벌였다. 산림청은 홍성군에서 발생한 산불이 44시간 넘게 이어지고 있으며, 대전에서 발생한 산불의 진화율은 67%로 추정된다. 인명피해는 없으나 시설 피해는 늘어나고 있으며, 산림당국은 공중진화대, 산불재난특수진화대원 등을 투입해 안전한 진화에 총력을 기울일 예정이다.
-
-URL: https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9hcmVhL2NodW5nY2hlb25nLzEwODYzODguaHRtbNIBAA?oc=5
-
-제목: #Shorts / BTS 지민, K팝 솔로 최초..미국 빌보드 싱글 1위 (2023.04.04/뉴스투데이/MBC) - MBCNEWS
-URL: https://news.google.com/rss/articles/CCAiC1M2Um1Wb1hzZHQ4mAEB?oc=5
-
-제목: 아이고 허리야…임신 중 '요통', 이렇게 대비하세요 - 헬스경향
-요약: 임신기간에는 뼈 건강이 약해지기 때문에 요통이 발생할 수 있다. 이에 대비해 가벼운 운동, 칼슘 섭취 등 적극적인 관리가 필요하다. 요통을 완전히 없앨 수는 없지만 예방하거나 완화할 수 있는 방법들이 있으며, 특히 무거운 물건을 들 때는 허리를 숙이지 말고 무릎을 굽혀서 들어야 한다. 또한, 요가, 스트레칭, 수영 등을 실천하고, 칼슘 섭취와 함께 햇볕을 쬐면서 비타민D를 보충하는 것이 좋다.
-
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmstaGVhbHRoLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NjQ3MTbSAQA?oc=5
-
-제목: 재스민 쌀: 적정 섭취량 및 영양상의 이점 - MSN
-URL: https://news.google.com/rss/articles/CBMixwFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvb3RoZXIvJUVDJTlFJUFDJUVDJThBJUE0JUVCJUFGJUJDLSVFQyU4QyU4MC0lRUMlQTAlODElRUMlQTAlOTUtJUVDJTg0JUFEJUVDJUI3JUE4JUVCJTlGJTg5LSVFQiVCMCU4Ri0lRUMlOTglODElRUMlOTYlOTElRUMlODMlODElRUMlOUQlOTgtJUVDJTlEJUI0JUVDJUEwJTkwL2FyLUFBMTlvemRD0gEA?oc=5
-
-제목: 미국 하원의장·대만 총통 회동‥중국 반발할 듯 - MBC뉴스
-요약: 미국 하원의장이 대만 차이잉원 총통과 이번 주 미국에서 만날 예정이다. 이는 대만 총통과 미국 하원의장이 미국 땅에서 만나는 것은 처음이다. 중국은 이에 반발하며 고강도 군사훈련을 하고 있다. 미국은 중국의 과잉반응을 경고하고 있다.
-
-URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253dG9kYXkvYXJ0aWNsZS82NDcwNDg0XzM2MjA3Lmh0bWzSAUZodHRwczovL2ltbmV3cy5pbWJjLmNvbS9yZXBsYXkvMjAyMy9ud3RvZGF5L2FydGljbGUvNjQ3MDQ4NF8zNjIwOC5odG1s?oc=5
-
-제목: 강남 납치·살인 3인조 구속‥20대 추가 입건 - MBC뉴스
-요약: 강남 여성 납치 살해 사건의 3명 용의자에게 구속영장이 발부되었다. 이들 외에도 범행에 가담하다 중간에 그만둔 또 다른 20대가 살인예비혐의로 추가 입건되었다. 주범인 이 모씨와 피해 여성과의 관계가 수사의 핵심 단서이며, 이 씨는 경찰 조사에서 피해 여성이 근무한 가상화폐 업체에 투자해 손해를 봤다는 이유로 범행을 일으켰다고 진술했다. 이 씨는 범행 직전에 5백만 원을 받았고, 이후 2백만 원을 더 받은 것으로 확인됐다. 또한, 범행 중간에 그만둔 20대 남성도 살인 예비 혐의로 추가 입건되었다.
-
-URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253dG9kYXkvYXJ0aWNsZS82NDcwNDc3XzM2MjA3Lmh0bWzSAUZodHRwczovL2ltbmV3cy5pbWJjLmNvbS9yZXBsYXkvMjAyMy9ud3RvZGF5L2FydGljbGUvNjQ3MDQ3N18zNjIwOC5odG1s?oc=5
-
-제목: 이영표·이동국, 승부조작 사면에 사과‥축구협회 부회장 사퇴 - MBC뉴스
-요약: 이영표, 이동국 부회장이 승부 조작 연루자 기습 사면에 사과하며 부회장직에서 물러나기로 했다. 이동국도 사퇴를 발표했으며, 조원희 사회공헌위원장도 비슷한 시간 SNS에 사퇴하겠다는 글을 올렸다. 축구협회는 승부조작을 비롯한 각종 비위 행위로 징계를 받은 전·현직 선수, 지도자, 심판 등 100명을 사면한다고 발표했으나, 이후 사면 결정을 철회했다.
-
-URL: https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9zcG9ydHMvYXJ0aWNsZS82NDcwNDc1XzM2MTU0Lmh0bWzSAUNodHRwczovL2ltbmV3cy5pbWJjLmNvbS9uZXdzLzIwMjMvc3BvcnRzL2FydGljbGUvNjQ3MDQ3NV8zNjE1NS5odG1s?oc=5
-
-제목: 인쇄소 골목에 불‥도심 화재 잇따라 - MBC뉴스
-요약: 서울 을지로 인쇄소 골목에서 불이 나 약 5시간 만에 꺼졌습니다. 건물 안 인쇄소 등 10여 곳이 불에 탔으며, 다친 사람은 없었습니다. 또한, 서울 역촌동의 한 식당에서도 불이 났으며, 건물 안에 있던 3명은 대피했습니다. 평택시의 한 아파트 단지에서는 초등학생을 흉기로 다치게 한 뒤 도주한 남성을 경찰이 쫓고 있습니다.
-
-URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253dG9kYXkvYXJ0aWNsZS82NDcwNDcwXzM2MjA3Lmh0bWzSAUZodHRwczovL2ltbmV3cy5pbWJjLmNvbS9yZXBsYXkvMjAyMy9ud3RvZGF5L2FydGljbGUvNjQ3MDQ3MF8zNjIwOC5odG1s?oc=5
+URL: https://news.google.com/rss/articles/CBMiO2h0dHA6Ly93d3cubmV3c3JvYWQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTIyODE00gE-aHR0cDovL3d3dy5uZXdzcm9hZC5jby5rci9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89MjI4MTQ?oc=5
 
 
