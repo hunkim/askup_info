@@ -1,87 +1,91 @@
-제목: ESA 최초 목성 탐사선 '주스' 다음주 우주로…생명체 흔적 찾을까 - 전자신문
-요약: 유럽우주국(ESA)은 '주스'라는 이름의 목성 탐사선을 발사한다. 이 탐사선은 8년 동안 우주를 가로질러 목성의 달들을 관찰하게 된다. 도착 예정 연도는 2031년이며, 얼음 달인 갈릴레이 위성(가니메데, 칼리스토, 유리파)을 탐사할 예정이다. 이들 위성의 지각 아래에 큰 바다가 있는지 여부를 조사하고, 생명체 존재를 확인해 궁극적으로 거주 가능성을 확인하는 것이다. 이번 발사는 유럽 최초의 목성 탐사이며, 미국과 중국도 목성 탐사를 추진하고 있다.
+제목: 중년 이후 그냥 넘기면 안 되는 몸의 신호 6 - 코메디닷컴
+요약: 미국 건강·의료 매체 ‘웹 엠디’는 50대 이후에 주의해야 할 몇 가지 신체 이상 증상과 생활 속 예방법을 소개했다. 이 중 뇌졸중, 심장마비, 동맥류, 망막박리, 통풍, 신장 결석 등의 증상이 있으며, 이를 예방하기 위해서는 정상 혈압 유지, 콜레스테롤 낮은 음식 섭취, 스트레스 관리, 운동, 금연, 적정 체중 유지, 담배를 멀리하며 규칙적으로 운동을 하고 매일 충분한 양의 수분을 섭취하는 것이 필요하다.
 
-URL: https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3LmV0bmV3cy5jb20vMjAyMzA0MDcwMDAyMjLSAQA?oc=5
+URL: https://news.google.com/rss/articles/CBMitgFodHRwczovL2tvcm1lZGkuY29tLzE1ODEzNTQvJUVDJUE0JTkxJUVCJTg1JTg0LSVFQyU5RCVCNCVFRCU5QiU4NC0lRUElQjclQjglRUIlODMlQTUtJUVCJTg0JTk4JUVBJUI4JUIwJUVCJUE5JUI0LSVFQyU5NSU4OC0lRUIlOTAlOTglRUIlOEElOTQtJUVCJUFBJUI4JUVDJTlEJTk4LSVFQyU4QiVBMCVFRCU5OCVCOC02L9IBAA?oc=5
+
+제목: 뼈와 살을 분리하러 '헬에이'로 가자, 데드 아일랜드 2 - 게임메카
+요약: 데드 아일랜드 2는 전작으로부터 12년, 립타이드로부터 10년만에 출시되는 게임으로, 로스앤젤레스를 배경으로 한 좀비 아포칼립스를 다룬다. 플레이어는 6명의 학살자 중 한 명을 선택해 게임을 진행하며, 각 캐릭터마다 성격, 능력치, 초기 능력이 다르다. 게임에는 수많은 무기와 총기가 있으며, 무기는 작업대에서 DIY 모드와 퍽으로 강화할 수 있다. 게임은 PC(에픽게임즈 스토어), PS4, PS5, Xbox One, Xbox 시리즈 X/S에서 출시되며, 한국어를 공식 지원한다.
+
+URL: https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LmdhbWVtZWNhLmNvbS92aWV3LnBocD9naWQ9MTcwOTMxMtIBL2h0dHBzOi8vbS5nYW1lbWVjYS5jb20vYW1wL3ZpZXcucGhwP2dpZD0xNzA5MzEy?oc=5
+
+제목: LLaMA 이용한 언어 모델 도구, 6GB 메모리로? - 테크레시피
+요약: 메타가 발표한 대규모 언어 모델인 LLaMA는 기존 GPT-3보다 소규모이면서 GPT-3에 필적하는 성능을 일반 GPU 환경에서도 낼 수 있게 되어, 3월 한 엔지니어가 애플실리콘 탑재 맥에서 LLaMA를 동작시키는 flama.cpp을 공개했다. 이후 프로그래머인 저스틴 타니가 flama.cpp가 동작할 때 메모리 사용량을 줄이는 업데이트를 실시해 LLaMA 일부 모델에 이르러선 6GB 미만 RMA으로 동작하는 게 보고되고 있다. 이 변경으로 추론 커맨드 로딩이 최대 기존 100배 고속화되고 2배 이상 모델을 안정적으로 탑재할 가능
+
+URL: https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vdGVjaHJlY2lwZS5jby5rci9wb3N0cy81MjY0M9IBKGh0dHBzOi8vdGVjaHJlY2lwZS5jby5rci9wb3N0cy81MjY0My9hbXA?oc=5
+
+제목: 봄철 입맛 돋우는 쑥·냉이...도심에선 캐 먹지 마세요 - YTN
+요약: 도심에서 자라는 봄나물은 중금속을 함유할 수 있기 때문에 섭취하지 않는 것이 좋다. 식품의약품안전처가 2015년에 조사한 자료에 따르면 도심 속 하천과 도로변에서 채취한 야생 봄나물 가운데 약 10%에서 허용기준보다 높은 납과 카드뮴이 검출됐다. 따라서 되도록이면 오염되지 않은 지역에서 채취하는 것이 좋다. 또한 봄나물과 비슷하게 생긴 독초를 섭취하는 사례도 해마다 발생하는 만큼 구별하기 어렵다면 캐지 않는 것이 좋다.
+
+URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lnl0bi5jby5rci9fbG4vMDEwM18yMDIzMDQwODA4MzIxNDI0NDbSAUNodHRwczovL20ueXRuLmNvLmtyL25ld3Nfdmlldy5hbXAucGhwP3BhcmFtPTAxMDNfMjAyMzA0MDgwODMyMTQyNDQ2?oc=5
+
+제목: 북한, 또 '수중핵어뢰' 폭파시험…“4~7일 '해일-2' 시험” - 경향신문
+요약: 북한이 수중핵어뢰로 알려진 핵무인수중공격정 '해일'의 수중 폭파시험을 4~7일 진행했다고 조선중앙통신이 보도했다. 시험결과 수중전략무기체계의 믿음성과 치명적인 타격 능력이 완벽하게 검증되었다고 전하였으며, 북한이 '해일'의 수중폭파시험을 공개한 것은 지난 달 24일 이후 보름 만이다. 이번 시험에서 잠항시간이 앞선 시험 때보다 11시간 54분 늘어났고, 명칭도 '해일-2'형으로 변경된 점으로 미뤄볼 때 '해일'의 성능을 개량한 수중핵어뢰가 사용된 것으로 추정된다.
+
+URL: https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmtoYW4uY28ua3IvcG9saXRpY3MvcG9saXRpY3MtZ2VuZXJhbC9hcnRpY2xlLzIwMjMwNDA4MDgxODAwMdIBAA?oc=5
+
+제목: 우주의 영원한 항해자, 지구인의 전령 보이저호[김정욱의 별별이야기](10) - 서울경제 - 서울경제신문
+요약: 보이저 1호는 46년 전 지구를 떠나 성간우주를 탐사하고 있으며, 보이저 2호와 함께 지구인의 메시지와 위치지도를 담은 레코드판을 탑재해 외계 생명체에게 지구를 알리는 임무를 수행하고 있다. 이들은 현재 지구와 교신을 하며, 2025~2030년에는 수명을 다할 것으로 예상되지만, 우주 공간을 계속 날아가며 전령 임무는 계속 남아있다.
+
+URL: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LnNlZGFpbHkuY29tL05ld3NWaWV3LzI5TzgxS1BDVTgvR0QwNdIBLGh0dHBzOi8vbS5zZWRhaWx5LmNvbS9OZXdzVmlld0FtcC8yOU84MUtQQ1U4?oc=5
+
+제목: 삼성전자 영업이익 95% 급감…“메모리 감산” 선언 / KBS 2023.04.08. - KBS News
+URL: https://news.google.com/rss/articles/CCAiC0k4czM1dWwxOFVjmAEB?oc=5
+
+제목: 이유비, 동생 이다인과 '♥이승기' 결혼 축하 '이제 언니라고 부를게' - 한국아이닷컴
+요약: 배우 이유비가 친동생 이다인의 결혼식에 참석하고 축하 메시지를 인스타그램에 올렸다. 이다인은 이승기와 공개 열애 2년 만에 결혼식을 올렸으며, 유재석, 이수근 등이 사회를 맡았고, 이적 등이 축가를 맡았다. 이다인과 이유비는 자매이며, 중견 배우 견미리의 딸이다. 이승기와 이다인은 신혼여행 없이 바로 본업에 집중할 예정이다.
+
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89Njk0MTfSAT1odHRwczovL3d3dy5oYW5rb29raS5jb20vbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTY5NDE3?oc=5
+
+제목: '불출석 패소' 권경애 "너무 죄송‥책임 감당할 것" - MBC뉴스
+요약: 학교폭력 피해자 유족의 소송을 맡은 뒤 재판에 나가지 않아 패소한 권경애 변호사가, 처음으로 "죄송하다"고 사과하면서 "책임을 감당하겠다"는 입장을 밝혔다. 권 변호사는 MBC와 통화에서 "드릴 말씀이 없고 너무 죄송하다"면서 "피해자인 어머니와 직접 통화하며 연락하고 있고, 대한변호사협회의 징계 등 다른 부분에 대해서도 감당할 것"이라고 말했다.
+
+URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253dG9kYXkvYXJ0aWNsZS82NDcyMDEwXzM2MjA3Lmh0bWzSAUZodHRwczovL2ltbmV3cy5pbWJjLmNvbS9yZXBsYXkvMjAyMy9ud3RvZGF5L2FydGljbGUvNjQ3MjAxMF8zNjIwOC5odG1s?oc=5
+
+제목: 범인은 왜 '집중력 높여주는 음료' 택했나…강남3구 'ADHD' 약물처방 많아 - 한겨레
+요약: 서울 강남구 대치동 학원가에서 학생들에게 마약 성분이 든 음료수를 건네고 학부모들을 협박한 ‘마약 음료수 사건’이 발생해 시민들이 충격에 빠졌다. 이에 대해 학생들은 학원 근처에서 ‘머리 맑아지는 약’과 같은 건강기능식품 행사가 잦았다고 입을 모았다. 이러한 행사는 교육열이 높은 강남 지역에서 자주 이루어지며, 대치동 학원가에서 약국을 운영하는 약사는 대치동 학부모들이 ADHD 치료제를 구매하기도 한다고 전했다. 이러한 상황에서 마약범죄가 발생한 것은 충격적이며, 학부모들의 비뚤어진 교육열을 탓하는 목소리도 나온다.
+
+URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDg3MDIzLmh0bWzSAQA?oc=5
+
+제목: ‘임영웅이 준 기회’ 제발 재밌는 공격축구 좀 해주세요[이재호의 할말하자] - 한국아이닷컴
+요약: 가수 임영웅이 시축과 공연을 위해 서울월드컵경기장을 찾아 경기를 관람하면서, 이번 경기가 관심을 받고 있다. 이를 통해 경기장을 찾은 관중들 중 10명 중 1명이라도 다시 경기장을 찾을 수 있게 만들어야 한다는 것이 중요하다. 경기가 재밌고 박진감 넘치는 축구로 만들어줘야 한다. 이번 경기에서는 선수들과 감독들이 공격적이고 박진감 넘치는 축구로 또 보고 싶은 한국 축구를 만들어야 한다.
+
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89Njk0MTLSAT1odHRwczovL3d3dy5oYW5rb29raS5jb20vbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTY5NDEy?oc=5
+
+제목: 늙어도… 머리 '이렇게' 써야 뇌세포 만들어진다 - 당신의 건강가이드 헬스조선 - 헬스조선
+URL: https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vaGVhbHRoLmNob3N1bi5jb20vc2l0ZS9kYXRhL2h0bWxfZGlyLzIwMjMvMDQvMDcvMjAyMzA0MDcwMjI0Ni5odG1s0gEA?oc=5
+
+제목: [췌장암②] 조기 발견 어렵고 확립된 예방수칙 아직 없어 - 아시아엔
+URL: https://news.google.com/rss/articles/CBMiKGh0dHA6Ly9rb3IudGhlYXNpYW4uYXNpYS9hcmNoaXZlcy8zMzMxNjLSAQA?oc=5
+
+제목: 아파트 매매가격 소폭 등락 거듭…매도자·매수자 눈치싸움 '치열' - 뉴스핌
+요약: GPT3 Return Error: 'choices'
+
+URL: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lm5ld3NwaW0uY29tL25ld3Mvdmlldy8yMDIzMDQwNzAwMDU0M9IBMWh0dHBzOi8vbS5uZXdzcGltLmNvbS9uZXdzYW1wL3ZpZXcvMjAyMzA0MDcwMDA1NDM?oc=5
+
+제목: 워싱턴 뉴스 광장 2023/4/8 - 한국어 방송 - VOA Korean
+요약: 미한일 북핵 수석대표들은 공동성명을 발표하고, 유엔 안보리 결의를 완전히 이행할 것을 촉구했습니다. 백악관은 중국이 북한의 대화 복귀를 촉구하고, 국무부는 중국이 북한의 무모한 행동을 막아야 한다고 지적했습니다. 유엔은 북한 정보기술 노동자와 화가 등이 여전히 외화벌이를 하고 있다고 지적했습니다.
+
+URL: https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hLzcwMjA3OTMuaHRtbNIBKWh0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hbXAvNzAyMDc5My5odG1s?oc=5
+
+제목: '납치살인 배후' 의혹 재력가 유 모 씨 구속‥살인교사 혐의 - MBC뉴스
+요약: 서울 강남에서 발생한 납치·살해 사건의 배후로 지목된 유 모씨가 구속됐습니다. 유씨는 이경우에게 착수금 명목의 돈을 주며 피해자를 납치·살해를 의뢰한 혐의를 받고, 경찰은 유씨 부부가 범행 직후에도 접촉한 정황을 확보해 지난 5일 경기 용인의 한 백화점에서 체포했습니다. 유씨는 이경우와 최근까지 만난 사실을 인정하면서도 혐의를 부인하고 있습니다. 이번 사건으로 구속된 피의자는 이경우, 황대한·연지호, 이모씨 등 5명으로 늘어났습니다.
+
+URL: https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9zb2NpZXR5L2FydGljbGUvNjQ3MTk5NF8zNjEyNi5odG1s0gFEaHR0cHM6Ly9pbW5ld3MuaW1iYy5jb20vbmV3cy8yMDIzL3NvY2lldHkvYXJ0aWNsZS82NDcxOTk0XzM2MTI3Lmh0bWw?oc=5
 
 제목: 텐 하흐 감독 : 높은 수준을 꾸준히 유지해야 - Man Utd
-요약: 뉴스 내용을 파악할 수 없습니다. 구체적인 뉴스 내용을 제공해주시면 요약해드리겠습니다.
+요약: 뉴스 내용을 파악할 수 없어서 정확한 요약을 제공할 수 없습니다. 뉴스 내용을 다시 입력해주시면 요약해드리겠습니다.
 
 URL: https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lm1hbnV0ZC5jb20va28vbmV3cy9kZXRhaWwvZXJpay10ZW4taGFnLWRlbWFuZHMtY29uc2lzdGVuY3ktZnJvbS1oaXMtbWFuLXV0ZC1zaWRlLTA3LWFwcmlsLTIwMjPSAW5odHRwczovL3d3dy5tYW51dGQuY29tL2tvL2FtcC9uZXdzL2RldGFpbC9lcmlrLXRlbi1oYWctZGVtYW5kcy1jb25zaXN0ZW5jeS1mcm9tLWhpcy1tYW4tdXRkLXNpZGUtMDctYXByaWwtMjAyMw?oc=5
 
-제목: [심부전과 살아가기] "죽고 싶은 마음이 드는 날엔..." - 이데일리
-요약: 한 여성이 자살로 인해 뇌사 상태가 되었고, 그녀의 심장이 이식되어 중증 심부전 환자에게 살아남을 기회를 주었습니다. 이 환자는 이미 여러 차례 심장 수술을 받았지만 회복되지 않았고, 체외 순환기를 사용해 6개월간 버텨야 했습니다. 이후 심장 공여자가 나타나 이식이 성공하였으며, 환자는 회복하여 퇴원하였습니다. 이 사례는 삶의 소중함과 희망의 중요성을 강조합니다.
+제목: 도로공사, 0% 확률 뚫어낸 기적의 V2!…김연경은 현역 고민 [9시 뉴스] / KBS 2023.04.07. - KBS News
+URL: https://news.google.com/rss/articles/CCAiC2tNanBjSnNmUHdjmAEB?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmVkYWlseS5jby5rci9uZXdzL3JlYWQ_bmV3c0lkPTAxMDk1NTI2NjM1NTc0MTUyJm1lZGlhQ29kZU5vPTI1N9IBAA?oc=5
+제목: 후쿠시마 원전 현장은 못가고...野의원들, 日 극좌단체 찾아가 - 조선일보 - 조선일보
+URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmNob3N1bi5jb20vcG9saXRpY3MvMjAyMy8wNC8wNy80NVBJTzIyWkRWRk5aRFpDMjVFSEUyUE1RVS_SAVVodHRwczovL3d3dy5jaG9zdW4uY29tL3BvbGl0aWNzLzIwMjMvMDQvMDcvNDVQSU8yMlpEVkZOWkRaQzI1RUhFMlBNUVUvP291dHB1dFR5cGU9YW1w?oc=5
 
-제목: '코요태' 빽가, 영어실력 비법은…"어릴 적 母 담배 심부름" 왜? - 머니투데이
-요약: 코요태의 빽가가 어린 시절 어머니가 담배 심부름을 시키면서 영어를 배웠다고 밝혔다. 이어서 빽가와 그의 어머니가 채널A 예능 '오은영의 금쪽 상담소'에 출연해 화제가 되었다. 빽가는 최근 예능 섭외 1순위라며, 어머니는 아들이 자기 욕먹었던 일을 말하고 다니는 것에 대해 토로하며, 빽가는 자신이 영어를 배우게 된 계기를 공개했다. 또한 빽가 어머니는 아들 카드로 생활 중이라는 소문에 대해 발끈하며 부인했다.
+제목: 여자 축구대표팀, 평가전서 잠비아에 5-2 역전승 - MBC뉴스
+요약: 한국 여자 축구대표팀이 평가전에서 잠비아를 5대2로 이겼습니다. 조소현, 이금민, 박은선이 득점하여 승리했으며, 11일에는 다시 잠비아와 경기를 치를 예정입니다.
 
-URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwNDA3MjIwNTU4OTEwMzTSAQA?oc=5
-
-제목: 추경호 "세수 미달 가능성…전기·가스요금 곧 결정" - 연합뉴스TV
-요약: 추경호 부총리 겸 기획재정부 장관은 세입 예산보다 세수가 부족할 가능성이 크다며, 전기와 가스 요금 인상 결정이 곧 이루어질 것이라고 밝혔습니다. 그러나 물가는 돌발 변수가 없다면 서서히 내려갈 것으로 예상됩니다.
-
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNDA3MDIwNDAwNjQx0gEA?oc=5
-
-제목: 중국, 주미 타이베이 경제문화대표부 대표 제재 - 한국어 방송 - VOA Korean
-요약: 중국이 차이잉원 타이완 총통의 미국 방문에 대한 대응으로, 타이완을 대표하는 조직인 TECRO 대표를 제재했습니다. 중국 타이완판공실 대변인은 샤오 대표가 타이완해협의 대립을 자극하고 양안의 평화와 안정을 저해하고 있다며, 샤오 대표와 가족은 중국에 입국할 수 없고, 중국 조직·개인과 협력이 금지된다고 밝혔습니다.
-
-URL: https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hLzcwNDA2MTguaHRtbNIBKWh0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hbXAvNzA0MDYxOC5odG1s?oc=5
-
-제목: 전장연-서울시 '탈시설 조사' 일부 합의…5월초까지 '지하철 행동' 유보 - 한겨레
-요약: 전국장애인차별철폐연대(전장연)와 서울시가 장애인 차별 철폐를 위한 실무협의를 진행한 결과, 다음달 초 추가 논의를 진행하기로 합의했다. 이에 따라 전장연의 지하철 탑승 시위도 다음달 초까지 유보된다. 서울시는 탈시설 장애인에 대한 전수조사를 진행하기로 하였으며, 전장연은 서울시와 논의 자리를 다시 갖기로 함에 따라 지하철 탑승 시위 재개 시점도 연기하기로 했다.
-
-URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDg3MDIwLmh0bWzSAQA?oc=5
-
-제목: 대한민국 여자 축구대표팀, 잠비아와 친선 경기서 `5-2` 대승 - 경인일보
-URL: https://news.google.com/rss/articles/CBMiO2h0dHA6Ly93d3cua3llb25naW4uY29tL21haW4vdmlldy5waHA_a2V5PTIwMjMwNDA3MDEwMDAxNDI10gEA?oc=5
-
-제목: '편스토랑' 남보라, '13남매 맏형, 1인분 요리 잘 못해' - 한국아이닷컴
-요약: 남보라가 '편스토랑'에 출연해 자신의 요리 경력을 자랑했다. 남보라는 13남매의 장녀로, 부모님이 맞벌이를 하셔서 동생들을 챙겨야 했고, 엄마도 식당을 하셨기 때문에 요리를 보고 배웠다고 말했다.
-
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NjkzOTnSAT1odHRwczovL3d3dy5oYW5rb29raS5jb20vbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTY5Mzk5?oc=5
-
-제목: 삼성전자 '어닝쇼크'…1분기 영업이익 95.8% 급감/'바닥' 길어질라…"메모리 반도체 감산" 선언/[이슈] 2023년 4월 7일(금)/KBS - KBS News
-URL: https://news.google.com/rss/articles/CCAiC1RWVzFPdmJwZTh3mAEB?oc=5
-
-제목: [KBL 6강 3차전] 전주 KCC vs 서울 SK H/L (04.07) - SPOTV
-URL: https://news.google.com/rss/articles/CCAiC3loZlo4ZFk2UC1nmAEB?oc=5
-
-제목: 악성 두경부암 치료 약물조합 발견 - 코메디닷컴
-요약: 미국 조지워싱턴대 연구진은 세툭시맙과 피클라투주맙이라는 두 개의 치료제를 병용하여 악성 두경부암을 치료하는 칵테일 처방을 개발했다. 이 병용 치료법은 다른 치료법에 내성이 생긴 재발성 두경부암 환자의 무진행 생존기간을 유의미하게 증가시켰다. 특히, 이 치료법은 예후가 나쁜 HPV 음성 두경부암 환자에게 더 효과적이었다. 이 연구 결과는 《임상종양학저널》에 발표되었다.
-
-URL: https://news.google.com/rss/articles/CBMiuwFodHRwczovL2tvcm1lZGkuY29tLzE1ODEwNTcvJUVDJTk1JTg1JUVDJTg0JUIxLSVFQiU5MSU5MCVFQSVCMiVCRCVFQiVCNiU4MCVFQyU5NSU5NC0lRUMlQjklOTglRUIlQTMlOEMlRUQlOTUlOTglRUIlOEElOTQtJUVDJTgzJTg4LSVFQyU5NSVCRCVFQiVBQyVCQyVFQyVBMSVCMCVFRCU5NSVBOS0lRUIlQjAlOUMlRUElQjIlQUMv0gEA?oc=5
-
-제목: 마크롱에 극진 환대‥중국의 '갈라치기' 성공할까? - MBC뉴스
-요약: 프랑스 대통령 마크롱이 중국을 국빈 방문 중인데, 중국이 마치 '특급 의전'을 펼치고 있다. 시진핑 주석이 베이징을 떠나 지방까지 가서 정상회담을 한 것으로, 미국과의 갈등이 커지고 있는 상황에서 내 편을 만들기 위한 간절한 노력으로 보인다. 프랑스와의 관계를 강화하고, 프랑스 기업과 다양한 계약을 체결하며 실익을 챙기고 있다. 마크롱 대통령은 러시아에 영향력을 행사해 우크라이나 전쟁 종식을 요청했지만, 시진핑 주석은 의미있는 답을 듣지 못한 것으로 알려졌다.
-
-URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NzE5NTFfMzYxOTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NzE5NTFfMzYyMDAuaHRtbA?oc=5
-
-제목: 여당 새 원내대표에 윤재옥 당선‥"잇단 설화·선거 패배 위기감 반영" - MBC뉴스
-요약: 국민의힘 새 원내대표 선거에서 윤재옥 의원이 선출되었다. 윤재옥 의원은 대통령실과의 소통을 강조하며, 국민의힘의 신뢰 회복과 정권 교체를 완성하겠다는 다짐을 밝혔다. 이로써 국민의힘 대표와 정책위의장에 이어 원내대표까지, 모두 영남 출신으로 채워졌다. 윤재옥 의원은 경찰 출신으로, 윤석열 대통령 대선 후보 캠프에서 상황실장을 지냈다.
-
-URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NzE5NDZfMzYxOTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NzE5NDZfMzYyMDAuaHRtbA?oc=5
-
-제목: '마녀의 게임' 한지완, 반효정 죽인 진범으로 오창석 지목 [종합] - iMBC연예
-요약: MBC 드라마 '마녀의 게임' 114회에서 마세영(한지완 분)이 범인으로 유지호(오창석 분)를 지목하는 장면이 나왔다. 설유경(장서희 분)은 마세영에게 유지호와 끊어지라고 조언하며 진심을 전했다. 시청자들은 이에 대해 다양한 반응을 보이고 있다. '마녀의 게임'은 거대 악에 희생된 두 모녀의 대결을 다룬 드라마이다.
-
-URL: https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vZW5ld3MuaW1iYy5jb20vTmV3cy9SZXRyaWV2ZU5ld3NJbmZvLzM3ODQxOdIBAA?oc=5
-
-제목: 전우원씨 광주 재방문…5·18 단체 '번복의 번복' - 노컷뉴스
-URL: https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3Lm5vY3V0bmV3cy5jby5rci9uZXdzLzU5MjQwNDDSASpodHRwczovL20ubm9jdXRuZXdzLmNvLmtyL25ld3MvYW1wLzU5MjQwNDA?oc=5
-
-제목: 1%넘은 부동산 PF 연체율...금융위기 불안감 커졌다/[심층분석]/한국경제TV뉴스 - 한국경제TV뉴스
-URL: https://news.google.com/rss/articles/CCAiC013Qm9xVVJYbzZBmAEB?oc=5
-
-제목: "첨단 반도체 패키징 차세대 핵심 기술로 부상" - ZD넷 코리아
-URL: https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzA0MDcxNjIwMjDSAQA?oc=5
-
-제목: '서울청이 강남 학원가 마약수사 전담' - 전북일보
-요약: 윤석열 대통령의 '마약사범 엄단' 지시에 따라 서울경찰청 마약범죄수사대가 '강남 학원가 마약음료 사건' 수사를 전담한다. 검찰도 경찰의 마약수사에 긴밀히 협조할 예정이다. 윤 대통령은 "마약이 고등학생들에게까지 스며든 충격적인 일"이라며 "미래 세대를 지켜야 한다는 사명감으로 마약과의 전쟁에서 승리해야 한다"고 강조했다.
-
-URL: https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3LmpqYW4ua3IvYXJ0aWNsZS8yMDIzMDQwNzU4MDA5MNIBLWh0dHBzOi8vd3d3LmpqYW4ua3IvYXJ0aWNsZUFtcC8yMDIzMDQwNzU4MDA5MA?oc=5
-
-제목: "중국, 마크롱 방문 의식해 대만총통 방미에 절제된 반응" - 연합뉴스
-URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L0FLUjIwMjMwNDA3MTE2NTAwMDA50gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9BS1IyMDIzMDQwNzExNjUwMDAwOQ?oc=5
+URL: https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9zcG9ydHMvYXJ0aWNsZS82NDcxOTc4XzM2MTU0Lmh0bWzSAUNodHRwczovL2ltbmV3cy5pbWJjLmNvbS9uZXdzLzIwMjMvc3BvcnRzL2FydGljbGUvNjQ3MTk3OF8zNjE1NS5odG1s?oc=5
 
 
