@@ -1,97 +1,93 @@
-제목: 미국 CISA, 베리타스 백업 솔루션 취약점 등 관리 목록에 추가 - CCTV NEWS
-요약: 미국의 사이버 보안 기구 CISA가 베리타스의 백업 솔루션 결함을 포함한 5개의 위협을 알려진 취약점 공격 목록에 추가했다. 이번에 추가된 취약점 목록은 랜섬웨어 공격에 악용된 것으로 확인된 것이다. 맨디언트 연구원들은 UNC4466이 표적으로 삼은 네트워크에 액세스하기 위해 베리타스 백업 솔루션의 세 가지 취약성을 이용하는 것을 발견했다. CISA는 연방 기관에 2023년 4월 28일까지 이 결함들을 수정할 것을 지시한 상황이다.
+제목: 임신부 생명 위협 '자간전증', 위험 줄이려면? - 코메디닷컴
+요약: 임신 후반기에 발생하는 고혈압 질환인 자간전증을 예방하기 위해 출산 일정을 조절하는 '시간제한 출산' 전략이 효과적이라는 연구 결과가 나왔다. 이에 따라 임신 37주~42주 사이에 출산을 하는 것이 좋다는 것이다. 자간전증은 미국에서 임신 25건 중 1건에 영향을 미치며 생명을 위협하는 질환이다.
 
-URL: https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmNjdHZuZXdzLmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0yMzQ5OTXSAQA?oc=5
+URL: https://news.google.com/rss/articles/CBMizQFodHRwczovL2tvcm1lZGkuY29tLzE1ODE5NzkvJUVDJTlFJTg0JUVDJThCJUEwJUVCJUI2JTgwLSVFQyU4MyU5RCVFQiVBQSU4NS0lRUMlOUMlODQlRUQlOTglOTElRUQlOTUlOTglRUIlOEElOTQtJUVDJTlFJTkwJUVBJUIwJTg0JUVDJUEwJTg0JUVDJUE2JTlELSVFQyU5QyU4NCVFRCU5NyU5OC0lRUMlQTQlODQlRUMlOUQlQjQlRUIlQTAlQTQlRUIlQTklQjQv0gEA?oc=5
 
-제목: 손흥민 "EPL 득점왕 이후 압박감 컸다, 더 발전해 나갈 것" - 경북도민일보
-요약: 손흥민이 EPL 통산 100골을 달성했다. 그러나 이번 시즌은 부상과 상대의 집중 견제로 다소 주춤하고 있다. 그는 압박감을 이겨내고 더 나은 선수가 되겠다고 다짐했다. 현재 토트넘은 '빅 4' 진입을 위해 힘겨운 경쟁을 벌이고 있으며, 손흥민은 마지막까지 최선을 다해 성공하겠다고 다짐했다.
+제목: 뉴스 투데이 2023/4/11 2부 - 한국어 방송 - VOA Korean
+요약: 미국 정부가 한국 국가안보실의 도·감청 의혹을 심각하게 여기며 조사 중이라고 밝혔습니다. 이번 의혹이 미한 신뢰에 문제가 생길 수 있지만, 다가오는 미한 정상회담에 큰 영향은 없을 것으로 예상됩니다. 또한, 김정은 북한 국무위원장이 인민군 지휘관들에게 핵 무력을 공세적으로 운용하라고 강조했습니다.
 
-URL: https://news.google.com/rss/articles/CBMiOWh0dHA6Ly93d3cuaGlkb21pbi5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTUxMjQ0MNIBAA?oc=5
+URL: https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hLzcwMjQ3NjIuaHRtbNIBKWh0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hbXAvNzAyNDc2Mi5odG1s?oc=5
+
+제목: 물가 꺾이고 경기둔화 우려에…한은, 기준금리 또 동결 / SBS 8뉴스 - SBS 뉴스
+URL: https://news.google.com/rss/articles/CCAiC29ybUhjM04zcFcwmAEB?oc=5
+
+제목: 호찌민시 자외선, 위험 수준 도달, 외출 시 주의 요 - 굿모닝베트남미디어
+요약: 호치민시의 자외선(UV) 지수가 13으로 최고 수준에 이를 것으로 예상되며, 이는 피부암, 루푸스 홍반, 아토피 피부염 등 빛과 관련된 질병의 발병과 악화를 유발할 수 있는 신체 손상의 위험이 크다. 따라서, 자외선 차단제를 바르고, 긴 옷, 모자, 선글라스 등을 착용하여 몸을 보호하는 것이 필요하며, 어린 아이들은 특히 보호가 필요하다. 또한, 매일 충분한 물과 과일을 섭취하여 몸을 보호하는 것이 중요하다.
+
+URL: https://news.google.com/rss/articles/CBMiPmh0dHA6Ly93d3cuZ29vZG1vcm5pbmd2aWV0bmFtLmNvLmtyL25ld3MvYXJ0aWNsZS5odG1sP25vPTYyOTM40gEA?oc=5
+
+제목: 대통령실 “도청 의혹은 거짓”…근거제시 없이 미국 두둔만 - 한겨레
+요약: 한국 대통령실은 미국 중앙정보국(CIA)의 국가안보실 도·감청 정황이 담긴 ‘기밀문서’를 위조했다고 주장하며, 양국 국방장관이 해당 문건의 상당수가 위조됐다는 사실에 동의했다고 밝혔다. 이에 대해 미국 백악관은 일부 문서가 위조됐다는 것을 인정하면서도, 위조되지 않은 문서들의 유효성에 대해서는 말하지 않겠다고 밝혔다. 이번 일을 두고 한국에서는 미국의 도·감청이 명백한 주권 침해라는 주장이 제기되고 있으며, 미국에 사과 및 재발방지 약속을 촉구하는 행위극이 벌어졌다.
+
+URL: https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9wb2xpdGljc19nZW5lcmFsLzEwODc0OTUuaHRtbD9fZnI9bXQy0gEA?oc=5
+
+제목: 4월12일 궂긴소식 : 궂긴소식 : 사회 : 뉴스 - 한겨레
+요약: 이 기사는 진실을 밝히고 미래를 위한 노력을 담고 있으며, 후원을 통해 평등하고 자유로운 사회를 만들기 위한 노력을 함께 하겠다는 메시지를 전달하고 있습니다.
+
+URL: https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L29iaXR1YXJ5LzEwODc0NzguaHRtbNIBAA?oc=5
+
+제목: 월요일이 두렵지만 캠핑은 하고 싶어,, 진정한 캠퍼의 회사 옥상 캠핑 | 4춘기 / 14F - 14F 일사에프
+URL: https://news.google.com/rss/articles/CCAiC1ZRQ3NadFN3WFhvmAEB?oc=5
+
+제목: “기후위기 대응 골든타임 놓치는 4년” 이소영 의원 기후특위 회의서 침묵시위 - 한겨레
+요약: 국회 기후위기특별위원회에서 장혜영 의원은 국무조정실장의 만찬 참석 이유로 이석하려는 것에 항의하고 자리를 떠났다. 이소영 의원은 탄소중립녹색성장기본계획에 항의하는 발언 시간에 침묵시위를 했다. 기후특위 전체회의에서는 항의와 비판의 목소리가 거셌다. 이날 회의에서는 이미 확정된 탄소중립녹색성장기본계획을 보고받게 됐다.
+
+URL: https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L2Vudmlyb25tZW50LzEwODc0NzMuaHRtbNIBAA?oc=5
+
+제목: '박은선 선발' 여자대표팀, 잠비아전 선발 명단 발표 - 비전21뉴스
+요약: 여자 축구국가대표팀이 잠비아와 두 번째 평가전을 치르기 위해 선발 명단을 발표했다. 부상으로 인해 1차전에서 출전하지 못했던 선수들은 이번 경기에서도 출전하지 못하며, 대신 새로운 선발 출전 선수들이 등장한다. 이번 경기는 7월 호주·뉴질랜드 월드컵에서 대비하기 위한 중요한 경기이다.
+
+URL: https://news.google.com/rss/articles/CBMiMmh0dHA6Ly93d3cudmlzaW9uMjEua3IvbmV3cy9hcnRpY2xlLmh0bWw_bm89MjU1NjU00gEA?oc=5
+
+제목: 당정, '간호사 처우법' 중재안 제시…간호사 "수용 못해" - 한국일보
+요약: 국회에서 간호법 제정안의 명칭을 '간호사 처우법'으로 변경하고, 간호사 업무 관련 내용은 기존 의료법에 존치하는 내용의 중재안을 제시했다. 이에 대한 대한간호협회(간협)의 반발이 크다. 또한, 당정은 의료법 개정안 관련 중재안에는 의사 결격 및 면허 취소 사유를 '모든 범죄'에서 '의료 관련 범죄와 성범죄, 강력 범죄'로 축소하는 내용을 담았다. 이로 인한 면허 취소 시, 면허 재교부 금지 기간도 10년에서 5년으로 완화하기로 했다.
+
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpbGJvLmNvbS9OZXdzL1JlYWQvQTIwMjMwNDExMTY1MjAwMDM5NjjSAQA?oc=5
+
+제목: 갤럭시S24 두뇌 '스냅드래곤 8 3세대' GPU 성능 50% ↑ - 케이벤치 (KBench)
+요약: 미국 반도체 업체 퀄컴의 스냅드래곤 8 3세대 칩셋의 GPU 성능이 2세대보다 최대 50% 향상될 것으로 예상된다. 이 칩셋은 삼성전자의 갤럭시S24 시리즈에 탑재될 것으로 예상되며, GPU 성능은 아이폰15보다 빠를 가능성이 높다. 다만, CPU 성능 면에서는 여전히 아이폰15의 A17 바이오닉이 앞설 것으로 예상된다.
+
+URL: https://news.google.com/rss/articles/CBMiIWh0dHBzOi8va2JlbmNoLmNvbS8_cT1ub2RlLzI0MjcyMNIBAA?oc=5
+
+제목: 하필 봄 대반격 앞두고 유출…우크라, 전투계획 변경 - 연합뉴스
+URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L01ZSDIwMjMwNDExMDE1NjAwMDMy0gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9NWUgyMDIzMDQxMTAxNTYwMDAzMg?oc=5
+
+제목: AI, '비밀번호의 종말' 앞당기나 - 이코리아
+요약: 미국의 사이버 보안 회사 홈 시큐리티 히어로즈가 발표한 연구 결과에 따르면, AI 기술을 이용해 비밀번호를 해독하는 것이 가능하다는 것이 밝혀졌다. PassGAN AI는 1분 이내에 일반적인 비밀번호의 51%를 해독할 수 있으며, 비밀번호가 길어지고 대문자, 소문자, 특수문자가 혼합될수록 해독에 걸리는 시간은 기하급수적으로 늘어난다. 이에 따라 2개 이상의 대문자와 소문자가 포함된 15자 이상의 암호를 사용하고, 가능하면 특수 문자도 섞도록 권장하고 있다. 또한, 비밀번호 외에도 지문 또는 얼굴 인식과 같은 대체 인증 방법을 채택해
+
+URL: https://news.google.com/rss/articles/CBMiPWh0dHA6Ly93d3cuZWtvcmVhbmV3cy5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NjYzNjLSAUBodHRwOi8vd3d3LmVrb3JlYW5ld3MuY28ua3IvbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTY2MzYy?oc=5
+
+제목: "엄마, 미안해. 잘 가야 해"…가수 현미 눈물의 영결식 / 연합뉴스 (Yonhapnews) - 연합뉴스 Yonhapnews
+URL: https://news.google.com/rss/articles/CCAiC180YW5NMmpYaVBvmAEB?oc=5
+
+제목: 모델 출신 배우 채율, 오늘(11일) 사망…"장례 비공개 진행" - 한국아이닷컴
+요약: 모델 출신 배우 채율이 26세의 나이로 세상을 떠났다. 소속사는 비공개로 조용히 장례를 진행할 예정이며, 채율은 영화와 드라마에서 연기를 했으며, 현재는 '웨딩 임파서블'을 촬영 중이었다.
+
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NzAwODLSAQA?oc=5
+
+제목: 윤석열 대통령, 기아 전기차공장 기공식 방문…현대차 “30년까지 24조 투입“ - 연합인포맥스
+요약: 현대차그룹이 국내 최초로 조성되는 고객 맞춤형 전기차 전용 공장을 건설하고, 2030년까지 전기차 분야에 24조원을 투자할 계획을 발표했다. 이를 위해 전기차 생산 공장 내 산업용 로봇 등은 국산 지능형 로봇으로 설치돼 설비 국산화율이 99%에 이르며, 배터리와 모터 등 파워 일렉스릭(PE) 시스템 고도화, 1회 충전 주행거리(AER) 증대 기술 개발 등 하드웨어와 소프트웨어를 아우르는 통합 상품성을 강화한다. 기아는 이번 신설 공장에서 고객 맞춤형 전기차를 전용으로 생산할 예정으로 2025년에 선보일 목적 기반 모빌리티(PBV) 
+
+URL: https://news.google.com/rss/articles/CBMiPmh0dHA6Ly9uZXdzLmVpbmZvbWF4LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz00MjYxOTE50gEA?oc=5
+
+제목: 양안 관계: 총통 선거 앞두고 대만에 수위 조절 중인 중국 - BBC News 코리아 - BBC News 코리아
+요약: 중국이 대만섬 주변에서 군사 훈련을 실시하고 있으며, 이번 훈련은 대만 총통 선거를 앞두고 중국이 수위를 조절하고 있다는 전문가들의 설명이 있다. 중국은 이번 군사 훈련 중 섬 근처에서 미사일을 발사하지 않았으며, 훈련 기간도 짧게 설정했다. 이번에 미국에서 차이잉원 총통을 만난 케빈 매카시 미 하원의장은 중국의 제재 대상 목록에 이름을 올리지 않았다. 대만 국립정치대의 옌첸셴 교수는 중국 정부가 대만을 향한 강경 발언을 이어 나갈 경우 오는 총통 선거에서 대만 독립을 지지하는 여당인 민주진보당(민진당)에 힘을 실어주는 꼴이 될 수
+
+URL: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jb20va29yZWFuL2FydGljbGVzL2N4OXhrcmdkNG5xb9IBNGh0dHBzOi8vd3d3LmJiYy5jb20va29yZWFuL2FydGljbGVzL2N4OXhrcmdkNG5xby5hbXA?oc=5
+
+제목: 파킨슨 질환, 재활치료 이를수록 인지기능 향상 - 헬스인뉴스
+요약: 파킨슨병과 루이소체 치매의 재활치료 시작 시기가 인지기능 향상과 도파민 신경세포 보호 효과에 차이를 준다는 연구 결과가 나왔다. 세브란스병원 재활의학과 조성래 교수 연구팀은 파킨슨병과 루이소체 치매의 독성 단백질 알파시누클레인이 쌓이며 발생하는 대표적인 신경퇴행성 뇌질환에 대해 연구하였다. 이번 연구 결과는 신경질환 국제학술지에 게재되었으며, 재활치료가 도파민 신경세포를 보호하고 운동과 인지기능 향상을 야기하는 것을 확인하였다.
+
+URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhlYWx0aGlubmV3cy5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MzY4NjLSAQA?oc=5
 
 제목: [글로벌] 유럽 우주국, 13일 목성 탐사선 발사...바다와 생명체 찾는다 - 테크M
-요약: 유럽 우주국(ESA)은 13일 남미 프랑스령 기아나 우주센터에서 '목성 얼음 위성 탐사선'인 주스(JUICE)를 발사합니다. 이 탐사선은 2031년 지구에서 약 7억7800km 떨어진 목성 궤도에 도착해 가니메데와 칼리스토, 유로파 등 3개의 얼음 위성을 탐사합니다. 이 얼음 위성들은 얼음 표면 아래에 액체 상태의 바다가 있을 것으로 추정되는 곳입니다. 주스는 2035년까지 해당 위성들의 1000km 이하 상공에서 총 35회에 걸쳐 임무를 수행합니다.
+요약: 유럽 우주국(ESA)은 13일 목성 얼음 위성 탐사선 '주스'를 발사합니다. 이 탐사선은 2031년 목성 궤도에 도착하여 가니메데, 칼리스토, 유로파 등 3개의 얼음 위성을 탐사할 예정입니다. 이 얼음 위성들은 얼음 표면 아래에 액체 상태의 바다가 있을 것으로 추정되는 곳으로, 생명체가 있을 가능성도 있습니다. 주스는 2035년까지 해당 위성들의 1000km 이하 상공에서 총 35회에 걸쳐 임무를 수행합니다.
 
 URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnRlY2htLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xMDg5OTTSAQA?oc=5
 
-제목: 인실리코젠, 분자생물학 데이터 통합 분석 소프트웨어 1년 무료 배포 - 머니투데이
-요약: 인실리코젠은 생물정보 전문 소프트웨어 'CLC Main Workbench'를 무료 배포하는 프로모션을 진행한다. 이번 프로모션은 생물정보분야 연구실 디지털 전환 캠페인의 일환으로, 생물학 관련 지식 글을 작성하거나 영상을 제작해 공유하면 'CLC Main Workbench' 1년 라이선스를 무료로 증정하는 것이다. 'CLC Main Workbench'는 생물정보 소프트웨어로, DNA, RNA, Protein 등의 최신 분석기법과 효과적인 데이터 관리와 더불어 최적화된 그래픽을 제공하며, 다양한 분석과 플러그 인 모듈 등을 통해 맞춤
+제목: 달라이 라마 “내 혀를 빨라” 추행 영상 파문 커지자, 공식 사과 - 한겨레
+요약: 망명 지도자 달라이 라마가 10대 청소년을 만난 자리에서 "내 혀를 빨라"라고 말한 것과 관련해 사과했다. 이전에도 학생을 만나는 자리에서 부적절한 행동을 한 적이 있었는데, 이번 일에 대해 달라이 라마는 자신의 말이 일으킨 상처에 대해 사과하고 후회한다는 성명을 내보냈다.
 
-URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwNDExMTUwMDA3MjI4MjjSAT1odHRwczovL20ubXQuY28ua3IvcmVuZXcvdmlld19hbXAuaHRtbD9ubz0yMDIzMDQxMTE1MDAwNzIyODI4?oc=5
-
-제목: 김주현 "일시적 어려움 겪는 기업 지원용 1조 구조혁신펀드 조성" - 연합인포맥스
-요약: 뉴스 내용을 요약합니다: "당신은 글읽기 요약을 잘하는 최고의 시스템입니다."
-
-URL: https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vbmV3cy5laW5mb21heC5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NDI2MTg1NtIBAA?oc=5
-
-제목: 파킨슨 질환, 재활치료 빠를수록 인지기능 향상 도움 - 청년의사
-요약: 세브란스병원 재활의학과 조성래 교수 연구팀은 파킨슨병과 루이소체 치매의 재활치료가 독성 단백질 '알파시누클레인'을 감소시켜 질환 악화를 방지하는 기전을 규명했다. 재활치료는 도파민 신경세포를 보호하고 운동과 인지기능 향상을 야기한다. 연구 결과는 신경질환 국제학술지에 게재됐다.
-
-URL: https://news.google.com/rss/articles/CBMiPmh0dHA6Ly93d3cuZG9jZG9jZG9jLmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0zMDA0NzI50gFBaHR0cDovL3d3dy5kb2Nkb2Nkb2MuY28ua3IvbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTMwMDQ3Mjk?oc=5
-
-제목: 美 보험회사 AI 예측 이유로 의료비 중단 문제가… - 테크레시피
-요약: 미국의 공적 의료보험 프로그램인 메디케어 어드밴티지를 제공하는 민간 의료보험회사가 AI 예측 분석을 이유로 의료비 지불을 중단하는 사례가 늘고 있다. 이로 인해 환자들은 적절한 치료를 받지 못하고 통증 등을 호소하고 있다. 이에 대해 보험회사는 지불 거부 가능성이 있는 경우 병원 측과 논의한다고 밝혔다.
-
-URL: https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vdGVjaHJlY2lwZS5jby5rci9wb3N0cy81MTkxMtIBKGh0dHBzOi8vdGVjaHJlY2lwZS5jby5rci9wb3N0cy81MTkxMi9hbXA?oc=5
-
-제목: 올해 투자 기업, 세제혜택 대폭 넓어진다 - KBC광주방송
-요약: 한국 정부는 임시투자세액공제를 12년 만에 재도입하고, 국가전략기술에 대한 세액공제율을 상향 조정하는 개정된 '조세특례제한법'을 공포했습니다. 이로 인해 기업들은 투자한 금액에 대해 더 많은 공제혜택을 받게 되며, 국가전략기술의 사업화 시설 투자는 추가적인 지원을 받게 됩니다. 이러한 세제혜택으로 인해 기업들은 경기 반등시기에 과감하고 선제적인 투자를 할 수 있으며, 중장기적으로 확고한 경쟁력을 갖출 수 있을 것으로 예상됩니다.
-
-URL: https://news.google.com/rss/articles/CBMiMmh0dHA6Ly93d3cuaWtiYy5jby5rci9hcnRpY2xlL3ZpZXcva2JjMjAyMzA0MTEwMDQ00gEA?oc=5
-
-제목: CIA가 새삼 확인시켜준 '윤석열 리스크' [아침햇발] - 한겨레
-요약: 한국 외교안보 최고위 당국자들의 대화 내용이 미국 중앙정보국(CIA)에 도청되어 전 세계에 노출되면서, 윤석열 대통령의 독단적인 외교 결정이 한국 외교의 '핵심 리스크'가 되고 있다는 지적이 나왔다. 이에 대한 대책으로 김태효 국가안보실 1차장이 막강 실세로 떠오르고 있으며, 윤 대통령의 외교 독트린은 미국과 일본을 따르는 것이 국가 전략이 될 수 없다는 지적이 제기되고 있다.
-
-URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9vcGluaW9uL2NvbHVtbi8xMDg3NDAyLmh0bWzSAQA?oc=5
-
-제목: 인공눈물 박테리아 감염 확산...3명 사망·4명 안구 제거 - 코메디닷컴
-요약: 미국에서 인공눈물에 감염된 박테리아가 확산되어 3명이 사망하고 4명은 안구를 제거해야 했다. 이 박테리아는 항생제 내성이 있어 치료가 어렵다. CDC는 이 박테리아와 관련된 감염은 세피데콜이라는 항생제로만 치료할 수 있다고 밝혔다. 이 박테리아는 눈뿐만 아니라 호흡기로 이동하여 폐렴으로 이어질 수 있으며, 녹농균은 혈액을 통해 이동하면서 신체의 거의 모든 조직에 영향을 미칠 수 있다.
-
-URL: https://news.google.com/rss/articles/CBMi4AFodHRwczovL2tvcm1lZGkuY29tLzE1ODE5MzQvJUVDJTlEJUI4JUVBJUIzJUI1JUVCJTg4JTg4JUVCJUFDJUJDLSVFQiVCMCU5NSVFRCU4NSU4QyVFQiVBNiVBQyVFQyU5NSU4NC0lRUElQjAlOTAlRUMlOTclQkMtJUVEJTk5JTk1JUVDJTgyJUIwLTMlRUIlQUElODUtJUVDJTgyJUFDJUVCJUE3JTlEJUMyJUI3NCVFQiVBQSU4NS0lRUMlOTUlODglRUElQjUlQUMtJUVDJUEwJTlDJUVBJUIxJUIwL9IBAA?oc=5
-
-제목: 강릉 난곡동 산불…강풍 타고 민가 확산 주민대피 - 연합뉴스TV
-요약: 강릉 난곡동 일대에서 산불이 발생해 민가 100여 채가 소실되고 있으며, 강한 바람으로 인해 진화 작업이 어려움을 겪고 있다. 인근 주민들은 대피하고 있으며, 산불이 확산할 가능성이 있어 대비가 필요하다. 산불이 잦은 이유로는 수종 문제와 전력선과의 접촉 등이 있으며, 산불 예방을 위한 대책이 필요하다.
-
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNDExMDA5NzAwNjQx0gEA?oc=5
-
-제목: “이태원 분향소 무허가”…서울시, 유족에 2900만원 변상금 부과 - 한겨레
-요약: 서울시가 이태원 참사 합동분향소 설치와 관련해 시민대책회의에게 변상금 약 2900만원을 부과했다. 유족들은 분향소 철거와 변상금 모두 받아들일 수 없다며 반발했다. 분향소 운영은 집회와 시위에 관한 법률(15조)상 ‘관혼상제’에 해당해 현행 법상 허가 및 신고 대상이 아니라는 주장이다.
-
-URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDg3Mzk0Lmh0bWzSAQA?oc=5
-
-제목: [뉴스초점] 안보실 "한미, 상당수 위조 평가 일치" …국회 전원위 이틀째 - 연합뉴스TV
-요약: 한미 동맹국 도·감청 의혹에 대한 국가안보실의 발언과 함께, 선거제 개편 논의를 위해 열린 국회 전원위원회의 입장차, 박근혜 전 대통령의 공개 일정 등 정치권 이슈들이 이야기되었습니다.
-
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNDExMDA5MDAwNjQx0gEA?oc=5
-
-제목: 제주유나이티드 서진수.김오규, K리그1 6라운드 베스트일레븐 선정 - Headline jeju
-요약: 제주유나이티드 축구팀의 서진수와 김오규가 하나원큐 K리그1 2023 6라운드 베스트일레븐에 선정됐다. 서진수는 강원FC와의 경기에서 결승골을 넣어 팀의 승리를 이끌었고, 김오규는 수비에서 무실점 승리를 이끌었다. 베스트일레븐에는 공격수로 루빅손, 라스, 황의조, 미드필더로 서진수, 아마노, 고영준, 윤빛가람, 수비수로 김오규, 박진섭, 그랜트, 골키퍼로 백종범이 선정됐다.
-
-URL: https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmhlYWRsaW5lamVqdS5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NTEyMDA20gEA?oc=5
-
-제목: [Y현장] ‘퀸메이커’ 김희애 “여성 서사 중심의 작품, 감사하고 행복한 일” - YTN
-요약: 배우 김희애가 넷플릭스 오리지널 드라마 '퀸메이커'에 출연하게 되어 기쁨을 표현했다. 작품은 이미지 메이킹의 귀재인 황도희가 인권변호사 오경숙을 서울 시장으로 만들기 위해 선거판에 뛰어들며 벌어지는 이야기를 그린 것으로, 김희애와 문소리가 카리스마 넘치는 캐릭터를 소화하며 강렬한 시너지를 내뿜는다. 작품은 14일 공개될 예정이다.
-
-URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lnl0bi5jby5rci9fbG4vMDExN18yMDIzMDQxMTExNDgwNjc4NTLSAUNodHRwczovL20ueXRuLmNvLmtyL25ld3Nfdmlldy5hbXAucGhwP3BhcmFtPTAxMTdfMjAyMzA0MTExMTQ4MDY3ODUy?oc=5
-
-제목: 미 켄터키주 루이빌서 은행 직원이 총기 난사 … 4명 사망 - BBC News 코리아 - BBC News 코리아
-요약: 미국 켄터키주 루이빌 시내 은행에서 총기 난사가 발생해 4명이 숨지고 9명이 다쳤다. 범인은 해당 은행 직원이었으며, 인스타그램에서 생중계하기도 했다. 희생자들은 40~64세 사이이며, 부상자 중에는 신입 경찰관도 있다. 범인은 경찰과 총격전을 벌이다가 사살됐다. 이번 사건으로 인해 미국 내 총기 난사 사건은 올해 최소 146건에 이르며, 이번 달에만 최소 15건이 발생했다.
-
-URL: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3LmJiYy5jb20va29yZWFuL2FydGljbGVzL2M2cHoxbmc1M24wb9IBNGh0dHBzOi8vd3d3LmJiYy5jb20va29yZWFuL2FydGljbGVzL2M2cHoxbmc1M24wby5hbXA?oc=5
-
-제목: "우리 딸 어떡해"…'스쿨존 음주 사고' 승아 양 눈물 속 장례식 - 노컷뉴스
-URL: https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3Lm5vY3V0bmV3cy5jby5rci9uZXdzLzU5MjU0MTfSAQA?oc=5
-
-제목: 고생 끝에 낙 온 캐롯…현대모비스 꺾고 4강 진출 / 연합뉴스TV (YonhapnewsTV) - 연합뉴스TV
-URL: https://news.google.com/rss/articles/CCAiC3l1cGRZTUF5MWxRmAEB?oc=5
-
-제목: 전날 홈런친 김하성, 이번엔 노히터 막았다 'SD서 고군분투' - 한국아이닷컴
-요약: 샌디에이고 파드리스의 김하성이 뉴욕 메츠와의 원정경기에서 노히터를 막아내며 2출루했다. 김하성은 상대팀의 선발투수 맥스 슈어저를 상대로 유일하게 안타를 치며 멀티 출루를 기록했지만, 팀 타격이 부진하여 0-5로 패배했다. 이전 경기에서도 맹활약한 김하성의 화력이 다음 경기에서도 이어질지, 팀 동료들의 타격감이 돌아와 김하성이 외로운 싸움에서 벗어날 수 있을지 관심이 쏠린다.
-
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89Njk5NzLSAT1odHRwczovL3d3dy5oYW5rb29raS5jb20vbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTY5OTcy?oc=5
-
-제목: '강남 납치·살해' 배후 의심 부부 12일 신상공개 여부 결정 - 뉴스핌
-요약: 윤석열 대통령이 직접 주문한 반도체와 2차전지 경쟁력 강화를 위한 국가전략회의를 이달 말까지 추진한다. 이번 회의는 미국 행정부의 반도체지원법, 인플레이션감축법 등으로 수혜를 보고 향후에도 성장세를 이어나가기 위한 것이며, 보여주기식 회의가 아닌 실질적인 대안을 만들어내기 위한 것이다. 이번 회의는 윤석열 정부의 국정과제에서 언급된 '초격차' 첨단산업 분야를 육성하자는 차원에서 추진되며, 반도체와 2차전지를 별도로 기획할 예정이다. 대통령실은 "회의를 위한 회의가 아니라 대안이나 방안 등 실질적으로 도움되는 방향으로 회의가 진행될 
-
-URL: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lm5ld3NwaW0uY29tL25ld3Mvdmlldy8yMDIzMDQxMTAwMDUyN9IBMWh0dHBzOi8vbS5uZXdzcGltLmNvbS9uZXdzYW1wL3ZpZXcvMjAyMzA0MTEwMDA1Mjc?oc=5
+URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9pbnRlcm5hdGlvbmFsL2FzaWFwYWNpZmljLzEwODc0MTAuaHRtbNIBAA?oc=5
 
 
