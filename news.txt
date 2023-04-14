@@ -1,85 +1,95 @@
-제목: 원샷 치료제 있어도… 심장 굳을까 걱정하는 SMA 환자들 - 헬스조선
-요약: GPT3 Return Error: 'choices'
+제목: 국민의힘, 홍준표 시장 '당 상임고문' 해촉 - 한겨레
+요약: 국민의힘은 13일, 전광훈 목사를 둘러싼 논란에서 당 지도부를 여러 차례 공개 비판한 홍준표 대구시장을 당 상임고문에서 해촉했다. 이는 이례적인 조치이며, 홍 시장은 “어이없는 당이 돼 간다”고 불쾌감을 표했다. 김기현 대표는 이날 국회에서 연 비공개 최고위원회의에서 홍 시장을 당 상임고문직에서 해촉하기로 결정했다.
 
-URL: https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vbS5oZWFsdGguY2hvc3VuLmNvbS9zdmMvbmV3c192aWV3Lmh0bWw_Y29udGlkPTIwMjMwNDEzMDA4NzHSAQA?oc=5
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9hc3NlbWJseS8xMDg3NzE1Lmh0bWzSAQA?oc=5
 
-제목: 불법 채굴로 아마존 초토화, “HYUNDAI 굴착기”가 핵심 역할 - Greenpeace Korea | 그린피스 - Greenpeace
-요약: 아마존에서 범죄조직이 가담한 불법 금 채굴이 가속화되고 있으며, 이를 위해 현대 중장비가 가장 많이 동원되고 있다는 보고서가 나왔다. 그린피스는 이를 고발하며, 현대 중장비 판매업체가 불법 채굴 현장 인근에 대리점을 차려놓고 판매 활동을 하고 있다는 것을 밝혔다. 이로 인해 아마존 생태계 파괴와 원주민 피해가 심각해지고 있으며, 그린
+제목: 일 기업이 만든 ‘세계 첫 민간 달 착륙선’, 오는 25일 월면 착지 시도 - 경향신문
+요약: 일본 기업 아이스페이스가 개발한 민간 달 착륙선 '하쿠토-R 미션1'이 25일 월면 착지를 시도한다. 착륙에 성공하면 일본은 미국, 구소련, 중국에 이어 세계에서 4번째로 달에 내린 국가가 된다. 이 착륙선은 세계 최초의 민간 달 착륙선으로, 달 탐사를 상업적으로 가능하게 할 것으로 기대된다.
 
-URL: https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmdyZWVucGVhY2Uub3JnL2tvcmVhL3ByZXNzLzI2MDkzL3ByZXNzbGVhc2UtaHl1bmRhaS1zYXZlLXRoZS1hbWF6b24v0gEA?oc=5
+URL: https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vbS5raGFuLmNvLmtyL2FydGljbGUvMjAyMzA0MTMxMDUwMDAx0gE8aHR0cHM6Ly9tLmtoYW4uY28ua3Ivd29ybGQvamFwYW4vYXJ0aWNsZS8yMDIzMDQxMzEwNTAwMDEvYW1w?oc=5
 
-제목: 엑스박스, 4월 업데이트로 신규 검색환경 및 전원설정 추가 - ZD넷 코리아
-URL: https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzA0MTMwODU1MjfSAQA?oc=5
+제목: '유재석 아내' 나경은 포착된 곳은…前 동료 김경화 연극 무대 - 머니투데이
+요약: 나경은 전 아나운서가 김경화의 연극 '파우스트' 공연을 응원하러 방문한 모습이 인스타그램에 게재되었다. 나경은 전 아나운서는 유재석과 결혼 후 방송활동을 하지 않아 대중에게 모습이 드러난 것은 오랜만이다. 김경화는 응원을 받은 동료들에게 감사의 말을 전했다.
+
+URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwNDEzMTAwOTI0ODA1NzjSAT1odHRwczovL20ubXQuY28ua3IvcmVuZXcvdmlld19hbXAuaHRtbD9ubz0yMDIzMDQxMzEwMDkyNDgwNTc4?oc=5
+
+제목: 목 아파 감기인 줄 알았는데 갑상선 질환· - 스포츠경향
+요약: 감기와 비슷한 증상을 보이는 아급성 갑상선염은 갑상선의 염증 질환으로, 목 통증, 전신 근육통, 발열 등의 증상이 나타난다. 갑상선이 커지면서 통증이 생기며, 머리를 돌리거나 무언가를 삼킬 때 더 아프고, 목의 통증이 귀까지 퍼진다는 점에서 감기와 차이가 있다. 아급성 갑상선염은 대부분 자연적으로 회복되지만, 발병 초기에는 갑상선기능항진증의 증상과 검사 소견을 보이며, 회복기에 일시적으로 갑상선기능저하증이 나타날 수 있다. 갑상선염은 여성과 30~50대에서 발병률이 높으며, 발병 시 갑상선기능저하증이 동반되지 않는지 주의해야 한다.
+
+URL: https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vc3BvcnRzLmtoYW4uY28ua3IvbmV3cy9za19pbmRleC5odG1sP2FydF9pZD0yMDIzMDQxMzEwMjkwMDMmc2VjX2lkPTU2MTgwMdIBTmh0dHBzOi8vbS5zcG9ydHMua2hhbi5jby5rci9hbXAvdmlldy5odG1sP2FydF9pZD0yMDIzMDQxMzEwMjkwMDMmc2VjX2lkPTU2MTgwMQ?oc=5
+
+제목: 에드 하이먼 "연준, 금리 인상 중단해야" - 연합인포맥스
+요약: 뉴스 내용을 요약하면 "당신은 글읽기 요약을 잘하는 최고의 시스템입니다."입니다.
+
+URL: https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vbmV3cy5laW5mb21heC5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NDI2MjE5M9IBQWh0dHA6Ly9uZXdzLmVpbmZvbWF4LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz00MjYyMTkz?oc=5
+
+제목: 검찰 넘겨진 '강남 납치·살인' 배후 재력가 “억울합니다” - 한겨레
+요약: 강남 납치·살인 사건의 배후로 지목된 유상원씨와 황은희씨 부부가 공동정범 혐의로 검찰에 송치됐다. 이들 부부는 가상자산 투자 실패로 갈등을 빚던 피해자를 납치·살해하라고 이경우씨에게 시킨 혐의로 지난 5일과 8일 각각 검거돼 구속됐다. 이씨와 황대한씨, 연지호씨 등 3명은 지난달 29일 강남구 역삼동의 한 아파트 앞에서 피해자를 납치해 다음날 대전 대청댐 인근 야산에 주검을 암매장한 혐의(강도살인·사체유기)로 지난 9일 구속 송치됐다.
+
+URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDg3NzA0Lmh0bWzSAQA?oc=5
+
+제목: [자막뉴스] 中 정체 불명의 굉음 이후...美 위협 비밀병기 '파장' - YTN
+요약: 중국이 새로 개발한 비밀병기 '둥펑-27' 극초음속 미사일을 시험 발사했다는 내용이 유출된 것으로 나타났다. 이 미사일은 초속 2.92km 마하 8.6에 달하며, 미국의 미사일 요격 망을 뚫을 수 있다는 평가도 있다. 이와 관련하여 중국 당국은 '초음속 폭발음'이라는 초기 해명을 내놓았지만, 이는 주민 불안과 각종 풍문을 일으키기만 했다.
+
+URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lnl0bi5jby5rci9fbG4vMDEzNF8yMDIzMDQxMzA5MjQ0ODcwODXSAUNodHRwczovL20ueXRuLmNvLmtyL25ld3Nfdmlldy5hbXAucGhwP3BhcmFtPTAxMzRfMjAyMzA0MTMwOTI0NDg3MDg1?oc=5
+
+제목: 브로드硏, 'C1q' 조절 "Nptx2" 뇌질환 新타깃 "논문" - 바이오스펙테이터
+요약: 모건 셩 교수와 존스홉킨스 의과대학 공동연구팀은 뇌에서 C1q 보체의 활성을 조절하는 Nptx2 단백질의 역할을 밝혀냈다. Nptx2가 C1q 보체에 결합해 C1q가 유도하는 하위경로를 저해함으로써 시냅스가 대식작용에 의해 제거되는 것을 막는다는 내용의 연구결과다. 이 연구결과는 신경퇴행성 질환을 치료하는 새로운 타깃이 될 수 있다는 가능성을 제시하고 있다.
+
+URL: https://news.google.com/rss/articles/CBMiO2h0dHA6Ly9tLmJpb3NwZWN0YXRvci5jb20vdmlldy9uZXdzX3ZpZXcucGhwP3ZhckF0Y0lkPTE4NzI30gEA?oc=5
+
+제목: 워렌 버핏, 중-대만 전쟁 우려 TSMC 지분 41억달러 모두 매각 - 포춘코리아
+요약: 워렌 버핏이 대만 TSMC 지분을 모두 처분한 이유는 중국과 대만의 전쟁 위험 때문이라고 밝혔다. 중국은 최근 대만에 대한 군사공격을 모의하는 등 무력시위를 벌이고 있으며, 대만의 전쟁 위험으로 인해 버핏은 TSMC 지분을 팔았다고 말했다. 이에 따라 대만의 세계 최대 반도체업체인 TSMC가 침공당할 경우, 세계 경제에 수천억 달러의 손해를 초래할 수 있다는 우려가 제기되고 있다.
+
+URL: https://news.google.com/rss/articles/CBMiP2h0dHA6Ly93d3cuZm9ydHVuZWtvcmVhLmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0yNzM4NNIBQmh0dHA6Ly93d3cuZm9ydHVuZWtvcmVhLmNvLmtyL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz0yNzM4NA?oc=5
+
+제목: 북한, 동해상 탄도미사일 발사…남북통신선 차단 후 첫 미사일 도발 - 연합뉴스TV
+요약: 북한이 오늘 오전 동해 방향으로 탄도미사일을 발사했다. 이는 남북통신선 차단 이후 첫 탄도미사일 도발이다. 북한 미사일의 비행거리와 고도 등 구체적인 제원은 한미 군 당국이 분석 중이다. 일본 정부는 북한 미사일이 홋카이도 주변에 낙하할 것으로 예상하고 이 지역 주민들에게 피란 경보를 발령했다. 북한의 탄도미사일 발사는 올해 들어 9번째로, 북한이 지난 7일부터 남북 통신선을 일방적으로 차단한 이후에는 처음이다.
+
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNDEzMDAzNzAwNjQx0gEA?oc=5
+
+제목: 한화 문동주, 토종 선수 첫 160km 찍었다 / 연합뉴스TV (YonhapnewsTV) - 연합뉴스TV
+URL: https://news.google.com/rss/articles/CCAiCzBtTEVpaklsQlZNmAEB?oc=5
 
 제목: '선주문 밀리언셀러' 르세라핌, 강력해진 비주얼 - 한국일보
-요약: K-pop 그룹 르세라핌이 정규 1집 '언포기븐'의 두 번째 콘셉트인 '듀이 세이지' 버전의 단체, 개인 사진을 공개했다. 이번 사진은 쿨하고 자유분방한 르세라핌의 매력을 담았으며, 무드는 이전에 공개된 '블러디 로즈' 콘셉트와 상반된 분위기를 보여준다. 이번 앨범은 예약 판매 7일 만에 선주문량 103만 장을 돌파하며 인기를 끌고 있다.
+요약: K-pop 그룹 르세라핌이 정규 1집 '언포기븐'의 두 번째 콘셉트인 '듀이 세이지' 버전의 단체, 개인 사진을 공개했다. 이번 사진은 쿨하고 자유분방한 르세라핌의 매력을 담았으며, 무드는 이전에 공개된 '블러디 로즈' 콘셉트와 상반된 분위기를 보여준다. 르세라핌은 이번 앨범에서 타인의 평가에 개의치 않고 자신들만의 길을 개척하겠다는 연대의 메시지를 전하고 있다. 정규 1집 '언포기븐'은 예약 판매 7일 만에 선주문량 103만 장을 돌파했다.
 
 URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpbGJvLmNvbS9OZXdzL1JlYWQvQTIwMjMwNDEzMDgyMTAwMDI4MzjSAQA?oc=5
 
-제목: [날씨] 오늘도 미세먼지 '매우 나쁨'…영동 대형화재 주의 - 연합뉴스TV
-요약: 오늘도 황사와 미세먼지가 전국을 뒤덮고 있으며, 대부분 지역에서 공기 질이 나쁠 것으로 예상됩니다. 특히 강원 영동 지역은 건조경보가 내려진 가운데 양간지풍까지 불어서 화재에 주의가 필요합니다. 미세먼지는 내일 오전까지 이어지며, 토요일 전국에 비가 내리면서 차츰 해소될 것으로 예상됩니다.
+제목: [전문] 이승기 '아내 이다인, 부모 선택한 것 아냐' 심경 고백 - 한국아이닷컴
+요약: 이승기가 이다인과의 결혼에 대한 루머와 가짜 뉴스로 인해 힘들었다는 글을 인스타그램에 올렸다. 이승기는 이다인의 부모님이 해당 뉴스를 보도한 매체 5군데를 상대로 언론중재위원회에 제소했다고 밝혔으며, 후크 모 이사가 종합지 A기자가 이다인 아버지를 취재하고 있다며 겁을 줬다는 이야기도 전했다. 이승기는 결혼을 축복해 달라는 말은 하지 않겠다고 밝혔지만, 이다인 씨와 함께 나누며 살겠다는 의지를 밝혔다.
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNDEzMDAzNTAwNjQx0gEA?oc=5
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NzA0MzbSAT1odHRwczovL3d3dy5oYW5rb29raS5jb20vbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTcwNDM2?oc=5
 
-제목: [현장영상] 강남 납치·살해 배후 유상원, 기자 질문에 "억울합니다" - YTN
-요약: 서울 강남에서 40대 여성을 납치해 살해하고 시신을 유기한 사건의 배후로 지목된 유상원, 황은희 부부가 검찰에 송치됩니다. 두 사람은 이경우에게 피해자를 납치해 살해하라고 교사한 혐의를 받고 있으며, 유씨는 억울하다며 부인하고 있습니다.
+제목: [속보] 日 정부 “北 미사일에 대피 지시... 훗카이도 주변 낙하 예정” - 조선일보
+URL: https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmNob3N1bi5jb20vaW50ZXJuYXRpb25hbC9qYXBhbi8yMDIzLzA0LzEzL0lSUlRGRUpXWVpGTjNFQlFTTDNHSlY2VE80L9IBAA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lnl0bi5jby5rci9fbG4vMDEwM18yMDIzMDQxMzA4MDM0MzkzMzXSAUNodHRwczovL20ueXRuLmNvLmtyL25ld3Nfdmlldy5hbXAucGhwP3BhcmFtPTAxMDNfMjAyMzA0MTMwODAzNDM5MzM1?oc=5
+제목: 강남 납치살인 지시 혐의 유상원ㆍ황은희 "억울합니다" - KBC광주방송
+요약: 서울 강남에서 발생한 40대 여성 납치살인 사건을 지시한 혐의를 받고 있는 부부 유상원과 황은희가 검찰로 넘겨졌습니다. 경찰은 이들 부부가 가상화폐 투자 실패를 계기로 48살 A씨와 갈등을 겪게 되자 이경우 등 3인조에게 돈을 주고 살해를 지시한 것으로 보고 있습니다. 유 씨 부부는 경찰 조사와 구속 전 피의자 심문(영장실질심사) 과정에서 일관되게 혐의를 부인하고 있습니다.
+
+URL: https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3LmlrYmMuY28ua3IvYXJ0aWNsZS92aWV3L2tiYzIwMjMwNDEzMDAxM9IBAA?oc=5
 
 제목: 포로 참수 영상에 분노한 우크라 “짐승들”…러시아 “검증부터” - 한겨레
-요약: 러시아 군인이 우크라이나 군인을 참수하는 것으로 추정되는 영상이 인터넷에 빠르게 퍼지면서 국제적인 파문을 일으키고 있다. 볼로미디르 젤렌스키 대통령은 이런 행위를 한 이들을 ‘짐승들’(beasts)로 묘사하며 강력 비판했고, 러시아는 영상의 진위를 먼저 확인해야 한다는 반응을 보였다. 이와 함께 우크라이나 군인 2명이 머리와 손이 잘린 채 땅에 쓰러져 있는 모습을 촬영한 다른 영상도 나돌고 있다. 유엔과 인권 감시단은 이 사건에 대한 조사를 요청하고 있다.
+요약: 러시아 군인이 우크라이나 군인을 참수하는 것으로 추정되는 영상이 인터넷에 빠르게 퍼지면서 국제적인 파문을 일으키고 있다. 볼로미디르 젤렌스키 대통령은 이런 행위를 한 이들을 ‘짐승들’(beasts)로 묘사하며 강력 비판했고, 러시아는 영상의 진위를 먼저 확인해야 한다는 반응을 보였다. 이와 함께 우크라이나 군인 2명이 머리와 손이 잘린 채 땅에 쓰러져 있는 모습을 촬영한 다른 영상도 나돌고 있다. 유엔 인권 감시단도 “전쟁 포로에 대한 범죄 등 국제인도법을 심각하게 위반한 사실을 보여주는 자료들을 이미 상당수 확보한 바 있다”며 “
 
 URL: https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9pbnRlcm5hdGlvbmFsL2ludGVybmF0aW9uYWxfZ2VuZXJhbC8xMDg3Njk4Lmh0bWzSAQA?oc=5
-
-제목: 북한, 동해상으로 탄도미사일 발사 - 한국어 방송 - VOA Korean
-요약: 북한이 한반도 시각 13일 탄도미사일을 발사했습니다. 발사된 미사일은 중거리급 이상의 탄도미사일 1발로, 동해상에 탄착했습니다. 이번 발사체는 새로운 방식의 무기체계로 보이며, 일본 정부는 이번 발사체를 대륙간탄도미사일(ICBM)급으로 추정했습니다. 북한의 탄도미사일 발사는 올해를 기준으로 9번째입니다.
-
-URL: https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hLzcwNDc5OTcuaHRtbNIBKWh0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hbXAvNzA0Nzk5Ny5odG1s?oc=5
 
 제목: [굿모닝경제] 美 3월 소비자물가 5%↑,상승세 둔화...배출가스 기준 강화안도 발표 / YTN - YTN
 URL: https://news.google.com/rss/articles/CCAiC0htbXQ2V2s4aHMwmAEB?oc=5
 
-제목: 소득 월 100만원 초반도 어려워…'학자금 이자 쌓는' 청춘 늘었다 - 한겨레
-요약: 한국의 청년들이 취업 후 상환 학자금 대출을 받아야 하는데, 최근 2년 사이 상환 개시 인원이 크게 줄어든 것으로 나타났다. 이는 취업난으로 인해 저소득 청년들이 많아진 영향이 크다. 또한, 취업 후 상환을 시작했다가 중도에 소득이 감소해 상환을 중단하는 사례도 많아졌다. 이러한 상황에서 청년들은 학자금 대출 상환에 부담을 느끼고 있다. 이에 대해 국회 교육위원회 소속 의원들은 취업 후 상환 학자금 대출 이자 면제 관련 법안을 통과시키기 위해 노력하고 있다.
+제목: 아마존 파괴 책임 논란‥한국 중장비 때문? - MBC뉴스
+요약: 아마존 숲에서 벌어지는 불법 금 채굴 현장에서 사용되는 굴착기 상당수가 한국의 HD현대건설기계 제품이라는 것이 밝혀졌다. 이에 대해 현대건설기계는 "판매된 장비를 사용하는 것까지 제재하기는 쉽지 않다"는 입장을 밝혔으나, 그린피스는 현대 측이 이런 사실을 몰랐을 리 없다며, 책임을 다할 것을 촉구했다.
 
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NjaG9vbGluZy8xMDg3Njg2Lmh0bWzSAQA?oc=5
+URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253dG9kYXkvYXJ0aWNsZS82NDczNTY2XzM2MjA3Lmh0bWzSAUZodHRwczovL2ltbmV3cy5pbWJjLmNvbS9yZXBsYXkvMjAyMy9ud3RvZGF5L2FydGljbGUvNjQ3MzU2Nl8zNjIwOC5odG1s?oc=5
+
+제목: 국회 오늘 본회의…양곡법 재투표·간호법 처리 전운 - 연합뉴스TV
+요약: 국회에서는 오늘 4월 임시국회 주요 법안을 처리하고, 양곡법 개정안에 대해 민주당 요구로 재투표가 진행될 예정입니다. 민주당은 간호법 제정안과 의료법 개정안도 처리할 예정이지만, 정부여당과의 중재안을 찾지 못한 상황입니다.
+
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNDEzMDAxNzAwNjQx0gEA?oc=5
 
 제목: 나폴리, UCL 8강 1차전 패‥'경고 누적' 김민재, 2차전 결장 - MBC뉴스
 요약: 김민재가 뛰는 나폴리가 AC밀란에 1대 0으로 졌습니다. 김민재는 경고 3장으로 다음 경기에 출전할 수 없게 됐습니다. 나폴리는 2차전에서 2골 차 이상으로 이겨야 4강에 진출합니다.
 
 URL: https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9zcG9ydHMvYXJ0aWNsZS82NDczNTMwXzM2MTU0Lmh0bWzSAUNodHRwczovL2ltbmV3cy5pbWJjLmNvbS9uZXdzLzIwMjMvc3BvcnRzL2FydGljbGUvNjQ3MzUzMF8zNjE1NS5odG1s?oc=5
-
-제목: 미국 "2032년 신차 중 3분의 2 전기차 판매" (2023.04.13/뉴스투데이/MBC) - MBCNEWS
-URL: https://news.google.com/rss/articles/CCAiC0pvNjVra3JibU5nmAEB?oc=5
-
-제목: '양곡법 재표결' 합의 불발‥오늘 본회의 열릴까 - MBC뉴스
-요약: 국회에서 양곡관리법 개정안 처리 문제로 여야가 입장 차를 좁히지 못하고 있습니다. 윤석열 대통령이 거부권을 행사한 법안을 다시 표결할지 불투명하며, 본회의가 열릴지도 불확실합니다. 국민의힘은 이미 부결로 당론을 모은 상태이며, 민주당은 재표결을 피할 수 없다면서 대통령실이 국회의 입법권을 존중해야 한다고 주장하고 있습니다. 여야 원내대표의 논의가 이어졌지만, 입장차가 뚜렷하여 본회의 의사일정도 확정되지 않았습니다.
-
-URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253dG9kYXkvYXJ0aWNsZS82NDczNTIxXzM2MjA3Lmh0bWzSAUZodHRwczovL2ltbmV3cy5pbWJjLmNvbS9yZXBsYXkvMjAyMy9ud3RvZGF5L2FydGljbGUvNjQ3MzUyMV8zNjIwOC5odG1s?oc=5
-
-제목: 엔비디아, 사이버펑크 2077 '레이 트레이싱: 오버드라이브 모드' 기술 프리뷰 공개! > 뉴스 - 브레인박스
-URL: https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmJyYWluYm94LmNvLmtyL2Jicy9ib2FyZC5waHA_Ym9fdGFibGU9bmV3cyZ3cl9pZD01NzIwNSZwYWdlPTU4N9IBAA?oc=5
-
-제목: [약업신문][연구정보] 비만, 자가면역질환 위험 높인다 - 약업신문
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lnlha3VwLmNvbS9uZXdzL2luZGV4Lmh0bWw_bW9kZT12aWV3Jm5pZD0yODA1NjLSAQA?oc=5
-
-제목: 삼성SDS, 덩치 커졌는데 수익성·오너 지분 '리스크'… CEO 3년차 황성우 해법은 - 조선비즈
-URL: https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vYml6LmNob3N1bi5jb20vaXQtc2NpZW5jZS9pY3QvMjAyMy8wNC8xMy82WE9USlVLT0lKQlVaTlhOWjNYNlBISTRFVS_SAQA?oc=5
-
-제목: [르포] ‘200도 일교차까지 그대로’...일산에 ‘제2의 달’이 뜬다 - 조선비즈 - 조선비즈
-URL: https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vYml6LmNob3N1bi5jb20vc2NpZW5jZS1jaG9zdW4vc2NpZW5jZS8yMDIzLzA0LzEzL1VEVzUzNjZUNVZFM0RHQ0lQSE9IVEZGU0NVL9IBY2h0dHBzOi8vYml6LmNob3N1bi5jb20vc2NpZW5jZS1jaG9zdW4vc2NpZW5jZS8yMDIzLzA0LzEzL1VEVzUzNjZUNVZFM0RHQ0lQSE9IVEZGU0NVLz9vdXRwdXRUeXBlPWFtcA?oc=5
-
-제목: 토종 투수 최초...20세 문동주 160㎞ 찍었다 / YTN - YTN
-URL: https://news.google.com/rss/articles/CCAiC2tibHhGX0oyVXZnmAEB?oc=5
-
-제목: 신정환, 탁재훈 '수익 배분' 폭로에 반박…"나도 솔직히 서운했다" - 머니투데이
-요약: GPT3 Return Error: 'choices'
-
-URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwNDEzMDAwNTM4NzIxNzTSAT1odHRwczovL20ubXQuY28ua3IvcmVuZXcvdmlld19hbXAuaHRtbD9ubz0yMDIzMDQxMzAwMDUzODcyMTc0?oc=5
-
-제목: 4G 연속 안타 김하성 시즌 두 번째 휴식, 샌디에이고 2연승 실패 [SD 리뷰] - 머니투데이
-요약: 샌디에이고 파드리스가 뉴욕 메츠와의 원정 경기에서 2-5로 패배했다. 선제점을 뽑았지만 이후 점수를 더 뽑지 못하고 경기를 내줬다. 김하성은 결장하였다.
-
-URL: https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwNDEzMDUyNjc3ODQ3MU8mcERlcHRoMT1zcG9ydHMmcERlcHRoMj1TdG90YWwmcGFnZT0x0gE9aHR0cHM6Ly9tLm10LmNvLmtyL3JlbmV3L3ZpZXdfYW1wLmh0bWw_bm89MjAyMzA0MTMwNTI2Nzc4NDcxTw?oc=5
 
 
