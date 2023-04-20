@@ -1,91 +1,93 @@
-제목: 밤에 잠 설치는 사람, 혈압 재봐야 하는 이유 - 헬스조선
-요약: 잠을 자주 설치는 경우, 수면무호흡증, 야간 빈뇨, 하지불안증후군 등의 질환을 의심해봐야 한다. 수면무호흡증은 고혈압, 당뇨병, 심근경색, 성기능부전, 뇌졸중 등의 합병증을 유발할 수 있으며, 야간 빈뇨는 고혈압 환자에서도 발생할 수 있다. 하지불안증후군은 다리에 감각 이상이 나타나는 질환이며, 치료를 받지 않으면 숙면을 방해할 뿐 아니라 만성화될 수 있다.
+제목: 모토로라, 6월 1일 신제품 발표 이벤트 개최.. 차기 레이저 폴더블폰 2종 공개 - 케이벤치 (KBench)
+요약: 중국 레노버 자회사 모토로라가 6월에 차세대 폴더블 스마트폰을 발표할 예정이다. 이번에 출시될 모델은 레이저 프로와 레이저 라이트 두 가지 종류로 나뉘며, 레이저 프로는 144Hz 6.7인치 폴더블 OLED 디스플레이, 3인치 이상 초대형 커버 디스플레이, 스냅드래곤 8+ 1세대 프로세서, 8/12GB 램, 33W 고속 충전을 지원하는 3640mAh 배터리 등의 사양을 갖출 것으로 예상된다.
 
-URL: https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vbS5oZWFsdGguY2hvc3VuLmNvbS9zdmMvbmV3c192aWV3Lmh0bWw_Y29udGlkPTIwMjMwNDE4MDIyODXSAQA?oc=5
+URL: https://news.google.com/rss/articles/CBMiIWh0dHBzOi8va2JlbmNoLmNvbS8_cT1ub2RlLzI0Mjk2M9IBAA?oc=5
 
-제목: CUDA 코어 256개 더 많은 지포스 RTX 3060 출시 고려되었다? - 보드나라 (Bodnara)
-URL: https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vbS5ib2RuYXJhLmNvLmtyL2FydGljbGUvdmlldy5odG1sP251bT0xODUzNjTSAQA?oc=5
+제목: 중세 고문서에 남겨진 월식 기록과 기후변화 - 테크레시피
+요약: 14세기 중반부터 19세기 중반까지 지구에서 한랭한 시대인 소빙기가 일어난 이유로 대규모 화산 분화가 지구 대기에 미치는 영향을 조사한 결과, 중세 사본에 기록된 개기월식 기록을 통해 화산 분화가 지구 대기에 미치는 영향을 조사한 결과, 대규모 분화는 지구 표면 온도와 강수량, 대기 순환 등을 변화시키며, 해수온 저하나 가뭄 등을 일으켜 중세에 대규모 화산 분화가 500년 이상에 걸친 소빙기를 일으킨 것으로 추정되고 있다.
 
-제목: [뉴스포커스] "전세사기 주택 경매 중단"…실효성 있는 추가 구제책은 - 연합뉴스TV
-요약: 정부가 전세 사기 피해자들의 거주 주택에 대해 경매 일시 중단을 추진하기로 결정했다. 금융당국도 긴급회의를 열어 전세사기 추가 피해를 막기 위한 대책을 강구하고 있다. 그러나 경매 중단이 근본적인 구제책은 아니므로 범정부적인 차원에서 실효성 있는 추가 대책이 마련되어야 한다는 지적이 나오고 있다. 전세사기 피해자들은 대출, 긴급주거 지원 등의 대책을 받았지만 실질적인 도움이 되지 못한 이유가 무엇인지, 또 전세 사기 문제를 근본적으로 해결하기 위해 정부의 어떤 대책이 필요한지에 대해 논의하고 있다.
+URL: https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vdGVjaHJlY2lwZS5jby5rci9wb3N0cy81Mjc2OdIBKGh0dHBzOi8vdGVjaHJlY2lwZS5jby5rci9wb3N0cy81Mjc2OS9hbXA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNDE5MDA2MDAwNjQx0gEA?oc=5
+제목: 미디어텍 Dimensity 9200+ 최초 탑재 'iQOO Neo 8 프로' 안투투 포착 - 케이벤치 (KBench)
+요약: 중국 스마트폰 제조사 비보의 서브 브랜드 iQOO가 iQOO Neo 8과 iQOO Neo 8 프로를 출시할 예정이다. iQOO Neo 8 프로는 미디어텍의 Dimensity 9200+ 칩셋을 탑재하며, 안투투 테스트에서 스냅드래곤 8 2세대 칩셋을 앞서는 성능을 보여준다. 또한, 120Hz 디스플레이, 16GB LPDDR5x 램, 512GB UFS 4.0 스토리지, 안드로이드 13 운영체제 등의 사양을 갖추고 있으며, 5월 말 중국에서 출시될 예정이다.
+
+URL: https://news.google.com/rss/articles/CBMiIWh0dHBzOi8va2JlbmNoLmNvbS8_cT1ub2RlLzI0Mjk2MNIBAA?oc=5
+
+제목: 단백질 구성 아미노산, 20종류만 존재하는 이유는? - 테크레시피
+요약: 체코 프라하 카렐대학과 미국 존스홉킨스대학 등 연구팀은 생명을 형성하는 단백질이 원시 지구에서 어떻게 합성됐는지를 조사한 연구로, 단백질 구성 요소인 20종류 아미노산이 왜 선택됐는지 밝혀졌다. 이들 아미노산은 원시 지구 대기나 운석 파편으로부터 선택된 10종 초기 아미노산과 이후에 추가된 10종 후기 아미노산으로 이뤄져 있다고 여겨진다. 연구팀은 생명 탄생 전 지구에서 풍부했던 다양한 아미노산 조합을 실험실 내에서 재현해 원시 단백질 합성을 모방하는 실험을 했다. 실험 결과 고대 유기 화합물은 단백질 폴딩에 최적인 아미노산을 선택
+
+URL: https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vdGVjaHJlY2lwZS5jby5rci9wb3N0cy81Mjg5MdIBKGh0dHBzOi8vdGVjaHJlY2lwZS5jby5rci9wb3N0cy81Mjg5MS9hbXA?oc=5
+
+제목: '위궤양'도 예방… 울음의 건강 효과 3가지 - 헬스조선
+URL: https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vaGVhbHRoLmNob3N1bi5jb20vc2l0ZS9kYXRhL2h0bWxfZGlyLzIwMjMvMDQvMTgvMjAyMzA0MTgwMjQ0Mi5odG1s0gEA?oc=5
+
+제목: 북한 정찰위성 발사 임박‥200~300kg 추정 - MBC뉴스
+요약: 북한 김정은 국무위원장이 국가우주개발국을 방문해 군사정찰위성 1호기를 발사할 것을 강조했습니다. 구체적인 시점과 제원은 공개되지 않았지만, 공개된 사진으로는 200~300kg의 육각형 모양 위성으로 추정됩니다. 김 위원장은 이번 발사가 미국과 남한의 군사적 위협으로부터 자신들을 지키기 위한 것이라고 주장했습니다. 김 위원장의 딸 김주애도 함께 모습을 드러냈습니다.
+
+URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253MTIwMC9hcnRpY2xlLzY0NzU1NTJfMzYxNzAuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253MTIwMC9hcnRpY2xlLzY0NzU1NTJfMzYxNzEuaHRtbA?oc=5
+
+제목: 금융감독원, '전세사기' 자율 경매·매각 '유예' 추진 - MBC뉴스
+요약: 금융감독원이 전세사기 피해자들을 보호하기 위해 거주 주택에 대해 금융권이 자율적으로 경매와 매각을 유예할 수 있도록 조치를 추진한다. 전세 사기 피해 주택을 담보로 취급한 금융기관은 경매 여부와 진행 상황 등을 파악해 피해자가 희망하는 경우 경매 절차 시작을 유예하고, 이미 경매가 진행된 경우엔 매각이 연기될 수 있도록 할 계획이다.
+
+URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253MTIwMC9hcnRpY2xlLzY0NzU1NTBfMzYxNzAuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253MTIwMC9hcnRpY2xlLzY0NzU1NTBfMzYxNzEuaHRtbA?oc=5
+
+제목: 윤 대통령, 4.19 기념식서 “돈에 의한 매수로 민주주의 도전 받아” - 한겨레
+요약: 윤석열 대통령이 4·19혁명 63돌을 맞아 기념사를 하고, 민주주의를 위협하는 세력들에 대해 경고했다. 이번 기념식에서는 야당과 가짜뉴스 등을 겨냥해 비판의 목소리를 내며, 4.19 혁명 정신이 대한민국 헌법 정신이 됐다며, 어느 한 사람의 자유도 소홀히 취급돼선 안 된다는 4.19 정신이 국정 운영뿐 아니라 국민의 삶에도 깊이 스며들게 하겠다고 말했다. 윤 대통령은 이날 기념식에서 4.19 혁명을 주도한 공적자 5명에게 건국포장증을 수여했다.
+
+URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9wb2xpdGljc19nZW5lcmFsLzEwODg0OTIuaHRtbNIBAA?oc=5
+
+제목: 그린피스 1호 홍보대사 류준열 “기후위기는 당신의 문제” - 한겨레
+요약: 그린피스가 지구의 날을 맞아 배우 류준열을 1호 홍보대사로 임명하고, 북극곰을 대표하는 캠페인 영상을 공개했다. 이번 캠페인은 기후위기에 대한 경각심을 높이고, 실천하는 환경운동가가 되기 위한 제안을 담고 있다. 류준열은 그린피스와의 인연은 2016년 미세플라스틱 관련 언론 기고문을 작성하면서 시작됐다. 이번 영상은 영화관과 서울 시내 주요 옥외 미디어를 통해 송출될 예정이다.
+
+URL: https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L2Vudmlyb25tZW50LzEwODg0ODYuaHRtbNIBAA?oc=5
+
+제목: [영상] 베이징 병원 화재참사…환자 21명 사망 - 연합뉴스
+URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L0FLUjIwMjMwNDE5MDczMzAwNzA00gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9BS1IyMDIzMDQxOTA3MzMwMDcwNA?oc=5
+
+제목: 손태진 소감 ''불타는 트롯맨' 6억 상금, 믿기지 않아…드라마 같은 상상도' - 한국아이닷컴
+요약: '불타는 트롯맨'에서 우승한 손태진이 6억 원의 상금을 받았다. 손태진은 상금을 받은 순간 믿기지 않았고, 팬들과 함께 여행을 가고 싶다는 소망을 밝혔다. 또한 도움이 필요한 곳에 도움을 전하고 싶다는 의지를 보였다.
+
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NzE5MDbSAT1odHRwczovL3d3dy5oYW5rb29raS5jb20vbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTcxOTA2?oc=5
+
+제목: 윤 “우크라 인도적 지원 고집 어려울 수도”…군사지원 가능성 언급 - 한겨레
+요약: 윤석열 대통령이 러시아와 전쟁 중인 우크라이나에 대한 군사적 차원의 지원 가능성을 내비쳤다. 이는 정부의 기존 입장과는 다른 것으로 여겨지며, 살상 무기 지원은 하지 않겠다는 공식 입장을 여러차례 밝혀왔던 점에서 논란이 예상된다. 윤 대통령은 한-미 정상회담에서 수위를 높여가는 북한의 무력시위에 대응하기 위한 “실체적인 성과”를 모색하겠다고 언급했다. 또한 다자 안보체제, 이른바 ‘아시아판 나토(북대서양조약기구) 구상’에 대한 질문을 받고는 “정보 공유, 공동 대응 계획, 공동 실행 계획 등을 위한 조처에 초점을 맞추고 있다”고 말
+
+URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9wb2xpdGljc19nZW5lcmFsLzEwODg0NzkuaHRtbNIBAA?oc=5
 
 제목: 챔스 탈락 나폴리, 이제는 스쿠데토에 집중 - Goal.com
 URL: https://news.google.com/rss/articles/CBMitQNodHRwczovL3d3dy5nb2FsLmNvbS9rci8lRUIlODklQjQlRUMlOEElQTQvJUUxJTg0JThFJUUxJTg1JUEyJUUxJTg2JUI3JUUxJTg0JTg5JUUxJTg1JUIzLSVFMSU4NCU5MCVFMSU4NSVBMSVFMSU4NiVBRiVFMSU4NCU4NSVFMSU4NSVBMSVFMSU4NiVBOC0lRTElODQlODIlRTElODUlQTElRTElODQlOTElRTElODUlQTklRTElODYlQUYlRTElODQlODUlRTElODUlQjUtJUUxJTg0JThCJUUxJTg1JUI1JUUxJTg0JThDJUUxJTg1JUE2JUUxJTg0JTgyJUUxJTg1JUIzJUUxJTg2JUFCLSVFMSU4NCU4OSVFMSU4NSVCMyVFMSU4NCU4RiVFMSU4NSVBRSVFMSU4NCU4MyVFMSU4NSVBNiVFMSU4NCU5MCVFMSU4NSVBOSVFMSU4NCU4QiVFMSU4NSVBNi0lRTElODQlOEMlRTElODUlQjUlRTElODYlQjglRTElODQlOEMlRTElODUlQUUlRTElODYlQkMvYmx0MjQzNjZiNzdjNDU5YjE3M9IBuQNodHRwczovL3d3dy5nb2FsLmNvbS9rci9hbXAvJUVCJTg5JUI0JUVDJThBJUE0LyVFMSU4NCU4RSVFMSU4NSVBMiVFMSU4NiVCNyVFMSU4NCU4OSVFMSU4NSVCMy0lRTElODQlOTAlRTElODUlQTElRTElODYlQUYlRTElODQlODUlRTElODUlQTElRTElODYlQTgtJUUxJTg0JTgyJUUxJTg1JUExJUUxJTg0JTkxJUUxJTg1JUE5JUUxJTg2JUFGJUUxJTg0JTg1JUUxJTg1JUI1LSVFMSU4NCU4QiVFMSU4NSVCNSVFMSU4NCU4QyVFMSU4NSVBNiVFMSU4NCU4MiVFMSU4NSVCMyVFMSU4NiVBQi0lRTElODQlODklRTElODUlQjMlRTElODQlOEYlRTElODUlQUUlRTElODQlODMlRTElODUlQTYlRTElODQlOTAlRTElODUlQTklRTElODQlOEIlRTElODUlQTYtJUUxJTg0JThDJUUxJTg1JUI1JUUxJTg2JUI4JUUxJTg0JThDJUUxJTg1JUFFJUUxJTg2JUJDL2JsdDI0MzY2Yjc3YzQ1OWIxNzM?oc=5
 
 제목: 자가진단과 더불어 정기적인 유방암 검사도 중요 - 바이오타임즈
-요약: 한국 여성에서 가장 높은 발병률을 보이는 암인 유방암은 조기 발견과 치료가 가능하며, 5년 생존율이 93.6%에 이른다. 유방암은 20~30대의 젊은 연령층에서도 발생하고 있으므로 주기적인 자가진단과 정기적인 검진이 필요하다. 유방 검사 종류로는 유방촬영술과 유방초음파가 있으며, 가족력이 있는 경우 더욱 주의해야 한다.
+요약: 한국 여성에서 가장 높은 발병률을 보이는 암인 유방암의 발생 연령대가 점점 낮아지고 있으며, 20~30대의 젊은 연령층에서도 발병 빈도수가 높아지고 있다. 하지만 조기 발견 시 예후가 좋은 편이며, 정기적인 검진을 반드시 진행하는 것이 좋다. 대표적인 유방 검사 종류의 경우 유방촬영술과 유방초음파가 있으며, 필요에 따라 맘모톰과 조직검사를 추가적으로 진행할 수 있다.
 
 URL: https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmJpb3RpbWVzLmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xMDQ4OdIBAA?oc=5
 
-제목: 1편과 2편의 주인공 재등장, 제노블레이드3 익스팬션 4탄, 4월 26일 배포 깜짝 발표 - 케이벤치 (KBench)
-요약: 닌텐도 모노리스 소프트웨어의 제노블레이드 3이 새로운 확장콘텐츠를 발표했다. 이번 콘텐츠는 제노블레이드 1편과 2편의 주인공들이 등장하는 오리지널 스토리이며, 익스팬션 패스의 마지막 콘텐츠로 4월 26일에 출시될 예정이다. 새로운 트레일러에서는 1편과 2편의 주인공들과 새로운 캐릭터들이 등장하며, 제노블레이드 3편에서 언급된 프리퀄 이야기를 경험할 수 있다.
+제목: '음주운전' 김새론, 넷플릭스 드라마 방영 강행 [잇슈 연예] / KBS 2023.04.19. - KBS News
+URL: https://news.google.com/rss/articles/CCAiCzR4bFZ1dXF4eHp3mAEB?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiIWh0dHBzOi8va2JlbmNoLmNvbS8_cT1ub2RlLzI0Mjk1MdIBAA?oc=5
+제목: ‘마인크래프트 레전드’ 스팀 판매 4위, 장르 변신 통할까 - 경향게임스
+요약: MS Xbox 산하 모장 스튜디오의 신작 ‘마인크래프트 레전드’가 세계적인 사랑을 받고 있는 ‘마인크래프트’의 액션 전략 장르로의 변신을 시도한 게임으로, 출시 당일 스팀 판매 순위 상위권을 점유하며 흥행 가능성을 타진하고 있다. 게임은 ‘마인크래프트’ IP 세계관에 기반한 이야기를 그리고 있으며, 다양한 자원을 채집하고 각종 구조물을 건설하는 게임플레이를 계승하고 있는 한편, 주인공의 시점에서 각종 골렘 등 다수의 병력을 다루며 전투에 임한다는 점이 신작의 가장 큰 특징이다. ‘마인크래프트 레전드’는 스팀 전세계 최고 판매 순위 
 
-제목: 포즈 취하는 배우 김태희 - 뉴스핌
-요약: 김태희 배우가 19일 오전 서울 강남구 바디프랜드 본사에서 열린 메디컬 안마의자 론칭 기념 포토행사에 참석해 포즈를 취했다.
+URL: https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmtoZ2FtZXMuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTIxMjA5NdIBP2h0dHBzOi8vd3d3LmtoZ2FtZXMuY28ua3IvbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTIxMjA5NQ?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vbS5uZXdzcGltLmNvbS9uZXdzL3ZpZXcvMjAyMzA0MTkwMDAyNzDSATFodHRwczovL20ubmV3c3BpbS5jb20vbmV3c2FtcC92aWV3LzIwMjMwNDE5MDAwMjcw?oc=5
+제목: [속보] 윤 대통령 "깜짝쇼 남북정상회담 없을 것‥대화 문은 열려있어" - MBC뉴스
+요약: 윤 대통령은 깜짝쇼 남북정상회담이 없을 것이라고 밝혔지만, 대화 문은 여전히 열려있다는 발언을 했습니다.
 
-제목: [속보] 윤 대통령, 민간인 대규모 공격시 우크라에 군사지원 가능성 내비쳐 - MBC뉴스
-요약: 윤석열 대통령은 우크라이나에서 민간인에 대한 대규모 공격이 발생하면 군사적 지원이 가능하다는 발언을 했습니다. 그러나 한국은 국내 규정상 미국 등 서방의 무기 지원 요청을 거절해왔습니다. 또한, 남북정상회담은 '보여주기식'이 아니라 평화 증진을 위한 대화의 문은 열려있다고 밝혔으며, 대만해협 문제에 대해서는 무력으로 대처하는 것에 반대한다고 강조했습니다.
+URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9wb2xpdGljcy9hcnRpY2xlLzY0NzU0OTRfMzYxMTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9wb2xpdGljcy9hcnRpY2xlLzY0NzU0OTRfMzYxMjAuaHRtbA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9wb2xpdGljcy9hcnRpY2xlLzY0NzU0OTFfMzYxMTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9wb2xpdGljcy9hcnRpY2xlLzY0NzU0OTFfMzYxMjAuaHRtbA?oc=5
+제목: 완벽 보존된 '티라노사우루스' 화석의 가치는? - MBC뉴스
+요약: 스위스 경매회사에서 6천7백만 년 전 백악기 육식공룡 '티라노사우루스 렉스'의 화석이 81억 5천만 원에 팔렸다. 이 화석은 미국 몬태나주와 와이오밍주에서 발견된 티라노사우루스 3마리의 뼈 293개를 조합해 만든 것으로, 절반 이상이 실제 뼈로 구성돼 가치가 높다. 그러나 학계에서는 완벽하게 보존된 티라노의 화석을 개인이 소장하는 데 대해 우려를 나타내고 있다.
 
-제목: 북한, 정찰위성 발사 임박 예고…김정은 "계획대로 발사" - 연합뉴스TV
-요약: 북한 국무위원장 김정은이 국가우주개발국을 방문해 군사정찰위성 1호기를 발사하라는 지시를 내렸습니다. 북한은 이번 발사로 첫 정찰위성을 쏘아올릴 것으로 예상됩니다. 김정은은 앞으로도 여러 개의 정찰위성을 다각 배치해 위성에 의한 정찰정보 수집 능력을 튼튼히 구축하라는 과업을 제시했습니다. 북한은 이번 발사로 한반도 안전 환경의 요구와 전망적 위협 관리 견지에서 보나, 국가 주권과 정당방위권에 속하는 선결적 과업을 수행할 것으로 보입니다.
+URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy93b3JsZC9hcnRpY2xlLzY0NzU0OTBfMzYxMzMuaHRtbNIBQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy93b3JsZC9hcnRpY2xlLzY0NzU0OTBfMzYxMzQuaHRtbA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNDE5MDA1NDAwNjQx0gEA?oc=5
+제목: 이창양 장관 '에너지 절약' - 뉴스핌
+요약: 북한 김정은 국무위원장의 신변보호가 강화되고 있다는 보도가 나왔습니다. 북한 관영 조선중앙통신이 공개한 김정은의 사진에는 9명의 경호원이 김정은과 딸을 둘러싸고 있었습니다. 이들 경호원은 방탄가방을 들고 있어서 피격이나 폭발로부터 보호할 수 있는 장비입니다. 북한 국가우주개발국을 방문한 김정은은 경호원들과 함께 간부들과 환담하며 웃음을 짓고 있었습니다. 이번 경호 강화 배경에 대해서는 북한 내부에서 반체제 성격의 반발이나 김정은 위해 시도가 벌어지는 국면에 대비하려는 것이라는 해석도 나왔습니다.
 
-제목: 퓨쳐켐, 전립선암 치료제 후보 'FC705' 중국 특허 취득 - 이데일리
-요약: 퓨쳐켐이 중국에서 자사의 방사성 동위원소 기반 전립선암 치료제 후보물질 'FC705'에 대한 특허 등록을 완료했다. FC705은 전립선암 치료용 의약품으로, 전립선 특이 세포막항원(PSMA)을 표적으로 하며, 절반 용량으로도 높은 효과를 보이는 것으로 알려졌다. 회사는 한국과 중국을 포함해 총 9개 국가에서 FC705에 대한 특허 등록을 완료했으며, 국내 임상 2상에서도 중대한 부작용은 발생하지 않았다.
+URL: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lm5ld3NwaW0uY29tL25ld3Mvdmlldy8yMDIzMDQxOTAwMDMwONIBMWh0dHBzOi8vbS5uZXdzcGltLmNvbS9uZXdzYW1wL3ZpZXcvMjAyMzA0MTkwMDAzMDg?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmVkYWlseS5jby5rci9uZXdzL3JlYWQ_bmV3c0lkPTAxOTMxOTI2NjM1NTc3NzYwJm1lZGlhQ29kZU5vPTI1N9IBAA?oc=5
+제목: 김태희, 바디프랜드 신제품 론칭 참석 - 뉴스핌
+요약: 북한 김정은 국무위원장의 신변보호가 강화되고 있다는 보도가 나왔다. 김정은이 국가우주개발국을 방문한 사진에는 9명의 경호원이 나타나며, 이들은 방탄가방을 들고 있었다. 이러한 경호 강화는 북한 내부에서 반체제 성격의 반발이나 김정은 위해 시도가 벌어지는 국면에 대비하기 위한 것으로 추측된다.
 
-제목: 소니코리아, 오픈형 레퍼런스 헤드폰 'MDR-MV1' 및 스튜디오 콘덴서 마이크 'C-80' 출시 - 뉴스탭
-요약: 소니코리아가 오디오 전문가와 크리에이터, 음악 애호가를 위한 오픈형 레퍼런스 헤드폰 'MDR-MV1'과 스튜디오 콘덴서 마이크 'C-80'을 출시한다. MDR-MV1은 넓은 주파수 범위와 공간 표현력으로 입체 음향 믹싱 및 마스터링을 할 수 있도록 정확한 레퍼런스 사운드를 제공하며, C-80은 전문가 수준의 풍부하고 선명한 보컬 및 내레이션, 악기 연주 녹음이 가능하다. 두 제품은 소니의 완벽한 음향 기술을 집약한 프로 오디오 라인업이다.
-
-URL: https://news.google.com/rss/articles/CBMiO2h0dHA6Ly93d3cubmV3c3RhcC5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MTkxNTI30gEA?oc=5
-
-제목: 홍성보건소, 엠폭스 대책반 구성 - 충청뉴스
-요약: 홍성군보건소가 엠폭스(구원숭이두창) 방역대책반을 구성한다. 질병관리청은 엠폭스 위기경보 수준을 “관심”에서 “주의”로 격상했으며, 지역사회 감염에 대한 우려가 커지고 있기에 홍성군보건소는 엠폭스 방역대책반을 대응체계 종료 시까지 상시 운영할 계획이다. 엠폭스는 원숭이 두창 바이러스 감염에 의한 질환으로, 예방수칙으로는 손씻기, 밀접접촉 삼가, 피부병변을 감싸 다른 사람들과 직접 접촉이 없도록 각별한 주의, 유증상자는 다른 사람들과의 밀접접촉 삼가, 아프거나 죽은 동물과 접촉 금지 등이다.
-
-URL: https://news.google.com/rss/articles/CBMiO2h0dHA6Ly93d3cuY2NubmV3cy5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjkyMDIx0gEA?oc=5
-
-제목: 고민정, '귀국 불응' 송영길에 “민주주의 더는 후퇴시키지 말라” - 한겨레
-요약: 더불어민주당 최고위원인 고민정씨가 2021년 전당대회 돈봉투 의혹의 중심에 있는 송영길 전 대표에게 국민 앞에서 사죄하라는 일침을 놓았다. 의혹의 중심에 선 송 전 대표가 당 지도부의 귀국 요청에 응하지 않고 프랑스 파리에서 기자간담회를 열겠다고 밝힌 데 따른 것이다. 같은 당 송갑석 최고위원도 이날 회의에서 송 전 대표의 조기 귀국을 촉구했다.
-
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9hc3NlbWJseS8xMDg4NDY1Lmh0bWzSAQA?oc=5
-
-제목: [뉴스킹] (변희재 장윤선 김재섭) 여야 리스크 속 '제3지대' 등장? / '돈봉투 의혹', 송영길 정말 몰랐나? / 전광훈과 '손절' 나선 국힘, 대응책 '고심'_230419 - YTN 라디오
-URL: https://news.google.com/rss/articles/CCAiC3NFeDg4eUt5c1pBmAEB?oc=5
-
-제목: 엔비디아, 새로운 지포스 게임 레디 드라이버 출시 - ACROFAN South Korea
-URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8va3IuYWNyb2Zhbi5jb20vZGV0YWlsLnBocD9udW1iZXI9Mjk0NTkx0gEA?oc=5
-
-제목: [문화연예 플러스] 쇼호스트 유난희에 '무기한 출연 정지' (2023.04.19/뉴스투데이/MBC) - MBCNEWS
-URL: https://news.google.com/rss/articles/CCAiC2o5M3ZXeXlSRmFjmAEB?oc=5
-
-제목: '호드리구 멀티골' 레알, 챔스 4강 진출 - 서울경제 - 서울경제신문
-요약: 레알 마드리드가 첼시를 2-0으로 이겨 챔피언스리그 준결승에 진출했다. 호드리구가 2골을 넣어 팀의 승리를 이끌었다. 레알 마드리드는 맨체스터 시티와 바이에른 뮌헨 중 승자와 대결한다. 첼시는 챔스에서 부진하며, 프랭크 램퍼드 감독의 복귀도 효과를 보이지 못했다.
-
-URL: https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LnNlZGFpbHkuY29tL05ld3NWaWV3LzI5T0QzTFo0WErSASxodHRwczovL20uc2VkYWlseS5jb20vTmV3c1ZpZXdBbXAvMjlPRDNMWjRYSg?oc=5
-
-제목: 산불 이재민 두 번 울리는 '파렴치' 절도 - MBC뉴스
-요약: 강릉 산불 피해지역에서 물건을 훔치는 절도가 발생하고 있다. 산불이 발생할 때마다 이러한 절도 사건이 반복되고 있으며, 피해자들은 이러한 일이 더 큰 고통을 초래한다고 말하고 있다. 경찰은 이러한 절도 사건을 막기 위해 대책을 마련하고 있지만, 아직 뾰족한 대책은 없다.
-
-URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253dG9kYXkvYXJ0aWNsZS82NDc1NDM0XzM2MjA3Lmh0bWzSAUZodHRwczovL2ltbmV3cy5pbWJjLmNvbS9yZXBsYXkvMjAyMy9ud3RvZGF5L2FydGljbGUvNjQ3NTQzNF8zNjIwOC5odG1s?oc=5
-
-제목: '불타는 트롯맨' 손태진 '상금 6억, 아직도 안 믿겨…멤버들과 여행 갈 것' - 한국아이닷컴
-요약: '불타는 트롯맨'에서 우승한 손태진이 상금을 받은 것에 대해 놀라움을 표현하며, 팬들과 함께 여행을 가고 싶다는 소망을 밝혔다. 또한, 상금을 도움이 필요한 곳에 사용하고 싶다는 의지를 보였다. 마지막으로, 응원해준 모든 분들에게 감사 인사를 전했다.
-
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NzE4MTDSAT1odHRwczovL3d3dy5oYW5rb29raS5jb20vbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTcxODEw?oc=5
-
-제목: 美 전기차 보조금 현대차·닛산·BMW 제외…현대차 "이해할 수 없어" - 연합인포맥스
-요약: 미국 재무부가 발표한 새로운 전기차 보조금 혜택 목록에는 최소 16개 미국 제조 차량, 22개 가량의 모델이 포함됐으며, 현대차, BMW, 닛산, 리비안, 폴크스바겐, 볼보의 차량은 제외됐다. 이들 브랜드의 일부 차량은 미국에서 조립되거나 특정 부품이 국내에서 조달될 경우 보조금을 받을 가능성이 여전히 열려 있다.
-
-URL: https://news.google.com/rss/articles/CBMiPmh0dHA6Ly9uZXdzLmVpbmZvbWF4LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz00MjYyODc30gEA?oc=5
+URL: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lm5ld3NwaW0uY29tL25ld3Mvdmlldy8yMDIzMDQxOTAwMDI1OdIBMWh0dHBzOi8vbS5uZXdzcGltLmNvbS9uZXdzYW1wL3ZpZXcvMjAyMzA0MTkwMDAyNTk?oc=5
 
 
