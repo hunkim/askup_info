@@ -1,89 +1,93 @@
-제목: 당뇨 환자 사망 위험 낮추는 '음료'의 정체 - 헬스조선
-URL: https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vaGVhbHRoLmNob3N1bi5jb20vc2l0ZS9kYXRhL2h0bWxfZGlyLzIwMjMvMDQvMjAvMjAyMzA0MjAwMjM4Ni5odG1s0gEA?oc=5
+제목: '4강 진출' 맨시티 '레알, 너 잘 만났다' - MBC뉴스
+요약: 맨체스터 시티가 유럽챔피언스리그 준결승에 진출했다. 맨시티는 뮌헨과의 2차전에서 1-0으로 승리해 1,2차전 합계 4-1로 앞서며 레알 마드리드와 다시 맞붙게 됐다. 인터밀란은 벤피카와의 8강 2차전에서 3-3으로 비겼지만 합계 5-3으로 앞서며 AC밀란과 4강에서 맞붙게 된다.
 
-제목: 삼성전자, 갤럭시S20 시리즈 카메라 개선 업데이트 배포 시작 - 케이벤치 (KBench)
-요약: 삼성전자가 갤럭시S20 시리즈를 대상으로 소프트웨어 업데이트를 배포했다. 업데이트로 카메라 및 갤러리 기능이 개선되었으며, 단말 동작 안정화와 보안 관련 안정화 코드가 적용됐다. 업데이트를 설치하면 다양한 앱들이 최신 버전으로 업데이트될 수 있다. 업데이트는 FOTA 또는 PC용 스마트스위치를 통해 설치할 수 있다.
+URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NzYxMzBfMzYxOTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NzYxMzBfMzYyMDAuaHRtbA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiIWh0dHBzOi8va2JlbmNoLmNvbS8_cT1ub2RlLzI0MzAxOdIBAA?oc=5
+제목: 길 헤맸다가 총탄에 사망‥실수 한번에 총격 공포 - MBC뉴스
+요약: 미국에서 최근 발생한 총기 사고들이 이어지고 있습니다. 실수로 남의 집 앞 도로를 지나다가, 남의 차 문을 잘못 열었다가 등의 실수로 총격을 당하는 사건이 발생하고 있습니다. 이번 주에는 세 건의 사고가 발생했으며, 이 중 한 건에서는 10대 소년이 총에 맞아 사망했습니다. 이에 대해 조 바이든 대통령은 총기 규제 필요성을 강조하고 있습니다.
 
-제목: 고려대 안암병원 한규만 교수, 대한신경정신의학회 젊은의학자상 수상 - 헬스인뉴스
-요약: 한규만 교수가 대한신경정신의학회 춘계학술대회에서 ‘제2회 인(仁) 젊은의학자상’을 수상했다. 이번 연구는 우울증 환자의 혈액 표본과 뇌 MRI 데이터를 이용해 우울증이 뇌의 만성적 염증 상태로 인해 발생할 수 있고, 신경염증에서 생기는 독성물질이 뇌세포를 죽여서 정서조절에 관여하는 뇌 부위의 위축을 일으킬 수 있다는 사실을 규명했다. 이를 통해 바이오마커를 이용해 우울증 환자 중 뇌의 염증 상태가 높은 환자들을 따로 분류하고 이들에게 맞춤형 약물치료를 제공할 수 있기를 기대한다.
+URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NzYxMjJfMzYxOTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NzYxMjJfMzYyMDAuaHRtbA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhlYWx0aGlubmV3cy5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MzcwODXSAQA?oc=5
+제목: [기업분석] 일진하이솔루스, 현대차 넥소의 수소연료탱크 독점 공급 빛과 그림자 - 뷰어스
+요약: 일진하이솔루스는 수소 차량용 연료탱크를 생산하는 기업으로, 현재는 현대자동차 넥쏘에 대한 매출 의존도가 높아 고객사 다변화가 필요하다. 이에 일진하이솔루스는 유럽 메이저 완성차 업체의 상용 수소차 신차에 대한 수소연료탱크 수주를 타진하고 있으며, 향후 수주가 기대되는 유럽 신규 고객사 상용 수소연료전지 자동차향 ASP는 넥쏘 대비 6~7배로 추정된다. 이를 통해 일진하이솔루스는 장기적으로 현대차 넥쏘에 대한 매출 의존도를 낮출 수 있을 것으로 보인다.
 
-제목: [속보] 서세원 사망, 캄보디아 병원서 링거 맞다 심정지 [엠픽] - MBN News
-URL: https://news.google.com/rss/articles/CCAiC25WUWZDanRkZndVmAEB?oc=5
+URL: https://news.google.com/rss/articles/CBMiLGh0dHA6Ly90aGV2aWV3ZXJzLmNvLmtyL1ZpZXcuYXNweD9Obz0yNzkyODY10gEA?oc=5
 
-제목: [순정남] 다 사면 1,400만 원? 스팀 DLC 끝판왕 TOP 10 - 게임메카
+제목: 한국이 '약한 고리'?…사드 때처럼 연일 보복 위협하는 러시아 - 한국일보
+요약: 러시아가 윤석열 대통령의 우크라이나 무기 지원 발언에 대해 보복을 예고하고 있다. 그러나 한국의 위상, 한미동맹의 결속력, 국제정세가 달라져 사드 때와는 다르게 상황이 전개될 가능성이 있다. 또한, 러시아에 대한 경제의존도가 크지 않아 경제적 보복 수단이 한계가 있으며, 한국은 이제 더 이상 동북아의 약한 고리가 아니기 때문에 약소국 프레임에서 벗어나야 한다는 지적도 있다. 군 당국은 우크라이나에 살상무기를 지원하지 않는다는 정부 방침에 변화가 없다고 강조했다.
+
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vbS5oYW5rb29raWxiby5jb20vTmV3cy9SZWFkL0EyMDIzMDQyMDE2MTMwMDAwMzky0gEA?oc=5
+
+제목: 민주당 의총서 "송영길 즉각 귀국" "파리 가서 데려오라" - 한국일보
+요약: The ruling Democratic Party of Korea has demanded the immediate return of Song Young-gil, the former party leader, who is at the center of the "2021 National Convention Money Envelope Scandal." The party has also called for an official apology from its members for the illegal political funding alleg
+
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpbGJvLmNvbS9OZXdzL1JlYWQvQTIwMjMwNDIwMTgwODAwMDUxNTbSAQA?oc=5
+
+제목: 중 "말참견", 한 "외교적 결례"‥윤 대통령 발언 놓고 외교 설전 - MBC뉴스
+요약: 한국 대통령 윤석열이 대만 문제에 대해 발언한 것에 대해 중국이 "말참견 하지 말라"라는 거친 발언으로 반발하고, 한국 외교부도 "국격을 의심하게 하는 심각한 외교적 결례"라고 맞받았다. 대만 문제는 중국이 받아들일 수 없는 '레드라인'으로, 한미 정상회담에서도 논의될 가능성이 있어 한중 관계가 경색될 가능성이 있다.
+
+URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NzYxMDFfMzYxOTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NzYxMDFfMzYyMDAuaHRtbA?oc=5
+
+제목: 서세원씨, 프놈펜 한인 병원에서 숨진채 발견돼 / KBS 2023.04.20. - KBS News
+URL: https://news.google.com/rss/articles/CCAiCzJObVBVZzh1MWFvmAEB?oc=5
+
+제목: '박아야' 드러나는 그림…2.5㎜ 수십만개 유리구슬의 협업 [e갤러리] - 이데일리
+요약: 작가 위성웅씨는 유리구슬로 그림을 그리는 '재귀반사 회화' 작업을 한다. 유리구슬의 크기와 조명에 따라 다른 그림이 나오며, 작품에는 실제와 환영이 교차하는 판타지가 늘어난다. 현재 서울 종로구 인사아트센터 G&J갤러리에서 '하루를 갖다' 전시회를 개최하고 있다.
+
+URL: https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmVkYWlseS5jby5rci9uZXdzL3JlYWQ_bmV3c0lkPTAzNTQyNDA2NjM1NTc4MDg4Jm1lZGlhQ29kZU5vPTI1N9IBAA?oc=5
+
+제목: '꿈의 배터리' 전고체 20조 투자…상용화 앞당긴다/한국경제TV뉴스 - 한국경제TV뉴스
+URL: https://news.google.com/rss/articles/CCAiC01WRjdJY1FieTBBmAEB?oc=5
+
+제목: [단독] 경찰, 전세사기 '18개 조직'에 범죄단체조직죄 검토…동탄은 어려울 듯 - 한겨레
+요약: 경찰이 전국적으로 조직적 전세사기를 조사하고, 범죄단체조직죄를 적용할 가능성을 검토하고 있다. 이에 따라 5개의 '무자본 갭투자' 조직과 13개의 전세자금대출 조직 등이 적용 대상이 될 수 있다. 그러나 최근 발생한 동탄새도시 전세 피해 등은 적용이 어려울 것으로 보인다. 경찰은 불법 중개나 감정행위에 대해서도 단속을 강화하고, 전국 범죄수익추적팀을 투입해 피해자 보호를 위한 범죄수익보전에도 나설 예정이다.
+
+URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDg4NzgzLmh0bWzSAQA?oc=5
+
+제목: 그룹 아스트로 문빈 사망...장례 절차 비공개로 진행 / YTN - YTN
+URL: https://news.google.com/rss/articles/CCAiC1luci1KclUyTHFJmAEB?oc=5
+
+제목: '데드 아일랜드2' 출시 D-1, 성수동에 좀비가 나타났다! - 인벤
 요약: GPT3 Return Error: 'choices'
 
-URL: https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LmdhbWVtZWNhLmNvbS92aWV3LnBocD9naWQ9MTcxMTg4MtIBL2h0dHBzOi8vbS5nYW1lbWVjYS5jb20vYW1wL3ZpZXcucGhwP2dpZD0xNzExODgy?oc=5
+URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmludmVuLmNvLmtyL3dlYnppbmUvbmV3cy8_bmV3cz0yODM5MDTSAQA?oc=5
 
-제목: 박원순 전 서울시장 부인, “남편은 성희롱 피해자” - 한겨레
-요약: 박원순 전 서울시장의 성희롱 의혹 관련하여 국가인권위원회가 피해자 대책 마련 등을 권고한 결정을 취소해달라는 소송이 진행 중이다. 이에 박 전 시장의 유족은 박 전 시장이 성희롱 가해자가 아니라 피해자라고 주장하며, 이번 항소심에서는 피해자 측이 문자메시지를 보낸 내용 등을 증거로 제시하며 망인이 가해자로 증명되는 문제가 있다고 주장하고 있다.
+제목: 김숙, '부상' 송은이 특급 간호.. 바지까지 내려주는 찐친? “600만 원” 청구('비보티비') - 미주중앙일보
+요약: 송은이가 운동 중 손가락을 다쳤다는 소식이 전해졌다. 김숙은 송은이를 병문안에 방문해 육전, 해산물, 회 등을 준비하며 간호 코스프레를 하기도 했다. 이에 대한 대가로 김숙은 600만 원을 청구했다.
 
-URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDg4NzEwLmh0bWzSAQA?oc=5
+URL: https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vbmV3cy5rb3JlYWRhaWx5LmNvbS8yMDIzLzA0LzIwL3Nwb3J0cy9icm9hZGNhc3QvMjAyMzA0MjAwMjA0NDkxMjIuaHRtbNIBAA?oc=5
 
-제목: 경찰, '국회 청문회 불출석' 정순신 변호사 수사 착수 - MBC뉴스
-요약: 정순신 변호사가 아들의 학교폭력 진상조사를 위한 국회 청문회에 출석하지 않은 혐의로 경찰 수사를 받고 있다. 더불어민주당은 정 변호사와 함께 청문회에 출석하지 않은 송개동 변호사도 함께 고발했다.
+제목: 돼지 장기를 사람 몸에? 거부감 들어도 필요한 이유 - 코메디닷컴
+요약: 장기 부족 문제를 해결하기 위해 이종이식이 주목 받고 있습니다. 이종이식은 동물의 장기, 조직, 세포를 이식하는 것으로, 현재는 세포나 조직 수준에서 이식이 시도되고 있습니다. 이종이식은 여러 안전성과 윤리 문제로 넘어야 할 산들이 있습니다. 이종이식을 시행하면 원료동물에 서식하는 병원체가 전파되거나, 이식 과정에서 감염이 일어날 수 있습니다. 이종이식을 받은 사람은 ‘낙인’ 찍히는 대상이 될 수 있습니다. 하지만 이종이식을 통해 얻게 되는 장점 역시 매우 크며, 임상시험 과정에서부터 여러 부분들을 고려해야 합니다.
 
-URL: https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9zb2NpZXR5L2FydGljbGUvNjQ3NjAxNV8zNjEyNi5odG1s0gFEaHR0cHM6Ly9pbW5ld3MuaW1iYy5jb20vbmV3cy8yMDIzL3NvY2lldHkvYXJ0aWNsZS82NDc2MDE1XzM2MTI3Lmh0bWw?oc=5
+URL: https://news.google.com/rss/articles/CBMi2AFodHRwczovL2tvcm1lZGkuY29tLzE1ODQ1OTEvJUVCJThGJUJDJUVDJUE3JTgwLSVFQyU5RSVBNSVFQSVCOCVCMCVFQiVBNSVCQy0lRUMlODIlQUMlRUIlOUUlOEMtJUVCJUFBJUI4JUVDJTk3JTkwLSVFQSVCMSVCMCVFQiVCNiU4MCVFQSVCMCU5MC0lRUIlOTMlQTQlRUMlOTYlQjQlRUIlOEYlODQtJUVEJTk1JTg0JUVDJTlBJTk0JUVEJTk1JTlDLSVFQyU5RCVCNCVFQyU5QyVBMC_SAQA?oc=5
 
-제목: MSI 일체형PC 할인특가! 11번가서 최대 18% 세일 프로모션 참여 - 보드나라 (Bodnara)
-요약: MSI 일체형PC 할인 프로모션이 2023년 4월 20일부터 25일까지 진행된다. 프로모션 대상 제품은 MSI 모니터와 데스크탑을 합쳐 구매 가능한 일체형PC이며, 최대 18% 할인 혜택을 제공한다. 주요 제품으로는 MSI 모던 AM272, MSI 프로 AP241, MSI 프로 AP242 시리즈가 포함되며, 구매 시 무선 키보드/마우스를 무료로 증정한다.
+제목: 장우진, WTT 챔피언스 8강...신유빈은 세계 6위에 역전패 / YTN - YTN
+URL: https://news.google.com/rss/articles/CCAiC0UyNW8wdVlvQ0JBmAEB?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmJvZG5hcmEuY28ua3IvYmJzL2FydGljbGUuaHRtbD9udW09MTg1NDA10gEA?oc=5
+제목: 문체부, 언론중재위원 11명 위촉 : 미디어 : 사회 : 뉴스 - 한겨레
+요약: 이 기사는 진실을 밝히고 미래를 위해 노력하는 것을 호소하며, 후원을 받아 평등하고 자유로운 사회를 만들겠다는 메시지를 전달합니다.
 
-제목: '진실화해위원 탈락' 허상수 대통령실에 “임명 촉구” 의견서 제출 - 한겨레
-요약: 허상수 재경4·3희생자및피해자유족회 공동대표가 대통령실을 방문해 진실·화해를위한과거사정리위원회(진실화해위) 위원으로 임명되기 위한 촉구 의견서를 제출했다. 대통령실은 허 대표 임명 배제 방침을 굳히고 있으나 아직 국회에 공식적으로 통보하지는 않았다.
+URL: https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L21lZGlhLzEwODg3NTQuaHRtbNIBAA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDg4NzAzLmh0bWzSAQA?oc=5
+제목: 충북서 엠폭스 첫 확진…전국 20번째로 국내 감염 추정 - 한겨레
+요약: 충북에서 엠폭스(MPOX) 환자가 발생했다. 이는 국내 20번째 확진 사례이며, 국외여행을 하지 않았기 때문에 지역 사회 접촉에 의한 감염으로 추정된다. 충청북도는 환자 심층 역학조사와 접촉자 추적 조사를 진행하고 있다. 엠폭스는 아프리카 풍토병이었던 것으로, 수포성 발진, 급성 발열, 두통, 근육통 등의 증상을 보인다.
 
-제목: 인구 앞세워 경제대국 꿈꾸는 인도…실업 등 난제는 수두룩 - 연합뉴스
-URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L0FLUjIwMjMwNDIwMTEyMjAwMDc30gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9BS1IyMDIzMDQyMDExMjIwMDA3Nw?oc=5
+URL: https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9hcmVhL2NodW5nY2hlb25nLzEwODg3NDQuaHRtbNIBAA?oc=5
 
-제목: 엠폭스 환자 2명 늘어 총 20명‥"수영장 등에선 감염 가능성 낮아" - MBC뉴스
-요약: 국내 지역사회 감염으로 추정되는 '엠폭스' 환자가 2명 추가로 발생했다. 이들은 현재 격리병상에서 입원 치료 중이며, 상태는 양호한 것으로 전해졌다. 국내 엠폭스 확진자 거주지역은 서울, 경기, 경남, 경북, 대구, 전남, 충북까지 모두 7개 시도로 늘어났다. 질병청은 엠폭스 감염 경로는 고위험군이 주로 이용하는 시설 등에서의 피부·성접촉으로, 수영장이나 일반 다중이용시설을 이용할 때 감염 가능성은 거의 없다고 보고했다.
+제목: 강수지 “부친상 후, 노래 안 불러...이제 다시 시작” - 세계일보
+요약: 가수 강수지가 아버지의 별세 이후 노래를 하지 않았지만, 이제 다시 본업으로 돌아오기로 결정했다고 SNS를 통해 밝혔다. 강수지는 매달 한 곡씩 발표하고 있으며, 이번 달에도 새로운 곡을 발표할 예정이다.
 
-URL: https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9zb2NpZXR5L2FydGljbGUvNjQ3NTk5OV8zNjEyNi5odG1s0gFEaHR0cHM6Ly9pbW5ld3MuaW1iYy5jb20vbmV3cy8yMDIzL3NvY2lldHkvYXJ0aWNsZS82NDc1OTk5XzM2MTI3Lmh0bWw?oc=5
+URL: https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vbS5zZWd5ZS5jb20vdmlldy8yMDIzMDQyMDUyMTYzMz9PdXRVcmw9Z29vZ2xl0gEqaHR0cHM6Ly9tLnNlZ3llLmNvbS9hbXBWaWV3LzIwMjMwNDIwNTIxNjMz?oc=5
 
-제목: 서울 아파트값, 강남4구 상승전환… 2주 연속 낙폭 둔화 - 한국주택경제신문
-요약: 한국부동산원이 발표한 조사결과에 따르면, 4월 셋째주 전국 주간 아파트 매매가격은 0.13% 하락하였으며, 전세가격도 0.2% 하락하였다. 전국적으로 매매가격은 하락폭이 축소되었으며, 세종시를 제외한 모든 지역에서 하락하였다. 서울시의 경우 가격 추가 하락 기대와 매물적체 영향으로 관망세가 지속되고 있으나, 일부 지역에서는 수요 발생으로 매물과 거래 가격이 상승하고 있다.
+제목: 유통기한 없는 아이스크림... 식중독 일으킬 수 있다고? [불량음식] - 헬스조선
+요약: 아이스크림은 유통기한이 없어서 냉동실에 얼려두고 먹을 수 있다. 그러나 아이스크림에서도 식중독 위험이 있으며, 리스테리아균이 대표적인 식중독균이다. 리스테리아균은 다른 식중독균과 달리 저온에서도 증식이 가능하다. 아이스크림에서 식중독균이 증식하는 가장 큰 원인은 올바르지 못한 유통과정 때문이다. 또한, 모양이 변형된 아이스크림이나 제조일자가 오래된 아이스크림은 섭취하지 않는 것이 좋다.
 
-URL: https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vYXJ1bmV3cy5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTMxODQw0gEA?oc=5
+URL: https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vbS5oZWFsdGguY2hvc3VuLmNvbS9zdmMvbmV3c192aWV3Lmh0bWw_Y29udGlkPTIwMjMwNDIwMDIyNTXSAQA?oc=5
 
-제목: [사진]데프콘-유민상-이수지-김해준, '맛있는 녀석들' 새로운 케미 - 조선비즈 - 조선비즈
-URL: https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vYml6LmNob3N1bi5jb20vZW50ZXJ0YWlubWVudC9lbnRlcl9nZW5lcmFsLzIwMjMvMDQvMjAvNERRUk5WWkVaSlNTNVZNSDU3VjZLNlpBUTQv0gFoaHR0cHM6Ly9iaXouY2hvc3VuLmNvbS9lbnRlcnRhaW5tZW50L2VudGVyX2dlbmVyYWwvMjAyMy8wNC8yMC80RFFSTlZaRVpKU1M1Vk1INTdWNks2WkFRNC8_b3V0cHV0VHlwZT1hbXA?oc=5
+제목: 진보당 “우크라이나 살상무기 지원 발언 철회하라” [포토] - 한겨레
+요약: 진보당이 윤석열 대통령의 우크라이나 살상무기 지원 가능성 시사 발언 취소를 요구하는 기자회견을 열었습니다. 진보당은 대한민국의 헌법 정신에도 부합하지 않는 발언이라며 비판하고, 윤석열 대통령의 공식 사과와 발언 철회를 요구했습니다. 대통령실은 윤석열 대통령 인터뷰 발언과 관련하여 미래 행동이 러시아 행동에 달려있다고 밝혔습니다.
 
-제목: 메디포뉴스 - 메디포뉴스
-요약: 한국인유전체역학조사사업 자료를 활용한 연구 결과, 혈중 엽산 농도가 낮으면서 호모시스테인 농도가 높은 경우 사망 위험이 높다는 것이 밝혀졌다. 남성의 경우, 엽산 농도가 낮으면서 호모시스테인 농도가 높은 경우 심혈관질환으로 인한 사망 위험이 2.1배, 암으로 인한 사망 위험이 1.4배 높았다. 여성의 경우, 엽산 농도가 낮으면서 호모시스테인 농도가 높은 경우 암으로 인한 사망 위험이 높았다.
-
-URL: https://news.google.com/rss/articles/CBMiNWh0dHA6Ly93d3cubWVkaWZvbmV3cy5jb20vbmV3cy9hcnRpY2xlLmh0bWw_bm89MTc3ODQy0gEA?oc=5
-
-제목: 이번엔 홀란드가 있다…맨시티, 1년 전 '탈락 수모' 설욕할까 - 한겨레
-요약: 맨체스터 시티가 UEFA 챔피언스리그 8강 2차전 바이에른 뮌헨과 1-1 무승부로 합산 점수 4-1로 4강에 진출했다. 이로써 맨시티는 3년 연속 챔피언스리그 4강 진출을 달성했으며, 레알 마드리드와의 재대결이 예상된다. 레알 마드리드는 첼시와의 8강전에서 2-0 완승을 거두며 16번째 4강행을 결정했다. 두 팀은 1년 전 4강에서 맞붙었으며, 이번에도 실질적 결승전이 예상된다.
-
-URL: https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zcG9ydHMvc29jY2VyLzEwODg2NzYuaHRtbNIBAA?oc=5
-
-제목: 라익미, 가성비 고화질 모니터 '플레이 GL27QHD IPS 75' 출시 - 뉴스탭
-요약: 디지털 가전 그룹 라익미가 '라익미 플레이 GL27QHD IPS 75' 모니터를 출시한다. 이번 모니터는 QHD 고화질 해상도와 75Hz 주사율을 지원하는 27인치 광시야각 모니터로, AMD 프리싱크, OSD 버튼 조작 게임 모드, 나이트 비전 기능 등 게이밍에서도 성능을 발휘한다. 라익미는 출시를 기념해 50대 한정으로 일반 15만 9,000원 무결점 16만 9,000원에 판매한다.
-
-URL: https://news.google.com/rss/articles/CBMiOWh0dHA6Ly9tLm5ld3N0YXAuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE5MTcxNdIBAA?oc=5
-
-제목: 시카고 도심서 흑인 청소년 소요…백인여성 집단구타도 - 연합뉴스TV
-요약: 미국 시카고 도심에서 청소년들이 소요를 일으켰습니다. 이벤트로 계획된 것으로 보이며, 백인 여성을 집단 구타하는 사건도 발생했습니다. 이날 소요는 소셜미디어에서 기획된 '틴 테이크 오버', '10대들의 도시 장악' 이벤트가 변질되면서 벌어졌습니다. 10대 두 명이 다치기도 했으며, 경찰은 범죄 단서들을 수집하고 있습니다.
-
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNDIwMDA5ODAwMDMy0gEA?oc=5
-
-제목: "와~이건 CG?"…류화영, 콜라병 몸매 '인증' - ZD넷 코리아
-URL: https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzA0MjAxMzI5NDfSAQA?oc=5
-
-제목: 태국 동물원서 중국 판다 또 돌연사…양국 공동 조사 - 연합뉴스
-URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L0FLUjIwMjMwNDIwMDg5MjAwMDc20gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9BS1IyMDIzMDQyMDA4OTIwMDA3Ng?oc=5
-
-제목: 경찰, 노래방 업주들 폭행·협박한 중국 출신 범죄단체 9명 검거...전원 송치 - 뉴스핌
-요약: 서울 구로구 가리봉동 일대에서 노래방 업주들을 폭행·협박해 보도방 이용을 강요한 범죄 조직 일당이 경찰에 검거됐다. 경찰은 중국 출신으로 이루어진 일당 7명을 검거하고, 이들은 모두 중국 출신으로 총책 포함 2명은 귀화자, 6명은 F비자를 가진 재외동포, 나머지 1명은 한국영주권자를 가진 것으로 파악됐다. 이들은 노래방 입구를 차량으로 막거나 주류판매와 도우미 영업을 한다는 허위 112신고로 영업을 방해하기도 했다.
-
-URL: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lm5ld3NwaW0uY29tL25ld3Mvdmlldy8yMDIzMDQyMDAwMDUwM9IBMWh0dHBzOi8vbS5uZXdzcGltLmNvbS9uZXdzYW1wL3ZpZXcvMjAyMzA0MjAwMDA1MDM?oc=5
+URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDg4NzE3Lmh0bWzSAQA?oc=5
 
 
