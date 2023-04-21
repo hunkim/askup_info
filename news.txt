@@ -1,89 +1,89 @@
-제목: 美 위성 곧 지구에 재돌입한다 - 테크레시피
-요약: NASA의 인공위성 RHESSI가 2002년 발사되어 태양 플레어 관측 등을 실시하다가 4월 20일 오전 9시 50분부터 16시간 오차 이내에 지구 대기권에 재돌입할 것으로 예상된다. RHESSI는 태양 관측을 위해 X선이나 감마선을 사용하며, 임무 중 10만 회 이상의 X선 관측을 수행해 태양 플레어 고에너지 입자를 연구하는 데 기여했다. RHESSI는 2018년 운영을 종료하고, 지구 대기권에 재돌입할 때 대부분은 탈 것으로 예상되며, 지구상 사람을 해칠 가능성은 낮다고 밝혔다.
+제목: 당뇨 환자 사망 위험 낮추는 '음료'의 정체 - 헬스조선
+URL: https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vaGVhbHRoLmNob3N1bi5jb20vc2l0ZS9kYXRhL2h0bWxfZGlyLzIwMjMvMDQvMjAvMjAyMzA0MjAwMjM4Ni5odG1s0gEA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vdGVjaHJlY2lwZS5jby5rci9wb3N0cy81MzE3M9IBKGh0dHBzOi8vdGVjaHJlY2lwZS5jby5rci9wb3N0cy81MzE3My9hbXA?oc=5
+제목: 삼성전자, 갤럭시S20 시리즈 카메라 개선 업데이트 배포 시작 - 케이벤치 (KBench)
+요약: 삼성전자가 갤럭시S20 시리즈를 대상으로 소프트웨어 업데이트를 배포했다. 업데이트로 카메라 및 갤러리 기능이 개선되었으며, 단말 동작 안정화와 보안 관련 안정화 코드가 적용됐다. 업데이트를 설치하면 다양한 앱들이 최신 버전으로 업데이트될 수 있다. 업데이트는 FOTA 또는 PC용 스마트스위치를 통해 설치할 수 있다.
 
-제목: POC Security 주최 '제로콘2023' 성황리 개최...18개국 120명 버그 헌터·취약점 분석가 등 참가 - 데일리시큐
+URL: https://news.google.com/rss/articles/CBMiIWh0dHBzOi8va2JlbmNoLmNvbS8_cT1ub2RlLzI0MzAxOdIBAA?oc=5
+
+제목: 고려대 안암병원 한규만 교수, 대한신경정신의학회 젊은의학자상 수상 - 헬스인뉴스
+요약: 한규만 교수가 대한신경정신의학회 춘계학술대회에서 ‘제2회 인(仁) 젊은의학자상’을 수상했다. 이번 연구는 우울증 환자의 혈액 표본과 뇌 MRI 데이터를 이용해 우울증이 뇌의 만성적 염증 상태로 인해 발생할 수 있고, 신경염증에서 생기는 독성물질이 뇌세포를 죽여서 정서조절에 관여하는 뇌 부위의 위축을 일으킬 수 있다는 사실을 규명했다. 이를 통해 바이오마커를 이용해 우울증 환자 중 뇌의 염증 상태가 높은 환자들을 따로 분류하고 이들에게 맞춤형 약물치료를 제공할 수 있기를 기대한다.
+
+URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhlYWx0aGlubmV3cy5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MzcwODXSAQA?oc=5
+
+제목: [속보] 서세원 사망, 캄보디아 병원서 링거 맞다 심정지 [엠픽] - MBN News
+URL: https://news.google.com/rss/articles/CCAiC25WUWZDanRkZndVmAEB?oc=5
+
+제목: [순정남] 다 사면 1,400만 원? 스팀 DLC 끝판왕 TOP 10 - 게임메카
 요약: GPT3 Return Error: 'choices'
 
-URL: https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmRhaWx5c2VjdS5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE0NTM2NNIBAA?oc=5
+URL: https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LmdhbWVtZWNhLmNvbS92aWV3LnBocD9naWQ9MTcxMTg4MtIBL2h0dHBzOi8vbS5nYW1lbWVjYS5jb20vYW1wL3ZpZXcucGhwP2dpZD0xNzExODgy?oc=5
 
-제목: 백악관 “윤석열-바이든 대통령 25일 한국전쟁기념비 방문” - 한겨레
-요약: 미국 대통령 조 바이든이 윤석열 대통령과 함께 25일 한국전쟁기념비를 방문하고, 이틀 후 양자 회담과 국빈만찬을 개최한다. 백악관은 이번 방문이 미국과 한국의 동맹의 중요성을 강조할 것이라고 밝혔다. 두 대통령은 인도-태평양 지역과 전 세계의 평화, 안정, 번영을 증진하기 위한 미국의 핵심 파트너이며 "위대한 국가"라고 언급했다.
+제목: 박원순 전 서울시장 부인, “남편은 성희롱 피해자” - 한겨레
+요약: 박원순 전 서울시장의 성희롱 의혹 관련하여 국가인권위원회가 피해자 대책 마련 등을 권고한 결정을 취소해달라는 소송이 진행 중이다. 이에 박 전 시장의 유족은 박 전 시장이 성희롱 가해자가 아니라 피해자라고 주장하며, 이번 항소심에서는 피해자 측이 문자메시지를 보낸 내용 등을 증거로 제시하며 망인이 가해자로 증명되는 문제가 있다고 주장하고 있다.
 
-URL: https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9pbnRlcm5hdGlvbmFsL2FtZXJpY2EvMTA4ODY3Mi5odG1s0gEA?oc=5
+URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDg4NzEwLmh0bWzSAQA?oc=5
 
-제목: 변형 항생물질, 슈퍼버그 대책 될까 - 테크레시피
-요약: 콜드스프링하버 연구소가 구조를 변화시킬 수 있는 항생제 개발에 성공했다. 이 변형 항생제는 슈퍼 버그에 효과적인 대책이 될 것으로 기대된다. 슈퍼 버그는 항생제에 대한 내성을 가진 박테리아로, 기존 항생제가 효과적으로 작동하지 않게 되고 있다. 연구팀은 기존 항생 물질인 반코마이신과 조합해 구조를 변화시킬 수 있는 항생 물질을 실현했으며, 이 항생물질은 반코마이신 내성 장구균 VRE에 감염된 대상에 적용해 효과를 확인했다. 연구팀은 이 기술을 이용해 많은 신약을 개발할 수 있다고 밝혔다.
+제목: 경찰, '국회 청문회 불출석' 정순신 변호사 수사 착수 - MBC뉴스
+요약: 정순신 변호사가 아들의 학교폭력 진상조사를 위한 국회 청문회에 출석하지 않은 혐의로 경찰 수사를 받고 있다. 더불어민주당은 정 변호사와 함께 청문회에 출석하지 않은 송개동 변호사도 함께 고발했다.
 
-URL: https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vdGVjaHJlY2lwZS5jby5rci9wb3N0cy81Mjc3MdIBKGh0dHBzOi8vdGVjaHJlY2lwZS5jby5rci9wb3N0cy81Mjc3MS9hbXA?oc=5
+URL: https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9zb2NpZXR5L2FydGljbGUvNjQ3NjAxNV8zNjEyNi5odG1s0gFEaHR0cHM6Ly9pbW5ld3MuaW1iYy5jb20vbmV3cy8yMDIzL3NvY2lldHkvYXJ0aWNsZS82NDc2MDE1XzM2MTI3Lmh0bWw?oc=5
 
-제목: '닥터 차정숙' 통쾌한 반격에 응원 쏟아지는 이유 - 한국경제TV
-요약: JTBC 드라마 '닥터 차정숙'이 시청자들의 공감과 유쾌한 웃음으로 인기를 끌고 있다. 20년 전업주부인 차정숙이 자신의 인생을 되돌아보며 진정한 '행복'과 '나'를 찾아가는 반란을 통해 현실 공감을 이끌어내고 있다. 엄정화, 김병철, 명세빈, 민우혁 등의 배우들의 열연도 호평을 받고 있다. 시청자들은 차정숙의 이야기를 통해 자신의 삶에 대해 고민하고 공감하는 반응을 보이고 있다.
+제목: MSI 일체형PC 할인특가! 11번가서 최대 18% 세일 프로모션 참여 - 보드나라 (Bodnara)
+요약: MSI 일체형PC 할인 프로모션이 2023년 4월 20일부터 25일까지 진행된다. 프로모션 대상 제품은 MSI 모니터와 데스크탑을 합쳐 구매 가능한 일체형PC이며, 최대 18% 할인 혜택을 제공한다. 주요 제품으로는 MSI 모던 AM272, MSI 프로 AP241, MSI 프로 AP242 시리즈가 포함되며, 구매 시 무선 키보드/마우스를 무료로 증정한다.
 
-URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vbS53b3d0di5jby5rci9OZXdzQ2VudGVyL05ld3MvUmVhZD9hcnRpY2xlSWQ9QTIwMjMwNDIwMDE1NtIBAA?oc=5
+URL: https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmJvZG5hcmEuY28ua3IvYmJzL2FydGljbGUuaHRtbD9udW09MTg1NDA10gEA?oc=5
 
-제목: 우크라 '패트리엇' 배치‥러 'ICBM' 위협 - MBC뉴스
-요약: 우크라이나가 미국의 지대공 방공 체계인 패트리엇 미사일을 도입하여 대반격 작전을 준비하고 있다. 이에 러시아는 대륙간탄도미사일을 공개하며 위협하고 있으며, 중국은 러시아에 대한 군사적 지원에 대해 비판하고 있다.
+제목: '진실화해위원 탈락' 허상수 대통령실에 “임명 촉구” 의견서 제출 - 한겨레
+요약: 허상수 재경4·3희생자및피해자유족회 공동대표가 대통령실을 방문해 진실·화해를위한과거사정리위원회(진실화해위) 위원으로 임명되기 위한 촉구 의견서를 제출했다. 대통령실은 허 대표 임명 배제 방침을 굳히고 있으나 아직 국회에 공식적으로 통보하지는 않았다.
 
-URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253MTIwMC9hcnRpY2xlLzY0NzU5NDNfMzYxNzAuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253MTIwMC9hcnRpY2xlLzY0NzU5NDNfMzYxNzEuaHRtbA?oc=5
+URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDg4NzAzLmh0bWzSAQA?oc=5
 
-제목: 대통령실 “러시아 행동에 달려”…'우크라 무기 지원 보도' 진화 - 한겨레
-요약: 한국 대통령실이 우크라이나에 조건부 살상무기 지원 가능성을 시사한 윤석열 대통령의 발언과 관련하여 "우크라이나의 대량 민간인 희생이 발생하지 않는 한"이라는 조건부 답변을 내놓았다. 대통령실 고위 관계자는 "우리나라 국내법에 바깥 교전국에 대해서 무기지원을 금지한다는 법률조항은 없다"면서도 "여러 가지 한-러 관계를 안정적으로 동시에 관리해야 한다는 숙제를 동시에 충족시키고 있는 것"이라고 말했다.
+제목: 인구 앞세워 경제대국 꿈꾸는 인도…실업 등 난제는 수두룩 - 연합뉴스
+URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L0FLUjIwMjMwNDIwMTEyMjAwMDc30gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9BS1IyMDIzMDQyMDExMjIwMDA3Nw?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9wb2xpdGljc19nZW5lcmFsLzEwODg2NjguaHRtbNIBAA?oc=5
+제목: 엠폭스 환자 2명 늘어 총 20명‥"수영장 등에선 감염 가능성 낮아" - MBC뉴스
+요약: 국내 지역사회 감염으로 추정되는 '엠폭스' 환자가 2명 추가로 발생했다. 이들은 현재 격리병상에서 입원 치료 중이며, 상태는 양호한 것으로 전해졌다. 국내 엠폭스 확진자 거주지역은 서울, 경기, 경남, 경북, 대구, 전남, 충북까지 모두 7개 시도로 늘어났다. 질병청은 엠폭스 감염 경로는 고위험군이 주로 이용하는 시설 등에서의 피부·성접촉으로, 수영장이나 일반 다중이용시설을 이용할 때 감염 가능성은 거의 없다고 보고했다.
 
-제목: 라익미, 가성비 고화질 모니터 플레이 GL27QHD IPS 75 출시 - 케이벤치 (KBench)
-요약: 디지털 가전 그룹 라익미가 라익미 플레이 GL27QHD IPS 75 모니터를 출시한다. 이 모니터는 고화질 IPS 광시야각 패널을 탑재하며, 게이밍에서도 성능을 발휘하는 주사율 75Hz 및 응답속도 GTG 기준 4ms를 지원한다. 또한, AMD 프리싱크, OSD 버튼 조작 게임 모드, 나이트 비전 기능 등 다양한 기능을 제공하며, 라익미 아이케어 기술을 지원해 눈의 피로감을 줄인다. 이 모니터는 보더리스 베젤을 적용한 감각적인 디자인과 HDMI, USB, DP 등 다양한 단자를 지원한다.
+URL: https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9zb2NpZXR5L2FydGljbGUvNjQ3NTk5OV8zNjEyNi5odG1s0gFEaHR0cHM6Ly9pbW5ld3MuaW1iYy5jb20vbmV3cy8yMDIzL3NvY2lldHkvYXJ0aWNsZS82NDc1OTk5XzM2MTI3Lmh0bWw?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiIWh0dHBzOi8va2JlbmNoLmNvbS8_cT1ub2RlLzI0Mjk5ONIBAA?oc=5
+제목: 서울 아파트값, 강남4구 상승전환… 2주 연속 낙폭 둔화 - 한국주택경제신문
+요약: 한국부동산원이 발표한 조사결과에 따르면, 4월 셋째주 전국 주간 아파트 매매가격은 0.13% 하락하였으며, 전세가격도 0.2% 하락하였다. 전국적으로 매매가격은 하락폭이 축소되었으며, 세종시를 제외한 모든 지역에서 하락하였다. 서울시의 경우 가격 추가 하락 기대와 매물적체 영향으로 관망세가 지속되고 있으나, 일부 지역에서는 수요 발생으로 매물과 거래 가격이 상승하고 있다.
 
-제목: 전세사기 피해 27살 취준생 “괜찮다는 부모님…더 마음 아파” - 한겨레
-요약: 인천시 미추홀구에서 건축업자 남씨 일당으로부터 전세사기 피해를 당한 27살 취업준비생 ㄱ씨는 전세 대출 이자와 관리비 등으로 60만원가량을 내고 있다. 남씨 일당은 토지매입비나 건설비 등 필요 비용을 금융권에서 조달하고, 피해자들에겐 근저당권이 걸린 집을 싸게 임대하는 수법을 썼다. ㄱ씨는 9900만원을 대출 받아 마련한 전세 보증금 1억1천만원을 모두 날리게 될 상황에 처해있다. 미추홀구 피해자들이 사는 전셋집들의 경우 선순위 저당권을 잡고 있는 금융기관들이 많다. 경매에서 전셋집이 낙찰돼 시중 은행과 한국자산관리공사(캠코) 등의
+URL: https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vYXJ1bmV3cy5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTMxODQw0gEA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDg4NjY2Lmh0bWzSAQA?oc=5
+제목: [사진]데프콘-유민상-이수지-김해준, '맛있는 녀석들' 새로운 케미 - 조선비즈 - 조선비즈
+URL: https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vYml6LmNob3N1bi5jb20vZW50ZXJ0YWlubWVudC9lbnRlcl9nZW5lcmFsLzIwMjMvMDQvMjAvNERRUk5WWkVaSlNTNVZNSDU3VjZLNlpBUTQv0gFoaHR0cHM6Ly9iaXouY2hvc3VuLmNvbS9lbnRlcnRhaW5tZW50L2VudGVyX2dlbmVyYWwvMjAyMy8wNC8yMC80RFFSTlZaRVpKU1M1Vk1INTdWNks2WkFRNC8_b3V0cHV0VHlwZT1hbXA?oc=5
 
-제목: 현대차그룹 ‘달 탐사 전용 로버’ 개발모델 제작 본격화 - 정보통신신문
-요약: 현대차그룹이 국내 연구기관들과 함께 '달 탐사 전용 로버' 개발에 착수했다. 이번 로버는 달의 남극부에 착륙해 광물 채취 및 환경 분석 등 각종 과학 임무를 수행하는 것을 목표로 하며, 자체 충전 시스템과 자율주행 기술이 적용된다. 개발모델은 최대 중량 70kg을 목표로 하며, 상·하부로 구분되어 상부는 달 표면 탐사 기능을 주로 수행하게 되며, 하부는 구동계로서 현대차그룹의 혁신 기술이 대거 활용될 예정이다.
+제목: 메디포뉴스 - 메디포뉴스
+요약: 한국인유전체역학조사사업 자료를 활용한 연구 결과, 혈중 엽산 농도가 낮으면서 호모시스테인 농도가 높은 경우 사망 위험이 높다는 것이 밝혀졌다. 남성의 경우, 엽산 농도가 낮으면서 호모시스테인 농도가 높은 경우 심혈관질환으로 인한 사망 위험이 2.1배, 암으로 인한 사망 위험이 1.4배 높았다. 여성의 경우, 엽산 농도가 낮으면서 호모시스테인 농도가 높은 경우 암으로 인한 사망 위험이 높았다.
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHA6Ly93d3cua29pdC5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MTEyMDcy0gE7aHR0cDovL3d3dy5rb2l0LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz0xMTIwNzI?oc=5
+URL: https://news.google.com/rss/articles/CBMiNWh0dHA6Ly93d3cubWVkaWZvbmV3cy5jb20vbmV3cy9hcnRpY2xlLmh0bWw_bm89MTc3ODQy0gEA?oc=5
 
-제목: 엽산치 낮고 호모시스테인 높은 한국남성 심혈관질환 사망위험 2배 - 메디칼트리뷴
-요약: 한국인 중 혈중 엽산 수치가 낮고 호모시스테인이 높은 사람들은 질병 사망 위험이 높다는 연구결과가 나왔다. 호모시스테인은 엽산을 포함한 비타민 B군 섭취 부족 시 증가하는 황-함유 아미노산이며, 심혈관계 질환과 사망 위험 예측인자로 알려져 있다. 남자에서는 엽산 농도가 낮을수록 전체 사망과 심혈관질환 사망 위험이 높았으며, 고호모시스테인혈증까지 동반하면 둘 다 정상 범위인 군에 비해 심혈관질환 사망 위험은 2.1배, 암 사망 위험은 1.4배 높았다.
+제목: 이번엔 홀란드가 있다…맨시티, 1년 전 '탈락 수모' 설욕할까 - 한겨레
+요약: 맨체스터 시티가 UEFA 챔피언스리그 8강 2차전 바이에른 뮌헨과 1-1 무승부로 합산 점수 4-1로 4강에 진출했다. 이로써 맨시티는 3년 연속 챔피언스리그 4강 진출을 달성했으며, 레알 마드리드와의 재대결이 예상된다. 레알 마드리드는 첼시와의 8강전에서 2-0 완승을 거두며 16번째 4강행을 결정했다. 두 팀은 1년 전 4강에서 맞붙었으며, 이번에도 실질적 결승전이 예상된다.
 
-URL: https://news.google.com/rss/articles/CBMiQ2h0dHA6Ly93d3cubWVkaWNhbC10cmlidW5lLmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0yMDAzOTXSAUZodHRwOi8vd3d3Lm1lZGljYWwtdHJpYnVuZS5jby5rci9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89MjAwMzk1?oc=5
+URL: https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zcG9ydHMvc29jY2VyLzEwODg2NzYuaHRtbNIBAA?oc=5
 
-제목: 이재명, '돈봉투 지라시' 의원들에 확인 전화.."대표 사퇴해야" vs "무관"[여의도초대석] - KBC광주방송
-요약: 이재명 대표가 더불어민주당 전당대회 돈봉투 사건과 무관한데도 의원들에게 확인 전화를 한 것으로 보도되면서, 일부 의원들은 이에 대해 법적 조치를 취할 것이라고 밝혔다. 이에 대해 김병민 국민의힘 최고위원은 이 대표가 책임을 지고 사퇴해야 한다는 견해를 밝혔다. 반면에 배종호 세한대 교수는 돈봉투 사건과 이 대표가 무관하며, 검찰 수사를 통해 종지부가 찍힐 것이라고 내다봤다. 이 대표와 송영길 전 대표의 연관성을 의심하는 발언도 나왔다. 송영길 전 대표는 파리에 머물며, 조기 귀국 여부에 대해 "토요일에 말씀드리겠다"고 말했다.
+제목: 라익미, 가성비 고화질 모니터 '플레이 GL27QHD IPS 75' 출시 - 뉴스탭
+요약: 디지털 가전 그룹 라익미가 '라익미 플레이 GL27QHD IPS 75' 모니터를 출시한다. 이번 모니터는 QHD 고화질 해상도와 75Hz 주사율을 지원하는 27인치 광시야각 모니터로, AMD 프리싱크, OSD 버튼 조작 게임 모드, 나이트 비전 기능 등 게이밍에서도 성능을 발휘한다. 라익미는 출시를 기념해 50대 한정으로 일반 15만 9,000원 무결점 16만 9,000원에 판매한다.
 
-URL: https://news.google.com/rss/articles/CBMiMmh0dHA6Ly93d3cuaWtiYy5jby5rci9hcnRpY2xlL3ZpZXcva2JjMjAyMzA0MjAwMDI50gEA?oc=5
+URL: https://news.google.com/rss/articles/CBMiOWh0dHA6Ly9tLm5ld3N0YXAuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE5MTcxNdIBAA?oc=5
 
-제목: [오늘 이 뉴스] "러시아 간 우리 기업은 어쩌라고.. 국민 동의없이 또" 野 파상공세 (2023.04.20/MBC뉴스) - MBCNEWS
-URL: https://news.google.com/rss/articles/CCAiC0NLMHBPTU4xVEY4mAEB?oc=5
+제목: 시카고 도심서 흑인 청소년 소요…백인여성 집단구타도 - 연합뉴스TV
+요약: 미국 시카고 도심에서 청소년들이 소요를 일으켰습니다. 이벤트로 계획된 것으로 보이며, 백인 여성을 집단 구타하는 사건도 발생했습니다. 이날 소요는 소셜미디어에서 기획된 '틴 테이크 오버', '10대들의 도시 장악' 이벤트가 변질되면서 벌어졌습니다. 10대 두 명이 다치기도 했으며, 경찰은 범죄 단서들을 수집하고 있습니다.
 
-제목: 원자력연, 방사선 이용 콜레라균 독성 제어 실마리 찾았다 - 충청뉴스
-요약: 국내 연구진이 콜레라균의 독성 제어 방법을 발견했다. 콜레라균에 감염되면 과당을 수송하는 단백질이 증가하는데, 이를 억제하는 방법을 찾았다. 연구진은 HPr과 FruR 단백질의 결합 방식을 X-선 결정학을 이용해 밝혀냈다. 이를 통해 콜레라균의 독성을 제어할 수 있는 방법을 발견했다.
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNDIwMDA5ODAwMDMy0gEA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiO2h0dHA6Ly93d3cuY2NubmV3cy5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjkyMjE20gE-aHR0cDovL3d3dy5jY25uZXdzLmNvLmtyL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz0yOTIyMTY?oc=5
+제목: "와~이건 CG?"…류화영, 콜라병 몸매 '인증' - ZD넷 코리아
+URL: https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzA0MjAxMzI5NDfSAQA?oc=5
 
-제목: 휴마시스, 코로나19∙독감 동시 진단키트 식약처 제조허가 취득 - 서울경제TV
-URL: https://news.google.com/rss/articles/CBMiJ2h0dHA6Ly93d3cuc2VudHYuY28ua3IvbmV3cy92aWV3LzY1MzYzNdIBAA?oc=5
+제목: 태국 동물원서 중국 판다 또 돌연사…양국 공동 조사 - 연합뉴스
+URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L0FLUjIwMjMwNDIwMDg5MjAwMDc20gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9BS1IyMDIzMDQyMDA4OTIwMDA3Ng?oc=5
 
-제목: [자막뉴스] "우와! 저게 '테일링'이에요"..'이 공 뭐지?' 입이 '쩍' (MBC뉴스) - MBCNEWS
-URL: https://news.google.com/rss/articles/CCAiC1Jkc3Q1d2tKcTE0mAEB?oc=5
+제목: 경찰, 노래방 업주들 폭행·협박한 중국 출신 범죄단체 9명 검거...전원 송치 - 뉴스핌
+요약: 서울 구로구 가리봉동 일대에서 노래방 업주들을 폭행·협박해 보도방 이용을 강요한 범죄 조직 일당이 경찰에 검거됐다. 경찰은 중국 출신으로 이루어진 일당 7명을 검거하고, 이들은 모두 중국 출신으로 총책 포함 2명은 귀화자, 6명은 F비자를 가진 재외동포, 나머지 1명은 한국영주권자를 가진 것으로 파악됐다. 이들은 노래방 입구를 차량으로 막거나 주류판매와 도우미 영업을 한다는 허위 112신고로 영업을 방해하기도 했다.
 
-제목: 텐 하흐 감독이 전한 선수단 소식 - Man Utd
-요약: 뉴스 내용을 파악할 수 없습니다. 뉴스 내용을 입력해주세요.
-
-URL: https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5tYW51dGQuY29tL2tvL25ld3MvZGV0YWlsL2VyaWstdGVuLWhhZy1wcm92aWRlcy10ZWFtLW5ld3MtYWhlYWQtb2Ytc2V2aWxsYS1jbGFzaC1pbi1ldXJvcGEtbGVhZ3VlLXF1YXJ0ZXItZmluYWwtc2Vjb25kLWxlZ9IBigFodHRwczovL3d3dy5tYW51dGQuY29tL2tvL2FtcC9uZXdzL2RldGFpbC9lcmlrLXRlbi1oYWctcHJvdmlkZXMtdGVhbS1uZXdzLWFoZWFkLW9mLXNldmlsbGEtY2xhc2gtaW4tZXVyb3BhLWxlYWd1ZS1xdWFydGVyLWZpbmFsLXNlY29uZC1sZWc?oc=5
-
-제목: 최고위원회의 참석하는 김기현 대표 - 노컷뉴스
-URL: https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3Lm5vY3V0bmV3cy5jby5rci9uZXdzLzU5MzA3MDjSASpodHRwczovL20ubm9jdXRuZXdzLmNvLmtyL25ld3MvYW1wLzU5MzA3MDg?oc=5
-
-제목: [뉴스킹] (배종찬 김준일) 방미 앞둔 尹, 국정운영 지지율 분석 / 민주 '돈봉투 의혹'에 지지율 하락? / 태영호 막말에 전광훈까지, 국힘의 탈출구는?_230420 - YTN 라디오
-URL: https://news.google.com/rss/articles/CCAiC2MzWENwOXFtcDFnmAEB?oc=5
-
-제목: 티빙 드라마 '몸값' 칸 국제 시리즈페스티벌 각본상 / 연합뉴스TV (YonhapnewsTV) - 연합뉴스TV
-URL: https://news.google.com/rss/articles/CCAiC213Q09kNGJibXNNmAEB?oc=5
+URL: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lm5ld3NwaW0uY29tL25ld3Mvdmlldy8yMDIzMDQyMDAwMDUwM9IBMWh0dHBzOi8vbS5uZXdzcGltLmNvbS9uZXdzYW1wL3ZpZXcvMjAyMzA0MjAwMDA1MDM?oc=5
 
 
