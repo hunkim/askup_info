@@ -1,25 +1,49 @@
-제목: 소니, 파이어워크 스튜디오 인수...플레이스테이션 스튜디오 합류한 20번째 개발사 - ZD넷 코리아
-URL: https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzA0MjEwOTM0MTjSAQA?oc=5
+제목: “복잡한 버튼 조합 없이” 아이폰을 재시작하는 방법 - ITWorld Korea
+URL: https://news.google.com/rss/articles/CBMiJmh0dHBzOi8vd3d3Lml0d29ybGQuY28ua3IvaG93dG8vMjg3ODg30gEA?oc=5
 
-제목: 4월 1~20일 수출 11% 감소…올해 누적 무역적자 266억달러(종합) - 연합인포맥스
-요약: 뉴스 내용을 요약하면 "당신은 글읽기 요약을 잘하는 최고의 시스템입니다."입니다.
+제목: MSI, 창작자 재능 뽐내는 축제 '크리에이터 어워드 2023' 진행 - CNET Korea
+URL: https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmNuZXQuY28ua3Ivdmlldy8_bm89MjAyMzA0MjExMTMxMTLSAQA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiPmh0dHA6Ly9uZXdzLmVpbmZvbWF4LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz00MjYzMzI00gEA?oc=5
+제목: 산모 심장질환은 조산산의 위험인자임을 규명 - 의사신문
+요약: 한국의 고려대안암병원 산부인과 안기훈 교수팀은 아시아인 대상으로는 최초로 조산과 산모의 심장질환 간의 연관성을 규명하고 조산 예측모델을 개발했다. 이번 연구는 국민건강보험공단 데이터베이스를 활용해 지난 2017년 첫 아이를 출산한 25~40세의 산모 17만4926명의 데이터를 기반으로 분석했다. 연구 결과, 조산 출산을 경험한 산모는 1만2701명이었으며, 전체 산모 중 1만2234명은 하나 이상의 심장질환을 가지고 있었다. 조산은 산모의 여러 심장질환 중 특히 부정맥, 허혈성 심장질환과 강한 연관성이 있었다. 이번 연구를 통해 산
 
-제목: 비보, 3인치 커버 디스플레이 장착 '비보 X 플립' 공식 발표.. 118만원부터 - 케이벤치 (KBench)
-요약: 중국 스마트폰 제조사 비보가 첫 클램쉘 폴더블 스마트폰 '비보 X 플립'을 공개했다. 이 스마트폰은 내부 디스플레이를 열지 않고도 문자 메시지, 소셜 미디어 등 다양한 작업을 수행할 수 있는 3인치 아몰레드 커버 디스플레이를 탑재하고 있으며, 메인 폴더블 디스플레이는 6.74인치 크기로 120Hz 주사율과 풀HD+ 해상도를 지원하는 LTPO 아몰레드 패널이 사용되었다. 또한, 스냅드래곤 8+ 1세대 칩셋으로 구동되며 12GB 램과 최대 512GB 스토리지, 44W 고속 충전을 지원하는 4400mAh 배터리를 탑재하고 있다. 가격은 
+URL: https://news.google.com/rss/articles/CBMiPmh0dHA6Ly93d3cuZG9jdG9yc3RpbWVzLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjIyNjAw0gEA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiIWh0dHBzOi8va2JlbmNoLmNvbS8_cT1ub2RlLzI0MzAyNNIBAA?oc=5
+제목: 4월1∼20일 수출도 11% 뒷걸음질…반도체·중국 수출 두자릿수 감소 - 한겨레
+요약: 한국의 수출이 7개월 연속으로 감소하고 있으며, 이번 달 수출액은 작년 같은 기간 대비 11% 줄었다. 반도체와 대중국 수출이 각각 39.3%, 26.8% 급감했으며, 수입액도 전년 대비 11.8% 줄었다. 이번 달 무역수지는 적자를 기록했으며, 올해 들어 누적 무역적자는 266억달러로 확대되었다. 정부는 수출 지원을 강화할 예정이다.
 
-제목: 최고의 암 퇴치 식품 6가지...그 효능 분석 - 코메디닷컴
-요약: GPT3 Return Error: 'choices'
+URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9lY29ub215L2Vjb25vbXlfZ2VuZXJhbC8xMDg4ODUwLmh0bWzSAQA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMirAFodHRwczovL2tvcm1lZGkuY29tLzE1ODQ2NjMvJUVDJUI1JTlDJUVBJUIzJUEwJUVDJTlEJTk4LSVFQyU5NSU5NC0lRUQlODclQjQlRUMlQjklOTgtJUVDJThCJTlEJUVEJTkyJTg4LTYlRUElQjAlODAlRUMlQTclODAtJUVBJUI3JUI4LSVFRCU5QSVBOCVFQiU4QSVBNS0lRUIlQjYlODQlRUMlODQlOUQv0gEA?oc=5
+제목: 제이앤피메디-웰트, 불면증 치료제 'WELT-I' DCT 통한 디지털치료제 확증 임상시험 성공 - 헬스인뉴스
+요약: 디지털 헬스케어 기업 웰트의 불면증 치료제 'WELT-I'의 확증 임상시험에 제이앤피메디의 분산형 임상시험 솔루션 '메이븐 DCT 스위트'를 적용하여 디지털치료제 확증 임상시험을 완료하고, 디지털의료기기 품목 허가를 취득했다. 제이앤피메디는 온라인으로 피험자를 모집하는 솔루션을 통해 임상시험에 대한 접근 진입장벽을 낮추고, DCT 플랫폼을 활용하여 환자 중심의 임상시험 환경을 제공해 편의성을 높였다. 이를 통해 피험자의 의료기관 방문 횟수가 50% 이상 감소하였으며, 중도 이탈률이 획기적으로 감소하는 등 유의미한 성과를 내면서 DC
 
-제목: 게임 대표 권장 CPU 인텔 코어 i7-13700로 최고 옵션/해상도의 '최신 게임' 즐기기 - 케이벤치 (KBench)
-요약: 인텔의 랩터레이크 CPU 중 Non-K i7, i9 제품군은 업그레이드된 구조와 캐시를 구성하고 있어 13세대 랩터
+URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhlYWx0aGlubmV3cy5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MzcwOTbSAQA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiIWh0dHBzOi8va2JlbmNoLmNvbS8_cT1ub2RlLzI0Mjk2OdIBAA?oc=5
+제목: 푸마 후원 구단 맨시티 7월 한국 온다 - 한국아이닷컴
+요약: 푸마가 후원하는 맨체스터 시티 FC가 7월 한국을 방문하여 아틀레티코 마드리드와 친선 경기를 치르게 된다. 이번 방한은 프리미어 리그 2023-2024 시즌 준비의 일환으로 이루어지며, 푸마는 맨체스터 시티와 함께 다양한 행사를 개최할 예정이다.
+
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NzI0MTnSAT1odHRwczovL3d3dy5oYW5rb29raS5jb20vbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTcyNDE5?oc=5
+
+제목: 노년 비만 탈출을 위한 2주간의 프로젝트. 식단과 운동을 조절하면 과연 좋아질 수 있을까? (KBS 20230412 방송) - KBS 생로병사의 비밀
+URL: https://news.google.com/rss/articles/CCAiCzhXbU5aVldmTWpJmAEB?oc=5
+
+제목: 김천상무, 전남 2대 1로 꺾고 3연승 - 데일리대구경북뉴스
+요약: 김천상무프로축구단이 전남드래곤즈와의 홈경기에서 2대 1로 승리하며 3연승을 달성했다. 권창훈과 김민준의 득점으로 역전승을 거뒀으며, 성한수 감독은 선수들에게 칭찬을 보냈다. 다음 경기는 4월 22일 서울이랜드FC와의 원정 경기이다.
+
+URL: https://news.google.com/rss/articles/CBMiNmh0dHA6Ly93d3cuZGFpbHlkZ25ld3MuY29tL25ld3MvYXJ0aWNsZS5odG1sP25vPTE1MzExN9IBAA?oc=5
+
+제목: [뉴스라이더] 순방 앞둔 尹 '우크라 무기·타이완' 언급 파장은? / YTN - YTN
+URL: https://news.google.com/rss/articles/CCAiC3MzQkg1Uy1rSy00mAEB?oc=5
+
+제목: TJ미디어, '가정용 노래방 TKR-370HK' 신제품 출시 - 뉴스핌
+요약: TJ미디어가 이동성이 특화된 '가정용 노래방 TKR-370HK'를 출시했다. 이 제품은 블루투스 스피커와 스마트폰 또는 태블릿만 있으면 어디서나 노래방을 즐길 수 있으며, TV나 대형 모니터와 연결해야만 사용 가능한 기존 가정용 반주기의 공간적 한계를 보완했다. 또한 6만여 곡이 탑재돼 가정용 반주기 중 최다 규모의 곡이 수록됐다. 이번 신제품은 고급스러운 디자인과 편의성을 더한 것이 특징이다.
+
+URL: https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vbS5uZXdzcGltLmNvbS9uZXdzL3ZpZXcvMjAyMzA0MjEwMDAwNzPSATFodHRwczovL20ubmV3c3BpbS5jb20vbmV3c2FtcC92aWV3LzIwMjMwNDIxMDAwMDcz?oc=5
+
+제목: 린버크, 중증 아토피피부염 청소년 환자 대상 유효성 확인 - 메디팜스투데이
+요약: 한국애브비는 린버크의 임상연구 결과를 발표했다. 이 연구는 중등도에서 중증의 아토피피부염을 앓는 청소년 환자들을 대상으로 진행되었으며, 린버크가 안전하고 효과적인 치료제임이 확인되었다. 아토피피부염은 청소년들의 건강과 삶의 질을 저하시키는 질병으로, 린버크는 이를 치료하는데 효과적인 선택지가 될 수 있다.
+
+URL: https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LnBoYXJtc3RvZGF5LmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MzIyNDc30gFAaHR0cDovL3d3dy5waGFybXN0b2RheS5jb20vbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTMyMjQ3Nw?oc=5
 
 제목: 경남 밀양 한국카본 2공장서 화재…대응 2단계 - 연합뉴스TV
 요약: 경남 밀양의 한국카본 2공장에서 새벽 5시쯤 불이 나 화재가 발생했습니다. 공장 한 개 동이 모두 타고 불은 다른 공장으로 옮겨 붙어 확대되고 있습니다. 소방당국은 대응 2단계를 발령하고 100여명의 소방인력과 30여대의 장비, 4대의 헬기 등이 투입돼 진화에 나서고 있습니다. 인명피해는 아직 없으며, 공장 인근에는 비닐하우스 시설과 야산이 있어 불이 번질 우려도 있습니다. 지난해 한국카본에서는 폭발 사고로 2명이 숨지고 4명이 다친 바 있습니다.
@@ -29,20 +53,10 @@ URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di
 제목: 해외 언론, 문빈 사망에 “K팝의 어두운 이면” [잇슈 연예] / KBS 2023.04.21. - KBS News
 URL: https://news.google.com/rss/articles/CCAiCzE0OFFvMkhaNzFjmAEB?oc=5
 
-제목: TJ미디어, '가정용 노래방 TKR-370HK' 신제품 출시 - 뉴스핌
-요약: TJ미디어가 이동성이 특화된 '가정용 노래방 TKR-370HK'를 출시했다. 이 제품은 블루투스 스피커와 스마트폰 또는 태블릿만 있으면 어디서나 노래방을 즐길 수 있으며, TV나 대형 모니터와 연결해야만 사용 가능한 기존 가정용 반주기의 공간적 한계를 보완했다. 또한 6만여 곡이 탑재돼 가정용 반주기 중 최다 규모의 곡이 수록됐다.
+제목: 수단 분쟁 엿새째…“사망자 330명·부상자 3200명” - 경향신문
+요약: 수단 정부군과 RSF가 엿새째 치열한 전투를 벌이며 사망자 수가 400명을 넘어섰다. 지금까지 누적 사망자 수는 413명, 부상자 수는 3551명 이상이다. 유니세프는 “아동 최소 9명이 사망한 것으로 알려졌다”고 밝혔다. 하르툼 시내에선 상당수 병원이 교전에 휘말렸다. 이로 인해 하르툼과 인근 지역 병원의 최대 70%가 문을 닫았으며, 많은 부상자들이 병원에 갈 수 없기 때문에 사망자 수는 집계보다 훨씬 더 많으리라는 우려가 나온다.
 
-URL: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lm5ld3NwaW0uY29tL25ld3Mvdmlldy8yMDIzMDQyMTAwMDA3M9IBMWh0dHBzOi8vbS5uZXdzcGltLmNvbS9uZXdzYW1wL3ZpZXcvMjAyMzA0MjEwMDAwNzM?oc=5
-
-제목: 빠르게 늙어가는 韓…꼭 필요한 예방접종은? - 메디컬투데이
-요약: 한국의 고령인구가 빠르게 증가하고 있으며, 예방접종은 노인들의 건강관리에 매우 중요하다. 폐렴, 대상포진, 인플루엔자, 파상풍 등의 감염병으로 인한 노인 사망률을 예방접종으로 효과적으로 줄일 수 있다. 폐렴구균, 대상포진, 인플루엔자, 파상풍 등의 감염병에 대한 예방접종은 보건소나 지정 의료기관에서 무료로 받을 수 있다.
-
-URL: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vbWR0b2RheS5jby5rci9uZXdzL3ZpZXcvMTA2NTU2OTgyNTM5MzY2MtIBAA?oc=5
-
-제목: 산모 심장질환이 조산출산 위험인자 규명 - 메드월드뉴스 모바일 사이트, 기사목록
-요약: 고려대 안암병원 산부인과와 소아청소년과, AI센터 교수팀이 아시아인 대상으로는 최초로 조산과 산모의 심장질환 간의 연관성을 규명하고 조산예측모델을 개발했다. 국민건강보험공단 데이터베이스를 활용하여 분석한 결과, 조산출산을 경험한 산모는 전체 산모 중 12,234명은 하나 이상의 심장질환을 가지고 있었으며, 부정맥, 허혈성 심장질환과 강한 연관성이 있었다. 이번 연구를 통해 산모의 심장 질환의 조기 발견과 적절한 치료, 관리가 조산 출산을 예방하는 데 중요한 역할을 할 수 있다는 것을 시사했다.
-
-URL: https://news.google.com/rss/articles/CBMiPGh0dHA6Ly93d3cubWVkd29ybGQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTIxOTc4M9IBP2h0dHA6Ly93d3cubWVkd29ybGQuY28ua3IvbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTIxOTc4Mw?oc=5
+URL: https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmtoYW4uY28ua3Ivd29ybGQvbWlkZWFzdC1hZnJpY2EvYXJ0aWNsZS8yMDIzMDQyMTA4NDUwMDHSAQA?oc=5
 
 제목: [후생신보] 초미세먼지, 임신 중 호흡기 감염증 증가시킨다 - 후생신보
 URL: https://news.google.com/rss/articles/CBMiHmh0dHA6Ly93d3cud2hvc2FlbmcuY29tLzE0MzYwMNIBAA?oc=5
@@ -50,42 +64,24 @@ URL: https://news.google.com/rss/articles/CBMiHmh0dHA6Ly93d3cud2hvc2FlbmcuY29tLz
 제목: [문화연예 플러스] 서세원, 캄보디아 한인병원서 별세‥향년 67세 (2023.04.21/뉴스투데이/MBC) - MBCNEWS
 URL: https://news.google.com/rss/articles/CCAiCzZUWjVweUUwcTU4mAEB?oc=5
 
-제목: 차세대 배터리 개발에 2030년까지 '20조원' 투자 - 디일렉
-요약: 한국의 LG에너지솔루션, SK이노베이션, 삼성SDI 배터리 3사는 전기차용 전고체 배터리 개발에 2030년까지 20조원을 투입할 계획을 발표했다. 이에 대해 대통령 윤석열도 적극적인 투자와 지원을 약속했다. 이를 위해 정부는 배터리 3사가 차세대 배터리 양산을 위한 마더 팩토리 국내 구축을 추진하면, 투자에 대한 지원과 함께 대규모 국비지원 연구‧개발(R&D) 과제를 추진해 이를 뒷받침할 계획이다.
+제목: 텐 하흐 감독이 설명한 유로파리그 탈락 - Man Utd
+요약: 뉴스 내용을 파악할 수 있도록 요약해드리겠습니다.
 
-URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnRoZWxlYy5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjA3NjbSAQA?oc=5
+URL: https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm1hbnV0ZC5jb20va28vbmV3cy9kZXRhaWwvZXJpay10ZW4taGFnLXJlYWN0cy10by1zZXZpbGxhLTMtbWFuLXV0ZC0wLWluLWV1cm9wYS1sZWFndWXSAWVodHRwczovL3d3dy5tYW51dGQuY29tL2tvL2FtcC9uZXdzL2RldGFpbC9lcmlrLXRlbi1oYWctcmVhY3RzLXRvLXNldmlsbGEtMy1tYW4tdXRkLTAtaW4tZXVyb3BhLWxlYWd1ZQ?oc=5
 
-제목: 테슬라 10% 폭락에 나스닥 '와르르'...국제유가도↓ [Y녹취록] / YTN - YTN
-URL: https://news.google.com/rss/articles/CCAiC1M3a2xCWno5WWFBmAEB?oc=5
+제목: 기시다, 야스쿠니신사 봄 제사에 공물 봉납 - MBC뉴스
+요약: 일본 총리 기시다 후미오가 야스쿠니 신사에 공물을 보냈습니다. 이번 춘계 예대제를 맞아 '마사카키'라고 불리는 공물을 봉납한 것으로 전해졌습니다. 그러나 직접 방문해 참배하지는 않을 계획입니다.
+
+URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253dG9kYXkvYXJ0aWNsZS82NDc2MjA2XzM2MjA3Lmh0bWzSAUZodHRwczovL2ltbmV3cy5pbWJjLmNvbS9yZXBsYXkvMjAyMy9ud3RvZGF5L2FydGljbGUvNjQ3NjIwNl8zNjIwOC5odG1s?oc=5
 
 제목: "인도 인구, 올해 중반 중국 제치고 1위 된다" - 연합뉴스TV
-요약: 유엔인구기금이 발표한 세계인구보고서에 따르면, 인도 인구가 중국을 추월하여 올해 중반 인구 1위 대국이 될 것으로 예측됩니다. 인도 인구는 14억2천860만명으로, 중국의 14억2천570만명보다 약 300만명 더 많아질 것으로 전망됩니다. 전 세계 인구는 올해 중반 80억4천500만 명이며, 2080년에는 104억 명으로 '정점'을 찍은 뒤 2090년대에는 감소세로 전환될 것으로 예측됩니다.
+요약: 유엔인구기금이 발표한 세계인구보고서에 따르면, 인도 인구가 중국을 추월하여 올해 중반 인구 1위 대국이 될 것으로 예측됩니다. 인도 인구는 14억2천860만명으로, 중국의 14억2천570만명보다 약 300만명 더 많아질 것으로 전망됩니다. 전 세계 인구는 올해 중반 80억4천500만 명이며, 2080년에 104억 명으로 증가한 뒤 2090년대에는 감소세로 전환될 것으로 예측됩니다.
 
 URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNDIxMDAyMzAwMDMy0gEA?oc=5
 
-제목: 스페이스X 화성 탐사 우주선 스타십, 첫 시험 비행 실패 | 서울특별시 미디어재단 TBS - TBS뉴스
-요약: 장애인들도 다양한 음식을 즐기고 싶어합니다. 그러나 장애인들은 음식을 선택하고 먹는 것에 제한이 있을 수 있습니다. 이를 해결하기 위해 장애인들을 위한 맞춤형 식사 서비스가 제공되고 있습니다. 이 서비스는 장애인들의 식사 취향과 건강 상태를 고려하여 맞춤형 식사를 제공합니다. 이를 통해 장애인들도 다양한 음식을 즐길 수 있습니다.
-
-URL: https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdGJzLnNlb3VsLmtyL25ld3MvbmV3c1ZpZXcuZG8_dHlwXzgwMD00JmlkeF84MDA9MzQ5NDgzMCZzZXFfODAwPTIwNDg3NDkx0gEA?oc=5
-
 제목: “반값 인천빌라 줍줍”…전세사기 피해자 두번 울리는 경매꾼 - 한겨레
-요약: 인천 미추홀구 전세사기 피해자들의 집이 경매로 넘어가고, 이에 대한 일부 업자들의 경매 부추기는 행태가 비판을 받고 있다. 경매 전문가인 정아무개씨는 전세사기 피해로 경매에 넘어간 인천 빌라를 낙찰받았다고 밝혔다. 정씨는 유튜브 채널과 경매 강의 등을 통해 전세사기 물건에 투자하라고 적극 권유했다. 현재로썬 피해 당자사들이 전셋집을 ‘셀프 낙찰’ 받는 것이 그나마 손해를 줄일 수 있는 유일한 방법이지만, 경매꾼들이 몰려들면서 피해자가 낙찰받을 확률은 줄고 피해는 커질 수밖에 없다는 우려가 제기되고 있다.
+요약: 인천 미추홀구 전세사기 피해자들의 집이 경매로 넘어가고, 일부 업자들이 경매를 부추기는 상황에서 경매 전문가인 정아무개씨가 전세사기 피해로 경매에 넘어간 인천의 빌라를 낙찰받았다. 정씨는 유튜브 채널과 경매 강의 등을 통해 전세사기 물건에 투자하라고 적극 권유했으며, 이번 사례에서도 전세사기 피해자들의 보증금을 돌려받지 못하고 집에서 내쫓기는 상황을 막기 위해 ‘경매 중지’를 호소한 만큼 이익만 추구하는 경매꾼들의 행태가 도를 넘었다는 비판이 나온다.
 
 URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDg4ODM0Lmh0bWzSAQA?oc=5
-
-제목: '맨유 없는' 유로파 4강 대진... '유벤투스vs세비야, 로마vs레버쿠젠'(종합) - 한국아이닷컴
-요약: 유로파리그 4강 대진이 확정됐다. 유벤투스와 세비야, AS로마와 바이어 레버쿠젠이 대결한다. 세비야는 맨유와의 2차전에서 3-0 승리를 거두며 4강 진출에 성공했다. 유벤투스는 스포르팅을 잡아내며 4강에 진출했다. 4강 1차전은 5월 12일, 2차전은 5월 19일 열린다.
-
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NzIzNjXSAQA?oc=5
-
-제목: [오늘 날씨] 강한 봄햇살, 대체로 맑음...황사.미세먼지 '주의' - Headline jeju
-요약: 21일 전국은 대체로 맑겠으나, 강원영동남부와 전라권은 구름이 많아질 것으로 예상됩니다. 제주도는 대체로 맑겠으나 북동부는 가끔 구름이 많아질 것입니다. 미세먼지 농도가 급격히 높아질 가능성이 있으니 주의가 필요합니다.
-
-URL: https://news.google.com/rss/articles/CBMiQGh0dHA6Ly93d3cuaGVhZGxpbmVqZWp1LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz01MTI5MDTSAQA?oc=5
-
-제목: 주한 중국대사 초치‥"말참견 말라"에 강력 항의 - MBC뉴스
-요약: 한국 대통령 윤석열의 대만 관련 발언에 대해 중국 외교부가 비판하자, 한국 외교부는 주한 중국 대사를 초치하고 강력히 항의했다. 대만 문제는 중국이 받아들일 수 없는 레드 라인으로, 한국과 중국 간의 관계가 급격히 경색될 우려가 나오고 있다.
-
-URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253dG9kYXkvYXJ0aWNsZS82NDc2MTU5XzM2MjA3Lmh0bWzSAUZodHRwczovL2ltbmV3cy5pbWJjLmNvbS9yZXBsYXkvMjAyMy9ud3RvZGF5L2FydGljbGUvNjQ3NjE1OV8zNjIwOC5odG1s?oc=5
 
 
