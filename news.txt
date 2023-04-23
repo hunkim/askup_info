@@ -1,91 +1,93 @@
-제목: 하나 아닌 2개의 컴퓨터로 유튜브 스트리밍 방송을 한다면? > 리뷰 - 브레인박스
-URL: https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmJyYWluYm94LmNvLmtyL2Jicy9ib2FyZC5waHA_Ym9fdGFibGU9cmV2aWV3JndyX2lkPTg1MDAmcGFnZT0xMjDSAQA?oc=5
+제목: 삼성전자, 美 특허침해 소송서 4000억원 배상 평결 - 에너지경제
+요약: 삼성전자가 미국 반도체 기업 넷리스트에게 메모리 특허 침해로 4000억원 이상의 배상금을 지불해야 한다는 판결을 받았다. 넷리스트는 삼성전자의 고성능 컴퓨터에 사용되는 메모리 모듈이 자사의 특허 5건을 침해했다고 주장하며 소송을 제기했고, 배상금으로 4억 400만달러(5381억원)을 요구했다. 이에 대해 배심원단은 삼성전자의 특허 침해를 인정하면서 배상액을 3억 300만달러(4035억원) 이상으로 평결했다.
 
-제목: 프로스포츠 경기 할인·체력측정 즐긴다…23~29일 스포츠주간 - 디스커버리뉴스
-요약: 한국에서는 23일부터 29일까지 스포츠주간을 맞아 전국에서 각종 체육대회를 열고 프로스포츠 경기관람 할인, 체력측정, 종목체험 등 행사를 연다. 이번 스포츠주간을 계기로 국민들의 스포츠활동이 건강하고 행복한 삶을 누리는 밑거름이 되기를 바란다. 또한, 문화체육관광부는 운동하는 국민에게 포인트를 지급하는 ‘스포츠활동 인센티브’ 시범사업을 시작한다.
+URL: https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmVrbi5rci93ZWIvdmlldy5waHA_a2V5PTIwMjMwNDIyMDEwMDA1NzE00gEA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiPmh0dHA6Ly93d3cuZGlzY292ZXJ5bmV3cy5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89OTk1OTc30gEA?oc=5
+제목: 김은중호 U-20 월드컵 프랑스·감비아·온두라스 '한판 승부' - 한라일보
+요약: 한국 U-20 축구대표팀이 2023 FIFA 아르헨티나 U-20 월드컵 조 추첨에서 프랑스, 감비아, 온두라스와 함께 F조에 포함됐다. 이번 대회는 5월 20일부터 6월 11일까지 열리며, 한국은 1차 목표로 16강 진출을 선언했다.
+
+URL: https://news.google.com/rss/articles/CBMiOWh0dHA6Ly93d3cuaWhhbGxhLmNvbS9hcnRpY2xlLnBocD9haWQ9MTY4MjEyMTQwMTc0MTM1NzA1MdIBAA?oc=5
+
+제목: 쓸쓸한 빈소…“서세원 씨 주사제 맞다 돌연사” / KBS - KBS News
+URL: https://news.google.com/rss/articles/CCAiC2JRMlRZOGlRc3FjmAEB?oc=5
+
+제목: 코인베이스판 이더리움 레이어2 '베이스', 올해 메인넷 공개 전망 - 디지털투데이
+요약: 코인베이스가 이더리움 레이어2 네트워크 메인넷을 올해 공개할 예정이다. 이전에는 2월에 테스트넷 버전을 공개했으나, 구체적인 일정은 공유하지 않았다. 이번에는 총괄 프로젝트 담당자가 메인넷 출시 계획을 밝혔으며, 많은 개발자와 사용자들에게 쓰기 쉬운 제품을 제공하는 것에 초점을 맞추고 있다고 전했다.
+
+URL: https://news.google.com/rss/articles/CBMiQGh0dHA6Ly93d3cuZGlnaXRhbHRvZGF5LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz00NzQ2NTHSAQA?oc=5
+
+제목: 미 국무부, 중국의 윤 대통령 비난에 “한국과 대만 문제 계속 조율” - 경향신문
+요약: 미국 국무부는 중국이 윤석열 대통령의 대만 발언을 비난한 것과 관련해 한국과 함께 대만 문제의 평화로운 해결을 위해 협력할 것이라는 입장을 밝혔다. 이에 따라 대만인의 바람과 이해관계와 일관되게 양안 문제의 평화로운 해결을 지지하며, 대만 해협의 평화와 안정 유지를 포함해 공동 번영과 안보를 발전시키기 위해 인도-태평양의 우방-동맹과 조율할 것이라고 밝혔다. 또한 중국이 대만에 대한 군사, 외교, 경제적 압박을 중단하고 대화를 해야 한다는 입장을 재확인했다.
+
+URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmtoYW4uY28ua3Ivd29ybGQvYW1lcmljYS9hcnRpY2xlLzIwMjMwNDIyMDgyODAwMS8_a3JlZj1ydGHSAQA?oc=5
+
+제목: [표지로 읽는 과학] 소행성 충돌시 지구는 안전할까 - 동아사이언스
+요약: 국제학술지 '네이처'는 소행성 충돌의 위험성과 대처법을 다룬 다섯 편의 논문을 게재했다. 이번 주 표지로는 우주 공간에 떠 있는 소행성의 모습이 실렸다. 현재 소행성이 지구에 충돌할 위험은 '0'에 가깝지만, 과학자들은 소행성이 충돌했을 때 지구에 미치는 충격을 가늠하고 대처법을 고민하고 있다. 이를 위해 NASA는 DART 임무용 우주선을 지구에서 1100만km 떨어진 소행성에 충돌시켜 소행성 궤도를 변경시키는 데 성공한 바 있다.
+
+URL: https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vbS5kb25nYXNjaWVuY2UuY29tL25ld3MucGhwP2lkeD01OTUxM9IBAA?oc=5
+
+제목: 한러·한중 관계 '삐걱'…'전략적 모호성' 포기하나 / KBS 2023.04.22. - KBS News
+URL: https://news.google.com/rss/articles/CCAiC292Qk10bDRheWkwmAEB?oc=5
+
+제목: "여기요! 돈통이 뜯겨 있어요!" 한밤 2인조 무모한 연장질 - MBC뉴스
+요약: 서울 관악구의 무인 아이스크림 가게에서 10대 미성년자 2명이 망치와 봉투를 가지고 들어와 돈통을 털었습니다. CCTV를 통해 범인들을 추적해 잡았으며, 이들은 고등학교 1학년과 중학교 3학년으로 확인됐습니다. 이들은 오토바이를 타고 도주하다가 잡혔으며, 절도와 도로교통법 위반 등의 혐의로 입건됐습니다.
+
+URL: https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9zb2NpZXR5L2FydGljbGUvNjQ3NjU0NV8zNjEyNi5odG1s0gEA?oc=5
+
+제목: 빠르게 늙어가는 한국…고령인에게 꼭 필요한 접종 4가지 - 한국일보
+요약: 세계 예방접종 주간을 맞아, 고령인을 위한 예방접종에 대한 정보가 공개되었다. 고령인은 면역력이 취약하기 때문에 예방접종이 더욱 필요하다. 이에 따라, 폐렴구균, 대상포진, 인플루엔자, 파상풍 등 4가지 백신이 소개되었다. 폐렴구균 백신은 23가 다당류 백신과 13가 단백질접합 백신으로 나뉘며, 대상포진 예방접종은 50세 이상에 권장된다. 인플루엔자 예방접종은 지정 의료기관이나 보건소에서 쉽게 할 수 있으며, 파상풍 예방접종은 10년마다 재접종해야 한다.
+
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpbGJvLmNvbS9OZXdzL1JlYWQvQTIwMjMwNDIyMDAwMTAwMDI2MzXSAQA?oc=5
+
+제목: 전세사기 비극…은행들 "피해자 돕겠다" 이자감면 꺼낸 배경엔 - 머니투데이
+요약: 인천과 경기 지역에서 발생한 전세사기 피해자들의 주거 안정을 위해 우리은행, KB국민은행, 신한은행, 하나은행 등 주요 은행들이 저리 대출과 비금융 지원에 나섰다. 우리은행은 5300억원 규모의 대출을 낮은 금리
+
+URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwNDIxMTM0MzIxNTI5ODDSAT1odHRwczovL20ubXQuY28ua3IvcmVuZXcvdmlld19hbXAuaHRtbD9ubz0yMDIzMDQyMTEzNDMyMTUyOTgw?oc=5
+
+제목: [심부전과 살아가기] 심장에 좋은 영양제는? - 이데일리
+요약: GPT3 Return Error: 'choices'
+
+URL: https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmVkYWlseS5jby5rci9uZXdzL3JlYWQ_bmV3c0lkPTAxMTU0NTY2NjM1NTc4NzQ0Jm1lZGlhQ29kZU5vPTI1N9IBAA?oc=5
+
+제목: 롯데바이오로직스‧셀트리온 눈독 들인 '피노바이오'는 어디? - 청년의사
+요약: 국내 제약바이오기업들이 ADC(항체-약물결합체) 전문 바이오 벤처인 '피노바이오'에 전략적 투자를 진행하고 있다. 롯데바이오로직스와 안국약품이 최근 투자를 하며, 셀트리온과 에스티팜도 전략적 투자자로 참여하고 있다. 피노바이오는 ADC 플랫폼 'PINOT-ADC'를 개발하고 있으며, 자체 ADC 신약 파이프라인으로 'PBX' 시리즈를 개발 중이다. 또한, 저분자 신약 파이프라인으로는 녹내장 치료제 후보물질 'NTX-101'과 표적항암제 'NTX-301'을 개발 중이다. 이번 투자를 통해 롯데바이오로직스는 ADC CMC(제조공정) 개
+
+URL: https://news.google.com/rss/articles/CBMiPmh0dHA6Ly93d3cuZG9jZG9jZG9jLmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0zMDA1MTM10gFBaHR0cDovL3d3dy5kb2Nkb2Nkb2MuY28ua3IvbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTMwMDUxMzU?oc=5
+
+제목: 미세먼지에 운동 미루다간 관절염 더욱 심해질 수도 - 서울경제 - 서울경제신문
+요약: 미세먼지는 호흡기 질환을 악화시키고 사망률을 높이는 것으로 알려져 있지만, 적절한 운동은 건강에 좋다. 류마티스 관절염과 퇴행성 관절염 환자도 운동을 하는 것이 권장되며, 수중 운동, 요가, 간단한 걷기 등의 운동을 하는 것이 좋다. 미세먼지가 심할 때는 보건용 마스크를 쓰고, 실외 활동을 마친 후에는 손 씻기 등 위생 관리를 철저히 해야 한다. 또한, 호흡기에 좋은 영양소를 섭취하는 것도 좋다.
+
+URL: https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LnNlZGFpbHkuY29tL05ld3NWaWV3LzI5T0VHUlpWMU3SASxodHRwczovL20uc2VkYWlseS5jb20vTmV3c1ZpZXdBbXAvMjlPRUdSWlYxTQ?oc=5
+
+제목: 면역항암요법 이상반응 중 2.7%는 정신의학적 부작용 - 의약뉴스
+요약: 면역항암제를 복용하는 환자들의 이상반응 중 정신의학적 부작용은 적지만, 치명적인 결과로 이어질 수 있다는 연구 결과가 발표됐다. 미국식품의약국의 이상반응보고시스템을 분석한 결과, 면역항암제 투약 환자에서 보고된 이상반응 중 2.71%만이 정신의학적 부작용으로 확인됐다. 이 중 21.54%는 치명적인 결과로 이어졌으며, 연령, 성별, 항암화학 병용요법 등이 위험도에 영향을 미치는 것으로 나타났다.
+
+URL: https://news.google.com/rss/articles/CBMiOGh0dHA6Ly93d3cubmV3c21wLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjMyMjEy0gE7aHR0cDovL3d3dy5uZXdzbXAuY29tL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz0yMzIyMTI?oc=5
+
+제목: “이 성전 허물어질 것이다” 유대인 놀래킨 예수의 파격 - 중앙일보
+요약: 이집트의 파라오가 유대 백성을 풀어주지 않겠다고 하자, 모세는 경고했다. 그리고 유대인들은 문틀에 어린 양의 피를 발랐다. 그날을 '파스카(Pascha)'라 부르며, 이 사건은 이집트에서 유대인이 해방되는 결정적 계기가 됐다. 유대인들은 유월절을 맞아 양을 잡고, 양의 피를 우슬초에 적셔 집 문틀에 발랐다. 이는 죽음을 피하고자 하는 인간의 오랜 갈망이 담겨 있었다.
+
+URL: https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3Lmpvb25nYW5nLmNvLmtyL2FydGljbGUvMjUxNTY0ODDSAQA?oc=5
+
+제목: 백악관, 러 위협에 "韓은 조약 동맹...정상회담에서 北·中·우크라 등 논의" - 뉴스핌
+요약: 미국 백악관은 윤석열 대통령의 방문 중 북한, 중국, 우크라이나 문제가 논의될 것이라고 밝혔다. 또한, 한미 정상회담과 관련해 북한과 중국의 도전에 대해 대화할 것으로 예상된다. 윤 대통령이 우크라이나에 무기를 지원할 수 있다고 언급한 것에 대해 미국은 감사하다는 입장을 밝혔다.
+
+URL: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lm5ld3NwaW0uY29tL25ld3Mvdmlldy8yMDIzMDQyMjAwMDAwONIBMWh0dHBzOi8vbS5uZXdzcGltLmNvbS9uZXdzYW1wL3ZpZXcvMjAyMzA0MjIwMDAwMDg?oc=5
+
+제목: 유력했던 후보 모두 제외…첼시 새 사령탑 'SON 스승' 급부상 - Goal.com
+URL: https://news.google.com/rss/articles/CBMizgRodHRwczovL3d3dy5nb2FsLmNvbS9rci8lRUIlODklQjQlRUMlOEElQTQvJUUxJTg0JThFJUUxJTg1JUFFJUUxJTg2JUJDJUUxJTg0JTgwJUUxJTg1JUE3JUUxJTg2JUE4LSVFMSU4NCU4QiVFMSU4NSVCMiVFMSU4NCU4NSVFMSU4NSVBNyVFMSU4NiVBOCVFMSU4NCU5MiVFMSU4NSVBMiVFMSU4NiVCQiVFMSU4NCU4MyVFMSU4NSVBNSVFMSU4NiVBQi0lRTElODQlOTIlRTElODUlQUUlRTElODQlODclRTElODUlQTktJUUxJTg0JTg2JUUxJTg1JUE5JUUxJTg0JTgzJUUxJTg1JUFFLSVFMSU4NCU4QyVFMSU4NSVBNiVFMSU4NCU4QiVFMSU4NSVBQy0tJUUxJTg0JThFJUUxJTg1JUE2JUUxJTg2JUFGJUUxJTg0JTg5JUUxJTg1JUI1LSVFMSU4NCU4OSVFMSU4NSVBMi0lRTElODQlODklRTElODUlQTElRTElODQlODUlRTElODUlQTclRTElODYlQkMlRTElODQlOTAlRTElODUlQTElRTElODYlQjgtc29uLSVFMSU4NCU4OSVFMSU4NSVCMyVFMSU4NCU4OSVFMSU4NSVCMyVFMSU4NiVCQy0lRTElODQlODAlRTElODUlQjMlRTElODYlQjglRTElODQlODclRTElODUlQUUlRTElODQlODklRTElODUlQTElRTElODYlQkMvYmx0N2U3NjFjNGQ0ZjNkODFhONIB0gRodHRwczovL3d3dy5nb2FsLmNvbS9rci9hbXAvJUVCJTg5JUI0JUVDJThBJUE0LyVFMSU4NCU4RSVFMSU4NSVBRSVFMSU4NiVCQyVFMSU4NCU4MCVFMSU4NSVBNyVFMSU4NiVBOC0lRTElODQlOEIlRTElODUlQjIlRTElODQlODUlRTElODUlQTclRTElODYlQTglRTElODQlOTIlRTElODUlQTIlRTElODYlQkIlRTElODQlODMlRTElODUlQTUlRTElODYlQUItJUUxJTg0JTkyJUUxJTg1JUFFJUUxJTg0JTg3JUUxJTg1JUE5LSVFMSU4NCU4NiVFMSU4NSVBOSVFMSU4NCU4MyVFMSU4NSVBRS0lRTElODQlOEMlRTElODUlQTYlRTElODQlOEIlRTElODUlQUMtLSVFMSU4NCU4RSVFMSU4NSVBNiVFMSU4NiVBRiVFMSU4NCU4OSVFMSU4NSVCNS0lRTElODQlODklRTElODUlQTItJUUxJTg0JTg5JUUxJTg1JUExJUUxJTg0JTg1JUUxJTg1JUE3JUUxJTg2JUJDJUUxJTg0JTkwJUUxJTg1JUExJUUxJTg2JUI4LXNvbi0lRTElODQlODklRTElODUlQjMlRTElODQlODklRTElODUlQjMlRTElODYlQkMtJUUxJTg0JTgwJUUxJTg1JUIzJUUxJTg2JUI4JUUxJTg0JTg3JUUxJTg1JUFFJUUxJTg0JTg5JUUxJTg1JUExJUUxJTg2JUJDL2JsdDdlNzYxYzRkNGYzZDgxYTg?oc=5
+
+제목: ‘여중생 필로폰 사건’ 같은 반 2명 함께 투약 - 조선일보 - 조선일보
+URL: https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmNob3N1bi5jb20vbmF0aW9uYWwvcmVnaW9uYWwvMjAyMy8wNC8yMi9LVzc1TDdDV1BCQjNEUFVNN0ZJSU83TE9STS_SAV5odHRwczovL3d3dy5jaG9zdW4uY29tL25hdGlvbmFsL3JlZ2lvbmFsLzIwMjMvMDQvMjIvS1c3NUw3Q1dQQkIzRFBVTTdGSUlPN0xPUk0vP291dHB1dFR5cGU9YW1w?oc=5
+
+제목: 민주당 돈봉투 의혹 강래구 구속영장 기각‥검찰 "기각 납득 안돼" - MBC뉴스
+요약: 강래구 전 한국수자원공사 상임감사는 2021년 더불어민주당 전당대회에서 불법자금 8천만 원을 마련하고 일부는 직접 전달한 혐의로 구속영장이 청구되었으나, 법원에서 기각되었다. 검찰은 강 전 감사가 증거인멸을 시도하거나 다른 관련자들에게 허위사실을 진술하도록 회유했다는 이유로 구속영장을 청구했지만, 법원은 받아들이지 않았다. 검찰은 보강 수사를 통해 강 전 감사에 대한 구속영장을 다시 청구할지 검토 중이다.
+
+URL: https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9zb2NpZXR5L2FydGljbGUvNjQ3NjUxN18zNjEyNi5odG1s0gFEaHR0cHM6Ly9pbW5ld3MuaW1iYy5jb20vbmV3cy8yMDIzL3NvY2lldHkvYXJ0aWNsZS82NDc2NTE3XzM2MTI3Lmh0bWw?oc=5
 
 제목: 故 문빈 발인식·장지 비공개 '유가족 뜻 따라…마지막 길 아름답게'[공식] - 한국아이닷컴
-요약: 문빈의 발인식과 장지는 유가족의 뜻에 따라 비공개로 엄수된다. 이에 소속사는 너그러운 양해를 부탁하며, 고인의 마지막 가는 길을 아름답게 잘 보내드릴 수 있도록 노력할 것이라 밝혔다. 문빈은 19일 오후 서울 강남구의 자택에서 숨진 채 발견됐다.
+요약: 문빈의 발인식과 장지는 비공개로 엄수된다. 소속사는 유가족의 뜻에 따라 발인식과 장지를 공개하지 않는다고 밝혔다. 고인의 빈소는 서울아산병원 장례식장에 마련되었으며, 발인은 22일이다.
 
 URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NzI2MjDSAT1odHRwczovL3d3dy5oYW5rb29raS5jb20vbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTcyNjIw?oc=5
-
-제목: [오피셜] 김은중호, U-20 월드컵서 프랑스·온두라스·감비아와 한 조 - Goal.com
-URL: https://news.google.com/rss/articles/CBMi1QRodHRwczovL3d3dy5nb2FsLmNvbS9rci8lRUIlODklQjQlRUMlOEElQTQvJUUxJTg0JThCJUUxJTg1JUE5JUUxJTg0JTkxJUUxJTg1JUI1JUUxJTg0JTg5JUUxJTg1JUE3JUUxJTg2JUFGLSVFMSU4NCU4MCVFMSU4NSVCNSVFMSU4NiVCNyVFMSU4NCU4QiVFMSU4NSVCMyVFMSU4NiVBQiVFMSU4NCU4QyVFMSU4NSVBRSVFMSU4NiVCQyVFMSU4NCU5MiVFMSU4NSVBOS11LTIwLSVFMSU4NCU4QiVFMSU4NSVBRiVFMSU4NiVBRiVFMSU4NCU4MyVFMSU4NSVCMyVFMSU4NCU4RiVFMSU4NSVBNSVFMSU4NiVCOCVFMSU4NCU4OSVFMSU4NSVBNS0lRTElODQlOTElRTElODUlQjMlRTElODQlODUlRTElODUlQTElRTElODYlQkMlRTElODQlODklRTElODUlQjMtJUUxJTg0JThCJUUxJTg1JUE5JUUxJTg2JUFCJUUxJTg0JTgzJUUxJTg1JUFFJUUxJTg0JTg1JUUxJTg1JUExJUUxJTg0JTg5JUUxJTg1JUIzLSVFMSU4NCU4MCVFMSU4NSVBMSVFMSU4NiVCNyVFMSU4NCU4NyVFMSU4NSVCNSVFMSU4NCU4QiVFMSU4NSVBMSVFMSU4NCU4QiVFMSU4NSVBQS0lRTElODQlOTIlRTElODUlQTElRTElODYlQUItJUUxJTg0JThDJUUxJTg1JUE5L2JsdDgwZjE0ZWZlZTVmNDQwNjPSAdkEaHR0cHM6Ly93d3cuZ29hbC5jb20va3IvYW1wLyVFQiU4OSVCNCVFQyU4QSVBNC8lRTElODQlOEIlRTElODUlQTklRTElODQlOTElRTElODUlQjUlRTElODQlODklRTElODUlQTclRTElODYlQUYtJUUxJTg0JTgwJUUxJTg1JUI1JUUxJTg2JUI3JUUxJTg0JThCJUUxJTg1JUIzJUUxJTg2JUFCJUUxJTg0JThDJUUxJTg1JUFFJUUxJTg2JUJDJUUxJTg0JTkyJUUxJTg1JUE5LXUtMjAtJUUxJTg0JThCJUUxJTg1JUFGJUUxJTg2JUFGJUUxJTg0JTgzJUUxJTg1JUIzJUUxJTg0JThGJUUxJTg1JUE1JUUxJTg2JUI4JUUxJTg0JTg5JUUxJTg1JUE1LSVFMSU4NCU5MSVFMSU4NSVCMyVFMSU4NCU4NSVFMSU4NSVBMSVFMSU4NiVCQyVFMSU4NCU4OSVFMSU4NSVCMy0lRTElODQlOEIlRTElODUlQTklRTElODYlQUIlRTElODQlODMlRTElODUlQUUlRTElODQlODUlRTElODUlQTElRTElODQlODklRTElODUlQjMtJUUxJTg0JTgwJUUxJTg1JUExJUUxJTg2JUI3JUUxJTg0JTg3JUUxJTg1JUI1JUUxJTg0JThCJUUxJTg1JUExJUUxJTg0JThCJUUxJTg1JUFBLSVFMSU4NCU5MiVFMSU4NSVBMSVFMSU4NiVBQi0lRTElODQlOEMlRTElODUlQTkvYmx0ODBmMTRlZmVlNWY0NDA2Mw?oc=5
-
-제목: '민주당 돈 봉투' 의혹 강래구 구속영장 기각 - MBC뉴스
-요약: 강래구 한국감사협회장은 민주당 당직자 등과 공모해 선거운동 관계자와 선거인 등에게 9천400만 원을 살포한 혐의와 이전에 이정근 전 민주당 사무부총장에게 뒷돈을 건넨 사업가 박 모 씨로부터 300만 원을 받은 혐의를 받고 있었습니다. 그러나 구속영장이 기각되었으며, 재판부는 "현재까지 제출된 자료만으로는 피의자 등에 대한 압수수색 이후에 피의자가 직접 증거인멸을 시도했다거나 다른 관련자들에게 증거인멸과 허위사실 진술 등을 하도록 회유했다고 단정하기 어렵다"며 영장 기각 사유를 설명했습니다.
-
-URL: https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9zb2NpZXR5L2FydGljbGUvNjQ3NjUxMV8zNjEyNi5odG1s0gFEaHR0cHM6Ly9pbW5ld3MuaW1iYy5jb20vbmV3cy8yMDIzL3NvY2lldHkvYXJ0aWNsZS82NDc2NTExXzM2MTI3Lmh0bWw?oc=5
-
-제목: [공덕포차 엑기스] 민주당 '돈봉투' 의혹... “송영길, 기자회견서 꼭 말해야 할 두 가지는...” - 한겨레
-요약: 더불어민주당의 ‘돈봉투’ 의혹으로 인해 지지율이 급락하고 있으며, 송영길 전 대표의 직간접적인 녹취록이 계속 나오면서 민주당 내에서는 ‘송영길 책임론’의 목소리가 커지고 있다. 송 전 대표는 22일 기자회견에서 입장을 밝힌 뒤 조기 귀국할 것으로 보인다.
-
-URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9wb2xpdGljc19nZW5lcmFsLzEwODg5MzkuaHRtbNIBAA?oc=5
-
-제목: “모든 독감 예방하는 백신 나온다” - 코메디닷컴
-요약: 미국 국립알레르기‧전염병연구소(NIAID) 백신연구센터 연구진은 A형 독감의 여러 균주에 대한 항체 형성에 성공한 초기 임상시험 결과를 발표했다. 이를 토대로 모든 종류의 독감 바이러스를 예방할 수 있는 범용 독감 백신이 5년~10년 사이에 개발될 수 있을 것으로 예상된다. 현재 사용 가능한 독감 백신은 A형 독감 2종과 B형 독감 2종 등 4종의 독감 균주에 대항할 수 있도록 인체를 준비시킨다.
-
-URL: https://news.google.com/rss/articles/CBMilgFodHRwczovL2tvcm1lZGkuY29tLzE1ODQ4MzcvJUVCJUFBJUE4JUVCJTkzJUEwLSVFQiU4RiU4NSVFQSVCMCU5MC0lRUMlOTglODglRUIlQjAlQTklRUQlOTUlOTglRUIlOEElOTQtJUVCJUIwJUIxJUVDJThCJUEwLSVFQiU4MiU5OCVFQyU5OCVBOCVFQiU4QiVBNC_SAQA?oc=5
-
-제목: 코로나 걸리고 목에서 피가래가…어떻게 해야 할까? [건강톡톡] - 하이닥
-요약: 신종 코로나바이러스 감염증(코로나19) 신규 확진자는 21일 1만3,596명을 기록했다. 이는 10주 만에 가장 많은 수치이다. 이 가운데 완치 후에도 마른 기침과 가래 등의 증상이 지속된다며, 우려를 표하는 환자들이 많다. 가래에 피가 나온다는 사례도 적지 않게 발생하고 있다. 이에 대해 하이닥 전문의들은 코로나 감염 후 피가래 증상을 호소하는 경우, 인두나 후두의 점막의 상처로 인한 출혈일 가능성이 많다고 설명했다.
-
-URL: https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LmhpZG9jLmNvLmtyL2hlYWx0aHN0b3J5L25ld3MvQzAwMDA3ODYyMzPSAQA?oc=5
-
-제목: [톱플레이] '치명적 실수에 자멸' 맨유‥유로파리그 8강 탈락 - MBC뉴스
-요약: 맨체스터 유나이티드가 유로파리그 8강 2차전에서 실수로 패배하고 탈락했다. 또 다른 뉴스에서는 무키 베츠가 유격수로 데뷔 후 처음으로 땅볼을 잡아내는 등 수비에서 뛰어난 모습을 보였고, 양키스의 카이너 팔레파도 멋진 수비로 위기를 막아냈다.
-
-URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NzY0OTdfMzYxOTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0NzY0OTdfMzYyMDAuaHRtbA?oc=5
-
-제목: [단독] "중국은 러시아…끔찍할 것" 뒤집힌 지도 놓고 한 말 / SBS 8뉴스 - SBS 뉴스
-URL: https://news.google.com/rss/articles/CCAiC3l0Qjh2WTVod1k4mAEB?oc=5
-
-제목: 3D 프린터로 인쇄한 씨앗 로봇, 배터리도 없이 땅 파고 들어간다 - 파퓰러사이언스
-요약: 이탈리아 공과대학교 연구진은 토양의 오염물질, 이산화탄소 수준, 온도 및 습도를 관찰하는 센서를 가진 생분해성 로봇을 개발했다. 이 로봇은 지반 속으로 파고들어가 측정을 시작하며, 스스로 변형하는 소재를 다루는 3D 프린터로 출력할 수 있다. 이 로봇은 남아프리카 제라늄과 페라고늄 아펜디쿨라텀의 구조를 모방하여 개발되었으며, 생분해성 소재를 사용해 땅을 오염시키지 않으면서 전력 공급원 없이 움직일 수 있다.
-
-URL: https://news.google.com/rss/articles/CBMiOWh0dHA6Ly93d3cucG9wc2NpLmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0yMDczOdIBPGh0dHA6Ly93d3cucG9wc2NpLmNvLmtyL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz0yMDczOQ?oc=5
-
-제목: LH가 전세사기 주택 사들인다…원희룡 '매입 어렵다'서 태도 바꿔 - 한겨레
-요약: 정부가 한국토지주택공사(LH)의 매입임대주택 제도를 활용해 전세사기 피해 주택을 사들이기로 결정했다. 이에 따라 전국에서 대규모 전세사기 피해가 잇따르자 특단 조처에 나선 것으로 풀이된다. 엘에이치 매입임대주택을 활용해 전세사기 피해 물건을 최우선 매입 대상으로 지정하고, 피해 임차인에게는 경매에 나온 주택의 우선매수권을 줄 계획이다. 하지만 선순위 채권자가 있는 경우 보증금 회수는 불투명하며, 매입 대상을 어떻게 정할지에 대한 심의도 필요해 보인다.
-
-URL: https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9lY29ub215L3Byb3BlcnR5LzEwODg5MzQuaHRtbNIBAA?oc=5
-
-제목: 캄보디아 경찰 “서세원 씨, 주사 맞다 돌연사”…“한국서 장례식” / KBS 2023.04.21. - KBS News
-URL: https://news.google.com/rss/articles/CCAiC2YwdndTd3phM21BmAEB?oc=5
-
-제목: Xbox, 'Elite 시리즈 2' 컨트롤러 커스터마이징 색상 옵션 업데이트 - ACROFAN South Korea
-URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8va3IuYWNyb2Zhbi5jb20vZGV0YWlsLnBocD9udW1iZXI9Mjk1MDUw0gEA?oc=5
-
-제목: 좀비 때려잡을 시간이다! 데드 아일랜드 2 정식 출시 - 게임메카
-요약: 데드 아일랜드 2가 PC, PS5, PS4, Xbox 시리즈 X, Xbox One을 통해 출시되었다. 이 게임은 좀비에 오염된 로스앤젤레스를 배경으로 한 좀비 학살 액션 게임으로, 6명의 캐릭터 중 한 명으로 플레이하며, 카드 형식의 스킬 시스템으로 전투를 즐길 수 있다. 게임의 핵심은 좀비 액션이며, 'FLESH' 시스템으로 좀비를 부수는 액션을 더 생생하고 짜릿하게 경험할 수 있다. 또한, 한정판인 데드 아일랜드 2 헬에이 에디션은 한정 스틸북 및 타로 카드 등 다양한 아이템으로 구성되어 있다.
-
-URL: https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LmdhbWVtZWNhLmNvbS92aWV3LnBocD9naWQ9MTcxMjEwMdIBL2h0dHBzOi8vbS5nYW1lbWVjYS5jb20vYW1wL3ZpZXcucGhwP2dpZD0xNzEyMTAx?oc=5
-
-제목: 中외교 "불장난하면 타 죽어"…주한중국대사 초치에도 항의 - 연합뉴스TV
-요약: 중국 외교부장이 대만 문제와 관련해 "불장난하면 타 죽어"라는 발언을 하며 강경 메시지를 내놓았다. 이 발언은 윤석열 대통령의 '힘에 의한 대만해협 현상 변경에 반대한다'는 발언을 겨냥한 것으로 추정되며, 한중 간 거친 외교 설전이 이어지고 있다. 중국은 한미정상회담에도 촉각을 곤두세우고 있으며, 한국이 대중국 디커플링에 동참할지 여부도 주시할 것으로 보인다.
-
-URL: https://news.google.com/rss/articles/CBMiNGh0dHBzOi8veW9uaGFwbmV3c3R2LmNvLmtyL25ld3MvTVlIMjAyMzA0MjEwMTkxMDA2NDHSAQA?oc=5
-
-제목: 화성과 지구의 거리…'줌 회의'는 버겁다 - 한겨레
-요약: 한겨레S 기사는 화상회의로 인해 느끼는 불편함과 인간이 가진 다양한 감각들이 필요한 이유를 다루고, 과학소설 <별의 목소리>를 소개하며 우주 탐사와 그로 인한 그리움을 다룬 내용입니다.
-
-URL: https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9jdWx0dXJlL21vdmllLzEwODg5MzAuaHRtbNIBAA?oc=5
-
-제목: 尹 '우크라 무기지원'이 불러온 대립… 與 "동맹" 野 "균형" - 한국일보
-요약: South Korean President Yoon Suk-yeol's remarks on Ukraine's weapon support have sparked a political confrontation in the country, with the ruling Democratic Party and the opposition People Power Party taking opposing views. The Democratic Party has criticized Yoon's remarks, saying they could furthe
-
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpbGJvLmNvbS9OZXdzL1JlYWQvQTIwMjMwNDIxMTYzNjAwMDU2MDjSAQA?oc=5
-
-제목: [엠빅뉴스] 1,300억 태운 스타십 폭발 순간..관중은 '환호', 머스크는 '미소'? - MBC뉴스
-요약: 스페이스X가 개발한 대형 우주선 '스타십'이 첫 시험비행에서 실패했다. 이에 일론 머스크도 의미를 알 수 없는 미소를 지었다.
-
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vaW1uZXdzLmltYmMuY29tL29yaWdpbmFsL21iaWcvNjQ3NjQ1Nl8yOTA0MS5odG1s0gE4aHR0cHM6Ly9pbW5ld3MuaW1iYy5jb20vb3JpZ2luYWwvbWJpZy82NDc2NDU2XzMxMTMxLmh0bWw?oc=5
-
-제목: 나한일 '성인 ADHD'♥유혜영 "술로 풀어"…오은영 "역대 최악" - 머니투데이
-요약: 나한일 유혜영 부부가 채널A '오은영의 금쪽상담소'에 출연해 재결합 후 아슬아슬한 결혼 생활에 대한 고민을 털어놓았다. 이들 부부는 여전히 주말 부부로 살고 있으며, 경제적 갈등과 정서적 소통 문제가 주된 갈등으로 나타났다. 나한일은 성인 ADHD(주의력결핍 과잉행동장애) 특성을 가지고 있으며, 이로 인해 부부 소통이 어려웠다는 분석 결과가 전해졌다. 오은영 박사는 이들 부부에게 경제 문제와 정서적 소통 문제에 대한 조언을 제공했다.
-
-URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwNDIxMTQwMTEzOTgxNTnSAT1odHRwczovL20ubXQuY28ua3IvcmVuZXcvdmlld19hbXAuaHRtbD9ubz0yMDIzMDQyMTE0MDExMzk4MTU5?oc=5
 
 
