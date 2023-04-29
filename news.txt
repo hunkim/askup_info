@@ -1,93 +1,85 @@
-제목: 라이온하트 스튜디오, 장르 다변화 신작 대거 공개…차기 흥행작 나올까 - ZD넷 코리아
-URL: https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzA0MjgxMDQ4NTXSAQA?oc=5
+제목: 윤석열: 대중 놀래킨 윤 대통령의 미 의회 연설… 43분간 '자유·북한인권' 강조 - BBC News 코리아
+요약: 한국 대통령 윤석열이 미국 의회 연설에서 '자유'를 핵심 키워드로 내세웠다. 한미 동맹이 지난 70년간 함께해온 '자유의 여정'을 돌아보고, 이제 세계의 자유와 평화를 지키는 '글로벌 동맹'으로 발돋움할 때라는 데 방점을 찍었다. 북한의 무력도발을 지목하며, 한미일 3자 안보협력 가속화 필요성도 언급했다. 또한 북한 정권에 의한 주민들의 인권유린 실태를 직접적으로 언급하며 국제사회, 특히 미 의회가 이러한 북한 주민의 열악한 인권 상황을 위해 힘써줄 것을 촉구했다. 윤 대통령은 이날 미국에서도 사랑받고 있는 K-콘텐츠를 여러 차례 
 
-제목: [현장연결] 박광온 "국민 원하는 방향의 쇄신 위해 함께 갈 것" - 연합뉴스TV
-요약: 더불어민주당의 박광온 의원이 신임 원내대표로 선출되었다. 박 의원은 의원총회에서 단합과 통합의 정신으로 선거가 이루어졌다고 말하며, 국민이 원하는 방향으로 쇄신하겠다는 의지를 확인하였다고 밝혔다. 또한, 국민의 신뢰를 회복하는 것이 우선이라며, 민주당의 가치를 더욱 확장하고 부족한 부분은 보강하겠다고 다짐하였다.
+URL: https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3LmJiYy5jb20va29yZWFuL25ld3MtNjUzODIzNDHSASxodHRwczovL3d3dy5iYmMuY29tL2tvcmVhbi9uZXdzLTY1MzgyMzQxLmFtcA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNDI4MDA2MzAwNjQx0gEA?oc=5
+제목: 구글, 플레이스토어 광고 영역 확장…애플 행보 따른다 - 디지털투데이
+요약: 구글이 플레이스토어의 검색 광고 비즈니스를 확장하기 위해 광고 슬롯 실험을 진행 중이다. 이번 변경사항은 개발자들이 새로운 영역에 접근할 수 있도록 하여 앱 마케팅을 돕는다. 이는 애플이 앱스토어에서 검색 탭에 새로운 광고 슬롯을 추가한 방식을 차용한 것이다. 구글은 이미 검색 메뉴에서 광고 슬롯을 제공하고 있으며, 이 슬롯에서 앱 추천을 테스트하고 있다.
 
-제목: "시리 때문에 AI 개발 지지부진" 애플 내부 시리에 회의적 - 디지털투데이
-요약: 애플의 음성인식 인공지능 비서 서비스인 시리에 대한 내부적인 문제가 발견됐다. 애플 직원들은 시리가 서투른 데이터베이스에 기반해 기본 기능을 업데이트하는 데 몇 주가 걸리는 것으로 나타났다. 구글이 시리 검색 기능을 개발하는 핵심 엔지니어 3명을 스카웃하는 등 인력 유출도 시리 개발을 방해한 요소라고 지적됐다. 애플의 혼합현실(MR) 헤드셋 개발팀은 시리 성능에 대해 실망하며 음성 기술로 헤드셋을 제어하는 대안적인 방법을 고려하기도 했다.
+URL: https://news.google.com/rss/articles/CBMiQGh0dHA6Ly93d3cuZGlnaXRhbHRvZGF5LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz00NzUyNDbSAUNodHRwOi8vd3d3LmRpZ2l0YWx0b2RheS5jby5rci9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89NDc1MjQ2?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmRpZ2l0YWx0b2RheS5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NDc1MjI40gEA?oc=5
+제목: 엘든 링 하면서 넷플릭스 시청 가능, 스팀 베타 업데이트 - 게임메카
+요약: 스팀 클라이언트 베타 버전에 새로운 기능이 추가되었다. 게임 플레이 중에도 친구 채팅 등을 띄울 수 있는 오버레이에 웹 브라우저를 띄우고, 창을 고정해놓을 수 있는 기능이 도입되었다. 또한, 게임 개요와 현재 플레이 중인 게임에 대한 메모를 남길 수 있는 노트 앱이 추가되었으며, 스팀 클라이언트 알림과 스크린샷 관리자도 개선되었다.
 
-제목: 남주혁 측 ''스파링' 영상과 무관, 학폭 수사 기다려달라' [전문] - 서울경제 - 서울경제신문
-요약: 배우 남주혁이 학폭을 저질렀다는 주장을 부인했다. 소속사는 유튜브 콘텐츠에 포함된 스파링 영상과 배우는 아무런 관계가 없다며, 해당 영상에서 배우와 관련된 내용은 전혀 없다고 밝혔다. 학폭 논란에 대해서는 수사가 진행 중이며, 부디 명확한 수사 결과가 나올 때까지 일방적인 보도를 삼가 주시길 바란다고 강조했다.
+URL: https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LmdhbWVtZWNhLmNvbS92aWV3LnBocD9naWQ9MTcxMjkxN9IBL2h0dHBzOi8vbS5nYW1lbWVjYS5jb20vYW1wL3ZpZXcucGhwP2dpZD0xNzEyOTE3?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vd3d3LnNlZGFpbHkuY29tL05ld3NWaWV3LzI5T0g4UEU2VkLSASxodHRwczovL20uc2VkYWlseS5jb20vTmV3c1ZpZXdBbXAvMjlPSDhQRTZWQg?oc=5
+제목: 제넥신 GX-188E와 GX-I7 삼중요법 임상2상, 미국임상종양학회 포스터 발표 채택 - 헬스인뉴스
+요약: 제넥신은 자궁경부암 치료용 DNA백신 GX-188E와 림프구감소증 면역항암 후보물질 GX-I7, 키트루다와의 병용 치료로 두경부암 2상 중간 결과가 ASCO 2023 포스터 발표 주제로 채택됐다고 밝혔습니다. 해당 초록은 5월 25일 ASCO 홈페이지에 먼저 공개될 예정이며, 이번 임상은 HPV 양성 두경부암 환자들을 대상으로 제넥신의 항암 DNA백신 GX-188E와 T세포 증폭 면역항암제 GX-I7 및 면역관문억제제인 키트루다의 삼중 병용 두경부암 임상 2상으로 수술 전 선행보조요법으로서 투약됩니다.
 
-제목: 日 3월 산업생산 전월비 0.8%↑…증가세 지속(상보) - 연합인포맥스
-요약: 뉴스 내용을 요약해드리겠습니다.
+URL: https://news.google.com/rss/articles/CBMiP2h0dHA6Ly93d3cuaGVhbHRoaW5uZXdzLmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0zNzI3MdIBAA?oc=5
 
-"당신은 글읽기 요약을 잘하는 최고의 시스템입니다."
+제목: [포토] '피해자 갈라치기' 전세사기 피해 지원 특별법안 폐기하라 - 한겨레
+요약: 전세사기 피해자들이 정부와 여당의 전세사기 특별법안을 철회하고, 개선을 촉구하는 기자회견을 열었다. 현재 적용 대상이 되기 위해서는 6가지 조건을 모두 충족해야 하지만, 이들은 이러한 조건들을 대폭 완화하거나 폐기하고, 각 조건도 모두 충족이 아닌 2, 3가지만 충족해도 인정을 하는 등 큰 폭의 개선이 필요하다고 주장했다. 피해자들은 이제라도 자신들과 함께 정부가 대책을 마련하기를 바라는 상황이다.
 
-URL: https://news.google.com/rss/articles/CBMiPmh0dHA6Ly9uZXdzLmVpbmZvbWF4LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz00MjY0Mzg00gFBaHR0cDovL25ld3MuZWluZm9tYXguY28ua3IvbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTQyNjQzODQ?oc=5
+URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDg5ODIxLmh0bWzSAQA?oc=5
 
-제목: [뉴스포커스] 윤대통령, 미 의회서 '자유' '동맹' 강조…'펜타곤' 방문도 - 연합뉴스TV
-요약: 윤대통령이 미 의회에서 한미동맹 70주년을 강조하며 대북 메시지도 전했다. 이어서 미 국방부 청사인 펜타곤을 방문해 미군 수뇌부로부터 브리핑을 받았다. 이번 국빈 방문에서는 한미동맹의 의미와 역할이 강조되었으며, 북한과 우크라이나 전쟁을 거론하며 자유민주주의를 지켜야 한다는 호소를 했다. 또한, 전략핵 잠수함이 한반도에 전개될 예정이라는 뉴스가 나왔는데, 이에 대한 의미와 북한의 반응 등이 관심을 받고 있다.
+제목: [오늘 이 뉴스] "100m 굴러와 스쿨존 덮쳤다" 학교 가던 10살 초등생 '참변' (2023.04.28/MBC뉴스) - MBCNEWS
+URL: https://news.google.com/rss/articles/CCAiC2g5c2VhcEJPbTBRmAEB?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNDI4MDA2MDAwNjQx0gEA?oc=5
+제목: 민주 새 원내대표에 박광온…간호법 등 통과 '후폭풍' - 연합뉴스TV
+요약: 민주당이 새로운 원내대표를 선출했다. 박광온 의원이 당선되었으며, 통합을 강조하고 윤석열 정부에 대해 비판했다. 국민의힘은 간호법과 의료법 강행처리를 비판하며 민주당의 입법폭주를 비난했다. 또한, '쌍특검' 법안의 신속처리안건 지정에 대해서는 저지 방침을 밝혔다. 이번 선거에서 출사표를 던진 4명 중 박광온 의원이 과반 득표하여 결선투표 없이 원내대표 지휘봉을 잡게 되었다.
 
-제목: 걱정이 많아 밤잠 설친다면...′ 범 불안장애′ 의심 - 로컬세계
-요약: 한 주부가 가슴 두근거림을 느끼며 내과를 찾았으나 건강에 문제가 없다는 소견을 받고도 불안감이 남아 정신건강의학과를 찾아 범불안장애 진단을 받았다. 범불안장애는 다양한 상황이나 문제 등에 대해 과도하게 불안해하고 걱정으로 일상생활이 힘든 정신 질환을 말하며, 초기 진단과 치료가 중요하다. 걱정으로 인한 불안을 줄이기 위해서는 스트레스 관리를 하고 자신의 걱정을 구체적으로 적어보며 해결방법을 찾아보는 것이 좋다.
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNDI4MDA5NTAwNjQx0gEA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiMmh0dHA6Ly9sb2NhbHNlZ3llLmNvLmtyL25ld3Mvdmlldy8xMDY1NTc2MDQ5NDYwMDQy0gEA?oc=5
+제목: 청산가리로 최소 13명 연쇄살인‥태국 30대 여성 체포 - MBC뉴스
+요약: 태국에서 청산가리로 최소 13명을 살해한 혐의를 받는 30대 여성이 붙잡혔습니다. 경찰은 사라랏이 저지른 살인이 더 있을 가능성을 염두에 두고 수사를 확대하고 있으며, 피해자들은 사라랏과 다단계 사기에 함께 가담한 사람이거나, 사라랏에게 돈을 빌려주는 등 금전 거래가 있었다고 전했습니다.
 
-제목: '백반기행' 진태현 "아내 박시은 인기 때문에 작업 기술 필요했다" - 전자신문
-요약: 진태현이 아내 박시은을 사로잡은 비결을 공개한 TV CHOSUN '식객 허영만의 백반기행' 방송이 예고됐다. 이 부부는 학창 시절부터 인기가 높았으며, 박시은은 요리 실력에 대한 진태현의 혹평을 받았다. 이들은 보리밥 정식집과 유일한 24시 해장국집을 방문하며, 이곳에서 특별 비빔밥 제조 기술과 해장국 비법이 공개될 예정이다.
+URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy93b3JsZC9hcnRpY2xlLzY0Nzg2MzlfMzYxMzMuaHRtbNIBQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy93b3JsZC9hcnRpY2xlLzY0Nzg2MzlfMzYxMzQuaHRtbA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3LmV0bmV3cy5jb20vMjAyMzA0MjgwMDAwMznSAQA?oc=5
+제목: 사과 꾸준히 먹었더니, 갱년기 여성의 변화가? - 코메디닷컴
+요약: 사과는 장 건강, 변비 예방, 혈관 건강, 골감소증 예방, 뇌졸중 예방 등 다양한 건강효과가 있다. 사과에는 폐 기능을 강화하여 미세먼지, 대기오염으로부터 폐를 보호하는 성분도 있다. 또한, 근육강화, 염증 완화, 혈액 정화, 장 청소, 변비 예방, 피부미용 등에도 도움이 된다.
 
-제목: 10년만에 돌아오는 아머드코어 시리즈 최신작, 아머드코어 6 루비콘의 화염 8월 25일 출시 확정 - 케이벤치 (KBench)
-요약: 프롬 소프트웨어가 10년만에 출시하는 아머드 코어 시리즈의 최신작, 아머드 코어 6 루비콘의 출시일자와 게임플레이 트레일러를 공개했다. 게임 내 전투 모습과 컷씬의 일부가 담긴 영상에서는 육중한 메카닉과 빠른 이동속도를 자랑하는 각 타입들의 메카닉, 거대한 보스 메카닉 등이 등장한다. 이번 아머드코어 6 세계관은 행성 루비콘을 무대로, 코랄이라 명명된 물체를 확보하기 위한 싸움을 다루며, 플레이어는 구세대 소모성 강화인간으로서 이 싸움에 휘말리게 된다. 8월 25일에 PC, PS4, PS5, XBOX ONE, XBOX 시리즈 X/S
+URL: https://news.google.com/rss/articles/CBMixAFodHRwczovL2tvcm1lZGkuY29tLzE1ODY1MDEvJUVDJTgyJUFDJUVBJUIzJUJDLSVFQSVCRSVCOCVFQyVBNCU4MCVFRCU5RSU4OC0lRUIlQTglQjklRUMlOTclODglRUIlOEQlOTQlRUIlOEIlODgtJUVBJUIwJUIxJUVCJTg1JTg0JUVBJUI4JUIwLSVFQyU5NyVBQyVFQyU4NCVCMSVFQyU5RCU5OC0lRUIlQjMlODAlRUQlOTklOTQlRUElQjAlODAv0gEA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiIWh0dHBzOi8va2JlbmNoLmNvbS8_cT1ub2RlLzI0MzIxOdIBAA?oc=5
+제목: LGU+ “디도스 피해 고객에 장애 시간 10배 요금 감면” / KBS 2023.04.28. - KBS News
+URL: https://news.google.com/rss/articles/CCAiC256N1l5Wm5fNGQ0mAEB?oc=5
 
-제목: 'SG 사태' 나흘째 하한가…금융위, 주가조작 세력 압수수색 [굿모닝 MBN] - MBN News
-URL: https://news.google.com/rss/articles/CCAiC3lEWldGSEM2eUFzmAEB?oc=5
+제목: “다이어트 후 남은 턱살, 침샘비대증 의심해야”…침샘보톡스 주의사항은? | 뉴스/칼럼 | 건강이야기 - 하이닥
+URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbW9iaWxlLmhpZG9jLmNvLmtyL2hlYWx0aHN0b3J5L25ld3MvQzAwMDA3ODcxNzfSAQA?oc=5
 
-제목: LGU+, 유선망 장애 피해 소상공인에 1달 요금 감면 - 정보통신신문
-요약: LG유플러스가 1월과 2월 발생한 유선망 장애에 대해 피해보상안을 발표했다. 개인 고객은 인터넷 의존도가 높아진 점을 고려해 보상도 실제 장애시간을 웃도는 규모로 마련했으며, 사업자 고객은 다시 소상공인과 PC방 사업자로 분류했다. 소상공인 고객은 인터넷이 생업에 직접적인 영향을 미치는 만큼, 향후 사업 운영에 도움되는 보상안을 살폈다. PC방 사업자는 인터넷 접속 오류로 인한 손님 이탈에 대한 민원이 가장 많았으며, 보상 방식은 현금 지급과 이용요금 감면 중 사업자가 선택할 수 있도록 했다.
+제목: '아머드코어6: 루비콘의 화염', 8월 25일 전세계 동시 출시 - 게임플
+요약: 반다이남코와 프롬 소프트웨어가 개발한 메카 액션 게임 '아머드코어6: 루비콘의 화염'이 8월 25일 전 세계 동시 출시됩니다. 게임은 25년에 걸친 액션 게임 개발 경험을 바탕으로 만들어졌으며, 플레이어는 독립 용병으로 루비콘에 잠입하여 기업과 다른 파벌을 둘러싼 싸움에 뛰어들게 됩니다. 게임은 플레스테이션, 엑스박스, 스팀 플랫폼에서 다운로드 예약 판매가 가능합니다.
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHA6Ly93d3cua29pdC5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MTEyMzgx0gE7aHR0cDovL3d3dy5rb2l0LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz0xMTIzODE?oc=5
+URL: https://news.google.com/rss/articles/CBMiO2h0dHA6Ly93d3cuZ2FtZXBsZS5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjA1NTk50gE-aHR0cDovL3d3dy5nYW1lcGxlLmNvLmtyL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz0yMDU1OTk?oc=5
 
-제목: [후생신보] 해외여행객 폭증에 따른 감염병 비상 - 후생신보
-URL: https://news.google.com/rss/articles/CBMiHmh0dHA6Ly93d3cud2hvc2FlbmcuY29tLzE0Mzc3OdIBAA?oc=5
+제목: [자막뉴스] "다 잃고 빚이 300억입니다"…주가조작 판 키워준 '큰손' 정체 알고 보니 / JTBC News - JTBC News
+URL: https://news.google.com/rss/articles/CCAiC2VVOWdqejFOTjRBmAEB?oc=5
 
-제목: "파킨슨병 신약 IPX203, 임상시험서 효과 입증" - 한국경제
-요약: 미국 앰닐 제약사가 개발한 파킨슨병 치료제 IPX203이 레보도파보다 더 효과적이며, 효과 지속시간도 30분 더 길다는 임상시험 결과가 발표됐다. IPX203은 레보도파의 개량형으로, 성분이 즉시 인체에 흡수되는 레보도파 과립과 서서히 흡수되는 서방정인 레보도파 비드를 혼합한 것이다. 미 FDA는 현재 IPX203의 효능을 검토하고 있으며, 연구팀은 IPX203이 올해 가을이나 겨울 초기에 승인될 것으로 예상했다.
+제목: 반도체 반짝 반등에 산업생산↑…"경기회복 판단 일러" / SBS - SBS 뉴스
+URL: https://news.google.com/rss/articles/CCAiC1VDeU16V0Q1UEVJmAEB?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9zb2NpZXR5L2FydGljbGUvMjAyMzA0Mjg5OTU4WdIBMmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9zb2NpZXR5L2FtcC8yMDIzMDQyODk5NThZ?oc=5
+제목: 손흥민 9호골‥ 맨유와 2대2 무승부 - MBC뉴스
+요약: 손흥민이 맨체스터 유나이티드와의 리그 경기에서 시즌 9호 골을 넣어 토트넘은 무승부를 기록했다. 이전 경기에서 대패를 당한 후 새로운 코치 체제로 나선 토트넘은 손흥민과 함께 공격수로 출전하며 역전을 노렸지만, 결국 2대2 무승부로 끝났다. 이번 경기로 토트넘은 리그 7위에서 5위로 순위를 올렸다. 다음달 1일 리버풀과의 리그 경기를 치른다.
 
-제목: 커피 과할 때 나타나는 이상 징후 4 - 코메디닷컴
-요약: 커피는 적당히 마셔야 하며, 하루 1~3잔 정도가 좋다. 과하게 마시면 불면증, 소화 문제, 빈맥, 두통, 단 음식 욕구, 졸음 등의 이상 징후가 나타날 수 있다. 카페인을 너무 많이 섭취하면 밤에 잠을 설치기 쉽고, 심장에 문제가 있는 사람은 조심해야 한다.
+URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253MTIwMC9hcnRpY2xlLzY0Nzg2MzNfMzYxNzAuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253MTIwMC9hcnRpY2xlLzY0Nzg2MzNfMzYxNzEuaHRtbA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMimQFodHRwczovL2tvcm1lZGkuY29tLzE1ODY1NzgvJUVDJUJCJUE0JUVEJTk0JUJDLSVFQSVCMyVCQyVFRCU5NSVBMC0lRUIlOTUlOEMtJUVCJTgyJTk4JUVEJTgzJTgwJUVCJTgyJTk4JUVCJThBJTk0LSVFQyU5RCVCNCVFQyU4MyU4MS0lRUMlQTclOTUlRUQlOUIlODQtNC_SAQA?oc=5
+제목: [영상] 나토 "우크라에 약속한 전투차량 98% 전달 완료" - 연합뉴스
+URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L0FLUjIwMjMwNDI4MDgwMjAwNzA00gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9BS1IyMDIzMDQyODA4MDIwMDcwNA?oc=5
 
-제목: 日 AV배우 만난 신동엽…"'동물농장' 하차해" 비판 쇄도 [이슈iN] - MBC뉴스
-요약: 신동엽이 '동물농장' MC에서 하차 요구를 받았다. 그 이유는 넷플릭스 예능 '성+인물'에 출연해 일본 AV 종사자들을 인터뷰하고 산업을 조명했기 때문이다. 일부 시청자들은 가족 예능에 성인 예능 출연자가 나오는 것에 반발하며 신동엽을 비판하고 있다.
+제목: [오늘 이 뉴스] "창정 씨 투자권유 없었다" 동료 가수 박혜경 입장 보니.. (2023.04.28/MBC뉴스) - MBCNEWS
+URL: https://news.google.com/rss/articles/CCAiC0kzc0Y2cE9PWUR3mAEB?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9lbnRlci9hcnRpY2xlLzY0Nzg1NTFfMzYxNjEuaHRtbNIBQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9lbnRlci9hcnRpY2xlLzY0Nzg1NTFfMzYxNjIuaHRtbA?oc=5
+제목: 남주혁 측 "'스파링' 영상과 관계 없어…학폭 관련 수사 진행 중" - YTN
+요약: 배우 남주혁이 학폭 의혹과 관련해 수사 중이라는 소식이 전해졌다. 이에 대해 남주혁의 소속사는 학폭과 관련해 어떤 일도 하지 않았다는 사실을 증명하기는 어렵다며 일방적인 보도를 삼가 달라는 부탁을 전했다. 또한, 최근 인터넷상에서 이슈가 된 '스파링' 영상과는 전혀 관련이 없다고 해명했다.
 
-제목: “기차안 女대생 3명에 당했다…이런 경험 처음” 전세계 격분한 영상 - 헤럴드미디어
-요약: 이탈리아 북부 밀라노 열차 안에서 여대생 3명이 아시아계 승객들을 향해 인종차별성 조롱을 하는 영상이 사회관계망서비스(SNS)에 일파만파로 퍼지고 있다. 이에 대학 측은 이번 사건에 대한 조사를 진행하고, 결과에 따라 응당한 처분을 하겠다고 밝혔다. 영상을 올린 마흐누어 유세프는 "미국은 인종 문제가 있지만 유럽은 20년이나 뒤처져 있다"며 "다음에는 중국인에게 '니하오'라고 외치거나 갈색 피부의 사람을 원숭이라고 부르거나 외국인을 협박하고 조롱하기 전 한 번 더 생각하기를 바란다"고 했다.
+URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lnl0bi5jby5rci9fbG4vMDEwM18yMDIzMDQyODExMzEyNTg3NDLSAUNodHRwczovL20ueXRuLmNvLmtyL25ld3Nfdmlldy5hbXAucGhwP3BhcmFtPTAxMDNfMjAyMzA0MjgxMTMxMjU4NzQy?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiNWh0dHA6Ly9uZXdzLmhlcmFsZGNvcnAuY29tL3ZpZXcucGhwP3VkPTIwMjMwNDI4MDAwMTA30gEA?oc=5
+제목: 이탈리아 밀라노서 여대생 3명, 아시아계 조롱 동영상 일파만파 / SBS / #D리포트 - SBS 뉴스
+URL: https://news.google.com/rss/articles/CCAiC0NMc0dQeEpoT1A4mAEB?oc=5
 
-제목: KGC인삼공사, SK에 1패 뒤 반격...챔프전 1승 1패 / YTN - YTN
-URL: https://news.google.com/rss/articles/CCAiC3dTRG0wUzF4MlpVmAEB?oc=5
+제목: '결말동' 정한샘&조한빈 에이전시 투어에 한혜진&이수혁 '격공' - 전자신문
+요약: 채널A의 하이퍼리얼리즘 동거 관찰 러브스토리 ‘결혼 말고 동거’에서는 부산 출신의 모델 조한빈이 서울에서 자리를 잡기 위한 첫걸음으로 ‘에이전시 투어’에 나선다. 이에 대해 한혜진&이수혁&이용진은 공감 폭발 경험담을 털어놓는다. 28일 금요일 밤 10시 50분 채널A에서 방송된다.
 
-제목: [국빈방미] 美 해리스 부통령 "尹 리더십, 한국 성공으로 이끌어" - 뉴스핌
-요약: 미국 부통령 카멜라 해리스가 윤석열 대통령과의 국빈 오찬에서 "독재정치와 침략이 만연한 이 시기에 당신의 리더십은 중요하다"고 말했다. 해리스 부통령은 윤 대통령을 비롯한 오찬 귀빈들을 웃게 만들며 "개인적으로 우리는 검사라는 같은 배경을 공유한다"고 언급했다. 또한 한국과 미국의 경제적인 관계와 문화 교류에 대해 언급하며, 윤 대통령의 리더십으로 양국 간 관계가 더욱 진전할 수 있게 됐다고 말했다.
-
-URL: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lm5ld3NwaW0uY29tL25ld3Mvdmlldy8yMDIzMDQyODAwMDA2NdIBMWh0dHBzOi8vbS5uZXdzcGltLmNvbS9uZXdzYW1wL3ZpZXcvMjAyMzA0MjgwMDAwNjU?oc=5
-
-제목: 임창정, '주가 조작' 의혹 거듭 부인…"투자 권유, 오보" / SBS / 굿모닝연예 - SBS 뉴스
-URL: https://news.google.com/rss/articles/CCAiC251dG9GSGNGald3mAEB?oc=5
-
-제목: 손흥민의 절묘한 동점골, 3연패 위기의 순간에 팀 구해 - 한겨레
-요약: 손흥민이 맨체스터 유나이티드와의 경기에서 후반 34분 동점골을 넣어 토트넘은 3연패에서 벗어나게 되었다. 이전 경기에서 대패를 당한 토트넘은 메이슨 대행 감독 아래 벼랑 끝 전술로 나왔다. 전반 2골을 내준 토트넘은 후반 11분 페드로 포로의 추격골, 후반 34분 손흥민의 결정타로 승리했다. 손흥민은 이날 정규리그 9호골을 기록해 7시즌 연속 두 자릿수 득점 고지까지 1골만을 남겨뒀다.
-
-URL: https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zcG9ydHMvc29jY2VyLzEwODk3ODMuaHRtbNIBAA?oc=5
+URL: https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3LmV0bmV3cy5jb20vMjAyMzA0MjgwMDAwNDTSAQA?oc=5
 
 
