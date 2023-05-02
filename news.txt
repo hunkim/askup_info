@@ -1,87 +1,91 @@
-제목: 깊이 오래 못 자는 개…치매 다가서는 중일 수도 - 한겨레
-요약: 인지 기능이 떨어진 노령견은 수면 장애를 겪는다는 연구 결과가 나왔다. 노스캐롤라이나 주립대학교 연구자들은 노령견의 뇌파 수치가 인지 기능 저하와 관련이 있는지 알아보기 위해 10~16살 사이 개들의 수면 중 뇌파를 검사했다. 데이터를 종합한 결과, 치매 점수가 높은 개일수록 잠드는 데 오랜 시간이 걸렸고 수면 시간도 짧았다. 또한 연구진은 기억력 과제 수행 능력이 떨어지는 개일수록 렘(REM)수면이 얕아진다는 사실을 발견했다. 이번 연구가 인지 기능 저하를 보이는 노령견을 조기에 진단하고 사람의 치매 치료에 기여할 수 있을 것이라
+제목: 진짜 웃어야 LOL 문자 보내주는 인식기 - 테크레시피
+요약: 크리에이터인 브라이언 무어는 LOL이라는 문자 메시지를 입력할 때 실제로 웃음을 인식하지 않으면 전송할 수 없는 LOL 입증기를 만들었다. LOL 입증기는 사용자가 LOL을 입력하면 웃음을 인식하는 상태로 바뀌고, 사용자가 웃으면 빛이 녹색으로 바뀌고 LOL을 보낼 수 있다. 반면 사용자 웃음이 들리지 않거나 큰 웃음을 내지 않으면 입력한 LOL은 다른 메시지로 변환된다. LOL 입증기는 SNS에서 반응을 얻기 위한 프로젝트였지만 만일 빠르게 인기가 높아지면 코드 등을 공개하는 것도 고려하고 있다.
 
-URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9hbmltYWxwZW9wbGUvY29tcGFuaW9uX2FuaW1hbC8xMDkwMDM5Lmh0bWzSAQA?oc=5
+URL: https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vdGVjaHJlY2lwZS5jby5rci9wb3N0cy81MTE3OdIBKGh0dHBzOi8vdGVjaHJlY2lwZS5jby5rci9wb3N0cy81MTE3OS9hbXA?oc=5
+
+제목: 산업부, 인도‧태평양 통상협상 집중…"공급망 다변화 모색" - 신아일보
+요약: 한국 정부는 인도-태평양 지역을 중심으로 전개되는 통상협력 논의에 협상력을 집중하고 있다. 산업통상자원부는 제33차 통상추진위원회에서 인태경제프레임워크(IPEF) 제3차 협상 추진계획, 한-에콰도르 SECA 제9차 공식 협상결과 및 향후 계획, APEC 통상장관회의 준비현황 및 대응방향, 산업 에너지 분야 온실가스 국외감축 추진현황 및 과제 등 4건을 논의했다. 특히, 인도-태평양 지역과의 통상협력을 강조하며, IPEF 협상이 최근 속도감 있게 진행되고 있으며, 전 부처가 통상 역량을 집중해 성과를 도출할 것이라고 밝혔다.
+
+URL: https://news.google.com/rss/articles/CBMiPmh0dHA6Ly93d3cuc2hpbmFpbGJvLmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xNjk2NDY20gEA?oc=5
+
+제목: 한 번 쓴 수건 ‘재사용’ 그만...수건 관리법 - 코메디닷컴
+요약: 한 번 사용한 수건은 재사용하지 않는 것이 좋다. 수건에는 세균과 곰팡이가 번식할 수 있으며, 피부의 각질세포와 타액 등이 묻어있을 가능성이 크기 때문이다. 수건은 잘 말려서 세탁하고, 단독으로 세탁하는 것이 좋다. 섬유유연제나 울샴푸 등은 가급적 피하고, 수건 세탁 뒤 말리는 방법도 중요하다. 수건은 6개월~1년 주기로 교체하는 것이 좋다.
+
+URL: https://news.google.com/rss/articles/CBMiqwFodHRwczovL2tvcm1lZGkuY29tLzE1ODY3OTIvJUVEJTk1JTlDLSVFQiVCMiU4OC0lRUMlOTMlQjQtJUVDJTg4JTk4JUVBJUIxJUI0LSVFQyU5RSVBQyVFQyU4MiVBQyVFQyU5QSVBOS0lRUElQjclQjglRUIlQTclOEMtJUVDJTg4JTk4JUVBJUIxJUI0LSVFQSVCNCU4MCVFQiVBNiVBQyVFQiVCMiU5NS_SAQA?oc=5
+
+제목: 바닷물이 끓는다…강한 엘니뇨로 올여름 '비 폭탄' 예상 - 한겨레
+요약: 한국 기상청은 엘니뇨 현상이 발생할 것으로 예상하고 있다. 이는 남부지방을 중심으로 많은 비가 내릴 것으로 보인다. 엘니뇨는 한반도 남동쪽 태평양 바닷물 온도가 올라가는 현상으로, 대략 3~7년 주기로 일어난다. 2015년에 발생한 엘니뇨 때는 전국 강수일수가 14.9일로 기록되는 등 한국이 본격적으로 기상 관측을 시작한 1973년 이래로 가장 많은 날 비가 왔다. 이번에도 세계적으로 이상 기후 현상이 발생할 가능성이 높다.
+
+URL: https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L2Vudmlyb25tZW50LzEwOTAwNDguaHRtbNIBAA?oc=5
+
+제목: NASA, 달 표면 재현한 훈련장 만들었다 - 스푸트니크::sputnik
+요약: 미 항공우주국(NASA)이 대규모 모의 달 표면을 제작해 비행사들의 실감 나는 훈련을 진행하고 있다. 이를 위해 물 약 620만 갤런(약 2300만ℓ)을 채울 수 있는 거대 수조인 중성부력 실험장(NBL)을 이용하고 있으며, 달 표면과 최대한 비슷한 토양 부스러기와 모래, 돌조각들을 NBL 바닥에 깔아 미세 중력 하의 달 표면 보행부터 토양 샘플 채취 등 다양한 실전 테스트가 이뤄지고 있다. 이번 훈련은 '아르테미스III' 미션에서 우주인들이 실제로 달표면에 내려가게 될 예정이다.
+
+URL: https://news.google.com/rss/articles/CBMiIWh0dHBzOi8vc3B1dG5pay5rci9uZXdzL3ZpZXcvNjY2MNIBAA?oc=5
+
+제목: 현대건설, '2023 현대건설 기술공모전' 응모작 모집 - 팍스경제TV
+요약: 현대건설이 '2023 현대건설 기술공모전'을 개최한다. 기술공모전 참가대상은 중소·중견·대기업, 대학, 연구기관이며 응모분야는 스마트건설 기술, 원가절감형 기술, 미래 신사업분야 기술 등 건설현장에 적용 가능한 기술이다. 최우수상은 1000만원, 우수상은 500만원 등 총 5000만원 규모의 상금과 상패가 수여된다.
+
+URL: https://news.google.com/rss/articles/CBMiOGh0dHA6Ly93d3cucGF4ZXR2LmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MTc0Nzcx0gEA?oc=5
+
+제목: 4월 무역 적자 26억 달러...14개월 연속 적자 행진 / YTN - YTN
+URL: https://news.google.com/rss/articles/CCAiC3FoNXQybUE0X25NmAEB?oc=5
+
+제목: 하반기부터 스토킹 피해자가 112 신고하면 여성긴급전화로 연계 - 연합뉴스
+URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L0FLUjIwMjMwNTAxMDI0ODAwNTMw0gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9BS1IyMDIzMDUwMTAyNDgwMDUzMA?oc=5
+
+제목: 한달 만에 최고위 나온 김재원 “대단히 죄송···자진사퇴 생각 없어” - 경향신문
+요약: 김재원 국민의힘 최고위원이 한 달간의 근신을 마치고 당 최고위원회의에 복귀했다. 이전에 발언으로 논란이 되어 공개 활동 중단을 선언한 김 최고위원은 “그동안 저를 뽑아준 당원, 우리 당 지지자, 국민들께 대단히 죄송스럽고 송구스러웠다”며 사과했다. 이날 오전 개최된 당 중앙윤리위원회에서 김 최고위원에 대한 징계 개시 결정이 내려졌고, 이후 무거진 징계가 유력한 상황이다.
+
+URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmtoYW4uY28ua3IvcG9saXRpY3MvYXNzZW1ibHkvYXJ0aWNsZS8yMDIzMDUwMTExMzUwMDHSAQA?oc=5
+
+제목: 눈물 흘린 모우라, '손흥민 득점왕 도우미+챔스 결승' 보낸거 생각하면… - 한국아이닷컴
+요약: 토트넘 훗스퍼는 리버풀과의 경기에서 3-4로 패했다. 모우라는 자신의 실수로 인해 팀이 졌다는 것에 눈물을 감추지 못했다. 하지만 모우라는 지난 시즌 막판 손흥민의 득점왕 확정 경기에서 해준 도움과 득점왕 확정 후 들어올린 세리머니, 그리고 토트넘 역사상 처음이자 마지막 유럽 챔피언스리그 결승전에 이끌었던 활약을 생각하면 한 경기를 망쳤다고 원망하기도 어렵다.
+
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NzQ2OTLSAQA?oc=5
 
 제목: '자기관리 神' 김희애, 쏟아진 '강남 영어학원' 목격담 "정말 멋진 어른이라 느껴" - 조선일보 - 조선일보
 URL: https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNob3N1bi5jb20vZW50ZXJ0YWlubWVudHMvZW50ZXJfZ2VuZXJhbC8yMDIzLzA1LzAxL0JWRFFKQlFNRkUzREpHQkNGNEZBRjdXS0I0L9IBaWh0dHBzOi8vd3d3LmNob3N1bi5jb20vZW50ZXJ0YWlubWVudHMvZW50ZXJfZ2VuZXJhbC8yMDIzLzA1LzAxL0JWRFFKQlFNRkUzREpHQkNGNEZBRjdXS0I0Lz9vdXRwdXRUeXBlPWFtcA?oc=5
 
-제목: K리그2 돌풍 김포FC, 성남FC 상대로 10경기 무패 도전 - 경기신문
-요약: 김포FC가 K리그2에서 10경기 연속 무패를 달성하며 리그 선두에 올랐다. 김포FC의 공격과 수비가 뛰어나며, 현재 득점 1위인 루이스(6골)를 앞세운 공격과 9경기에서 단 4골만 허용한 짠물 수비가 한 몫을 하고 있다. 이번 주말 김포FC는 성남FC와 홈 경기를 치르며 10경기 연속 무패 기록을 이어갈 예정이다.
-
-URL: https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LmtnbmV3cy5jby5rci9uZXdzL2FydGljbGUuaHRtbD9ubz03NDY1MTnSAQA?oc=5
-
 제목: '도전하고, 기회를 잡아라'...IT 업계 여성 '연대의 장' 열렸다 - 테크M
-요약: '우먼 테크메이커스 코리아 2023'이 열렸다. 국내 IT 업계에서 활약하는 여성이 모여 성장과 경험을 공유하는 행사다. 이번 행사에서는 구글, 네이버, 토스, 나인코퍼레이션 등 국내 IT 업계에 몸 담고 있는 여성 리더 9명이 연사자로 나서 자신의 성장 경험담을 공유했다. 이들은 참석자들의 질문을 바탕으로 실질적인 조언도 아끼지 않았다. 이들은 한목소리로 "일단 도전하라"며 IT 업계 여성들의 자신감을 북돋웠다.
+요약: '우먼 테크메이커스 코리아 2023'이 지난 28일~29일 서울 강남구 대치동 '구글 스타트업 캠퍼스'에서 열렸다. 국내 IT 업계에서 활약하는 여성이 모여 성장과 경험을 공유하는 행사로, 구글, 네이버, 토스, 나인코퍼레이션 등 국내 IT 업계에 몸 담고 있는 여성 리더 9명이 연사자로 나서 자신의 성장 경험담을 공유했다. 이들은 참석자들의 질문을 바탕으로 실질적인 조언도 아끼지 않았다. 이번 행사는 신종 코로나바이러스 감염증(코로나19) 이후 3년 만에 오프라인으로 진행되었다.
 
 URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnRlY2htLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xMDk2MzDSATpodHRwczovL3d3dy50ZWNobS5rci9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89MTA5NjMw?oc=5
 
+제목: 트와이스 나연, 타미 진스 아시아 앰배서더 선정… 23SS 캠페인 화보 공개 - 머니투데이
+요약: 글로벌 캐주얼 브랜드 '타미 진스'가 트와이스 나연을 아시아 앰배서더로 선정하고, 봄/여름 캠페인 화보를 공개했다. 화보에서 나연은 타미 진스의 아이코닉한 데님 아이템들을 활용한 스타일링으로 힙한 스트리트 무드를 완성하였으며, Y2K 스타일까지 연출이 가능한 클레어 하이라이즈 와이드 데님 팬츠를 착용한 모습도 공개되었다. 해당 제품은 전국 타미 진스 오프라인 매장과 H패션몰, 무신사에서 만나볼 수 있다.
+
+URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwNTAxMTA1MjAwNTM2NTTSAT1odHRwczovL20ubXQuY28ua3IvcmVuZXcvdmlld19hbXAuaHRtbD9ubz0yMDIzMDUwMTEwNTIwMDUzNjU0?oc=5
+
 제목: 정의구현사제단 “'돼지 떼 2천마리의 질주' 떠오른다” - 한겨레
-요약: 한국의 경제지표가 악화되고 있지만 대통령은 미국과 일본과의 동맹을 중요시하며, 핵무장을 강조하고 있다. 그러나 이러한 방식으로는 나라가 허물어질 수 있다는 우려가 있다. 대신 북한과의 외교를 통해 평화를 이루는 것이 중요하다는 메시지가 전해졌다. 또한, 폭력 대 생명력의 대립이 있었던 광주항쟁을 예시로 들어, 자기들끼리 호의호식하는 것보다는 모두 함께 고루 살아가는 것이 중요하다는 메시지가 전해졌다. 마지막으로, 광주항쟁에서의 연대정신을 기억하며, 민중의 용감한 저항과 함께 정의와 평화를 추구하는 것이 중요하다는 메시지가 전해졌다.
+요약: 한국의 경제지표가 악화되고 있지만 대통령은 미국과 일본과의 동맹을 중요시하며, 핵무장을 추진하고 있다. 그러나 이러한 선택은 한국의 안보와 경제에 부정적인 영향을 미치고 있다. 대신, 북한과의 외교를 통해 평화를 이루는 것이 중요하다는 메시지가 전해졌다. 또한, 폭력 대 생명력의 대립에서 생명력을 발휘하는 나라가 중요하며, 광주항쟁과 같은 시민들의 용감한 저항과 연대가 필요하다는 메시지도 전해졌다.
 
 URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3JlbGlnaW91cy8xMDkwMDMwLmh0bWzSAQA?oc=5
 
 제목: 윤 대통령 지지율 1.9%p 오른 34.5%‥4주 만에 반등 [리얼미터] - MBC뉴스
-요약: 윤석열 대통령의 국빈 방문과 관련하여, 지난 4주간의 여론조사 결과, 윤 대통령의 국정 지지율이 1.9%포인트 상승하여 34.5%로 집계되었습니다. 부정평가는 2.1%포인트 하락하여 62.6%로 나타났습니다. 국민의힘 지지율은 2주 연속 상승하며 35.2%, 민주당 지지율은 2주 연속 하락하여 44.7%, 정의당은 3.5%로 조사되었습니다.
+요약: 윤석열 대통령의 국빈 방문과 관련하여, 리얼미터가 조사한 여론조사 결과, 윤 대통령의 국정 지지율이 4주 만에 반등하여 34.5%로 집계되었습니다. 이에 반해 부정평가는 62.6%로 나타났습니다. 국민의힘 지지율은 2주 연속 상승하며 35.2%, 민주당 지지율은 2주 연속 하락해 44.7%, 정의당 3.5%로 조사되었습니다.
 
 URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9wb2xpdGljcy9hcnRpY2xlLzY0NzkzOTZfMzYxMTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9wb2xpdGljcy9hcnRpY2xlLzY0NzkzOTZfMzYxMjAuaHRtbA?oc=5
 
 제목: 임창정, 주가조작 피해 호소 “빚 60억…" 박혜경, “돈 불어나는 것 보고 천재라 생각”… / 검찰, 이번주 본격 소환조사 [이슈 톺아보기] MBN뉴스 23.05.01 - MBN News
 URL: https://news.google.com/rss/articles/CCAiC043MlNJMWQ2bElJmAEB?oc=5
 
-제목: 프란치스코 교황 “우크라이나 전쟁 '평화 미션' 진행 중” - 한겨레
-요약: 프란치스코 교황이 러시아-우크라이나 전쟁의 평화적 해결을 위한 작업을 진행 중이라고 밝혔다. 또한, 러시아가 데려간 우크라이나 아이들의 귀환 문제와 관련해 교황청은 이들을 되돌려 보내는 일을 돕고 싶다고 말했다. 이날 야외 미사에서는 난민 문제에 대해 좀 더 열린 자세를 보여줄 것을 촉구했다.
+제목: 윤재옥 “워싱턴 선언, 우리 자체 핵무장보다 더 큰 이익될 것” - 동아일보
+요약: 윤재옥 국민의힘 원내대표는 한미 핵협의그룹(NCG) 구성을 담은 ‘워싱턴 선언’에 대해 긍정적인 평가를 내리며, 이는 기존 한미상호방위조약을 핵을 포함해 업그레이드한 제2 한미상호방위조약이라고 설명했다. 이에 따라 미국은 북한의 핵위협에 대해 핵 자산을 어떻게 사용할 것인지 우리와 협의하고 방안을 마련하고 그에 입각해 연합훈련을 하게 될 것이다. 또한, 윤 원내대표는 5월 1일 근로자의 날을 맞아 노동개혁특별위원회를 출범시켜 노동 4대 분야 정책 대안과 입법 방안을 논의할 것이라고 밝혔다.
 
-URL: https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9pbnRlcm5hdGlvbmFsL2V1cm9wZS8xMDkwMDI4Lmh0bWzSAQA?oc=5
-
-제목: 한화생명, '어른이보험' 경쟁 뛰어들었다...'평생친구 어른이보험' 출시 - 에너지경제
-URL: https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmVrbi5rci93ZWIvdmlldy5waHA_a2V5PTIwMjMwNTAxMDEwMDAwMDY40gEA?oc=5
-
-제목: 4월 무역수지 26억 달러 적자...14개월 연속 무역 적자 / YTN - YTN
-URL: https://news.google.com/rss/articles/CCAiC3huaV9tWF83dGRRmAEB?oc=5
-
-제목: 매트록스, 인텔 아크 GPU 기반 멀티 디스플레이용 VGA 루마(LUMA) 시리즈 발표 - 보드나라 (Bodnara)
-요약: 매트록스가 자체 GPU 개발을 포기하고 AMD GPU 기반으로 제품 생산을 시작했으며, 이번에는 인텔 아크 그래픽 기반 제품을 출시한다. 루마(LUMA) 시리즈는 멀티 디스플레이가 필요한 산업현장이나 기업 시장을 타겟팅한 제품으로, 최대 2개의 8K 60Hz 모니터 또는 4개의 5K 60Hz 디스플레이 연결이 가능하다. 모든 루마 제품의 수명 주기는 7년으로 관리되며, 매트록스 파워데스크 관리 SW를 통해 멀티 디스플레이 셋업을 지원한다.
-
-URL: https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmJvZG5hcmEuY28ua3IvYmJzL2FydGljbGUuaHRtbD9udW09MTg1NTgz0gEA?oc=5
-
-제목: U+알뜰폰, 업계 최초 5G 중간요금제 출시…"4만∼6만원대" - 연합뉴스
-URL: https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L0FLUjIwMjMwNTAxMDI4MDAwMDE3P3NlY3Rpb249bmV3c9IBMWh0dHBzOi8vbS55bmEuY28ua3IvYW1wL3ZpZXcvQUtSMjAyMzA1MDEwMjgwMDAwMTc?oc=5
+URL: https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmRvbmdhLmNvbS9uZXdzL1BvbGl0aWNzL2FydGljbGUvYWxsLzIwMjMwNTAxLzExOTA4NDkyNC8x0gE3aHR0cHM6Ly93d3cuZG9uZ2EuY29tL25ld3MvYW1wL2FsbC8yMDIzMDUwMS8xMTkwODQ5MjQvMQ?oc=5
 
 제목: 中 이론지 '구시', '시진핑 신시대 중국 특색 사회주의 사상을 학습하고 관철하기 위한 주제 교육 업무회의 연설' 게재 - Xinhua
 URL: https://news.google.com/rss/articles/CBMiQmh0dHA6Ly9rci5uZXdzLmNuLzIwMjMwNTAxL2U1ZDY2OGQ0ZWNkOTQyZWY4MmFlZTAwM2NjOTE2NWY5L2MuaHRtbNIBAA?oc=5
 
-제목: 미디어텍 차세대 Dimensity 9200+ 성능 유출.. 스냅드래곤 8 2세대比 ↑ - 케이벤치 (KBench)
-요약: 대만 미디어텍의 차세대 플래그십 칩셋 Dimensity 9200+의 긱벤치 성능이 유출됐다. 이 칩셋은 스냅드래곤 8 2세대 기반 플래그십 스마트폰을 뛰어넘는 수준의 성능을 보여주며, 5월 10일 공식 발표될 예정이다. 이 칩셋은 iQOO Neo 8 프로에 최초 탑재될 것으로 알려졌다.
+제목: [시승기] BMW iX3, 고성능 패밀리 전기차…"내연기관 차와 이질감 없어" - 미디어펜
+요약: BMW의 순수전기차인 iX3는 최고출력 286마력을 발휘하는 BMW 5세대 eDrive 통합 전기 구동계가 탑재되어 있으며, 1회 주행 가능 거리는 344km이다. iX3는 X3보다 74mm나 낮은 차체와 43:57 비율의 앞뒤 무게 배분 덕분에 BMW 후륜구동 모델 특유의 날렵한 주행성 능을 발휘한다. 디자인 요소로는 앞면에는 새 디자인의 싱글 프레임 키드니 그릴이 장착되어 있으며, 새로운 20인치 에어로다이내믹 휠에는 i 블루 포인트 컬러가 적용된 휠 캡이 적용돼 순수전기 모델임을 강조하고 있다.
 
-URL: https://news.google.com/rss/articles/CBMiIWh0dHBzOi8va2JlbmNoLmNvbS8_cT1ub2RlLzI0MzI1NNIBAA?oc=5
+URL: https://news.google.com/rss/articles/CBMiKGh0dHA6Ly93d3cubWVkaWFwZW4uY29tL25ld3Mvdmlldy84MTQ2OTfSAQA?oc=5
 
-제목: [속보] '민주당 돈봉투 의혹' 송영길 캠프 관계자들 압수수색 - 한겨레
-요약: 검찰이 더불어민주당의 2021년 전당대회 돈봉투 의혹을 수사 중인데, 이번에는 송영길 전 민주당 대표의 경선 캠프 관계자에 대한 증거 확보를 위해 압수수색을 시행하고 있다. 검찰은 돈봉투를 만든 '조성자'와 돈봉투를 받은 '수수자'로 수사가 확대되는 것으로 보이며, 이를 통해 송 전 대표를 향한 수사가 이어질 것으로 예상된다.
+제목: 홀란 34호골...맨시티, 선두 점프 - YTN
+요약: 홀란이 프리미어리그 단일 시즌 최다 골 타이 기록을 세우며 맨시티는 알바레스의 결승골로 2대 1로 이겨 선두로 뛰어올랐습니다. 맨시티는 경쟁 상대 아스널보다 한 게임을 덜 치러 우승 가능성이 높아졌습니다.
 
-URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDkwMDE2Lmh0bWzSAQA?oc=5
-
-제목: 고 서세원 국내 빈소 마련, 각계 조문 행렬 [잇슈 연예] / KBS 2023.05.01. - KBS News
-URL: https://news.google.com/rss/articles/CCAiC0ljQVZNTnNsUEpZmAEB?oc=5
-
-제목: “최대 1억” KT, 스타트업에 성장자금 지원 - 아시아경제
-요약: KT가 대구창조경제혁신센터와 함께 'KT X 대구CC EI 2023년 대구 스케일업 오픈이노베이션 프로그램'을 진행한다. 이번 프로그램은 창업 7년 이내의 모든 스타트업이 지원 대상이며, 최종 선정된 스타트업에는 최대 1억원의 성장자금 지원과 KT와의 협업 기회 등 다양한 혜택이 주어진다. 지원 자격은 대구시에 소재하지 않더라도 신청 가능하며, 신청은 대구창업허브를 통해 접수할 수 있다.
-
-URL: https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vY20uYXNpYWUuY28ua3IvYXJ0aWNsZS8yMDIzMDUwMTA5MTI1MDc0OTQ30gEA?oc=5
-
-제목: 원빈이나영, 145억에 매입한 빌딩…5년 만에 300억 '대박' - 세계일보
-요약: 배우 원빈과 이나영 부부가 2018년 매입한 서울 강남구 청담동 건물이 300억원을 호가하는 것으로 알려졌다. 건물 가치는 5년 만에 최소 150억원 이상 시세 차익이 예상되며, 부부는 지분을 정확히 절반으로 나누어 가졌기 때문에 종합부동산세를 절세할 수 있고 향후 시세차익 역시 양도소득세도 줄일 수 있다는 전망이다.
-
-URL: https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LnNlZ3llLmNvbS9uZXdzVmlldy8yMDIzMDUwMTUwMjcyMdIBAA?oc=5
-
-제목: 종근당 vs 동아ST, 당뇨병 3제 복합제 시장 선점 경쟁 시작 - 헬스코리아뉴스
-요약: 종근당과 동아ST가 당뇨병 치료제 시장에서 3제 복합제 시장 선점을 위한 경쟁을 벌이고 있다. 현재는 2제 복합제만 개발되어 있어 누가 시장을 먼저 차지할지 업계의 관심이 쏠리고 있다. 동아ST는 지난달 식품의약품안전처에 제2형 당뇨병 복합제 슈가다파메트서방정의 품목허가를 신청했으며, 종근당은 지난해 9월 당뇨 3제 복합제 듀비메트S서방정에 대한 품목 허가를 신청했다. 다수의 제약사들이 당뇨 3제 복합제 개발에 뛰어들고 있으며, 이는 비교적 오랫동안 사용된 약들이라 안전성 측면에 이점이 있기 때문이다.
-
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmhrbjI0LmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MzMyNzI40gEA?oc=5
-
-제목: [날씨] 전국 맑고 따뜻·큰 일교차…강원 영동 대기 건조 - 연합뉴스TV
-요약: 오늘 전국이 대체로 맑고 따뜻하며, 일교차가 크다. 강원 영동은 건조특보가 내려져 불조심이 필요하다. 전국의 공기질은 대부분 보통 단계이지만, 일부 지역은 오전 중에 일시적으로 나쁘다. 강원 영동과 영남은 바람이 강하게 불어 불씨가 번질 위험이 있으므로 야외활동 시 조심해야 한다. 내일은 더욱 더 따뜻해지며, 일교차가 더욱 커질 예정이다.
-
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTAxMDAyNzAwNjQx0gEA?oc=5
+URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lnl0bi5jby5rci9fbG4vMDEwN18yMDIzMDUwMTA5Mjk0MjE5ODXSAUNodHRwczovL20ueXRuLmNvLmtyL25ld3Nfdmlldy5hbXAucGhwP3BhcmFtPTAxMDdfMjAyMzA1MDEwOTI5NDIxOTg1?oc=5
 
 
