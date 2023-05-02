@@ -1,91 +1,89 @@
+제목: 다음 콜라보는 공각기동대, '소녀전선' 7주년 특별방송 - 인벤
+요약: GPT3 Return Error: 'choices'
+
+URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmludmVuLmNvLmtyL3dlYnppbmUvbmV3cy8_bmV3cz0yODQyMzHSAQA?oc=5
+
+제목: [유용원의 밀리터리 시크릿] 한국형 확장억제 사실상 정점 찍은 ‘워싱턴 선언’...남은 과제는? - 조선일보 - 조선일보
+URL: https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmNob3N1bi5jb20vcG9saXRpY3MvcG9saXRpY3NfZ2VuZXJhbC8yMDIzLzA1LzAyL0xaRVdNN1BVSFpFUE5HUFJOQ1lESlRQN0ZZL9IBZmh0dHBzOi8vd3d3LmNob3N1bi5jb20vcG9saXRpY3MvcG9saXRpY3NfZ2VuZXJhbC8yMDIzLzA1LzAyL0xaRVdNN1BVSFpFUE5HUFJOQ1lESlRQN0ZZLz9vdXRwdXRUeXBlPWFtcA?oc=5
+
+제목: 바다의 신비, 해양생물 < 학술 < 학술·연구 < 기사본문 - 카이스트신문 - 카이스트 신문
+요약: GPT3 Return Error: 'choices'
+
+URL: https://news.google.com/rss/articles/CBMiOmh0dHA6Ly90aW1lcy5rYWlzdC5hYy5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjEyNzTSAQA?oc=5
+
+제목: “AI가 살인로봇 변할 날 두렵다”... ‘딥러닝 대부’ 힌턴, 구글과 작별 - 조선일보 - 조선일보
+URL: https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmNob3N1bi5jb20vaW50ZXJuYXRpb25hbC9pbnRlcm5hdGlvbmFsX2dlbmVyYWwvMjAyMy8wNS8wMS9ZNFJCSVpMUk1KQVhWR0hJRVhRRk83WUZBQS_SAXBodHRwczovL3d3dy5jaG9zdW4uY29tL2ludGVybmF0aW9uYWwvaW50ZXJuYXRpb25hbF9nZW5lcmFsLzIwMjMvMDUvMDEvWTRSQklaTFJNSkFYVkdISUVYUUZPN1lGQUEvP291dHB1dFR5cGU9YW1w?oc=5
+
+제목: '정무수석이 한일관계 옹호=공천 언급'…태영호 녹취 공개 파장 - 한겨레
+요약: 국민의힘 최고위원인 태영호 의원실에서 이진복 대통령실 정무수석으로부터 한-일 관계와 관련해 윤석열 대통령을 옹호하는 발언을 해달라는 요청을 받았다는 음성 녹취록이 공개되어 파문이 일고 있다. 태영호 의원은 발언 내용을 부인하면서도, 이진복 수석은 한-일 관계 문제나 공천 문제에 대해 언급한 적이 없다고 주장하고 있다.
+
+URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9wb2xpdGljc19nZW5lcmFsLzEwOTAxNTYuaHRtbNIBAA?oc=5
+
+제목: 결국 JP모건이 '퍼스트리퍼블릭' 인수…미국 은행 위기 일단락되나 / KBS 2023.05.01. - KBS News
+URL: https://news.google.com/rss/articles/CCAiC0FLQXlHcEdZWEVNmAEB?oc=5
+
+제목: 검찰 '천화동인 6호 실소유주' 조우형 구속영장 청구 - 한국일보
+요약: 대장동 개발사업 비리 의혹을 수사 중인 검찰이 조우형씨를 상대로 사전구속영장을 청구했다. 조씨는 대장동 사업 관련 천화동인 6호 실소유주로서 초기 사업자금을 조달하는 역할을 한 것으로 보고 있다. 검찰은 조씨가 대장동 일당과 공모해 올해 1월까지 7,886억 원의 개발이익을 취득하고, 성남도시개발공사에 4,895억 원 상당의 손해를 끼쳤다고 보고 있다.
+
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpbGJvLmNvbS9OZXdzL1JlYWQvQTIwMjMwNTAxMTkzMzAwMDQ4MDDSAQA?oc=5
+
 제목: [톱플레이] '리그 34호골' 홀란‥맨체스터 시티 선두 탈환 - MBC뉴스
-요약: 맨체스터 시티의 홀란이 리그 34번째 골로 한 시즌 최다 득점 기록을 세우고, 나폴리는 33년 만에 리그 우승을 차지하기 위해 승리를 거둬야 했으나 1대1 무승부로 우승 확정은 다음 경기로 미뤄졌다. 또한, 오나티의 거대한 홈런이 톱플레이로 선보였다.
+요약: 맨체스터 시티의 홀란이 리그 34번째 골을 넣어 시즌 최다 득점 기록을 세웠고, 나폴리는 33년 만에 리그 우승을 차지하기 위해 승리를 거둬야 했지만 1대1 무승부로 우승 확정은 다음 경기로 미뤄졌다. 또한, 오나티의 거대한 홈런이 톱플레이로 선보였다.
 
 URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0Nzk1OTdfMzYxOTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0Nzk1OTdfMzYyMDAuaHRtbA?oc=5
 
-제목: 천화동인 6호 실소유 의혹 조우형 구속영장…검찰 “대장동 공범” - 한겨레
-요약: 화천대유 관계사 천화동인 6호의 실소유주로 의심되는 조우형씨에 대해 검찰이 대장동 개발 과정에서 이해충돌방지법 위반, 특정경제범죄 가중처벌법상 배임, 범죄수익은닉규제법 위반 혐의로 구속영장을 청구했다. 천화동인 1~7호는 화천대유 관계사로 대장동 개발사업으로 수천억원을 배당받았다. 검찰은 조씨를 김만배씨와 남욱씨 등 ‘대장동 일당’의 공범으로 보고 있다.
+제목: 송영길 측 "내일 자진출두"…검찰, 추가 압수수색 - 연합뉴스TV
+요약: 송영길 전 대표가 더불어민주당 전당대회 돈봉투 살포 의혹과 관련해 내일 검찰에 자진 출석하기로 했지만, 검찰은 현재는 조사할 수 없다는 입장입니다. 그러면서도 검찰은 송 전 대표의 개인적인 자금 조달 가능성 관련 수사에 속도를 내고 있습니다. 후원조직 '먹사연'에 따르면, 당대표 경선 전인 2월부터 4월까지, 전체의 절반에 달하는 1억4천여만원이 모였습니다. 검찰은 압수물 분석을 끝내는 대로 경선캠프 관계자들을 불러 조사한 뒤 송 전 대표를 소환할 전망입니다.
 
-URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDkwMTUzLmh0bWzSAQA?oc=5
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTAxMDE4OTAwNjQx0gEA?oc=5
 
 제목: 키움증권 “라덕연 고소…김익래 회장 주가 폭락과 관계 없어” - 경향신문
-요약: 키움증권이 주가조작 의혹을 제기한 라덕연씨를 허위사실 유포 및 명예훼손 혐의로 고소하기로 했다. 라씨는 언론 인터뷰에서 주가 폭락의 주범은 김익래 다우키움 그룹 회장이라고 주장하며, 김 회장은 폭락 사태 2거래일 전인 지난 20일 시간외매매로 다우데이타 140만주를 주당 4만3245원에 처분했다. 키움증권은 김 회장의 주식 매도 시점은 우연의 일치일 뿐, 주가 폭락 사태와는 관련이 없다는 입장이다.
+요약: 키움증권이 라덕연씨를 '허위사실 유포 및 명예훼손' 등의 혐의로 고소하기로 했다. 라씨는 언론 인터뷰에서 "주가 폭락의 주범은 김익래 다우키움 그룹 회장"이라고 주장하자 대응에 나선 것이다. 김 회장은 폭락 사태 2거래일 전인 지난 20일 시간외매매로 다우데이타 140만주(3.65%)를 주당 4만3245원에 처분했다.
 
-URL: https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmtoYW4uY28ua3IvZWNvbm9teS9maW5hbmNlL2FydGljbGUvMjAyMzA1MDEyMDQ1MDAxLz9rcmVmPXJ0YdIBAA?oc=5
+URL: https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vbS5raGFuLmNvLmtyL2FydGljbGUvMjAyMzA1MDEyMDQ1MDAx0gFAaHR0cHM6Ly9tLmtoYW4uY28ua3IvZWNvbm9teS9maW5hbmNlL2FydGljbGUvMjAyMzA1MDEyMDQ1MDAxL2FtcA?oc=5
+
+제목: 전세사기 피해 구제대상, 면적 제한 없애고 보증금 최대 4.5억 이하로 확대 - 뉴스핌
+요약: GPT3 Return Error: 'choices'
+
+URL: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lm5ld3NwaW0uY29tL25ld3Mvdmlldy8yMDIzMDUwMTAwMDM0N9IBMWh0dHBzOi8vbS5uZXdzcGltLmNvbS9uZXdzYW1wL3ZpZXcvMjAyMzA1MDEwMDAzNDc?oc=5
 
 제목: [단독] '투자 큰손' 중엔 제약사 오너도…주가조작단 채널에 광고 집행 / JTBC 뉴스룸 - JTBC News
 URL: https://news.google.com/rss/articles/CCAiC3JqMFY1MElsU1dVmAEB?oc=5
 
-제목: [단독] "대통령실 '공천' 거론하며 한일관계 옹호" 압박? - MBC뉴스
-요약: MBC가 국민의힘 태영호 의원과 대통령실 이진복 정무수석의 녹취록을 공개했다. 이진복 수석은 한일 관계에 대해 옹호 발언을 해달라는 취지의 요청을 했으며, 최고위원으로서 마이크를 잘 활용하면 공천 문제는 신경 쓸 필요도 없다는 내용도 담겨 있었다. 이에 대해 태 의원은 정신이 번쩍 들었다고 했으며, 이진복 수석은 공천 관련 발언도 한일관계 관련 발언도 한 적이 없다고 밝혔다.
+제목: 카이퍼 벨트 왜소행성 콰오와 두 번째 고리 발견 – 사이언스모니터 | The Science Monitor - 사이언스모니터
+URL: https://news.google.com/rss/articles/CBMirgFodHRwOi8vc2NpbW9uaXRvcnMuY29tLyVFQyU5OSU5QyVFQyU4NiU4QyVFRCU5NiU4OSVFQyU4NCVCMS0lRUMlQkQlQjAlRUMlOTglQTQlRUMlOTklODAtJUVDJUEzJUJDJUVCJUIzJTgwLSVFQiU5MSU5MC0lRUIlQjIlODglRUMlQTclQjgtJUVBJUIzJUEwJUVCJUE2JUFDLSVFQiVCMCU5QyVFQSVCMiVBQy_SAQA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0Nzk1NjhfMzYxOTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0Nzk1NjhfMzYyMDAuaHRtbA?oc=5
+제목: 장기용, 제대 후 푹 빠진 두 가지는? "후회없이 먹고, 건강하게 운동" [종합] - 조선일보 - 조선일보
+URL: https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNob3N1bi5jb20vZW50ZXJ0YWlubWVudHMvZW50ZXJfZ2VuZXJhbC8yMDIzLzA1LzAxL1pRVEVUQjRUV0NVMjZZTDdWRE5DRDJSM1RBL9IBaWh0dHBzOi8vd3d3LmNob3N1bi5jb20vZW50ZXJ0YWlubWVudHMvZW50ZXJfZ2VuZXJhbC8yMDIzLzA1LzAxL1pRVEVUQjRUV0NVMjZZTDdWRE5DRDJSM1RBLz9vdXRwdXRUeXBlPWFtcA?oc=5
 
-제목: 우크라이나 "흑해함대 사령부 공격, 우리가 했다" 인정...러시아 국방부, '마리우폴의 도살자' 병참 담당 차관 해임 - 한국어 방송 - VOA Korean
-요약: 우크라이나 군 당국이 러시아 흑해함대 사령부 내 유류 저장고를 공격한 사실을 인정했습니다. 이번 공격은 앞으로 진행될 '대반격'의 준비 과정이라고 밝혔으며, 어떤 부대가 어떤 방식으로 공격했는지는 밝히지 않았습니다. 이에 대해 러시아 국방부는 병참 분야 최고위급 책임자인 미하일 미진체프 차관을 해임하고, 후임에는 알렉세이 쿠즈멘코프 차관이 임명됐다고 발표했습니다.
+제목: 중국 노동절 맞아 '보복여행' 폭발…4년 만에 최대 규모 - 연합뉴스TV
+요약: 중국에서는 노동절 연휴를 맞아 보복여행이 폭발하고 있습니다. 코로나19 이전과 비교하면 20% 증가한 규모로, 주요 관광지는 매우 북적입니다. 연휴 첫날에만 중국 전역의 소매업과 요식업 매출액은 21.4% 증가했다고 중국 상무부가 밝혔습니다. 이번 노동절 연휴기간 관광객이 4년 만에 최대 규모가 될 것으로 예상됩니다.
 
-URL: https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hLzcwNzMzMDEuaHRtbNIBKWh0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hbXAvNzA3MzMwMS5odG1s?oc=5
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTAxMDE2MzAwNjQx0gEA?oc=5
 
-제목: 왜소행성 콰오와 주변에서 발견된 두 번째 고리 – 사이언스모니터 | The Science Monitor - 사이언스모니터
-URL: https://news.google.com/rss/articles/CBMiyQFodHRwOi8vc2NpbW9uaXRvcnMuY29tLyVFQyU5OSU5QyVFQyU4NiU4QyVFRCU5NiU4OSVFQyU4NCVCMS0lRUMlQkQlQjAlRUMlOTglQTQlRUMlOTklODAtJUVDJUEzJUJDJUVCJUIzJTgwJUVDJTk3JTkwJUVDJTg0JTlDLSVFQiVCMCU5QyVFQSVCMiVBQyVFQiU5MCU5Qy0lRUIlOTElOTAtJUVCJUIyJTg4JUVDJUE3JUI4LSVFQSVCMyVBMCVFQiVBNiVBQy_SAQA?oc=5
+제목: 교황 "우크라이나 전쟁 종식 위한 '비밀' 임무 중" - 한국어 방송 - VOA Korean
+요약: 프란치스코 로마 가톨릭 교황은 우크라이나와 러시아 간 전쟁을 끝내기 위한 평화 임무에 관여하고 있다고 밝혔습니다. 해당 임무와 관련해 교황청은 러시아나 러시아 점령지로 끌려간 우크라이나 어린이들의 송환을 도울 준비가 되어 있다고 설명했습니다. 프란치스코 교황은 평화는 대화 채널을 열어둠으로써 이뤄진다고 강조했습니다.
 
-제목: 미 금융 혼란 진원지 퍼스트리퍼블릭 은행, 제이피모건에 인수 - 한겨레
-요약: 미국의 은행 위기의 주요 진원지 중 하나인 퍼스트리퍼블릭은행이 파산해 제이피모건체이스은행에 인수됐다. 이는 2008년 이후 가장 큰 규모의 파산이며, 실리콘밸리은행, 시그니처은행 등에 이어 네 번째 은행 파산이다. 이번 위기의 원인은 지난해 2월 말 터진 우크라이나 전쟁 등으로 미국에 40년 만에 최악의 인플레이션이 발생했기 때문이다.
+URL: https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hLzcwNzMzNjEuaHRtbNIBKWh0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hbXAvNzA3MzM2MS5odG1s?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9pbnRlcm5hdGlvbmFsL2dsb2JhbGVjb25vbXkvMTA5MDE1MS5odG1s0gEA?oc=5
+제목: 美 뉴스케일, 한국에 소형원전 짓는다…'경북에 6기' - 한국경제
+요약: 미국의 세계 1위 소형모듈원전(SMR) 기업인 뉴스케일파워가 한국에 SMR을 건설하는 방안을 추진하고 있다. GS에너지와 협력하여 경북 산업단지에 전력 공급 계획을 가지고 있으며, 뉴스케일파워의 SMR 설계 기술력이 가장 앞서 있다는 평가를 받고 있다. 한국 기업들도 투자를 하고 있으며, 2031년까지 SMR 6개를 짓는 사업을 계획하고 있다.
 
-제목: 5월2일 궂긴 소식 : 궂긴소식 : 사회 : 뉴스 - 한겨레
-요약: 이 기사는 진실을 밝히고 미래를 위해 노력하는 것을 호소하며, 후원이 평등하고 자유로운 사회를 만들어낼 수 있다고 말합니다.
+URL: https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FydGljbGUvMjAyMzA1MDE1NjAwMdIBMmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FtcC8yMDIzMDUwMTU2MDAx?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L29iaXR1YXJ5LzEwOTAxNDguaHRtbNIBAA?oc=5
+제목: 분신한 건설노조 간부 중태…가족 “오랜 압박수사로 힘들어해” - 한겨레
+요약: 건설노조 강원지부 양아무개씨가 분신 후 중태에 빠져 입원한 서울 한강성심병원 앞에서 건설노조 조합원들이 지키고 있다. 양 지대장은 구속 전 피의자 심문을 받을 예정이었다. 건설노조는 윤석열 정부의 노동자 탄압이 노동자 분신으로 이어졌다고 반발하고 있으며, 이번 사태는 노조 파괴를 위해 검찰, 경찰, 국정원 등 모든 권력을 동원한 권위주의가 부른 참극이라는 비판이 나온다.
 
-제목: ‘대낮 만취운전’ 20대 차에 치인 40대 사망 - 조선일보 - 조선일보
-URL: https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmNob3N1bi5jb20vbmF0aW9uYWwvcmVnaW9uYWwvMjAyMy8wNS8wMS9NUEtPRU5RSlRaSENQQllTTzZDUjJTUFFCRS_SAV5odHRwczovL3d3dy5jaG9zdW4uY29tL25hdGlvbmFsL3JlZ2lvbmFsLzIwMjMvMDUvMDEvTVBLT0VOUUpUWkhDUEJZU082Q1IyU1BRQkUvP291dHB1dFR5cGU9YW1w?oc=5
-
-제목: 장미인애, 웨딩사진 공개…드레스부터 꽃장식까지 '럭셔리' - 한국아이닷컴
-요약: 배우 장미인애가 화려한 웨딩드레스를 입고 버진로드 위에 앉아 결혼식 사진을 인스타그램에 공개했다. 장미인애는 연상의 사업가와 지난해 혼인신고를 마치고 같은 해 10월 아들을 낳았으며, 지난달 29일 서울 중구 신라호텔에서 결혼식을 올렸다.
-
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NzQ3MzTSAT1odHRwczovL3d3dy5oYW5rb29raS5jb20vbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTc0NzM0?oc=5
-
-제목: 터치하면 내 주변 공연·전시 정보가 '한눈에' - 한국경제
-요약: 부산 해운대 시그니엘 호텔에서는 최근 클래식 음악 공연과 미술 전시 등 다양한 문화예술 행사가 열리면서, 호텔이 문화예술 애호가들의 놀이터로 거듭나고 있다. 이번 공연에서는 여성 현악 4중주 ‘리수스 콰르텟’이 선보인 ‘캔들라이트 공연’이 매진될 정도로 호평을 받았다. 이처럼 호텔들은 최근 공연·전시 연계 마케팅을 적극적으로 펼치면서 애호가들도 문화예술을 ‘프라이빗’하게 즐기기 위해 호텔을 찾고 있다.
-
-URL: https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9saWZlL2FydGljbGUvMjAyMzA1MDE1NTYyMdIBL2h0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9saWZlL2FtcC8yMDIzMDUwMTU1NjIx?oc=5
-
-제목: [아하! 우주] 태양을 향한 수성의 거대한 ‘꼬리’가 잡혔다! - 나우뉴스
-요약: 태양의 제1행성인 수성이 근일점에 도달하면서 혜성처럼 거대한 꼬리를 드러냈습니다. 수성의 꼬리는 태양풍과 미세한 유성 충돌에 의해 행성 표면에서 흩어진 나트륨 이온으로 이루어져 있습니다. 수성의 꼬리는 일반 관찰자가 보기가 매우 어렵기 때문에 21세기가 되기까지 발견되지 않았으며, 이번에 발견된 꼬리는 특수 필터를 사용하여 촬영된 것입니다. 달도 지구가 달을 통과할 때 한 달에 한 번만 보이는 꼬리를 가지고 있습니다.
-
-URL: https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vbm93bmV3cy5zZW91bC5jby5rci9uZXdzL25ld3NWaWV3LnBocD9pZD0yMDIzMDUwMTYwMTAxM9IBLmh0dHBzOi8vYW1wLnNlb3VsLmNvLmtyL25vd25ld3MvMjAyMzA1MDE2MDEwMTM?oc=5
-
-제목: 14개월 연속 무역 적자...반도체↓·자동차↑ 적자 개선 / YTN - YTN
-URL: https://news.google.com/rss/articles/CCAiC29BNWhOdFFWbWI0mAEB?oc=5
-
-제목: 송영길 “내일 검찰 출두”…검찰 “필요하면 부르겠다” - 한겨레
-요약: 송영길 전 더불어민주당 대표가 전당대회 당시 돈봉투 살포 의혹과 관련해 검찰에 자진 출석할 예정이다. 검찰은 사전 협의가 없었다며 ‘조사하지 않고 돌려보내겠다’는 입장이다. 이에 대해 검찰은 자금이 형성되고 살포된 경위를 집중적으로 들여다보고 있다.
-
-URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDkwMTExLmh0bWzSAQA?oc=5
+URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDkwMTEzLmh0bWzSAQA?oc=5
 
 제목: 찰스3세 대관식 비용 1700억원 추산…비판 여론도 - 연합뉴스TV
 요약: 영국 찰스 3세 국왕의 대관식 비용이 최소 1,700억원으로 추산됩니다. 이는 엘리자베스 2세 여왕 대관식 비용의 약 2배에 해당하며, 보안 비용이 더 늘어난 것이 대관식 비용을 끌어올린 요인 중 하나로 분석됩니다. 일각에서는 고물가로 허덕이는 상황에서 납세자가 지출하기에는 과도한 금액이라는 비판도 나오고 있습니다.
 
 URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTAxMDEyNzAwNjQx0gEA?oc=5
 
-제목: [프레스룸 LIVE] "내가 정면 돌파해야" 송영길, 내일 檢 자진 출두 - MBN News
-URL: https://news.google.com/rss/articles/CCAiC0pNUXk3OENiSmZFmAEB?oc=5
+제목: 기시다 방한 최종 조율 중…7일 한일정상회담 가능성 - 연합뉴스TV
+요약: 일본 총리 기시다 후미오가 오는 7일에서 8일 우리나라를 방문할 예정이며, 한일 양국 정부는 7일 용산 대통령실에서 한일 정상회담을 여는 방안을 최종 조율 중입니다. 내일(2일) 조율이 마무리될 경우, 기시다 총리의 방한과 정상회담 일정을 공식 발표할 예정입니다.
 
-제목: "미 이지스 구축함 '존 핀' 지난달 평택기지 입항" - 신아일보
-요약: 미 해군 7함대 소속 이지스 구축함 '존 핀'이 경기도 평택해군기지에 입항했다.
-
-URL: https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LnNoaW5haWxiby5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MTY5NjgzN9IBAA?oc=5
-
-제목: 90세 천문학 대부 고물상 찾는 사연 "나는 천문 수리공" - 大德网
-요약: GPT3 Return Error: 'choices'
-
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmhlbGxvZGQuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xMDAzNTbSAQA?oc=5
-
-제목: 해열제, 안 먹는 게 나을 때는 언제? - 코메디닷컴
-요약: 경미한 열이 나면 약을 먹지 않고 그대로 두는 것이 건강에 이로울 수 있다는 새로운 연구 결과가 나왔다. 캐나다 앨버타대 연구팀은 물고기 실험에서 경미한 열을 치료하지 않고 그대로 두는 것이 몸에서 감염을 빠르게 제거하고, 염증을 조절하고, 손상된 조직을 복구하는 데 도움이 된다는 것을 발견했다. 인간에게 있어 자연적 발열의 이점은 확인이 필요하지만, 연구팀은 열을 내고 유지하는 메커니즘이 동물계 전반에 걸쳐 공유되기 때문에 인간에게도 유사한 이점이 있을 가능성이 높다고 믿고 있다.
-
-URL: https://news.google.com/rss/articles/CBMimAFodHRwczovL2tvcm1lZGkuY29tLzE1ODcxNTQvJUVEJTk1JUI0JUVDJTk3JUI0JUVDJUEwJTlDLSVFQyU5NSU4OC0lRUIlQTglQjklRUIlOEElOTQtJUVBJUIyJThDLSVFQiU4MiU5OCVFQyU5RCU4NC0lRUIlOTUlOEMlRUIlOEElOTQtJUVDJTk2JUI4JUVDJUEwJTlDL9IBAA?oc=5
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTAxMDEyNDAwNjQx0gEA?oc=5
 
 
