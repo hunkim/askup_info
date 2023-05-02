@@ -1,91 +1,89 @@
-제목: 진짜 웃어야 LOL 문자 보내주는 인식기 - 테크레시피
-요약: 크리에이터인 브라이언 무어는 LOL이라는 문자 메시지를 입력할 때 실제로 웃음을 인식하지 않으면 전송할 수 없는 LOL 입증기를 만들었다. LOL 입증기는 사용자가 LOL을 입력하면 웃음을 인식하는 상태로 바뀌고, 사용자가 웃으면 빛이 녹색으로 바뀌고 LOL을 보낼 수 있다. 반면 사용자 웃음이 들리지 않거나 큰 웃음을 내지 않으면 입력한 LOL은 다른 메시지로 변환된다. LOL 입증기는 SNS에서 반응을 얻기 위한 프로젝트였지만 만일 빠르게 인기가 높아지면 코드 등을 공개하는 것도 고려하고 있다.
+제목: 세라믹기술원, LFP 배터리 제조기술 개발 추진 - 경남일보
+요약: 한국세라믹기술원이 중국이 독점하고 있는 LFP 배터리(리튬인산철 기반 이차전지) 개발에 참여한다. LFP 배터리는 가격이 낮고 안정성이 높지만 에너지밀도가 낮고 주행거리가 짧은 단점이 있다. 그러나 최근 핵심 광물 가격이 급등하면서 LFP 배터리는 급성장하고 있으며, 글로벌 이차전지 시장에서의 수요가 증가하고 있다. 한국세라믹기술원은 건식 전극 공정 기술 개발을 통해 전기차용 배터리의 주행거리와 가격을 개선할 수 있는 차세대 공정 기술을 개발할 계획이다.
 
-URL: https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vdGVjaHJlY2lwZS5jby5rci9wb3N0cy81MTE3OdIBKGh0dHBzOi8vdGVjaHJlY2lwZS5jby5rci9wb3N0cy81MTE3OS9hbXA?oc=5
+URL: https://news.google.com/rss/articles/CBMiOmh0dHA6Ly93d3cuZ25uZXdzLmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz01Mjc5NTjSAQA?oc=5
 
-제목: 산업부, 인도‧태평양 통상협상 집중…"공급망 다변화 모색" - 신아일보
-요약: 한국 정부는 인도-태평양 지역을 중심으로 전개되는 통상협력 논의에 협상력을 집중하고 있다. 산업통상자원부는 제33차 통상추진위원회에서 인태경제프레임워크(IPEF) 제3차 협상 추진계획, 한-에콰도르 SECA 제9차 공식 협상결과 및 향후 계획, APEC 통상장관회의 준비현황 및 대응방향, 산업 에너지 분야 온실가스 국외감축 추진현황 및 과제 등 4건을 논의했다. 특히, 인도-태평양 지역과의 통상협력을 강조하며, IPEF 협상이 최근 속도감 있게 진행되고 있으며, 전 부처가 통상 역량을 집중해 성과를 도출할 것이라고 밝혔다.
+제목: 엠폭스 사흘간 국내감염 5명 추가 확진…누적 47명 - 연합뉴스TV
+요약: 엠폭스 확진자가 5명 추가로 발생하여 누적 확진자는 47명으로 늘었습니다. 환진자들 모두 국내발생으로 추정되며, 서울대 보건대학원 조사 결과 39.1%가 엠폭스에 대해 '비교적 정확히 아는 게 하나도 없다'고 답한 것으로 조사됐습니다.
 
-URL: https://news.google.com/rss/articles/CBMiPmh0dHA6Ly93d3cuc2hpbmFpbGJvLmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xNjk2NDY20gEA?oc=5
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTAxMDEzMDAwNjQx0gEA?oc=5
 
-제목: 한 번 쓴 수건 ‘재사용’ 그만...수건 관리법 - 코메디닷컴
-요약: 한 번 사용한 수건은 재사용하지 않는 것이 좋다. 수건에는 세균과 곰팡이가 번식할 수 있으며, 피부의 각질세포와 타액 등이 묻어있을 가능성이 크기 때문이다. 수건은 잘 말려서 세탁하고, 단독으로 세탁하는 것이 좋다. 섬유유연제나 울샴푸 등은 가급적 피하고, 수건 세탁 뒤 말리는 방법도 중요하다. 수건은 6개월~1년 주기로 교체하는 것이 좋다.
+제목: 찰스3세 대관식 비용 1700억원 추산…비판 여론도 - 연합뉴스TV
+요약: 영국 찰스 3세 국왕의 대관식 비용이 최소 1,700억원으로 추산됩니다. 이는 엘리자베스 2세 여왕 대관식 비용의 약 2배에 해당하며, 보안 비용이 더 늘어난 것이 대관식 비용을 끌어올린 요인 중 하나로 분석됩니다. 일각에서는 고물가로 허덕이는 상황에서 납세자가 지출하기에는 과도한 금액이라는 비판도 나오고 있습니다.
 
-URL: https://news.google.com/rss/articles/CBMiqwFodHRwczovL2tvcm1lZGkuY29tLzE1ODY3OTIvJUVEJTk1JTlDLSVFQiVCMiU4OC0lRUMlOTMlQjQtJUVDJTg4JTk4JUVBJUIxJUI0LSVFQyU5RSVBQyVFQyU4MiVBQyVFQyU5QSVBOS0lRUElQjclQjglRUIlQTclOEMtJUVDJTg4JTk4JUVBJUIxJUI0LSVFQSVCNCU4MCVFQiVBNiVBQyVFQiVCMiU5NS_SAQA?oc=5
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTAxMDEyNzAwNjQx0gEA?oc=5
 
-제목: 바닷물이 끓는다…강한 엘니뇨로 올여름 '비 폭탄' 예상 - 한겨레
-요약: 한국 기상청은 엘니뇨 현상이 발생할 것으로 예상하고 있다. 이는 남부지방을 중심으로 많은 비가 내릴 것으로 보인다. 엘니뇨는 한반도 남동쪽 태평양 바닷물 온도가 올라가는 현상으로, 대략 3~7년 주기로 일어난다. 2015년에 발생한 엘니뇨 때는 전국 강수일수가 14.9일로 기록되는 등 한국이 본격적으로 기상 관측을 시작한 1973년 이래로 가장 많은 날 비가 왔다. 이번에도 세계적으로 이상 기후 현상이 발생할 가능성이 높다.
+제목: 90세 천문학 대부 고물상 찾는 사연 "나는 천문 수리공" - 大德网
+요약: GPT3 Return Error: 'choices'
 
-URL: https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L2Vudmlyb25tZW50LzEwOTAwNDguaHRtbNIBAA?oc=5
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmhlbGxvZGQuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xMDAzNTbSAQA?oc=5
 
-제목: NASA, 달 표면 재현한 훈련장 만들었다 - 스푸트니크::sputnik
-요약: 미 항공우주국(NASA)이 대규모 모의 달 표면을 제작해 비행사들의 실감 나는 훈련을 진행하고 있다. 이를 위해 물 약 620만 갤런(약 2300만ℓ)을 채울 수 있는 거대 수조인 중성부력 실험장(NBL)을 이용하고 있으며, 달 표면과 최대한 비슷한 토양 부스러기와 모래, 돌조각들을 NBL 바닥에 깔아 미세 중력 하의 달 표면 보행부터 토양 샘플 채취 등 다양한 실전 테스트가 이뤄지고 있다. 이번 훈련은 '아르테미스III' 미션에서 우주인들이 실제로 달표면에 내려가게 될 예정이다.
+제목: [현장의재구성] 우크라군, 크림반도 유류시설 공격…"대반격의 서막" - 연합뉴스TV
+요약: 러시아가 우크라이나에 대규모 미사일 공습을 한 이틀 후, 우크라이나는 러시아군 유류 저장고를 파괴하며 대반격에 나섰다. 이로 인해 우크라이나의 '봄철 대반격'이 시작될 것으로 예상된다.
 
-URL: https://news.google.com/rss/articles/CBMiIWh0dHBzOi8vc3B1dG5pay5rci9uZXdzL3ZpZXcvNjY2MNIBAA?oc=5
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTAxMDExMDAwNjQx0gEA?oc=5
 
-제목: 현대건설, '2023 현대건설 기술공모전' 응모작 모집 - 팍스경제TV
-요약: 현대건설이 '2023 현대건설 기술공모전'을 개최한다. 기술공모전 참가대상은 중소·중견·대기업, 대학, 연구기관이며 응모분야는 스마트건설 기술, 원가절감형 기술, 미래 신사업분야 기술 등 건설현장에 적용 가능한 기술이다. 최우수상은 1000만원, 우수상은 500만원 등 총 5000만원 규모의 상금과 상패가 수여된다.
+제목: 가덕신공항 자문단 무슨 말 오갔나…환경부 검토기관들의 '친절한 과외' - 한겨레
+요약: 국토부가 꾸린 가덕도 신공항 자문단이 환경영향평가 준하는 검토 의견을 내놓은 것이 논란이 되고 있다. 자문단 회의에서는 가덕도 신공항 매립으로 인해 지형 변화가 일어날 것이라는 내용이 강조되었으며, 대안을 제시하라는 조언도 나왔다. 이에 대해 검토기관에서는 환경영향평가 취지에 반하지 않는다는 입장이지만, 환경영향평가 규정에 따르면 검토기관이 해당 사업과 직접 관련된 용역을 수행하거나 자문 등의 방법으로 관여한 경우 검토기관에서 제외해야 한다는 규정이 있다.
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHA6Ly93d3cucGF4ZXR2LmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MTc0Nzcx0gEA?oc=5
+URL: https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L2Vudmlyb25tZW50LzEwOTAwOTIuaHRtbNIBAA?oc=5
+
+제목: 송영길 "내일 검찰 자진 출석"...與, 김재원·태영호 징계 절차 개시 / YTN - YTN
+URL: https://news.google.com/rss/articles/CCAiC2tIYUxQaDFFbWRNmAEB?oc=5
+
+제목: 해열제, 안 먹는 게 나을 때는 언제? - 코메디닷컴
+요약: 경미한 열이 나면 약을 먹지 않고 그대로 두는 것이 건강에 이로울 수 있다는 새로운 연구 결과가 나왔다. 캐나다 앨버타대 연구팀은 물고기 실험에서 경미한 열을 치료하지 않고 그대로 두는 것이 몸에서 감염을 빠르게 제거하고, 염증을 조절하고, 손상된 조직을 복구하는 데 도움이 된다는 것을 발견했다. 인간에게 있어 자연적 발열의 이점은 확인이 필요하지만, 연구팀은 열을 내고 유지하는 메커니즘이 동물계 전반에 걸쳐 공유되기 때문에 인간에게도 유사한 이점이 있을 가능성이 높다고 믿고 있다.
+
+URL: https://news.google.com/rss/articles/CBMimAFodHRwczovL2tvcm1lZGkuY29tLzE1ODcxNTQvJUVEJTk1JUI0JUVDJTk3JUI0JUVDJUEwJTlDLSVFQyU5NSU4OC0lRUIlQTglQjklRUIlOEElOTQtJUVBJUIyJThDLSVFQiU4MiU5OCVFQyU5RCU4NC0lRUIlOTUlOEMlRUIlOEElOTQtJUVDJTk2JUI4JUVDJUEwJTlDL9IBAA?oc=5
+
+제목: 만성 손발 저림, '신경 손상'이 원인...치료 서둘러야 [인터뷰] | 뉴스/칼럼 | 건강이야기 - 하이닥
+URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbW9iaWxlLmhpZG9jLmNvLmtyL2hlYWx0aHN0b3J5L25ld3MvQzAwMDA3ODg1MDLSAQA?oc=5
+
+제목: 버거값 올려도 M&A 몸값 안 따라주는 햄버거 프랜차이즈 - 서울신문
+요약: 한국의 버거 프랜차이즈 업계에서 인수합병(M&A) 매물로 나와있던 회사들이 어려움을 겪고 있다. KG그룹은 KFC코리아를 550억원에 매각하였으며, 한국맥도날드의 인수 작업도 좌초되었다. 이는 맥도날드 측의 경영 자율권을 최소화하려는 방침이 협상 결렬의 배경 중 하나라고 보고 있다. 국내 버거 업계 중 가맹점 수 1위를 기록하고 있는 맘스터치와 버거킹 등도 M&A를 추진했으나 현재는 모두 중단된 상태다.
+
+URL: https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnNlb3VsLmNvLmtyL25ld3MvbmV3c1ZpZXcucGhwP2lkPTIwMjMwNTAxNTAwMTEy0gEsaHR0cHM6Ly9hbXAuc2VvdWwuY28ua3Ivc2VvdWwvMjAyMzA1MDE1MDAxMTI?oc=5
+
+제목: 야4당 “선구제 후회수 없는 전세사기 특별법 정부안 반대” - 한겨레
+요약: 야4당 국회의원과 전세사기·깡통사기 전국대책위, 시민사회대책위는 정부·여당의 ‘전세사기 피해자 지원을 위한 특별법’에 반대 입장을 밝혔다. 이들은 채권 매입을 통한 보증금 반환 방안 등이 담기지 않았다는 이유에서 반대하고, 선구제 후회수 방안도 포함해야 한다고 촉구했다. 이에 대해 정부는 전세사기 피해자 지원 및 주거안정 방안을 발표한 바 있다.
+
+URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9wb2xpdGljc19nZW5lcmFsLzEwOTAwNzguaHRtbNIBAA?oc=5
+
+제목: 비보 중급 스마트폰 'Y78' 출시 임박.. 中 TENAA 인증 통과 - 케이벤치 (KBench)
+요약: 중국 스마트폰 제조사 비보(Vivo)에서 출시 예정인 'Y78(V2278A)'가 인증을 받았습니다. 이 스마트폰은 6.64인치 LCD FHD+ 디스플레이와 스냅드래곤 695 칩셋으로 추정되는 2.2GHz 옥타 코어 프로세서를 탑재하고 있으며, 6/8/12/16GB 램과 128/256/512GB 스토리지 옵션을 제공합니다. 카메라는 전면 8MP, 후면 50MP + 2MP 듀얼 카메라가 탑재되어 있습니다. 가격은 1599위안(약 31만원)으로 예상됩니다.
+
+URL: https://news.google.com/rss/articles/CBMiIWh0dHBzOi8va2JlbmNoLmNvbS8_cT1ub2RlLzI0MzI2N9IBAA?oc=5
+
+제목: [우주를 보다] 컬러로 보는 토성의 달 헬레네 - 나우뉴스
+URL: https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vbm93bmV3cy5zZW91bC5jby5rci9uZXdzL25ld3NWaWV3LnBocD9pZD0yMDIzMDUwMTYwMTAxMNIBLmh0dHBzOi8vYW1wLnNlb3VsLmNvLmtyL25vd25ld3MvMjAyMzA1MDE2MDEwMTA?oc=5
+
+제목: 감독이 왜 햄스트링 부상을? 클롭 감독이 밝힌 당시 상황 - 엠빅뉴스
+URL: https://news.google.com/rss/articles/CCAiC0M4Q0NmRTZxWmFVmAEB?oc=5
+
+제목: 스쿨버스 기사 정신 잃자 능숙하게 차 세웠다, 66명 구한 10대 소년 - 조선일보 - 조선일보
+URL: https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmNob3N1bi5jb20vaW50ZXJuYXRpb25hbC9pbnRlcm5hdGlvbmFsX2dlbmVyYWwvMjAyMy8wNS8wMS9QSFFCSEZXS0xWQlE3Q1NOQkFKVlJKTzRNNC_SAXBodHRwczovL3d3dy5jaG9zdW4uY29tL2ludGVybmF0aW9uYWwvaW50ZXJuYXRpb25hbF9nZW5lcmFsLzIwMjMvMDUvMDEvUEhRQkhGV0tMVkJRN0NTTkJBSlZSSk80TTQvP291dHB1dFR5cGU9YW1w?oc=5
+
+제목: 美 버라이즌, 갤럭시 A14 5G 모델 '원UI 5.1' 업데이트 - 케이벤치 (KBench)
+요약: 미국 이동통신사 버라이즌에서 출시한 갤럭시 A14 5G 모델에 원UI 5.1 업데이트가 제공된다. 이 모델은 이전 모델과 비교해 디스플레이와 카메라가 업그레이드되었으며, 50MP 메인 카메라와 5000mAh 배터리를 갖추고 있다. 하지만 일부 고급 기능은 빠졌을 것으로 예상된다.
+
+URL: https://news.google.com/rss/articles/CBMiIWh0dHBzOi8va2JlbmNoLmNvbS8_cT1ub2RlLzI0MzI2NNIBAA?oc=5
+
+제목: “AI로 세계 고용시장 격변…향후 5년 일자리 2600만 개 줄어” - 헬로티 – 매일 만나는 첨단 산업, IT 소식
+요약: 세계경제포럼(WEF)이 발표한 보고서에 따르면, 앞으로 5년 동안 기업들의 인공지능(AI) 기술 도입으로 인해 일자리 2600만개가 사라질 가능성이 있으며, 기존 일자리의 거의 25%가 변화의 소용돌이에 휘말릴 수 있다는 경고가 나왔다. 그러나 빅데이터 분석, 기계학습, 사이버 보안 등의 분야에서는 2027년까지 일자리가 30% 증가할 것으로 전망되며, 전체적으로 오는 2027년까지 6900만 개의 새 일자리가 창출되지만, 8300만 개는 사라질 것으로 예상된다.
+
+URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmhlbGxvdC5uZXQvbmV3cy9hcnRpY2xlLmh0bWw_bm89Nzc1ODjSAQA?oc=5
+
+제목: 근육 운동 한 세트, 무겁게 5번 이하로 들면 '이런 효과' - 헬스조선
+요약: 근력 운동에서 한 세트를 몇 번 반복해야 하는지는 운동 목적에 따라 다르다. 근육을 커지게 하려면 6~20번, 근 파워를 높이려면 5번 이하, 근지구력을 높이려면 20번 이상으로 반복해야 한다. 무게는 1세트를 해냈을 때 힘든 정도로 정해야 하며, 세트 수는 3~5세트가 적당하다.
+
+URL: https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vbS5oZWFsdGguY2hvc3VuLmNvbS9zdmMvbmV3c192aWV3Lmh0bWw_Y29udGlkPTIwMjMwNDI4MDIzOTLSAQA?oc=5
+
+제목: 손흥민이 크리스티아누 호날두의 기록을 따라잡았다 - HYPEBEAST
+요약: 이 뉴스는 Hypebeast Hong Kong Ltd.의 등록 상표인 Hypebeast®의 저작권이 2023년까지 유효하다는 내용입니다.
+
+URL: https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vaHlwZWJlYXN0LmtyLzIwMjMvNS9zb24taGV1bmctbWluLWV4dGVuZHMtZG91YmxlLWRpZ2l0LXNjb3Jpbmctc3RyZWFrLXRvLTctc2Vhc29ucy1pbi1sb3Nz0gEA?oc=5
 
 제목: 4월 무역 적자 26억 달러...14개월 연속 적자 행진 / YTN - YTN
 URL: https://news.google.com/rss/articles/CCAiC3FoNXQybUE0X25NmAEB?oc=5
-
-제목: 하반기부터 스토킹 피해자가 112 신고하면 여성긴급전화로 연계 - 연합뉴스
-URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L0FLUjIwMjMwNTAxMDI0ODAwNTMw0gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9BS1IyMDIzMDUwMTAyNDgwMDUzMA?oc=5
-
-제목: 한달 만에 최고위 나온 김재원 “대단히 죄송···자진사퇴 생각 없어” - 경향신문
-요약: 김재원 국민의힘 최고위원이 한 달간의 근신을 마치고 당 최고위원회의에 복귀했다. 이전에 발언으로 논란이 되어 공개 활동 중단을 선언한 김 최고위원은 “그동안 저를 뽑아준 당원, 우리 당 지지자, 국민들께 대단히 죄송스럽고 송구스러웠다”며 사과했다. 이날 오전 개최된 당 중앙윤리위원회에서 김 최고위원에 대한 징계 개시 결정이 내려졌고, 이후 무거진 징계가 유력한 상황이다.
-
-URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmtoYW4uY28ua3IvcG9saXRpY3MvYXNzZW1ibHkvYXJ0aWNsZS8yMDIzMDUwMTExMzUwMDHSAQA?oc=5
-
-제목: 눈물 흘린 모우라, '손흥민 득점왕 도우미+챔스 결승' 보낸거 생각하면… - 한국아이닷컴
-요약: 토트넘 훗스퍼는 리버풀과의 경기에서 3-4로 패했다. 모우라는 자신의 실수로 인해 팀이 졌다는 것에 눈물을 감추지 못했다. 하지만 모우라는 지난 시즌 막판 손흥민의 득점왕 확정 경기에서 해준 도움과 득점왕 확정 후 들어올린 세리머니, 그리고 토트넘 역사상 처음이자 마지막 유럽 챔피언스리그 결승전에 이끌었던 활약을 생각하면 한 경기를 망쳤다고 원망하기도 어렵다.
-
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NzQ2OTLSAQA?oc=5
-
-제목: '자기관리 神' 김희애, 쏟아진 '강남 영어학원' 목격담 "정말 멋진 어른이라 느껴" - 조선일보 - 조선일보
-URL: https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNob3N1bi5jb20vZW50ZXJ0YWlubWVudHMvZW50ZXJfZ2VuZXJhbC8yMDIzLzA1LzAxL0JWRFFKQlFNRkUzREpHQkNGNEZBRjdXS0I0L9IBaWh0dHBzOi8vd3d3LmNob3N1bi5jb20vZW50ZXJ0YWlubWVudHMvZW50ZXJfZ2VuZXJhbC8yMDIzLzA1LzAxL0JWRFFKQlFNRkUzREpHQkNGNEZBRjdXS0I0Lz9vdXRwdXRUeXBlPWFtcA?oc=5
-
-제목: '도전하고, 기회를 잡아라'...IT 업계 여성 '연대의 장' 열렸다 - 테크M
-요약: '우먼 테크메이커스 코리아 2023'이 지난 28일~29일 서울 강남구 대치동 '구글 스타트업 캠퍼스'에서 열렸다. 국내 IT 업계에서 활약하는 여성이 모여 성장과 경험을 공유하는 행사로, 구글, 네이버, 토스, 나인코퍼레이션 등 국내 IT 업계에 몸 담고 있는 여성 리더 9명이 연사자로 나서 자신의 성장 경험담을 공유했다. 이들은 참석자들의 질문을 바탕으로 실질적인 조언도 아끼지 않았다. 이번 행사는 신종 코로나바이러스 감염증(코로나19) 이후 3년 만에 오프라인으로 진행되었다.
-
-URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LnRlY2htLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xMDk2MzDSATpodHRwczovL3d3dy50ZWNobS5rci9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89MTA5NjMw?oc=5
-
-제목: 트와이스 나연, 타미 진스 아시아 앰배서더 선정… 23SS 캠페인 화보 공개 - 머니투데이
-요약: 글로벌 캐주얼 브랜드 '타미 진스'가 트와이스 나연을 아시아 앰배서더로 선정하고, 봄/여름 캠페인 화보를 공개했다. 화보에서 나연은 타미 진스의 아이코닉한 데님 아이템들을 활용한 스타일링으로 힙한 스트리트 무드를 완성하였으며, Y2K 스타일까지 연출이 가능한 클레어 하이라이즈 와이드 데님 팬츠를 착용한 모습도 공개되었다. 해당 제품은 전국 타미 진스 오프라인 매장과 H패션몰, 무신사에서 만나볼 수 있다.
-
-URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwNTAxMTA1MjAwNTM2NTTSAT1odHRwczovL20ubXQuY28ua3IvcmVuZXcvdmlld19hbXAuaHRtbD9ubz0yMDIzMDUwMTEwNTIwMDUzNjU0?oc=5
-
-제목: 정의구현사제단 “'돼지 떼 2천마리의 질주' 떠오른다” - 한겨레
-요약: 한국의 경제지표가 악화되고 있지만 대통령은 미국과 일본과의 동맹을 중요시하며, 핵무장을 추진하고 있다. 그러나 이러한 선택은 한국의 안보와 경제에 부정적인 영향을 미치고 있다. 대신, 북한과의 외교를 통해 평화를 이루는 것이 중요하다는 메시지가 전해졌다. 또한, 폭력 대 생명력의 대립에서 생명력을 발휘하는 나라가 중요하며, 광주항쟁과 같은 시민들의 용감한 저항과 연대가 필요하다는 메시지도 전해졌다.
-
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3JlbGlnaW91cy8xMDkwMDMwLmh0bWzSAQA?oc=5
-
-제목: 윤 대통령 지지율 1.9%p 오른 34.5%‥4주 만에 반등 [리얼미터] - MBC뉴스
-요약: 윤석열 대통령의 국빈 방문과 관련하여, 리얼미터가 조사한 여론조사 결과, 윤 대통령의 국정 지지율이 4주 만에 반등하여 34.5%로 집계되었습니다. 이에 반해 부정평가는 62.6%로 나타났습니다. 국민의힘 지지율은 2주 연속 상승하며 35.2%, 민주당 지지율은 2주 연속 하락해 44.7%, 정의당 3.5%로 조사되었습니다.
-
-URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9wb2xpdGljcy9hcnRpY2xlLzY0NzkzOTZfMzYxMTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9wb2xpdGljcy9hcnRpY2xlLzY0NzkzOTZfMzYxMjAuaHRtbA?oc=5
-
-제목: 임창정, 주가조작 피해 호소 “빚 60억…" 박혜경, “돈 불어나는 것 보고 천재라 생각”… / 검찰, 이번주 본격 소환조사 [이슈 톺아보기] MBN뉴스 23.05.01 - MBN News
-URL: https://news.google.com/rss/articles/CCAiC043MlNJMWQ2bElJmAEB?oc=5
-
-제목: 윤재옥 “워싱턴 선언, 우리 자체 핵무장보다 더 큰 이익될 것” - 동아일보
-요약: 윤재옥 국민의힘 원내대표는 한미 핵협의그룹(NCG) 구성을 담은 ‘워싱턴 선언’에 대해 긍정적인 평가를 내리며, 이는 기존 한미상호방위조약을 핵을 포함해 업그레이드한 제2 한미상호방위조약이라고 설명했다. 이에 따라 미국은 북한의 핵위협에 대해 핵 자산을 어떻게 사용할 것인지 우리와 협의하고 방안을 마련하고 그에 입각해 연합훈련을 하게 될 것이다. 또한, 윤 원내대표는 5월 1일 근로자의 날을 맞아 노동개혁특별위원회를 출범시켜 노동 4대 분야 정책 대안과 입법 방안을 논의할 것이라고 밝혔다.
-
-URL: https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmRvbmdhLmNvbS9uZXdzL1BvbGl0aWNzL2FydGljbGUvYWxsLzIwMjMwNTAxLzExOTA4NDkyNC8x0gE3aHR0cHM6Ly93d3cuZG9uZ2EuY29tL25ld3MvYW1wL2FsbC8yMDIzMDUwMS8xMTkwODQ5MjQvMQ?oc=5
-
-제목: 中 이론지 '구시', '시진핑 신시대 중국 특색 사회주의 사상을 학습하고 관철하기 위한 주제 교육 업무회의 연설' 게재 - Xinhua
-URL: https://news.google.com/rss/articles/CBMiQmh0dHA6Ly9rci5uZXdzLmNuLzIwMjMwNTAxL2U1ZDY2OGQ0ZWNkOTQyZWY4MmFlZTAwM2NjOTE2NWY5L2MuaHRtbNIBAA?oc=5
-
-제목: [시승기] BMW iX3, 고성능 패밀리 전기차…"내연기관 차와 이질감 없어" - 미디어펜
-요약: BMW의 순수전기차인 iX3는 최고출력 286마력을 발휘하는 BMW 5세대 eDrive 통합 전기 구동계가 탑재되어 있으며, 1회 주행 가능 거리는 344km이다. iX3는 X3보다 74mm나 낮은 차체와 43:57 비율의 앞뒤 무게 배분 덕분에 BMW 후륜구동 모델 특유의 날렵한 주행성 능을 발휘한다. 디자인 요소로는 앞면에는 새 디자인의 싱글 프레임 키드니 그릴이 장착되어 있으며, 새로운 20인치 에어로다이내믹 휠에는 i 블루 포인트 컬러가 적용된 휠 캡이 적용돼 순수전기 모델임을 강조하고 있다.
-
-URL: https://news.google.com/rss/articles/CBMiKGh0dHA6Ly93d3cubWVkaWFwZW4uY29tL25ld3Mvdmlldy84MTQ2OTfSAQA?oc=5
-
-제목: 홀란 34호골...맨시티, 선두 점프 - YTN
-요약: 홀란이 프리미어리그 단일 시즌 최다 골 타이 기록을 세우며 맨시티는 알바레스의 결승골로 2대 1로 이겨 선두로 뛰어올랐습니다. 맨시티는 경쟁 상대 아스널보다 한 게임을 덜 치러 우승 가능성이 높아졌습니다.
-
-URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lnl0bi5jby5rci9fbG4vMDEwN18yMDIzMDUwMTA5Mjk0MjE5ODXSAUNodHRwczovL20ueXRuLmNvLmtyL25ld3Nfdmlldy5hbXAucGhwP3BhcmFtPTAxMDdfMjAyMzA1MDEwOTI5NDIxOTg1?oc=5
 
 
