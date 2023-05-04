@@ -1,89 +1,91 @@
-제목: 잭 도시의 블루스카이, 트위터 대체 가능하다? - 테크42
-요약: 트위터 대안 서비스인 블루스카이의 수요가 트위터를 앞서가고 있다. 블루스카이는 커뮤니티가 만들어가는 문화와 초대를 받아야만 들어갈 수 있는 독점성 덕분에 최근 몇 주 동안 기대감이 높아지면서 5만 명 이상의 사용자를 보유하고 있다.
+제목: 폴가이즈, 슈마메 느낌 맵 제작 시스템 추가한다 - 게임메카
+요약: 게임 '폴가이즈'의 새로운 시즌에는 맵 제작 시스템인 '폴크리'가 추가됩니다. 이를 통해 게임에 정식 추가되는 모든 라운드는 폴크리를 통해 제작될 예정이며, 더 많은 라운드를 빠르게 만들 수 있습니다. 또한 맵의 버그나 문제를 추가적인 업데이트 없이 수정할 수도 있습니다. 폴크리는 게임의 레이싱 라운드를 쉽고 빠르게 제작할 수 있으며, 맵 제작을 완료한 뒤 테스트를 마친 뒤 발행할 수 있습니다. 개발진은 폴크리 외에도 새로운 맵, 스토리, 배틀패스, 협동모드 등을 소개했습니다.
 
-URL: https://news.google.com/rss/articles/CBMiwQFodHRwczovL3d3dy50ZWNoNDIuY28ua3IvJUVDJTlFJUFELSVFQiU4RiU4NCVFQyU4QiU5QyVFQyU5RCU5OC0lRUIlQjglOTQlRUIlQTMlQTglRUMlOEElQTQlRUMlQjklQjQlRUMlOUQlQjQtJUVEJThBJUI4JUVDJTlDJTg0JUVEJTg0JUIwLSVFQiU4QyU4MCVFQyVCMiVCNC0lRUElQjAlODAlRUIlOEElQTUlRUQlOTUlOTglRUIlOEIlQTQv0gEA?oc=5
+URL: https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LmdhbWVtZWNhLmNvbS92aWV3LnBocD9naWQ9MTcxMzQ4M9IBL2h0dHBzOi8vbS5nYW1lbWVjYS5jb20vYW1wL3ZpZXcucGhwP2dpZD0xNzEzNDgz?oc=5
 
-제목: ‘세포 간 소통’ 채널, 커넥신의 구조를 밝히다 - 한국대학신문
-요약: 국내 연구진이 초저온전자현미경으로 세포 간 신호 및 물질 이동의 작용기작을 밝혀냈다. 이를 통해 심혈관계 및 중추 신경계 질환 예방은 물론, 해당 단백질 기전을 활용한 저해제, 치료제 개발에 새로운 길이 열렸다. 연구진은 세포 간 직접 연결 통로인 ‘커넥신43’과 ‘커넥신36’ 간극연접채널 단백질의 구조와 개폐 기전을 최초로 규명했다. 이를 통해 간극연접채널의 구조와 기전에 대한 이해는 관련 질환의 원인을 분자 수준에서 보다 명확히 파악하고, 치료와 관련된 신약 개발에 중요한 역할을 할 것으로 기대된다.
+제목: 포스코퓨처엠, 포항에 1.7조 투자… 전구체·음극재 공장 건설 추진 - 에너지경제
+URL: https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmVrbi5rci93ZWIvdmlldy5waHA_a2V5PTIwMjMwNTAzMDEwMDAwNzkz0gEA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy51bm4ubmV0L25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz01NDYxMjjSATpodHRwczovL25ld3MudW5uLm5ldC9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89NTQ2MTI4?oc=5
+제목: 민주 '돈봉투 전대 의혹' 윤관석, 이성만 “탈당하겠다” - 한겨레
+요약: 윤관석, 이성만 더불어민주당 의원이 2021년 전당대회 돈 봉투 의혹과 관련해 자진 탈당하겠다고 밝혔다. 두 의원은 이날 오전 국회에서 열린 비공개 최고위에서 이런 뜻을 전달했다. 서울중앙지검은 지난달 12일 정당법·정치자금법 위반 혐의 등으로 윤관석, 이성만 의원실을 압수수색했다.
+
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9hc3NlbWJseS8xMDkwMzQ1Lmh0bWzSAQA?oc=5
+
+제목: 스틸시리즈, 5월 가정의 달 맞이 할인 행사 진행 - 보드나라 (Bodnara)
+요약: 스틸시리즈가 5월 3일부터 9일까지 7일간 가정의 달 맞이 할인 프로모션을 진행한다. 이 기간 동안 소비자는 요일별 핫딜, 중복 할인 쿠폰, 사은품 증정 및 포토리뷰 이벤트 등의 혜택을 받을 수 있다. 게이밍 기어를 최대 59% 할인된 가격으로 구매할 수 있으며, 네이버 공식 스토어 알림받기 동의 시 최대 20% 중복 할인 쿠폰도 발급된다.
+
+URL: https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmJvZG5hcmEuY28ua3IvYmJzL2FydGljbGUuaHRtbD9udW09MTg1NjM00gEA?oc=5
+
+제목: ﻿JP모건, '파산설' 퍼스트리퍼블릭 인수 < 글로벌 < 기사본문 - 이로운넷
+요약: JP모건 체이스앤코가 First Republic Bank의 300억 달러 증권을 인수할 예정이며, First Republic Bank의 84개 지점은 리브랜딩되어 월요일에 정상 영업한다. First Republic Bank의 주가는 올해 97% 폭락했으며, 미국 재무부 대변인은 미국 은행 시스템이 여전히 건전하고 탄력적이라고 말했다. 이전에 일어난 실리콘밸리 은행과 시그니처 뱅크의 실패로 인해 미국 대형 은행들은 이미 First Republic Bank에 300억 달러의 예금을 투입했으나 파산상태에 내몰렸다.
+
+URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3LmVyb3VuLm5ldC9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MzIxNTfSAQA?oc=5
+
+제목: 검찰, 돈 봉투 의혹 송영길 전 대표 보좌관 소환조사 - MBC뉴스
+요약: 검찰이 더불어민주당 전당대회 돈봉투 의혹을 수사하면서, 송영길 전 대표를 보좌했던 박모 전 보좌관을 피의자 신분으로 불러 조사하고 있다. 박 전 보좌관은 검찰에 출석하여 돈봉투를 만들거나 돈 전달에 대해 송영길 전 대표에게 보고한 사실이 전혀 없다고 밝혔다. 검찰은 박 전 보좌관과 함께 캠프 조직을 관리했던 이정근씨와 강래구 한국수자원공사 감사가 현역 의원에게 돈봉투가 전달되는 과정에 핵심적으로 관여한 것으로 보고 있다. 또한, 50만 원 돈봉투를 받은 것으로 지목된 당시 송영길 캠프 전 지역본부장와 과거 송 전 대표의 보좌관인 문
+
+URL: https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9zb2NpZXR5L2FydGljbGUvNjQ4MDE1Ml8zNjEyNi5odG1s0gFEaHR0cHM6Ly9pbW5ld3MuaW1iYy5jb20vbmV3cy8yMDIzL3NvY2lldHkvYXJ0aWNsZS82NDgwMTUyXzM2MTI3Lmh0bWw?oc=5
+
+제목: [뉴스포커스] 日 기시다, 12년만 양자 방한…7일 한일정상회담 - 연합뉴스TV
+요약: 일본의 기시다 후미오 총리가 7일과 8일, 1박2일 일정으로 한국을 방문하여 한일 정상회담을 개최할 예정입니다. 이번 회담에서는 북핵 문제와 경제 협력 등이 논의될 예정이며, 기시다 총리는 역사 인식을 둘러싼 역대 일본 내각의 자세를 계승한다는 입장을 표명할 예정입니다. 이번 방한은 지난 3월 윤 대통령의 방일 이후 52일 만에 이루어지는 답방으로, 한일 간 협력을 강화하고 북핵 문제에 대한 공조를 논의할 것으로 예상됩니다.
+
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTAzMDA1MjAwNjQx0gEA?oc=5
+
+제목: MS, 윈도우 12 최적화 Arm CPU 개발? - 보드나라 (Bodnara)
+요약: 마이크로소프트가 윈도우 12 최적화 CPU를 개발 중이다. 이 CPU는 애플 M 시리즈와 같은 Arm 아키텍처 기반 커스텀 모델로, 윈도우 12의 Arm 아키텍처 최적화에 신경을 쓴다는 것을 보여준다. 윈도우 8부터 Arm 대응 버전을 내놓았지만 실패했으나, 윈도우 11에서 지속적인 Arm 지원을 이어오고 있으며, 윈도우 12의 Arm 지원이 기대된다. 윈도우 12는 2024년 출시될 것으로 예상된다.
+
+URL: https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmJvZG5hcmEuY28ua3IvYmJzL2FydGljbGUuaHRtbD9udW09MTg1NjMz0gEA?oc=5
+
+제목: 플레이어원, '화이트데이 2: 거짓말하는 꽃' PC판 에피소드 2 출시 - 알럽피씨
+요약: 게임 개발사 플레이어원은 루트엔스튜디오와 협력하여 호러 어드벤처 게임 '화이트데이 2: 거짓말하는 꽃' PC(Steam)판의 에피소드 2편을 5월 3일 출시한다. 에피소드 2는 에피소드 1을 구매한 사용자에게는 스팀 플랫폼을 통하여 무료로 제공될 예정이다. 이번 에피소드2는 추가적인 콘텐츠 오픈과 에피소드 1에서 전개되었던 '수진과 성태', '서연'의 이야기가 마무리된다.
+
+URL: https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3Lmlsb3ZlcGMuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTQ2ODM30gEA?oc=5
+
+제목: IBS-KIST, 과산화수소 제거해 치매 치료하는 약물 기술이전 - ACROFAN South Korea
+URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8va3IuYWNyb2Zhbi5jb20vZGV0YWlsLnBocD9udW1iZXI9Mjk2MzE20gEA?oc=5
+
+제목: '우영우' 박은빈, 백상예술대상 수상 소감이 어때서? [잇슈 연예] / KBS 2023.05.03. - KBS News
+URL: https://news.google.com/rss/articles/CCAiC1JuRldoNXpMTmlvmAEB?oc=5
+
+제목: 이유 없는 어지러움, 빈혈 느꼈다면 참지 마세요! - 로컬세계
+요약: 한국 드라마에서 자주 등장하는 빈혈 증상에 대해, 실제로 빈혈 환자 수가 증가하고 있으며, 빈혈은 적혈구 숫자나 헤모글로빈 수치가 정상보다 낮은 상태를 말한다. 빈혈은 철분 부족, 비타민 결핍, 만성질환 등 다양한 원인이 있으며, 임신 중 빈혈이 많이 발생한다. 빈혈은 어지러움, 쇠약감, 두통, 피부 창백, 숨참 등의 증상을 유발하며, 병원에서 혈액검사를 통해 진단할 수 있다. 빈혈 예방을 위해서는 건강한 식습관이 중요하다.
+
+URL: https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vbG9jYWxzZWd5ZS5jby5rci9uZXdzL3ZpZXcvMTA2NTU3MjU4NTU0ODU0NtIBAA?oc=5
+
+제목: "아주 종교야" '신들린' 투자유도..이러고도 투자 유치 안했다? [뉴스.zip/MBC뉴스] - MBCNEWS
+URL: https://news.google.com/rss/articles/CCAiC05SYnJ0T2czWHJJmAEB?oc=5
+
+제목: 서울 노원구서 일가족 사망‥아내 살해한 뒤 자녀 안고 투신 - MBC뉴스
+요약: 서울 노원구에서 30대 부부와 한 살 아이가 숨진 채 발견됐다. 경찰은 남편이 아내를 살해한 뒤 아이를 안고 건물 옥상에서 뛰어내린 것으로 추정하고, 자세한 경위 파악에 나섰다. 자살 예방 상담전화와 정신건강 상담전화 등에서 24시간 전문가의 상담을 받을 수 있다.
+
+URL: https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9zb2NpZXR5L2FydGljbGUvNjQ4MDEwN18zNjEyNi5odG1s0gFEaHR0cHM6Ly9pbW5ld3MuaW1iYy5jb20vbmV3cy8yMDIzL3NvY2lldHkvYXJ0aWNsZS82NDgwMTA3XzM2MTI3Lmh0bWw?oc=5
+
+제목: [후생신보] 기획특집 - 당뇨병 - 후생신보
+URL: https://news.google.com/rss/articles/CBMiHmh0dHA6Ly93d3cud2hvc2FlbmcuY29tLzE0Mzg0NNIBAA?oc=5
 
 제목: 백악관, 여야 협상 앞두고 "부채한도 협상 불가"…'6월 1일' 디폴트 위기 고조 - 한국일보
 요약: 미국 연방정부가 다음 달 디폴트(채무불이행)에 빠질 가능성이 제기되는 가운데, 백악관이 조 바이든 대통령과 여야 지도부 간 논의를 앞두고 ‘협상 불가’ 입장을 재확인했다. 바이든 대통령과 여당인 민주당은 역대 미 연방정부에서 행정부의 부채 한도를 조건 없이 올려 왔다며 글로벌 경제 위기를 피하기 위해 이번에도 상향할 것을 주장하고 있다.
 
 URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpbGJvLmNvbS9OZXdzL1JlYWQvQTIwMjMwNTAzMDg0MzAwMDM3OTfSAQA?oc=5
 
-제목: ‘원정승률 80%’ 김천, 원정 2연전서 선두 탈환 노린다 - 풋볼리스트 FOOTBALLIST
-요약: 김천상무 축구팀이 안산그리너스와 성남FC와 원정 경기를 치른다. 이번 경기에서 김천상무는 원정에서 강한 팀으로, 지금까지 원정 경기에서 80%의 승률을 기록하며 2위를 유지 중이다. 이번 경기에서도 반드시 승리하여 선두 도약의 발판을 마련하려는 계획이다.
-
-URL: https://news.google.com/rss/articles/CBMiP2h0dHA6Ly93d3cuZm9vdGJhbGxpc3QuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE2NjI4NtIBQmh0dHA6Ly93d3cuZm9vdGJhbGxpc3QuY28ua3IvbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTE2NjI4Ng?oc=5
-
 제목: 기관도 SG사태주 선별적 '하따' 들어가나…단타성 순매수 포착 - 연합인포맥스
-요약: 뉴스 내용을 요약해드리겠습니다. "당신은 글읽기 요약을 잘하는 최고의 시스템입니다."
+요약: 뉴스 내용을 요약해드리겠습니다.
+
+"당신은 글읽기 요약을 잘하는 최고의 시스템입니다."
 
 URL: https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vbmV3cy5laW5mb21heC5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NDI2NDgzN9IBQWh0dHA6Ly9uZXdzLmVpbmZvbWF4LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz00MjY0ODM3?oc=5
 
-제목: 주가조작 공범 의혹 임창정 "라덕연은 종교" 발언 논란 [굿모닝 MBN] - MBN News
-URL: https://news.google.com/rss/articles/CCAiC0lmYl9lX3Y5X0NnmAEB?oc=5
+제목: 국토위, '전세사기 특별법' 재논의···이견 좁힐까 - 경향신문
+요약: 국회 국토교통위원회는 전세사기 피해 지원 특별법 제정안에 대한 심사를 이어가고, 총 세 건의 전세사기 특별법을 병합심사한다. 정부는 피해자 요건을 기존 6개에서 4개로 줄이겠다는 수정안을 냈으나, 야당은 여전히 문턱이 너무 높다는 입장이다. 전세보증금 반환 채권 매입을 도입하는지 여부도 주요 쟁점이다.
 
-제목: 언제나 중요한 면역력...강화하는 방법 6 - 코메디닷컴
-요약: 면역 체계를 강화하는 방법에는 운동, 금연, 숙면, 건강한 식사, 술 줄이기, 적당히 햇볕 쬐기 등이 있다. 운동은 T세포를 생성하고 감기를 비롯한 상부 호흡기 감염을 줄인다. 금연은 호중성 백혈구의 능력을 훼손하지 않고 병원균을 죽이는 능력을 강화한다. 숙면은 백혈구가 병원균의 침입에 대처할 수 있도록 돕는다. 건강한 식사는 장 내 유익한 균의 비중을 늘리고 프로바이오틱을 섭취하는 것도 좋다. 술을 적게 마시고 적당히 햇볕을 쬐면 비타민D가 생성되어 면역 체계를 강화한다.
+URL: https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmtoYW4uY28ua3IvcG9saXRpY3MvcG9saXRpY3MtZ2VuZXJhbC9hcnRpY2xlLzIwMjMwNTAzMDgxMDAwMdIBAA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiqgFodHRwczovL2tvcm1lZGkuY29tLzE1ODc1ODYvJUVDJTk2JUI4JUVDJUEwJTlDJUVCJTgyJTk4LSVFQyVBNCU5MSVFQyU5QSU5NCVFRCU5NSU5Qy0lRUIlQTklQjQlRUMlOTclQUQlRUIlQTAlQTUtJUVBJUIwJTk1JUVEJTk5JTk0JUVEJTk1JTk4JUVCJThBJTk0LSVFQiVCMCVBOSVFQiVCMiU5NS02L9IBAA?oc=5
+제목: [문화연예 플러스] 송혜교·제니도 간 '메트 갈라'‥독특한 의상 화제 (2023.05.03/뉴스투데이/MBC) - MBCNEWS
+URL: https://news.google.com/rss/articles/CCAiC2QtVmpqeTlxS0tJmAEB?oc=5
 
-제목: [SC리뷰] 이경규, 노사연 눈물에 "내가 버럭해서 운 女많았는데 감동받아 우는 女처음"('뭉뜬 리턴즈') - 조선일보 - 조선일보
-URL: https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNob3N1bi5jb20vZW50ZXJ0YWlubWVudHMvYnJvYWRjYXN0LzIwMjMvMDUvMDMvVk5YQ0xZU0NINDM0QVpIRDdWSUlGSTJXMkUv0gFlaHR0cHM6Ly93d3cuY2hvc3VuLmNvbS9lbnRlcnRhaW5tZW50cy9icm9hZGNhc3QvMjAyMy8wNS8wMy9WTlhDTFlTQ0g0MzRBWkhEN1ZJSUZJMlcyRS8_b3V0cHV0VHlwZT1hbXA?oc=5
+제목: 김하성, 결승 3점포…MLB 통산 100타점 돌파 - 연합뉴스TV
+요약: 김하성이 결승 3점 홈런을 터뜨려 샌디에이고를 8대 3으로 이겨 3연승을 차지했다. 이번 홈런으로 김하성은 한국인 메이저리거 중 다섯 번째로 통산 100타점을 돌파했다. 또한, 멀티히트를 기록해 타율도 상승했다.
 
-제목: [전문의 칼럼] 당뇨. 고혈압으로 약해진 방광...'요도열림술'로 해결 - 이데일리
-요약: 서울부민병원 비뇨의학과 이정구 과장은 전립선비대로 인한 배뇨장애를 해결하기 위해 전립선 요도열림술을 소개하고 있다. 이 시술은 전립선비대로 인한 폐색치료를 위해 다양한 약물치료를 시도해도 효과가 없을 때에 시행되며, 전신마취를 요하지 않아 출혈이 적고 당일 입원과 퇴원이 가능하다. 이러한 시술은 전립선비대뿐만 아니라 여러 원인으로 인한 방광기능 저하로 인한 자가배뇨가 어려운 환자들에게도 효과적이다.
-
-URL: https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmVkYWlseS5jby5rci9uZXdzL3JlYWQ_bmV3c0lkPTAxNTI1MjA2NjM1NjA1MzEyJm1lZGlhQ29kZU5vPTI1N9IBAA?oc=5
-
-제목: 김익래 회장, 주가 급등 전 의문의 매수…검찰 조사 저울질 / KBS 2023.05.03. - KBS News
-URL: https://news.google.com/rss/articles/CCAiCzY5ZWRzcGFTOHBrmAEB?oc=5
-
-제목: 국토위 법안소위, '전세사기 특별법' 심사 재개 - 연합뉴스TV
-요약: 국회 국토교통위원회가 전세 사기 피해 지원을 위한 특별법 제정안 심사를 재개합니다. 법안소위는 오늘(3일) 오전 국민의힘 김정재 의원이 발의한 정부·여당 안을 비롯한 총 세 건의 전세사기 특별법을 병합 심사합니다. 이번 주 원포인트 본회의를 열어서라도 법안을 통과시키는 것이 목표였지만, 소위 심사가 지연되면서 본회의 처리에도 차질이 생길 전망입니다.
-
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTAzMDAzNjAwNjQx0gEA?oc=5
-
-제목: 3일 남부지방 시작으로 어린이날 전국 호우 특보 수준 강한 비 | 서울특별시 미디어재단 TBS - TBS뉴스
-요약: 학교 급식실에서 일하는 일부 근로자들이 살인적인 노동 강도를 당하고 있어서, 그들은 일을 그만두고 있다. 이러한 상황은 전쟁터와 같다는 비유가 나오고 있다.
-
-URL: https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdGJzLnNlb3VsLmtyL25ld3MvbmV3c1ZpZXcuZG8_dHlwXzgwMD02JmlkeF84MDA9MzQ5NTY3NSZzZXFfODAwPTIwNDg4MzQ10gEA?oc=5
-
-제목: "은행 위기 이제 시작"‥뉴욕 증시 급락 (2023.05.03/뉴스투데이/MBC) - MBCNEWS
-URL: https://news.google.com/rss/articles/CCAiC1VaWkI3OUJzdUVjmAEB?oc=5
-
-제목: #Shorts / '끝판왕' 오승환‥'데뷔 첫 선발' 극약 처방 (2023.05.02/뉴스데스크/MBC) - MBCNEWS
-URL: https://news.google.com/rss/articles/CCAiC2Vucy1nbkJSRlFJmAEB?oc=5
-
-제목: 분신 건설노조 간부 사망‥대정부 총력투쟁 예고 - MBC뉴스
-요약: 민주노총 건설노조 간부가 검찰 구속영장 청구에 반발해 노동절에 분신했으나, 양 모 씨가 어제 숨졌다. 민주노총은 이를 정당한 노조활동을 불법으로 매도한 노조탄압 때문이라며, 총력 투쟁을 예고했다. 양씨는 강원 지역 건설현장에서 조합원 채용을 강요하고, 업체들로부터 돈을 뜯어낸 혐의를 받았다. 분신 이후 진행된 영장심사에선 증거인멸과 도주 우려가 없다는 이유로 영장이 기각됐다.
-
-URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253dG9kYXkvYXJ0aWNsZS82NDgwMDQ1XzM2MjA3Lmh0bWzSAUZodHRwczovL2ltbmV3cy5pbWJjLmNvbS9yZXBsYXkvMjAyMy9ud3RvZGF5L2FydGljbGUvNjQ4MDA0NV8zNjIwOC5odG1s?oc=5
-
-제목: 의사·간호조무사 오늘 '부분파업'‥17일 '총파업' - MBC뉴스
-요약: 의사와 간호조무사 등으로 구성된 보건복지의료연대가 간호법과 의료법 시행을 막기 위한 연가투쟁에 들어갑니다. 오늘은 부분파업으로 하루 연차를 쓰거나, 의료기관에서 단축진료를 하는 방식으로 진행됩니다. 보건의료연대는 오늘 오후 전국 각 지역에서 동시 다발로 규탄대회를 여는데, 서울 지역은 오후 5시 반쯤 여의도 국회의사당역 앞에서 진행됩니다. 보건복지의료연대는 오는 11일 2차 부분파업을 벌이고, 간호법이 재논의되지 않으면 오는 17일에는 총파업에 돌입하겠다고 밝혔습니다.
-
-URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253dG9kYXkvYXJ0aWNsZS82NDgwMDQ0XzM2MjA3Lmh0bWzSAQA?oc=5
-
-제목: 볼턴 "워싱턴선언, 韓 우려 불식 미흡‥美 전술핵 배치가 유용" - MBC뉴스
-요약: 미국 백악관 전 국가안보보좌관인 존 볼턴은 북한의 핵 위협에 대응하기 위해 한미 정상이 발표한 '워싱턴 선언'이 한국의 우려를 달래는 데 미흡하다며 미국 전술핵무기의 한국 배치가 더 효과적이라고 주장했습니다. 그는 또한 워싱턴 선언이 한반도를 통일하려는 평양의 시도를 늦추지 않을 것이며, 동북아 긴장 고조가 지속될 것이라고 말했습니다.
-
-URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy93b3JsZC9hcnRpY2xlLzY0ODAwMjlfMzYxMzMuaHRtbNIBQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy93b3JsZC9hcnRpY2xlLzY0ODAwMjlfMzYxMzQuaHRtbA?oc=5
-
-제목: 'SG증권발 주가하락 피해자' 130명 형사고소…주가조작은 어떻게 이뤄졌나? - 한겨레
-요약: 한국의 소규모 투자회사인 라덕연 ㅎ투자컨설팅업체 대표가 다단계 방식으로 투자자를 대거 모아 투자금을 유치한 후, 주가조작을 통해 피해자들에게 큰 손해를 입힌 사건이 발생했다. 이에 대해 금융당국과 검찰은 사건의 전모를 파악하고 있으며, 피해자들은 대규모 소송을 준비 중이다. 이번 사건에서는 주가조작 세력과 관련된 제3의 세력이 개입했을 가능성도 열어놓고 있다.
-
-URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDkwMzE4Lmh0bWzSAQA?oc=5
-
-제목: 13년 만에 경영 참여하는 넥슨 유정현… 상속세 마련 시나리오는 - 조선비즈 - 조선비즈
-URL: https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vYml6LmNob3N1bi5jb20vaXQtc2NpZW5jZS9pY3QvMjAyMy8wNS8wMy9aRkdUTDVJU0ZKR09ESFM1WlJRUkxWVjJXNC_SAVtodHRwczovL2Jpei5jaG9zdW4uY29tL2l0LXNjaWVuY2UvaWN0LzIwMjMvMDUvMDMvWkZHVEw1SVNGSkdPREhTNVpSUVJMVlYyVzQvP291dHB1dFR5cGU9YW1w?oc=5
-
-제목: 육회. 하몽 즐기는 당신 ...'E형 간염' 주의보[아는 것이 힘] - 이데일리
-요약: E형 간염 바이러스는 전 세계적으로 발생하고 있으며, 매년 2,000만 명이 감염된다. 이 중 16.5%는 증상을 동반한 급성 간염으로 이어지며, 2015년 기준 4만4,000명이 사망했다. E형 간염 바이러스는 다른 간염 바이러스에 비해 덜 알려져 있으며, 우리나라에서는 2020년부터 제2급 감염병으로 지정되어 관리를 시작했다. E형 간염 바이러스는 주로 오염된 물이나 음식, 육가공 식품, 고기, 조개류 등을 통해 전파되며, 드물지만 주사기, 수혈, 임신부로부터 태아 수직감염으로도 전파될 수 있다. E형 간염 바이러스에 감염되면 
-
-URL: https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmVkYWlseS5jby5rci9uZXdzL3JlYWQ_bmV3c0lkPTAxMTc3NTI2NjM1NjA1MzEyJm1lZGlhQ29kZU5vPTI1N9IBAA?oc=5
+URL: https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vbS55b25oYXBuZXdzdHYuY28ua3IvbmV3cy9NWUgyMDIzMDUwMzAwMzEwMDY0MdIBAA?oc=5
 
 
