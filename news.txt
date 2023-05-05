@@ -1,91 +1,91 @@
-제목: 사용자 친화적인 국내 최초의 프리미엄 구글 TV, 이스트라 쿠카 UC55QLED 55인치 스마트 TV - 케이벤치 (KBench)
-요약: GPT3 Return Error: 'choices'
-
-URL: https://news.google.com/rss/articles/CBMiIWh0dHBzOi8va2JlbmNoLmNvbS8_cT1ub2RlLzI0MzMwM9IBAA?oc=5
-
-제목: '11일 입소' 엑소 카이 '준비한 것 많았는데...' 눈물 - 한국아이닷컴
-요약: 엑소의 멤버 카이가 군 복무를 앞두고 팬들과 소통하는 SNS 라이브 방송에서 눈물을 보였다. 카이는 갑작스러운 입대 소식에 대해 걱정됐지만, 팬들을 만나고 돌아올 것을 약속하며 최선을 다할 것을 다짐했다. 이로 인해 엑소의 완전체 컴백은 잠시 미뤄지게 됐다.
-
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NzUzNjfSAT1odHRwczovL3d3dy5oYW5rb29raS5jb20vbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTc1MzY3?oc=5
-
-제목: 포켓몬 컴퍼니, 포켓몬 TCG 라이브 공식 출시 - ZDNet korea - ZD넷 코리아
-URL: https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzA1MDQwOTAxNDTSAQA?oc=5
-
-제목: 쎌바이오텍 듀오락, CF 공개…손예진 효과 누릴까 - 데일리팜
-URL: https://news.google.com/rss/articles/CBMiL2h0dHA6Ly9tLmRhaWx5cGhhcm0uY29tL25ld3NWaWV3Lmh0bWw_SUQ9Mjk5ODc00gEA?oc=5
-
-제목: [리얼푸드] '쭉쭉 올라가는 혈당, 내 혈관도 공격'…혈관 지키는 식사법은? - 헤럴드경제
-요약: 중년이 되면서 단 맛을 좋아하는 사람들이 많아지면서 혈당 상승으로 인한 건강 문제가 증가하고 있다. 혈당이 급격하게 상승하면 혈관 내피세포가 손상되어 혈관질환인 죽상경화증이나 신장질환, 심근경색, 뇌졸중 같은 혈관 합병증이 발생할 수 있다. 이를 예방하기 위해서는 식습관의 변화가 우선이며, 채소, 단백질, 탄수화물 순서로 먹는 것이 좋다. 또한, 흰 쌀밥 대신 현미밥이나 귀리, 보리, 잡곡밥으로 교체하면 혈당 상승을 훨씬 낮출 수 있다. 가당 음료는 혈당 상승의 주원인으로 꼽히므로, 가급적이면 물이나 무가당 음료를 마시는 것이 좋다
-
-URL: https://news.google.com/rss/articles/CBMiNGh0dHA6Ly9iaXouaGVyYWxkY29ycC5jb20vdmlldy5waHA_dWQ9MjAyMzA1MDQwMDAwNTjSAQA?oc=5
-
-제목: 기아 EV9 통해 본격적인 SDV 시대로 나아간다 - 현대자동차그룹
-요약: 현대자동차그룹이 기아 EV9을 통해 SDV(Software Defined Vehicle, 소프트웨어 중심으로 진화하는 자동차) 시대에 다가가고 있다. EV9은 고속도로 부분 자율주행(HDP, Highway Driving Pilot)ㆍ기아 커넥트 스토어(Kia Connect Store)ㆍ무선(OTA, Over-the-air) 소프트웨어 업데이트 등 SDV로서의 우수한 상품성을 갖추어 신기술 기반의 혁신적인 경험을 원하는 고객의 기대를 충족시킬 것으로 기대된다. 또한, FoD(Features on Demand) 서비스를 통해 고객의 필
-
-URL: https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vd3d3Lmh5dW5kYWkuY28ua3IvbmV3cy9DT05UMDAwMDAwMDAwMDA5MTU4MdIBAA?oc=5
-
-제목: [이 시각 세계] 미국 애틀랜타 병원에서 총격‥5명 사상 (2023.05.04/뉴스투데이/MBC) - MBCNEWS
-URL: https://news.google.com/rss/articles/CCAiC2J1eW51VHBDMTAwmAEB?oc=5
-
-제목: [단독]'이태원 참사' 소방 “대응 미흡했다” 반성…첫 내부평가서 나와 - 한겨레
-요약: 서울시가 이태원 참사 당시 소방 활동을 평가한 보고서를 작성했으나, 일부 초기 대응 및 응급 절차가 미흡했다는 반성은 담겨 있었지만, 가장 필요했던 희생자 개인별 구조·이송 과정은 담기지 못해 한계가 뚜렷하다는 지적이 나왔다. 보고서는 지난 2월28일부터 3월27일 사이에 이뤄졌으며, 경찰·서울시·용산구 등 관계기관이 수사 등을 이유로 자료 제출을 미뤄 일정이 늦어졌다.
-
-URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDkwNDkxLmh0bWzSAQA?oc=5
-
-제목: 알츠하이머병 치료에 잠재력 보인 두 가지 녹내장 약물 - 메디컬투데이
-요약: 녹내장에 사용되는 약물들이 알츠하이머병의 치료와 예방에 효과적일 수 있다는 생쥐 연구 결과가 발표됐다. 뇌혈관에 아밀로이드 베타 단백질이 축적되는 것이 알츠하이머병의 주요 원인 중 하나인데, 녹내장 약물은 혈관 및 신경교세포에서 아밀로이드 베타 단백을 제거하는 데 도움을 주어 인지 장애의 예방에 도움이 될 수 있다. 이번 연구는 알츠하이머병의 치료에 새로운 접근 방식을 열어줄 수 있다는 점에서 유망하다.
-
-URL: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vbWR0b2RheS5jby5rci9uZXdzL3ZpZXcvMTA2NTU3Njg2NTYwNzYzONIBAA?oc=5
-
-제목: 미국 연준, 기준금리 0.25%P 또 올려..한미 금리차 역대 최대 1.75%p/'동결' 가능성 시사했지만 "인하는 아직 일러"/[이슈] 2023년 5월 4일(목)/KBS - KBS News
-URL: https://news.google.com/rss/articles/CCAiC1JWU3pZaVBiNDRvmAEB?oc=5
-
-제목: [뉴욕증시] 파월 "금리인하 부적절" 발언에 하락 마감… 다우 0.8%↓ By MoneyS - Investing.com
-요약: 뉴욕증시가 제롬 파월 연방준비제도(Fed) 의장의 발언에 흔들리며 하락했다. 연준은 이날 기준금리를 0.25%포인트 인상했으며, 이번 인상 주기에서 10번째 인상으로 미국의 기준 금리는 5.00%~5.25%로 2007년 이후 16년 만에 가장 높은 수준으로 올라섰다. 그러나 파월 의장은 "여전히 인플레이션이 너무 높고 금리인상 사이클이 끝나 인하할 수 있다고 말하기에 너무 이르다"고 밝혔다. 이에 지역은행 주가는 하락했다.
-
-URL: https://news.google.com/rss/articles/CBMiPmh0dHBzOi8va3IuaW52ZXN0aW5nLmNvbS9uZXdzL3N0b2NrLW1hcmtldC1uZXdzL2FydGljbGUtOTA2MTk40gEA?oc=5
-
-제목: [날씨클릭] 주말까지 전국 강풍 동반 '폭우'…안전사고 유의 - 연합뉴스TV
-요약: 오늘부터 주말까지 전국에 매우 강한 비와 강풍이 예상되어 안전사고에 유의해야 합니다. 제주와 전남 해안에는 호우주의보가 내려졌으며, 제주 산지에는 최대 400mm 이상의 비가 예상됩니다. 중부와 호남 지역에서는 금요일 오후부터 토요일 새벽까지 매우 강한 비가 예상되며, 해안가와 제주에서는 순간적으로 시속 70km의 비바람이 예보됩니다.
-
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTA0MDAxMzAwNjQx0gEA?oc=5
-
-제목: [영상/사진] hy '쉼', 이제 온 국민이 '쉼' 실행 - 스페셜경제
-요약: hy가 서울 삼성동 코엑스에 쉼살생기 임시 매장을 개설했다. 쉼살생기는 일상에서 나만의 쉼을 실천하는 것을 뜻하며, 고객은 이곳에서 게임과 사진 촬영 등 다양한 체험을 하면서 쉼을 느낄 수 있다. 이곳은 현재 2050 직장인부터 유아를 동반한 가족 등이 찾아 자신만의 쉼을 실천하고 있다. hy가 스트레스를 잡기 위해 2월 선보인 쉼은 출시 6주 만에 누적 판매 500만개를 돌파했다.
-
-URL: https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LnNwZWNvbm9teS5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTMxODAwNNIBAA?oc=5
-
-제목: JMS 성범죄 8명 기소‥범죄 현장 '침실·거실' 공개 - MBC뉴스
-요약: JMS 교회 조직이 JMS 총재 정명석의 성범죄를 도와 범죄현장이었던 침실 공간을 공개했다. 검찰은 JMS 2인자 정조은과 조력자 7명을 기소하고, 교회 내부에서 성폭력 대상자를 최종 선발하고 세뇌하는 등 핵심적인 역할을 담당한 정조은과 민원국장 정 모 씨를 준유사강간과 방조 혐의로 구속기소했다.
-
-URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253dG9kYXkvYXJ0aWNsZS82NDgwNDEwXzM2MjA3Lmh0bWzSAQA?oc=5
-
-제목: 의사-간호조무사 전국서 '간호법 제정·의료법 개정 반대' 집회 | 서울특별시 미디어재단 TBS - TBS뉴스
-요약: 3년간 회수된 어린이용품 17개, 집에 있는지 확인해야 함.
-
-URL: https://news.google.com/rss/articles/CBMiT2h0dHA6Ly90YnMuc2VvdWwua3IvbmV3cy9uZXdzVmlldy5kbz90eXBfODAwPTYmaWR4XzgwMD0zNDk1NzY0JnNlcV84MDA9MjA0ODg0MzTSAQA?oc=5
-
-제목: 키움증권 '매도 폭탄'‥금감원 검사 착수 (2023.05.04/뉴스투데이/MBC) - MBCNEWS
-URL: https://news.google.com/rss/articles/CCAiCzdBM1Bvb0hLM2swmAEB?oc=5
-
-제목: 즐기는 자가 일류 맞네!, 김포발 돌풍 비밀은 ‘카르페 디엠’[초점] - 한국아이닷컴
-요약: 김포FC가 K리그2에서 선두를 달리고 있으며, 10경기 동안 무패 1위를 유지하고 있다. 이번 시즌에는 특별한 영입 없이도 수비가 한층 탄탄해졌으며, 공격진 트리오 루이스, 주닝요, 파블로도 수비에 적극적으로 가담하며 득점을 터뜨리고 있다. 김포FC는 현재를 즐기며 눈앞의 일에 충실하고 있으며, 선수들은 선두 싸움을 즐기고 있다.
-
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NzUzNTLSAT1odHRwczovL3d3dy5oYW5rb29raS5jb20vbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTc1MzUy?oc=5
-
 제목: 러시아 크렘린궁 지붕서 드론 폭발…"우크라이나가 푸틴 암살 시도" - 연합뉴스TV
-요약: 러시아 크렘린궁 상공에서 드론이 폭발하는 사건이 발생했습니다. 러시아는 우크라이나가 푸틴 대통령을 암살하려고 드론 공격을 시도했다고 주장하고 있지만, 우크라이나는 이를 부인하고 있습니다. 이 사건 이후 러시아는 보복할 권리가 있다고 경고하고 있습니다. 최근 우크라이나와 러시아 사이에서는 폭발물이 터지는 사고가 잇따르고 있습니다.
+요약: 러시아 크렘린궁 상공에서 드론이 폭발하는 사건이 발생했습니다. 러시아는 우크라이나가 푸틴 대통령을 암살하려 드론 공격을 시도했다고 주장하고 있지만, 우크라이나는 이를 부인하고 있습니다. 이 사건은 최근 우크라이나와 러시아 간 긴장 상황에서 발생한 것으로, 러시아는 보복할 권리가 있다고 경고하고 있습니다.
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTA0MDAwODAwNjQx0gEA?oc=5
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTA0MDA4MjAwNjQx0gEA?oc=5
 
-제목: 이런 기능이 카톡에 있었다고?…몰라서 못 썼던 기능 알려주는 '카톡설명서' 나왔다 - 한국일보
-요약: 카카오톡은 '입력창 잠금' 기능을 만들어 대화창에 '대화에 주의가 필요한 방입니다'라는 경고 문구가 뜨고 채팅 전송 창에 위치한 잠금 버튼을 해제해야만 메시지가 보내지도록 했다. 이런 기능을 모르면 무용지물이기 때문에 카카오는 최근 이용자들에게 유용한 기능을 소개하기 위해 '카톡설명서'를 내놓았다. 이 설명서에는 기본적으로 새롭게 업데이트된 카톡의 신규 기능이 소개되며, 이용자들이 평소에 궁금했거나 몰랐던 카카오톡의 유용한 활용법을 찾아볼 수 있도록 제공된다.
+제목: 투명 스마트폰 '낫싱 폰원' 후속 모델 올 여름 출시.. 티저 공개 - 케이벤치 (KBench)
+요약: 영국 스타트업 '낫싱'은 투명 스마트폰 '낫싱 폰(1)'의 후속 모델인 '폰(2)'를 올 여름 출시할 예정이다. 이전 모델과 유사한 디자인을 갖추며, 더 빠른 스냅드래곤 8+ 1세대 프로세서를 탑재할 것으로 알려졌다.
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vbS5oYW5rb29raWxiby5jb20vTmV3cy9SZWFkL0EyMDIzMDUwMTEyMTEwMDAzODU50gEA?oc=5
+URL: https://news.google.com/rss/articles/CBMiIWh0dHBzOi8va2JlbmNoLmNvbS8_cT1ub2RlLzI0MzM3MdIBAA?oc=5
 
-제목: 한숨 돌린 민주당… ‘돈봉투 의혹’ 연루 윤관석·이성만 탈당 - 서울신문
-요약: 더불어민주당이 박광온 원내대표 취임 이후 첫 의원총회를 열고 쇄신안 마련에 착수했다. 윤관석·이성만 의원이 민주당을 자진 탈당함으로써 송영길 전 대표 탈당에 이어 위기 극복을 위한 한고비는 가까스로 넘었다. 이재명 대표의 사법 리스크와 ‘공천 룰’ 등을 둘러싼 당내 갈등은 여전한 불안 요소다. 윤·이 의원은 정치 검찰에 당당히 맞서고 명예를 되찾아 돌아오겠다고 말했다.
+제목: 엘링 홀란드가 호날두도 못한 'EPL 단일 시즌 최다 득점' 기록을 경신했다 - HYPEBEAST
+요약: 맨체스터 시티 FC의 엘링 홀란드가 잉글랜드 프리미어 리그(EPL) 단일 시즌 최다 득점 기록을 경신했다. 33라운드 웨스트햄 유나이티드 FC와의 홈 경기에서 35호골을 넣어 앤디 콜과 앨런 시어러가 기록한 34골을 제치고 EPL 역사상 한 시즌에 가장 많은 골을 넣은 선수가 되었다. 현재 홀란드에게 남은 단일 시즌 골 기록은 딕시 딘이 1927-28 시즌 기록한 한 시즌 최고 득점(60골)이다.
 
-URL: https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnNlb3VsLmNvLmtyL25ld3MvbmV3c1ZpZXcucGhwP2lkPTIwMjMwNTA0MDA2MDA40gEsaHR0cHM6Ly9hbXAuc2VvdWwuY28ua3Ivc2VvdWwvMjAyMzA1MDQwMDYwMDg?oc=5
+URL: https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vaHlwZWJlYXN0LmtyLzIwMjMvNS9oYWFsYW5kLXN1cnBhc3Nlcy1wcmVtaWVyLWxlYWd1ZS1zaW5nbGUtc2Vhc29uLWdvYWwtcmVjb3Jk0gEA?oc=5
+
+제목: 구글 '크롬 113' 정식 버전 공개.. 웹GPU 기본 지원 - 케이벤치 (KBench)
+요약: 구글이 크롬 브라우저 113 버전을 공개했다. 이번 버전에서는 웹GPU(WebGPU) 기본 지원이 추가되어 웹에서 고품질 3D 그래픽의 향상된 성능을 제공한다. 또한, 보안 버그 15개가 수정되었으며, 화상 통화를 위한 CPU 기반 AV1 비디오 인코딩 속도도 향상되었다. 구글 크롬은 2022년 글로벌 웹브라우저 시장에서 66.13%의 점유율로 1위를 차지하고 있다.
+
+URL: https://news.google.com/rss/articles/CBMiIWh0dHBzOi8va2JlbmNoLmNvbS8_cT1ub2RlLzI0MzM3MNIBAA?oc=5
+
+제목: 키움증권 '매도 폭탄' 금감원 검사 착수 (2023.05.04/12MBC뉴스) - MBCNEWS
+URL: https://news.google.com/rss/articles/CCAiC29LdWRhekh6ZzF3mAEB?oc=5
+
+제목: [단독] 뮤지컬 배우 양지원, 8년 연인과 20일 결혼 - 매일경제
+요약: 뮤지컬 배우 양지원이 이달 20일 8년 연인과 웨딩마치를 한다. 양지원은 SNS를 통해 결혼 소식을 직접 전하며 예비신부에 대해 "더 인격적이고 다정다감하며 정말 따뜻한 사람"이라고 소개했다. 양지원은 뮤지컬 '행복한 왕자'에서 주인공 와일드 외 역으로 출연 중이다.
+
+URL: https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3Lm1rLmNvLmtyL3N0YXIvaG90LWlzc3Vlcy92aWV3LzIwMjMvMDUvMzQzNzQ1L9IBAA?oc=5
+
+제목: 블로그 | 애플은 왜 아직도 에어팟 사용자를 배려하지 않는가? - ITWorld Korea
+URL: https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3Lml0d29ybGQuY28ua3IvbmV3cy8yODk0NzfSAQA?oc=5
+
+제목: [뉴스포커스] 민주 윤관석·이성만 탈당…여, 태영호 징계절차 개시 - 연합뉴스TV
+요약: - 윤관석, 이성만 의원이 더불어민주당에서 자진 탈당했다.
+- 국민의힘 윤리위는 공천 관련 녹취록 의혹을 태영호 최고위원의 징계 심사 사유에 추가했다.
+- 민주당은 이번 사건을 계기로 당 쇄신에 박차를 가하고 있으며, 안민석 의원은 도덕성 회복을 위해 필요한 조치로 자진출당 권유와 당원자격 박탈을 제안했다.
+- 태영호 최고위원은 후원금 쪼개기 의혹이 제기되었으며, 김기현 대표는 당 윤리위에 녹취록 사태도 징계 사유에 포함시켜달라는 공식 요청을 했다.
+- 일본의 독도 영유권 주장과 관련해 민주당 전용기 의원이 독도 방문을 했고, 일본
+
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTA0MDA2MzAwNjQx0gEA?oc=5
+
+제목: '학폭 피해' 고백한 김민경 "그 기억 평생 안 잊혀, 가슴에 남아" - 머니투데이
+요약: 코미디언 김민경이 KBS2 예능 프로그램 '노머니 노아트'에서 학교 폭력 피해를 고백했다. 이를 들은 다른 출연자들도 자신의 학교 폭력 경험을 공유하며 서로 위로를 나누는 모습이 그려졌다. 이날 방송은 대한민국 미술계를 이끌어갈 신진 미술작가들이 출연하는 '해외파 vs 국내파' 특집으로 진행되었다.
+
+URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwNTA0MTEwMzIyNzg5OTXSAT1odHRwczovL20ubXQuY28ua3IvcmVuZXcvdmlld19hbXAuaHRtbD9ubz0yMDIzMDUwNDExMDMyMjc4OTk1?oc=5
+
+제목: 어린이날 연휴 수도권 최대 120㎜ 폭우…제주에 벌써 100㎜ 넘는 비 내려 | 서울특별시 미디어재단 TBS - TBS뉴스
+요약: 어린이날 연휴 기간 동안 전국에 강한 비가 예상되며, 현재 제주와 호남, 경남 서부 지역에서 비가 내리고 있습니다. 비는 오후에 충남과 경북권 남부, 밤에는 수도권을 포함한 전국으로 확대되며, 모레까지 이어질 것으로 예상됩니다. 강수량은 제주와 남해안에 50~150㎜, 제주도 산간에는 400㎜ 이상, 중부지방과 호남, 경북북부, 경남권에는 30~100㎜, 수도권에는 최대 120㎜ 이상으로 예상됩니다. 기상청은 저지대 침수와 하천 범람이 우려되며, 호우피해 예방에 신경 써달라고 당부했습니다.
+
+URL: https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vdGJzLnNlb3VsLmtyL25ld3MvbmV3c1ZpZXcuZG8_dHlwXzgwMD02JmlkeF84MDA9MzQ5NTgwNSZzZXFfODAwPTIwNDg4NDc10gEA?oc=5
+
+제목: 정부, 한상혁 방통위원장 면직·직무정지 검토 - MBC뉴스
+요약: 한상혁 방송통신위원장이 점수 조작 혐의로 불구속 기소된 후, 면직하거나 직무정지하는 방안이 검토되고 있다. 윤석열 대통령이 공소장 공개 이후 면직 여부를 결정할 것으로 예상된다. 한상혁 위원장은 문재인 정부에 임명되어 7월까지 임기를 맡고 있다.
+
+URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9wb2xpdGljcy9hcnRpY2xlLzY0ODA1MDhfMzYxMTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9wb2xpdGljcy9hcnRpY2xlLzY0ODA1MDhfMzYxMjAuaHRtbA?oc=5
+
+제목: 50억년 후 지구 운명? 주변 행성 삼키는 별 처음 포착 - ZD넷 코리아
+URL: https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzA1MDQxMTE2MDfSAQA?oc=5
+
+제목: [W디펜스] “뜻밖 칼바람, 포탄 부족…” 러 급기야 ‘콩가루’ 상황 /머니투데이방송 - MTN 머니투데이방송
+URL: https://news.google.com/rss/articles/CCAiC2pZcHM1aUdZOEx3mAEB?oc=5
+
+제목: '편스토랑' 장민호, 이찬원 "존경하는 형" 말에 "기특하네" 뿌듯 - 전자신문
+요약: 장민호가 박수홍과 만나 유쾌한 대화를 나누었다. 박수홍은 초콜릿을 만들어 행사에서 수상하시는 분들에게 선물하고자 하였다. 이어 박수홍과 장민호의 인연이 공개되었다. 박수홍은 1997년 인기 예능 프로그램에 장민호가 출연했다는 것을 알게 되었고, 이를 토대로 과거 모습이 공개되었다. 이찬원은 장민호를 존경하는 형이라고 밝혔다. 이 모든 에피소드는 5월 5일 KBS 2TV ‘신상출시 편스토랑’에서 방송된다.
+
+URL: https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3LmV0bmV3cy5jb20vMjAyMzA1MDQwMDAwODXSAQA?oc=5
+
+제목: 안철수, 이진복 겨냥 “아무 일도 하지 않으면 아무 일 안 생겨” - 한겨레
+요약: 안철수 국민의힘 의원은 이진복 대통령실 정무수석의 ‘대통령실의 공천 개입 녹취록’ 논란과 관련해, 이 수석을 겨냥해 “본인께서 아무 일도 하지 않으시면 아무 일도 안 생길 텐데 참 우려스럽다”고 말했다. 이 수석은 대통령실이 국민의힘에 ‘윤심’ 지도부를 구성하기 위해 노골적으로 당무 개입을 하는 것 아니냐는 논란을 키운 바 있다.
+
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9hc3NlbWJseS8xMDkwNTA1Lmh0bWzSAQA?oc=5
+
+제목: 美 금리 인상에 한미 금리 차 역대 최대...코스피 하락 출발 / YTN - YTN
+URL: https://news.google.com/rss/articles/CCAiC0F5VUVQa1VuZGRzmAEB?oc=5
+
+제목: [뉴스쏙] 4월 햄버거 물가 17.1% 상승…19년 만에 최고 / 연합뉴스TV (YonhapnewsTV) - 연합뉴스TV
+URL: https://news.google.com/rss/articles/CCAiC24tcFZ6N3E1YTBvmAEB?oc=5
+
+제목: “칼로 온몸 찌르는 느낌” 전우원이 밝힌 마약 고통 - 조선일보 - 조선일보
+URL: https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LmNob3N1bi5jb20vbmF0aW9uYWwvbmF0aW9uYWxfZ2VuZXJhbC8yMDIzLzA1LzA0L1IyVzQ3Qk9KTEpBT1BEN0Q2TUtVNlpWT0k0L9IBZmh0dHBzOi8vd3d3LmNob3N1bi5jb20vbmF0aW9uYWwvbmF0aW9uYWxfZ2VuZXJhbC8yMDIzLzA1LzA0L1IyVzQ3Qk9KTEpBT1BEN0Q2TUtVNlpWT0k0Lz9vdXRwdXRUeXBlPWFtcA?oc=5
+
+제목: 분신 건설노동자 장례 서울서 노조장으로…“고인 뜻 따라” - 경향신문
+요약: 건설노동자 고 양회동 지대장의 빈소가 서울대병원 장례식장에서 차려졌다. 유족은 노조에 장례 절차를 위임했으며, 민주노총 건설노조는 이를 받아들여 노조장을 진행한다. 양 지대장은 정부의 건설노조 탄압 기조에 따라 공동공갈 혐의로 입건됐다. 유서에서는 윤석열 검사독재 정치의 제물이 됐다며, 윤석열 정권 퇴진 투쟁에 매진해줄 것을 요구했다. 민주노총은 이번 사건을 계기로 '정권 퇴진'을 기조로 결정했다.
+
+URL: https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmtoYW4uY28ua3IvbmF0aW9uYWwvbmF0aW9uYWwtZ2VuZXJhbC9hcnRpY2xlLzIwMjMwNTA0MDkzMzAwMdIBAA?oc=5
+
+제목: 일본 언론 "윤·기시다 만찬 대통령 관저 개최 조율‥홈파티 형식" - MBC뉴스
+요약: 윤석열 대통령이 일본 총리와 만찬을 하기로 조율 중이며, 만찬은 대통령 관저에서 진행될 예정입니다. 이번 만찬은 양국 정상 부인도 함께하는 '홈 파티' 형식으로 친교를 다질 것으로 예상됩니다.
+
+URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy93b3JsZC9hcnRpY2xlLzY0ODA0NzBfMzYxMzMuaHRtbNIBQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy93b3JsZC9hcnRpY2xlLzY0ODA0NzBfMzYxMzQuaHRtbA?oc=5
 
 
