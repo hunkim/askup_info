@@ -1,91 +1,91 @@
-제목: ‘AI 윤리’도 경쟁… 구글 “허위정보 체크” MS “공정-책임 강화” - 동아일보
-요약: 구글과 마이크로소프트는 AI 기술과 서비스뿐만 아니라 'AI 윤리' 분야에서도 경쟁하고 있다. 구글은 AI를 책임 있게 개발하고 사용할 것을 발표하며, 이용자의 권리를 침해하지 않는 '리스폰서블 AI'를 구현할 예정이다. MS도 공정, 신뢰, 보안, 포용, 투명, 책임 등 6가지 원칙을 기반으로 AI 기술과 서비스를 개발하고 있다. 이들이 AI 윤리를 강조하는 것은 미국, EU 등 주요국의 규제 움직임을 감안한 것이다.
+제목: 달리기, 등산...맞는 신발 고르는 법 - 코메디닷컴
+요약: 코로나19 종식 후 야외 스포츠 활동이 더 활성화될 전망이다. 스포츠 활동을 할 때는 맞는 신발을 착용하는 것이 중요하다. 등산화, 러닝화, 골프화를 선택할 때는 용도와 스파이크 디자인, 쿠션 등을 고려해야 한다. 또한, 신발 착용 후 관리도 중요하다.
 
-URL: https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmRvbmdhLmNvbS9uZXdzL0Vjb25vbXkvYXJ0aWNsZS9hbGwvMjAyMzA1MTIvMTE5MjU1NDQ5LzHSATdodHRwczovL3d3dy5kb25nYS5jb20vbmV3cy9hbXAvYWxsLzIwMjMwNTEyLzExOTI1NTQ0OS8x?oc=5
+URL: https://news.google.com/rss/articles/CBMilwFodHRwczovL2tvcm1lZGkuY29tLzE1ODk2NzMvJUVCJThCJUFDJUVCJUE2JUFDJUVBJUI4JUIwLSVFQiU5MyVCMSVFQyU4MiVCMC0lRUIlQTclOUUlRUIlOEElOTQtJUVDJThCJUEwJUVCJUIwJTlDLSVFQSVCMyVBMCVFQiVBNSVCNCVFQiU4QSU5NC0lRUIlQjIlOTUv0gEA?oc=5
 
-제목: 전문가 FAQ: 달걀 흰자를 대체할 수 있는 것은 무엇입니까? - MSN
-URL: https://news.google.com/rss/articles/CBMi_gFodHRwOi8vd3d3Lm1zbi5jb20va28ta3IvaGVhbHRoL251dHJpdGlvbi8lRUMlQTAlODQlRUIlQUMlQjglRUElQjAlODAtZmFxLSVFQiU4QiVBQyVFQSVCMSU4MC0lRUQlOUQlQjAlRUMlOUUlOTAlRUIlQTUlQkMtJUVCJThDJTgwJUVDJUIyJUI0JUVEJTk1JUEwLSVFQyU4OCU5OC0lRUMlOUUlODglRUIlOEElOTQtJUVBJUIyJTgzJUVDJTlEJTgwLSVFQiVBQyVCNCVFQyU5NyU4NyVFQyU5RSU4NSVFQiU4QiU4OCVFQSVCOSU4Qy9zcy1BQTFiMVB4U9IBAA?oc=5
+제목: 서머 게임 페스트, 6월 8일 개막…40개 스폰서 합류 - ZD넷 코리아
+URL: https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzA1MTIwOTI5MjDSAQA?oc=5
 
-제목: 에이수스, 스팀덱 저격수 'ROG 앨라이' 공개... 699달러 - 전자신문
-요약: 에이수스가 휴대용 게임PC 'ROG 앨라이'를 공개했다. AMD 라이젠 Z1 익스트림 프로세서가 탑재되어 있으며, 윈도11 운영체제를 사용한다. 그래픽 연산 능력으로만 놓고 보면 스팀덱 대비 5배 빠른 속도를 자랑하며, 호그와트 레거시, 사이버펑크2077 등 트리플A 게임을 50~60프레임으로 구동 가능하다. 국내에서는 이달 29일부터 예약 판매를 시작한다.
+제목: 캐논코리아, 소형 카메라 '파워샷 V10' 발표 “브이로그용 최적화” - 데이터넷
+요약: 캐논코리아는 파워샷 V10을 출시했다. 이 제품은 작은 크기와 가벼운 무게로 보다 간편하고 쾌적한 사진·영상 촬영을 지원하며, 빌트인 스탠드와 2.0형 틸트 LCD를 탑재해 별도의 액세서리 없이도 핸드헬드 촬영이나 셀프 촬영이 용이하다. 또한, 최신 영상 처리 엔진인 ‘디직 X(DIGIC X)’를 탑재해 4K UHD 30/24p, FHD 60/30/24p의 고화질 영상 촬영을 지원하며, 제품 기획 단계부터 차별화된 고성능 마이크를 탑재해 저노이즈·고음질 오디오를 지원한다. 이 제품은 오는 6월 중순 블랙과 실버 두 가지 색상으로 출
 
-URL: https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3LmV0bmV3cy5jb20vMjAyMzA1MTIwMDAwMDHSAQA?oc=5
+URL: https://news.google.com/rss/articles/CBMiO2h0dHA6Ly93d3cuZGF0YW5ldC5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MTgzMzY00gEA?oc=5
+
+제목: [서울신문] 윤아일린 교수, A형 간염에 관해 코멘트 - 뉴스H
+요약: 서울신문은 5가지 간염 바이러스 중 A형 간염에 대해 보도했다. A형 간염은 오염된 음식이나 식수, 또는 감염자의 분변과 직접 접촉했을 때 감염되며, 어린이는 감기처럼 앓고 성인은 식욕 감퇴, 구역, 구토, 전신 쇠약, 고열, 복통, 설사 등의 심한 몸살감기 증상을 보인다. 하지만 A형 간염에 걸린 환자들은 회복력이 빠르고 일생 재감염에 대한 면역성을 지니며, 만성이 되지 않아 간경화증이나 간세포암까지 진행되지 않는다는 전문가의 의견이 있다.
+
+URL: https://news.google.com/rss/articles/CBMiOmh0dHA6Ly93d3cubmV3c2h5dS5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTEwMDk5MTXSAQA?oc=5
+
+제목: '슈다페드정·코슈정', "약국 균등 공급 신청 접수 받아요" - 팜뉴스
+요약: 대한약사회는 슈도에페드린제제 공급 개선을 위해 슈다페드정과 코슈정에 대한 약국 균등 공급 신청을 받을 예정이다. 약국 균등 공급 신청은 5.15~16일 이틀 동안 온라인으로 진행되며, 신청 약국당 500정 1병이 공급된다. 이번 균등공급을 준비해 온 민필기 약국이사는 "수급 불안정 의약품 해소를 위해 정부와 약업단체가 참여하는 민관협의체에서 개선 방안을 모색하고 있다"며 "의약품 공급 부족과 수급 불균형 상황을 개선하기 위해 최선을 다하겠다"고 말했다.
+
+URL: https://news.google.com/rss/articles/CBMiO2h0dHA6Ly93d3cucGhhcm1uZXdzLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjIzNTM00gEA?oc=5
+
+제목: [건강] 화상 상황에 따른 응급처치 방법 (상) - 대한전문건설신문
+요약: 화재나 다른 사고로 인해 화상을 입었을 때, 적절한 응급 처치가 중요하다. 자외선 노출로 인한 화상의 경우 차가운 찜질과 수분 섭취, 진통제 복용이 도움이 된다. 뜨거운 물이나 불에 화상을 입은 경우, 시원한 수돗물이나 생리식염수로 오염 물질을 제거하고 화기를 식히며, 물집이 있는 경우 터트리지 않도록 조심해야 한다. 화학약품에 노출된 경우, 고형제를 충분히 털어주고 흐르는 물로 세척한 후 의료진에게 알리는 것이 중요하다. 전기화상의 경우, 안전커버를 사용하고 절연도구를 이용해 분리시켜야 한다.
+
+URL: https://news.google.com/rss/articles/CBMiOGh0dHA6Ly93d3cua29zY2FqLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjM1MDM10gE7aHR0cDovL3d3dy5rb3NjYWouY29tL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz0yMzUwMzU?oc=5
+
+제목: 틴탑 캡, 라이브 방송서 '흡연 · 욕설 논란'…팀 탈퇴 / SBS / 굿모닝연예 - SBS 뉴스
+URL: https://news.google.com/rss/articles/CCAiC0c2ZXBZWjZ3YkZrmAEB?oc=5
+
+제목: 기재차관 "4월 경상수지, 무역적자 축소로 예상보다 양호할 것" - 연합인포맥스
+요약: 정부는 4월 경상수지가 예상보다 양호한 흐름을 보일 것으로 전망하며, 공공요금 인상 자제를 당부했다. 하반기에는 지방 공공요금 인상이 주된 물가 상승압력으로 작용할 수 있는 만큼 지자체의 적극적인 협조가 필요하다는 진단을 내렸다. 불가피한 인상 요인이 있다면 시기를 최대한 이연ㆍ분산해 국민 부담을 최소화할 필요가 있다고 제시했다.
+
+URL: https://news.google.com/rss/articles/CBMiPmh0dHA6Ly9uZXdzLmVpbmZvbWF4LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz00MjY2MDIy0gEA?oc=5
+
+제목: [2023 기대주] '한국판 특별 디자인' 기가바이트 지포스 RTX 4070 코리아 에디션 - IT조선
+요약: GPT3 Return Error: 'choices'
+
+URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vaXQuY2hvc3VuLmNvbS9zaXRlL2RhdGEvaHRtbF9kaXIvMjAyMy8wNS8xMi8yMDIzMDUxMjAwNDE3Lmh0bWzSAQA?oc=5
+
+제목: JP모건 “미 정부 디폴트 대비 '전시상황실' 가동 중” - 경향신문
+요약: JP모건체이스의 제이미 다이먼 CEO는 미 연방정부의 채무불이행 가능성에 대비해 ‘전시 상황실’을 가동 중이라고 밝혔다. 디폴트가 발생하면 주식시장과 채권시장에서 큰 혼란이 발생할 수 있으며, 수백만명이 일자리를 잃고 경기침체가 유발될 것으로 우려된다.
+
+URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmtoYW4uY28ua3Ivd29ybGQvd29ybGQtZ2VuZXJhbC9hcnRpY2xlLzIwMjMwNTEyMDc0OTAwMdIBAA?oc=5
+
+제목: 김익래 사퇴 초강수에도 궁지 몰린 키움…초대형IB 차질 빚나 - 이코노미스트
+요약: 다우키움그룹 회장인 김익래가 주가 조작 의혹으로 사퇴한 후, 키움증권은 여전히 거센 후폭풍에 시달리고 있다. 이번 사태로 인해 개인 투자자들이 키움증권 계좌를 타 증권사 계좌로 옮기거나 불매운동을 펼치는 등 반감을 내비치고 있으며, 일부 투자자들은 집단소송을 준비하고 있다. 또한, CFD 계좌 관리로 인해 개인 투자자들의 피해가 커졌다는 이유로 법무법인 원앤파트너스가 키움증권 등 주요 증권사를 대상으로 손해배상을 청구하는 집단 소송을 준비 중이다. 이번 사태로 인해 키움증권의 주가는 하락 곡선을 그리고 있으며, 초대형 투자은행(IB
+
+URL: https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vZWNvbm9taXN0LmNvLmtyL2FydGljbGUvdmlldy9lY24yMDIzMDUxMDAwNTfSAQA?oc=5
+
+제목: '태영호 3개월'로 공천개입 의혹 봉합…김기현호, 대통령실 눈치만 - 한겨레
+요약: 태영호 국민의힘 의원이 최고위원직에서 자진사퇴를 하면서, 김재원 최고위원과 함께 둘러싼 내홍은 일단 봉합 국면에 들어갔다. 윤리위의 징계 결정으로 사태는 어느 정도 일단락됐지만, 집권 여당이 ‘대통령실 여의도 출장소’로 전락했다는 비판을 피하기는 어려워 보인다. 이번 사건을 계기로 대통령실만 쳐다보는 친윤 지도부의 취약한 구조가 또다시 드러났다는 점에서 당내에서는 비판의 목소리도 나온다.
+
+URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9wb2xpdGljc19nZW5lcmFsLzEwOTE1MDYuaHRtbNIBAA?oc=5
+
+제목: 김민재 EPL 성공 모든 조건 갖췄다, 맨유 영입에 사활... 나폴리도 대체자 물색 - 머니투데이
+요약: GPT3 Return Error: 'choices'
+
+URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwNTEyMDAxMTA0NTc2MjLSAT1odHRwczovL20ubXQuY28ua3IvcmVuZXcvdmlld19hbXAuaHRtbD9ubz0yMDIzMDUxMjAwMTEwNDU3NjIy?oc=5
+
+제목: 취임 1주년 尹, 文정부 연일 직격 왜…"개혁 추진으로 드러나" - 노컷뉴스
+URL: https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3Lm5vY3V0bmV3cy5jby5rci9uZXdzLzU5NDIyMzbSAQA?oc=5
+
+제목: "어른들이 미안"‥스쿨존 사고 '추모 행렬' - MBC뉴스
+요약: 초등학생이 우회전 신호를 무시한 버스에 치여 숨진 사건이 발생했다. 사고 현장에는 추모하는 시민들의 발길이 이어졌고, 유족들은 법이 있어도 아이들을 지켜주지 못한다며 울분을 토했다. 버스기사는 어린이보호구역 위험운전치사, 즉 '민식이법' 위반 혐의로 구속됐다.
+
+URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253dG9kYXkvYXJ0aWNsZS82NDgyODQ3XzM2MjA3Lmh0bWzSAUZodHRwczovL2ltbmV3cy5pbWJjLmNvbS9yZXBsYXkvMjAyMy9ud3RvZGF5L2FydGljbGUvNjQ4Mjg0N18zNjIwOC5odG1s?oc=5
+
+제목: 권도형 보석 청구 "난 무죄"‥재산규모 공개 거부 - MBC뉴스
+요약: 테라·루나 사태의 주범인 권도형 대표가 몬테네그로에서 공문서 위조 혐의로 재판을 받았습니다. 권 대표는 무죄를 주장하며 보석을 청구했지만, 재산 규모를 묻자 자세히 밝힐 수 없다고 말했습니다. 검찰은 보석금 규모가 적고 도주할 우려가 있다며 강하게 반대 의사를 밝혔습니다. 다음 재판은 다음 달 16일에 열릴 예정입니다.
+
+URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253dG9kYXkvYXJ0aWNsZS82NDgyODQyXzM2MjA3Lmh0bWzSAUZodHRwczovL2ltbmV3cy5pbWJjLmNvbS9yZXBsYXkvMjAyMy9ud3RvZGF5L2FydGljbGUvNjQ4Mjg0Ml8zNjIwOC5odG1s?oc=5
+
+제목: 김남국 코인 의혹‥민주당 자체 조사 돌입 - MBC뉴스
+요약: 민주당 김남국 의원이 가상자산 거래를 둘러싼 논란이 계속되자, 민주당은 진상조사단을 꾸리고 첫 회의를 열었다. 김 의원은 2021년 10억 원대의 가상화폐를 투자하고, 1년 사이 10배 이상 가치가 불어났다. 그러나 김 의원은 거래 내역을 공개하지 않아 의혹이 제기되고 있다. 여당은 김 의원이 게임회사의 내부 정보를 활용해 가상화폐를 투자했거나, 공짜로 받은 것 아니냐는 의혹을 제기하고 있다. FIU가 이미 김 의원의 거래를 검찰로 통보했으며, 검찰로 통보하는 건수는 전체의 약 4%로, 40건 정도라고 밝혔다.
+
+URL: https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253dG9kYXkvYXJ0aWNsZS82NDgyODM4XzM2MjA3Lmh0bWzSAUZodHRwczovL2ltbmV3cy5pbWJjLmNvbS9yZXBsYXkvMjAyMy9ud3RvZGF5L2FydGljbGUvNjQ4MjgzOF8zNjIwOC5odG1s?oc=5
+
+제목: Asus ROG Ally 검토: 수명이 제한된 핸드헬드 게임 – 파이에듀뉴스 - 파이에듀뉴스
+요약: ASUS의 핸드헬드 게임 콘솔인 ROG Ally는 Windows를 실행하기 때문에 호환성 문제가 없지만, 게임 실행에는 여전히 어려움이 있습니다. 게임 실행을 위해 설정을 많이 조정해야 하며, 게임에 따라 성능이 크게 차이가 납니다. 또한 배터리 문제도 있어서 대부분의 PC 게임을 실행하기에는 적합하지 않습니다. 하지만 AAA 게임을 플레이할 수 있는 능력을 강조하고 있습니다.
+
+URL: https://news.google.com/rss/articles/CBMixAFodHRwczovL3d3dy5waWUtbmV3cy5jb20vJUVCJUFDJUI4JUVEJTk5JTk0L2FzdXMtcm9nLWFsbHktJUVBJUIyJTgwJUVEJTg2JUEwLSVFQyU4OCU5OCVFQiVBQSU4NSVFQyU5RCVCNC0lRUMlQTAlOUMlRUQlOTUlOUMlRUIlOTAlOUMtJUVEJTk1JUI4JUVCJTkzJTlDJUVEJTk3JUFDJUVCJTkzJTlDLSVFQSVCMiU4QyVFQyU5RSU4NC8xMTgxMTEv0gEA?oc=5
+
+제목: 클린스만호, 아시안컵 요르단·등과 한 조 / YTN - YTN
+URL: https://news.google.com/rss/articles/CCAiC3R3ZHJHZW5kREVvmAEB?oc=5
 
 제목: #Shorts / [문화연예 플러스] 가수 아이유, 표절 혐의로 경찰 고발당해 (2023.05.11/뉴스투데이/MBC) - MBCNEWS
 URL: https://news.google.com/rss/articles/CCAiC1ZnU0d5MnNHNnhnmAEB?oc=5
-
-제목: 부딪힌 기억 없는데 '멍'이… 의심할 수 있는 질환 - 헬스조선
-요약: 멍이 자주 생기는 이유는 유전, 노화, 얇은 피부 등으로 인해 모세혈관이 약해져서이다. 혈소판 기능 문제, 약물 과다 복용, 냉찜질과 온찜질 순서를 지키지 않는 것도 멍을 유발하는 요인이다. 멍이 2주 이상 지속되거나 다른 이상 증상이 나타날 경우 병원에 내원해야 한다.
-
-URL: https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vbS5oZWFsdGguY2hvc3VuLmNvbS9zdmMvbmV3c192aWV3Lmh0bWw_Y29udGlkPTIwMjMwNTExMDIwMDHSAQA?oc=5
-
-제목: [AI EXPO KOREA 현장] 마음AI, 대한민국 인공지능 플랫폼 대표기업으로 자리매김! - 인공지능신문
-요약: 마음에이아이는 '제6회 국제인공지능대전'에서 AI휴먼을 비롯한 5개 주요 AI 엔진에 파인튜닝된 플랫폼과 서비스를 직접 시연하고 관련 인사이트를 공유했다. 이번 전시에서는 자사의 생성 AI 멀티모달의 근간이 되는 '학습한 적 없는 사물도 인식하는 제로-샷 분할 기술과 다양한 LLM 파인튜닝 능력과 도메인 특화된 GPT 등 자사의 독보적인 AI기술로 구현되는 플랫폼 및 서비스로 참관객의 눈길을 사로잡았다. 마음AI는 인공지능 전문기업에 걸맞는 3가지 핵심 비즈니스 모델과 5개 주요 인공지능 엔진에 대한 인공지능 학습(Finetune 
-
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFpdGltZXMua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTI4MDA50gEA?oc=5
-
-제목: 구글 '웨어OS 4' 공개…배터리·클라우드 백업 개선 - 디지털투데이
-요약: 구글이 픽셀워치의 차세대 운영체제 '웨어OS 4'를 공개했다. 이번 업데이트는 배터리 수명과 클라우드 백업 등의 문제를 해결하기 위한 것으로, 개선된 배터리 수명과 기기 초기화 없이 백업할 수 있는 기능을 제공한다. 또한 새로운 접근성 기능과 구글 서비스 추가도 예정되어 있다. 웨어OS 4는 올 하반기 정식 출시된다.
-
-URL: https://news.google.com/rss/articles/CBMiQGh0dHA6Ly93d3cuZGlnaXRhbHRvZGF5LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz00NzYyMjbSAQA?oc=5
-
-제목: 윤 대통령 “군 골병” “정치방역”…사흘 연속 문 정부 때리기 - 한겨레
-요약: 윤석열 대통령이 문재인 정부의 대북 정책과 코로나19 방역을 비난하며 전 정부를 탓하는 발언을 이어가고 있다. 국방혁신위원회 첫 회의에서는 군에 골병이 들었다며 대북 정책을 비판하고, 중앙재난안전대책본부 회의에서는 코로나19 방역을 혹평했다. 이는 취임 1주년을 맞아 거듭된 발언으로, 지지층을 자극해 묶어두려는 것으로 분석된다.
-
-URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9wb2xpdGljc19nZW5lcmFsLzEwOTE0NzQuaHRtbNIBAA?oc=5
-
-제목: '입만 열면 거짓' 미국 의원‥정치자금으로 명품 쇼핑까지 - MBC뉴스
-요약: 미국 하원 의원인 조지 산토스가 학력, 경력, 가족사 등 모든 정보가 거짓임이 드러나면서 13가지 혐의로 기소되었다. 검찰 공소장에 따르면, 산토스는 선거 자금으로 명품 쇼핑을 하고 카드 빚을 갚으며 자동차 할부금을 냈다. 또한, 연봉 12만 달러를 받으면서도 코로나 대유행 때 실업수당을 신청해 2만4천 달러를 받아 챙겼다. 최고 20년 형이 가능한데 산토스 의원은 모두 무죄라고 주장하고 있다.
-
-URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0ODI3OTBfMzYxOTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0ODI3OTBfMzYyMDAuaHRtbA?oc=5
-
-제목: 구글 챗봇 '바드' 한국어 먼저 지원‥속내는? (2023.05.11/뉴스데스크/MBC) - MBCNEWS
-URL: https://news.google.com/rss/articles/CCAiC1Q0SGNidkxxSHVZmAEB?oc=5
-
-제목: 젤렌스키 "반격에 시간 더 필요…지금도 가능하지만 희생 커"(종합) - 연합뉴스
-URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L0FLUjIwMjMwNTExMTUxNjUxMTA40gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9BS1IyMDIzMDUxMTE1MTY1MTEwOA?oc=5
-
-제목: "치과도 진료 멈춤"‥'간호법' 놓고 혼돈의 의료계 - MBC뉴스
-요약: 의료 현장에서 간호사와 의사들 간의 갈등이 계속되고 있습니다. 대통령이 거부권을 행사할 수 있는 시한은 오는 19일이며, 보건의료연대 소속 2천여 명은 국회 앞에서 17일 총파업을 예고했습니다. 일부 치과 의사들도 진료를 중단하고 집회에 참가했습니다. 간호협회는 내일 '국제간호사의 날'을 맞아 10만 명이 거리에 모여 '간호법 제정'을 촉구하겠다고 밝혔습니다.
-
-URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0ODI3NzlfMzYxOTkuaHRtbNIBAA?oc=5
-
-제목: [속보] SG발 주가폭락 라덕연 구속…도주·증거인멸 우려 - 한겨레
-요약: 주가조작 의혹으로 수사 중인 투자컨설팅업체 H사 라덕연 대표가 구속됐다. 검찰은 라 대표의 측근인 변아무개씨와 전 프로골퍼 안아무개씨에 대해서도 영장 청구했다. 라 대표는 통정거래를 통해 시세를 조종하고, 금융당국에 등록하지 않고 투자자문회사를 운영하며 수수료를 편취하고 세금을 탈루하며 범죄 수익을 빼돌렸다는 혐의가 있다.
-
-URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDkxNDcwLmh0bWzSAQA?oc=5
-
-제목: 김재원·태영호 논란 잔불 여전‥징계 차이 왜? - MBC뉴스
-요약: 국민의힘 태영호 의원과 김재원 최고위원이 당 윤리위원회의 징계를 받았습니다. 태영호 의원은 당원권 정지 3개월, 김재원 최고위원은 1년의 징계를 받았습니다. 이번 결정으로 인해 내년 총선 공천 여부가 결정되었습니다. 윤리위 결정에 대한 비판이 당 안팎에서 나오고 있습니다.
-
-URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0ODI3NzFfMzYxOTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0ODI3NzFfMzYyMDAuaHRtbA?oc=5
-
-제목: "차 없는 데서 잘 지내길"‥스쿨존 사고로 숨진 고 조은결 군 '추모 행렬' - MBC뉴스
-요약: 어제 경기도 수원에서 초등학생이 스쿨존에서 우회전 사고로 숨졌다. 사고 장소에는 우회전 신호등이 있었는데 버스가 신호를 어겼다. 사고를 낸 버스 기사는 어린이보호구역 위험운전치사 혐의로 구속됐다. 사고 현장에는 시민들의 추모글과 조은결 군의 사진 등이 놓여져 있다.
-
-URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0ODI3NjJfMzYxOTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0ODI3NjJfMzYyMDAuaHRtbA?oc=5
-
-제목: 인천공항 인근 야간골프 영업 허용한 서울항공청…감사원 '징계' 요구 - 노컷뉴스
-URL: https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3Lm5vY3V0bmV3cy5jby5rci9uZXdzLzU5NDIxNzXSASpodHRwczovL20ubm9jdXRuZXdzLmNvLmtyL25ld3MvYW1wLzU5NDIxNzU?oc=5
-
-제목: 김해시청 윤하제, 진주아시아역도선수권 용상 금메달 - 경남도민일보
-요약: 김해시청 윤하제가 11일 열린 2023 진주아시아역도선수권대회 여자 87kg급 용상 경기에서 132kg을 들어 올리며 금메달을 차지하였다. 윤하제는 이번 대회에서 인상에서는 실패했지만 용상에서는 130㎏을 들어 올리며 단숨에 합계에서도 상위권으로 도약하였다. 이번 대회 활약으로 아시아 무대에서 경쟁력을 입증한 윤하제는 올해 9월 열리는 항저우 아시안게임에도 기대감을 높이고 있다.
-
-URL: https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3Lmlkb21pbi5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTgyNDczM9IBAA?oc=5
-
-제목: 수원 삼성, 김태륭 전력 분석관 계약 해지… 사설 베팅 사이트에 전력 분석 콘텐츠 논란 - 경인일보
-요약: 공연 티켓 예매에서 매크로 프로그램을 이용한 부정 행위가 만연하고, 이로 인해 티켓 가격이 비정상적으로 높아지는 문제가 발생하고 있다. 이러한 문제를 해결하기 위해 매크로 프로그램을 근절하는 대책이 필요하다.
-
-URL: https://news.google.com/rss/articles/CBMiNGh0dHA6Ly9tLmt5ZW9uZ2luLmNvbS92aWV3LnBocD9rZXk9MjAyMzA1MTEwMTAwMDIxNznSAQA?oc=5
-
-제목: 김남국 의원, 위믹스 보유 직전 '위믹스 대형 호재' 법안 발의 - 한겨레
-요약: 더불어민주당 김남국 의원이 위믹스 코인을 보유하기 직전 위믹스에 호재로 작용할 법안을 발의했던 것으로 드러났다. 김 의원 발의대로 법안이 통과되면 피투이가 합법화되는 물꼬를 틀 수 있다. 피투이 시장에서 기축통화 역할을 하도록 설계된 위믹스에는 호재일 수밖에 없었다. 김 의원이 위믹스를 보유 중이었다는 의혹도 있다.
-
-URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDkxNDIyLmh0bWzSAQA?oc=5
-
-제목: 간헐적 단식, 다낭성난소증후군 치료 효과 규명돼 - 의사신문
-요약: 고려대안암병원 산부인과 교수들이 시간 제한 섭식이라는 식이요법이 다낭난소증후군에 대한 치료 효과가 있다는 것을 최초로 규명했다. 시간 제한 섭식은 간헐적 단식의 한 방식으로서 매일 일정한 시간대에 자유롭게 식이를 허용하고 그 외의 시간에는 단식하는 방법이다. 이 방법은 음식의 종류나 양, 또는 칼로리 섭취에는 제한이 없어서 이로 인한 스트레스가 적다는 장점이 있고, 비만, 당뇨, 대사증후군 등의 만성 질환에 대한 치료 효과가 알려졌다.
-
-URL: https://news.google.com/rss/articles/CBMiPmh0dHA6Ly93d3cuZG9jdG9yc3RpbWVzLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjIyODE40gEA?oc=5
 
 
