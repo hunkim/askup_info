@@ -1,84 +1,87 @@
+제목: 울버햄턴전 선수단 소식 - Man Utd
+요약: 뉴스 내용을 파악할 수 있도록 한두 줄로 요약해드리겠습니다.
+
+URL: https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm1hbnV0ZC5jb20va28vbmV3cy9kZXRhaWwvdGVhbS1uZXdzLXVwZGF0ZS1haGVhZC1vZi1tYW4tdXRkLXYtd29sdmVzLW9uLTEzLW1hedIBXmh0dHBzOi8vd3d3Lm1hbnV0ZC5jb20va28vYW1wL25ld3MvZGV0YWlsL3RlYW0tbmV3cy11cGRhdGUtYWhlYWQtb2YtbWFuLXV0ZC12LXdvbHZlcy1vbi0xMy1tYXk?oc=5
+
+제목: '박찬호 비난' 오재원, 결국 사과…해설 배제·계약 해지 / JTBC 뉴스룸 - JTBC News
+URL: https://news.google.com/rss/articles/CCAiC21tVmZFckplWXNrmAEB?oc=5
+
+제목: 몬테네그로 법원, 권도형 보석 청구 인용…이동 제한 조건 - 경향신문
+요약: 테라·루나 폭락 사태 핵심 인물 권도형(32) 테라폼랩스 대표가 몬테네그로에서 위조 여권을 사용한 혐의로 체포돼 기소된 가운데, 권 대표와 그의 측근 한모 씨의 보석금 40만유로(약 5억8000만원)을 허가하는 결정이 내려졌다. 법원은 최종 재판 결과가 나올 때까지 권 대표와 한 씨가 지정된 아파트를 떠나선 안 된다고 밝혔다.
+
+URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmtoYW4uY28ua3Ivd29ybGQvd29ybGQtZ2VuZXJhbC9hcnRpY2xlLzIwMjMwNTEyMjEyNzAwMdIBAA?oc=5
+
 제목: 묵직한 액션에 비주얼까지 제대로, '더 렐릭' - 인벤
 요약: GPT3 Return Error: 'choices'
 
 URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmludmVuLmNvLmtyL3dlYnppbmUvbmV3cy8_bmV3cz0yODQ2MzPSAQA?oc=5
 
-제목: '무난한 편성' 클린스만 "우리는 끝까지 간다" (2023.05.12/뉴스데스크/MBC) - MBCNEWS
-URL: https://news.google.com/rss/articles/CCAiC1JnWl9HRlRyZHVJmAEB?oc=5
+제목: '지락실2' 이영지 “나영석, '쇼미11' 응원하지만 우승하지 말라고 연락” - 매일경제
+요약: tvN 예능프로그램 '뿅뿅 지구오락식2'에서 멤버들이 한 자리에 모여 편성확정 기념 파티를 하는 모습이 전파되었다. 이영지가 도착하며 "친정이다"고 크게 소리쳐 모두를 놀라게 했다. 이영지는 "영석이 형이 저한테 메시지로 '응원은 하는데 우승은 하지 말아라'고 하더라. 너무 빨리 크면 길을 잃는다고 했다"고 폭로(?)했다. 이은지는 "술 취했어요?"라고 말해 주위의 웃음을 자아냈다.
+
+URL: https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3Lm1rLmNvLmtyL3N0YXIvaG90LWlzc3Vlcy92aWV3LzIwMjMvMDUvMzY2ODA1L9IBAA?oc=5
 
 제목: 한전 사장 사퇴‥25조 원 규모 재무개선 자구안 발표 (2023.05.12/뉴스데스크/MBC) - MBCNEWS
 URL: https://news.google.com/rss/articles/CCAiCzhIWTJxb2tvR0FjmAEB?oc=5
 
+제목: [자막뉴스] 김남국 의혹 당시 장면 일치·일치·일치...이재명도 칼 빼 들었다 / YTN - YTN
+URL: https://news.google.com/rss/articles/CCAiC1J6RVVvWkt2RjI4mAEB?oc=5
+
 제목: 김남국 의원에 대한 탈당, 출당‥의원직 사퇴요구까지 - MBC뉴스
-요약: 민주당은 김남국 의원의 의혹과 관련해 진상조사단을 구성하고, 의원직 사퇴까지도 고려해야 한다는 목소리가 나오고 있다. 김 의원은 가상화폐 발행회사로부터 무상 지급되는 '에어드롭' 방식으로 코인을 받았다는 의혹이 제기되었고, 진상조사단은 초기 투자금은 어디서 나왔는지, 내부 정보를 이용한 것은 아닌지, 시세 띄우기 같은 시장 교란 행위는 없었는지 확인해야 할 의혹이 있다. 당내 핵심 관계자는 "매우 위중한 상황"이라며 "계파나 친소관계는 배제하고 냉정하게 봐야 한다"고 강조했다.
+요약: 민주당은 김남국 의원의 의혹과 관련해 진상조사단을 구성하고, 의원직 사퇴까지도 고려해야 한다는 목소리가 나오고 있다. 김 의원은 가상화폐 발행회사로부터 무상 지급되는 코인을 받았다는 의혹도 제기되었다. 진상조사단은 조사에 시간이 오래 걸릴 것으로 예상되며, 김 의원을 향한 당내 기류는 싸늘해졌다.
 
 URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0ODMxMzJfMzYxOTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0ODMxMzJfMzYyMDAuaHRtbA?oc=5
 
 제목: 오염수 시찰단 파견 전 꼬리 내린 정부…들러리 '견학단' 우려 커져 - 한겨레
-요약: 한국 정부는 후쿠시마 원전 오염수 방류 과정에 대한 안전성을 검토하기 위해 시찰단을 파견할 계획이지만, 일본은 민간 전문가 파견에 부정적이다. 시찰단은 오염수 정화와 방류 시설 전반의 운영 상황을 ‘현장에서 확인’만 하고, 시료를 채취할 계획이 없기 때문에 안전성 검토의 핵심은 불충분하다. 일본은 시찰단 파견을 국가 대 국가의 문제로 보고 있기 때문에 민간 전문가나 시민단체가 포함되는 것도 반대하고 있다.
+요약: 한국 정부는 후쿠시마 원전 오염수 방류 과정의 안전성을 검토하기 위해 시찰단을 파견할 계획이다. 그러나 일본은 민간 전문가나 시민단체가 포함되는 것도 반대하고 있어 논란이 예상된다. 시찰단은 오염수 정화와 방류 시설 전반의 운영 상황을 ‘현장에서 확인’만 하고 오염수 시료 채취와 분석은 하지 않을 예정이다. 이번 시찰이 관련 시설을 눈으로 보고 오는 ‘현장 확인’ 성격이라는 점에서, 시찰단 파견을 둘러싼 ‘들러리 논란’은 더욱 거세질 것으로 보인다.
 
 URL: https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9kaXBsb21hY3kvMTA5MTU5MS5odG1s0gEA?oc=5
 
+제목: 전문가 FAQ: 스피어민트 차의 장점은 무엇입니까? - MSN
+URL: https://news.google.com/rss/articles/CBMi4QFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL2hlYWx0aC9udXRyaXRpb24vJUVDJUEwJTg0JUVCJUFDJUI4JUVBJUIwJTgwLWZhcS0lRUMlOEElQTQlRUQlOTQlQkMlRUMlOTYlQjQlRUIlQUYlQkMlRUQlOEElQjgtJUVDJUIwJUE4JUVDJTlEJTk4LSVFQyU5RSVBNSVFQyVBMCU5MCVFQyU5RCU4MC0lRUIlQUMlQjQlRUMlOTclODclRUMlOUUlODUlRUIlOEIlODglRUElQjklOEMvc3MtQUExYjRUZm7SAQA?oc=5
+
 제목: "잠 설칠 수도"...밤에 피해야 할 영양제들 - 코메디닷컴
-요약: 영양제를 복용할 때, 복용 시간에 따라 효과가 달라질 수 있다. 항산화제인 코엔자임큐텐은 늦은 저녁에 복용하면 잠을 방해할 수 있으며, 비타민 B는 아침이나 낮에 복용하는 것이 좋다. 카페인 함유된 운동 보충제는 저녁에 피하고, 비타민 D는 칼슘과 함께 식사 후에 복용하는 것이 좋다. 또한, 잠자기 전에 먹으면 속쓰림을 유발할 수 있는 오메가3은 아침이나 점심식사 때 함께 복용하는 것이 좋다.
+요약: 영양제를 복용할 때, 시간에 따라 효능이 달라질 수 있다. 항산화제인 코엔자임큐텐은 늦은 저녁에 복용하면 잠을 방해할 수 있으며, 비타민 B는 아침이나 낮에 복용하는 것이 좋다. 카페인 함유된 운동 보충제는 저녁에 피하고, 비타민 D는 칼슘과 함께 식사 후에 복용하는 것이 좋다. 또한, 생선 오일이 들어있는 오메가3는 잠자기 전에 먹으면 소화불량이나 속쓰림과 같은 위산 역류 증상이 나타날 수 있으므로, 건강한 지방이 들어있는 아침이나 점심식사 때 함께 복용하는 것이 좋다.
 
 URL: https://news.google.com/rss/articles/CBMiqgFodHRwczovL2tvcm1lZGkuY29tLzE1ODk3MDEvJUVDJTlFJUEwLSVFQyU4NCVBNCVFQyVCOSVBMC0lRUMlODglOTglRUIlOEYlODQtJUVCJUIwJUE0JUVDJTk3JTkwLSVFRCU5NCVCQyVFRCU5NSVCNCVFQyU5NSVCQy0lRUQlOTUlQTAtJUVDJTk4JTgxJUVDJTk2JTkxJUVDJUEwJTlDJUVCJTkzJUE0L9IBAA?oc=5
 
+제목: '60억 코인' 김남국, 변호사 시절 평균 소득은 '7천만원' 안팎 - 머니투데이
+요약: 김남국 더불어민주당 의원이 가상자산 보유 논란에 휩싸이면서, 김 의원이 국회 입성 전 변호사 시절 5년 동안 평균 7000만원 안팎을 벌었을 것으로 추산됐다. 이에 따라 김 의원이 2015년부터 2019년까지 5년 간 낸 누적 납세액은 3344만9000원이었으며, 이를 평균으로 단순 계산하면 668만9800원이다. 이를 토대로 김 의원이 당시 근로소득만 있었다고 가정하고 평균 세전 연봉을 추정하면 7450만원 안팎이란 계산이 나온다. 김 의원은 이에 대해 "하늘에서 떨어진 돈, 굴러 들어오는 돈도 하나 없다"며 의혹을 일축했다.
+
+URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwNTEyMTczNTMyNTc3NzbSAQA?oc=5
+
 제목: 안영미 측, 美 원정출산 의혹 악플에 '법적 대응 검토 중'[공식] - 한국아이닷컴
-요약: 개그우먼 안영미가 미국에서 출산을 위해 방송 활동을 잠시 중단한 것에 대해 원정출산 의혹이 제기되자, 안영미 측은 이를 부인하고 법적 대응을 예고했다. 소속사는 안영미 부부가 출산을 위해 오랜 기간 준비하고, 가족이 함께할 수 있는 최선의 선택을 한 것이라고 설명하며, 악성 댓글과 허위사실 유포에 대해 강력한 법적 대응을 검토 중이라고 밝혔다.
+요약: 개그우먼 안영미가 미국에서 출산을 위해 방송 활동을 잠시 중단한 것에 대해 원정출산 의혹이 제기되자, 안영미 측은 이를 부인하고 법적 대응을 예고했다. 소속사는 안영미 부부가 출산을 위해 오랜 기간 논의하고 준비한 것이며, 안영미가 방송 활동을 중단하는 것이 가족이 함께할 수 있는 최선의 선택이라고 설명했다. 이에 대한 악성 댓글과 허위사실 유포에 대해 소속사는 강력한 법적 대응을 검토 중이라고 밝혔다.
 
 URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NzczMDXSAT1odHRwczovL3d3dy5oYW5rb29raS5jb20vbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTc3MzA1?oc=5
 
-제목: '박찬호 저격 발언→비난 여론에 사과' 오재원, 한화-SSG전 해설위원 교체 - 머니투데이
-요약: SPOTV 해설위원인 오재원이 박찬호에 대한 발언으로 논란이 일어나면서 인천 한화-SSG 중계 해설에서 빠졌다. 이에 대해 오재원은 SNS를 통해 해명을 하였다.
-
-URL: https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwNTEyMTgxNjc3MDkyME8mcERlcHRoMT1zcG9ydHMmcERlcHRoMj1TdG90YWwmcGFnZT0x0gEA?oc=5
-
 제목: S&P지수, "기술적 지표상 내년초 '사상 최고' 4900 전망" - 오피니언뉴스
-요약: 미국 경제 침체 가능성에 대한 우려가 있지만, BofA의 전략가는 S&P500지수가 내년 3월까지 4900에 이를 것으로 전망하고 있다. 기술적 신호를 바탕으로 한 이 전망은 '주간 글로벌 상승종목-하락종목 지수'의 상방 움직임과 '시장폭 돌파' 지표 등을 고려한 것이다. 그러나 미 연방정부의 채무불이행 가능성과 인플레이션 문제 등 악재도 존재한다.
+요약: 미국 경제 침체 가능성에 대한 우려가 있지만, BofA의 전략가는 S&P500지수가 내년 3월까지 4900에 이를 것으로 전망하고 있다. 기술적 신호를 바탕으로 한 이 전망은 '주간 글로벌 상승종목-하락종목 지수' 등의 지표를 기반으로 한 것이다. 그러나 미 연방정부의 채무불이행 가능성과 인플레이션 문제 등 악재도 존재한다.
 
 URL: https://news.google.com/rss/articles/CBMiPmh0dHA6Ly93d3cub3Bpbmlvbm5ld3MuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTg0MDc00gEA?oc=5
 
-제목: 국토부 국장 “건설 불법 하도급 신고해라”…노동자 “신고해도 안 와” - 한겨레
-요약: 건설현장에서 불법 하도급이 계속되고 있어 건설 노동자들은 이에 대한 실질적인 단속을 요구하고 있다. 하지만 국토부는 불법 하도급 적발이 어렵다는 입장이다. 이에 대해 건설현장 노동자 처우 개선을 위해 노조할 권리를 확보하고 적정임금제를 도입하는 등의 대책이 필요하다는 의견이 제시되었다.
+제목: 신정환 "도박 전으로 돌아가고 싶어"… 도박 중독 해결법은? - 헬스조선
+요약: 방송인 신정환이 도박 중독을 고백하면서, 도박은 중독성이 강한 질환으로 알려져 있어 치료가 어렵다는 것을 알렸다. 도박에 빠지는 이유는 승리에서 오는 쾌감 때문이며, 도박을 할 때 행복감과 쾌감을 느끼게 하는 도파민이 과다하게 분비되어 중독될 수 있다. 도박 중독 진단기준은 4개 이상 해당될 경우 정신건강의학과를 방문할 것을 권하고, 치료에는 약물치료, 인지행동치료 등이 사용된다. 중요한 것은 환자 스스로 자신이 도박중독자임을 인정하고 적극적으로 치료에 임하는 것이다.
 
-URL: https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L2xhYm9yLzEwOTE1NzYuaHRtbNIBAA?oc=5
-
-제목: [자막뉴스] 한국어를 자유자재로 ...구글이 꺼낸 '비장의 카드' / YTN - YTN
-URL: https://news.google.com/rss/articles/CCAiC211TXN3T0hTREFrmAEB?oc=5
-
-제목: 이탈리아, 일대일로 이탈?...일대일로로 번진 미중 패권 경쟁 - YTN
-요약: 중국의 일대일로 프로젝트가 중국과 미국의 패권경쟁에 영향을 받고 있으며, 이탈리아가 이탈 움직임을 보이고 있어 중국에 상당한 타격이 예상됩니다. 중국은 이탈리아의 탈퇴를 반대하고 있으며, 이탈리아의 이 같은 움직임은 반도체 공급망의 안전한 확보 때문인 것으로 해석되고 있습니다.
-
-URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lnl0bi5jby5rci9fbG4vMDEwNF8yMDIzMDUxMjE2NTQwNTYwNTjSAUNodHRwczovL20ueXRuLmNvLmtyL25ld3Nfdmlldy5hbXAucGhwP3BhcmFtPTAxMDRfMjAyMzA1MTIxNjU0MDU2MDU4?oc=5
+URL: https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vbS5oZWFsdGguY2hvc3VuLmNvbS9zdmMvbmV3c192aWV3Lmh0bWw_Y29udGlkPTIwMjMwNTEyMDIwNDnSAQA?oc=5
 
 제목: EDAM엔터테인먼트, 아이유 표절 의혹에 “일부 세력이 아티스트를 흠집 내기 위해 고발” - KBS WORLD Radio News
-요약: 아이유의 소속사인 EDAM엔터테인먼트가 표절 의혹에 대한 공식 입장을 밝혔다. 소속사는 표절 의혹을 제기한 고발인이 작곡가들을 상대로 표절 의혹을 제기하는 것이 아니라 오로지 아이유만을 상대로 하고 있다며, 이는 아티스트의 이미지에 흠집을 내기 위한 것이라고 밝혔다. 또한, 명백히 잘못된 고발에 대해 수사기관이 신속하고 현명한 판단을 내릴 것이라고 믿으며, 무분별한 고발을 한 고발인 등에 대해서도 응분의 책임을 물을 것이라고 경고했다.
+요약: 아이유의 소속사인 EDAM엔터테인먼트가 아이유에 대한 표절 의혹 고발에 대해 공식 입장을 밝혔다. 소속사는 저작권 전문 법무법인을 선임하여 고발 내용을 확인한 결과, 고발인은 작곡가들을 상대로 표절 의혹을 제기하고 있는 것이 아니라 오로지 아이유만을 상대로 하고 있다는 것을 밝혔다. 또한, 작곡가들 중 일부가 표절이 아니라고 주장하는 상황에서도 저작권과는 무관한 제3자가 무리하게 가창자인 아이유만을 고발한 것은 오로지 아티스트의 이미지에 흠집 내기 위한 것이라고 전했다. EDAM엔터테인먼트는 이러한 고발에 대해 수사기관이 신속하고 
 
 URL: https://news.google.com/rss/articles/CBMiV2h0dHA6Ly93b3JsZC5rYnMuY28ua3Ivc2VydmljZS9jb250ZW50c192aWV3Lmh0bT9sYW5nPWsmbWVudV9jYXRlPSZpZD0mYm9hcmRfc2VxPTQzODYzONIBAA?oc=5
 
-제목: 6월부터 축소되는 비대면진료…업계 "초진부터 허용 필요" - 뉴스핌
-요약: 정부가 윤석열 대통령 공약인 수도권광역급행철도(GTX) 연장·신설 사업을 위해 제5차 국가철도망 구축계획 수 연구용역을 시작한다. 이번 5차 철도망 계획은 1~4차 철도망 구축계획의 주기(5년) 대비 1년 이상 일정을 앞당긴 것이다. GTX 연장·신설 사업의 예비타당성조사(예타)를 임기 내 마무리하기 위해서다. 구체적인 노선 확정을 위해 진행 중인 'GTX 확충 통합기획' 연구용역이 내달 종료되면 5차망에 이를 반영한 뒤 2026년까지 예타를 마무리한다는 목표다.
+제목: 홍준표·하태경 설전…“권력 꽁무니 쫓는 하이에나” vs “재명수호나 그만” - 서울신문
+요약: 홍준표 대구시장과 하태경 국민의힘 의원이 강한 비판전을 벌였다. 홍 시장은 하 의원을 염두에 둔 발언을 하며 “자신의 이익만 좇아 불나방처럼 권력 꽁무니만 따라다니는 하이에나 패거리 정치”라고 비판했다. 하 의원은 최근 홍 시장이 이재명 더불어민주당 대표와의 면담에서 당을 비판한 점을 거론하며 “‘재명수호’를 하고 있다”고 맞받았다.
 
-URL: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lm5ld3NwaW0uY29tL25ld3Mvdmlldy8yMDIzMDUxMjAwMDc4NNIBMWh0dHBzOi8vbS5uZXdzcGltLmNvbS9uZXdzYW1wL3ZpZXcvMjAyMzA1MTIwMDA3ODQ?oc=5
-
-제목: 여름맞이 브라질리언 왁싱, 피부 건강엔 괜찮을까? - 헬스조선
-요약: 여름철 제모를 위해 브라질리언 왁싱을 선택하는 사람들이 많아지고 있지만, 전문가들은 건강 측면에서 부작용에 주의해야 한다고 경고하고 있다. 왁싱으로 인해 피부 열상, 찰과상, 가려움 등 피부 질환이 생길 수 있으며, 모낭 색소침착이 생길 위험도도 있다. 따라서 의사가 시술하는 레이저 제모를 받는 것이 더 안전하며, 제모 후에는 피부를 충분히 보습하는 것이 좋다.
-
-URL: https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vbS5oZWFsdGguY2hvc3VuLmNvbS9zdmMvbmV3c192aWV3Lmh0bWw_Y29udGlkPTIwMjMwNTEyMDE4NjjSAQA?oc=5
-
-제목: 에이수스, 휴대용 게임기 'ROG 앨라이' 출시 예정 - 디지털투데이
-요약: 에이수스(ASUS)가 휴대용 게이밍 PC 'ROG 앨라이'(ROG Ally)를 출시할 예정이다. ROG 앨라이는 최대 512GB의 PCIe Gen 4 SSD를 장착하고, 6월 13일(현지시간)부터 미국에서 699달러(약 92만원)에 판매될 예정이다. 그러나 더버지는 ROG 앨라이의 배터리 수명 및 휴대성 면에서 문제가 있었다는 평가를 내리며, 일부 소프트웨어 버그가 수정될 때까지 기다릴 것을 권장했다.
-
-URL: https://news.google.com/rss/articles/CBMiQGh0dHA6Ly93d3cuZGlnaXRhbHRvZGF5LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz00NzYzMDXSAUNodHRwOi8vd3d3LmRpZ2l0YWx0b2RheS5jby5rci9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89NDc2MzA1?oc=5
+URL: https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnNlb3VsLmNvLmtyL25ld3MvbmV3c1ZpZXcucGhwP2lkPTIwMjMwNTEyNTAwMTQ40gEsaHR0cHM6Ly9hbXAuc2VvdWwuY28ua3Ivc2VvdWwvMjAyMzA1MTI1MDAxNDg?oc=5
 
 제목: 김민재 EPL 성공 모든 조건 갖췄다, 맨유 영입에 사활... 나폴리도 대체자 물색 - 매거진 ize
-요약: 맨체스터 유나이티드가 한국 대표팀 수비수 김민재(27)를 영입하려는 것으로 알려졌다. 김민재는 이탈리아 세리에A 나폴리에서 활약하며 유럽 최고 센터백으로 평가받고 있다. 맨유는 김민재의 바이아웃 금액 6000만 유로(약 870억 원)를 지불할 준비가 돼 있다고 밝혔다. 이외에도 리버풀, 레알 마드리드, 파리 생제르맹 등이 김민재를 노리고 있다.
+요약: 맨체스터 유나이티드가 이탈리아 센터백 김민재(27)를 영입하려는 것으로 알려졌다. 맨유는 김민재의 바이아웃 금액 6000만 유로(약 870억 원)를 지불할 준비가 돼 있다. 김민재는 나폴리에서 월드클래스 실력을 보여주며 많은 관심을 끌었다. 맨유는 수비 불안을 해소해줄 적임자로 김민재를 보고 있다. 이외에도 리버풀, 레알 마드리드, 파리 생제르맹과 연결되고 있어 맨유는 유럽챔피언스리그 진출 티켓을 따내는 것이 중요하다.
 
 URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3Lml6ZS5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NTY2ODTSATpodHRwczovL3d3dy5pemUuY28ua3IvbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTU2Njg0?oc=5
 
 제목: '역대 최고' 젤다의 전설: 왕국의 눈물, 출시와 동시에 호평 일색 - 게임인사이트
-요약: 닌텐도가 출시한 게임 '젤다의 전설: 왕국의 눈물'이 긍정적인 평가를 받고 있다. 이 게임은 젤다의 전설: 야생의 숨결의 후속작으로, 재건 작업을 시작한 지역과 탐험 지역을 확장하며 유저의 창의성과 모험을 강조한다. 출시 전 공개된 메타크리틱 점수는 96점으로 올해 최고 평점게임으로 등극했으며, 평론가 추천도는 100%로 슈퍼마리오: 오디세이와 동일한 역대 최고 평점을 기록했다.
+요약: 닌텐도가 출시한 '젤다의 전설: 왕국의 눈물'이 긍정적인 평가를 받고 있다. 이번 신작은 젤다의 전설: 야생의 숨결의 후속작으로, 유저의 창의성과 모험을 강조하는 게임이다. 출시 전 공개된 메타크리틱 점수는 96점으로 올해 최고 평점게임으로 등극했으며, 평론가 추천도는 100%로 역대 최고 평점을 기록했다. 닌텐도는 이번 출시를 기념해 특별 브랜드 페이지를 오픈하고 개발자들의 인터뷰를 공개했다.
 
 URL: https://news.google.com/rss/articles/CBMiPGh0dHA6Ly9tLmdhbWVpbnNpZ2h0LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0yNTkyMtIBAA?oc=5
 
@@ -86,10 +89,5 @@ URL: https://news.google.com/rss/articles/CBMiPGh0dHA6Ly9tLmdhbWVpbnNpZ2h0LmNvLm
 요약: 이스라엘과 이슬라믹 지하드의 충돌이 격화되고 있으며, 이집트의 중재로 진행되던 휴전 협상도 중단됐다. 이스라엘군은 최첨단 무기와 정보력을 동원해 이슬라믹 지하드를 강하게 압박하며 공격을 계속하겠다는 뜻을 분명히 밝혔다. 이슬라믹 지하드는 가자지구를 통치하고 있는 팔레스타인 무장정파 하마스에 이어 두 번째로 규모가 큰 반이스라엘 단체다.
 
 URL: https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmtoYW4uY28ua3Ivd29ybGQvbWlkZWFzdC1hZnJpY2EvYXJ0aWNsZS8yMDIzMDUxMjE0MzUwMDHSAQA?oc=5
-
-제목: 하태경 "P2E 입법로비 있었다...김남국, 코인 회사 종노릇 하던 셈" - 뉴스핌
-요약: 정부는 윤석열 대통령 공약인 수도권광역급행철도(GTX) 연장·신설 사업을 위해 제5차 국가철도망 구축계획 수 연구용역을 시작할 예정이다. 이번 5차 철도망 계획은 1~4차 철도망 구축계획의 주기(5년) 대비 1년 이상 일정을 앞당긴 것이며, GTX 연장·신설 사업의 예비타당성조사(예타)를 임기 내 마무리하기 위한 것이다. 구체적인 노선 확정을 위해 진행 중인 'GTX 확충 통합기획' 연구용역이 내달 종료되면 5차망에 이를 반영한 뒤 2026년까지 예타를 마무리할 계획이다.
-
-URL: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lm5ld3NwaW0uY29tL25ld3Mvdmlldy8yMDIzMDUxMjAwMDU2NdIBMWh0dHBzOi8vbS5uZXdzcGltLmNvbS9uZXdzYW1wL3ZpZXcvMjAyMzA1MTIwMDA1NjU?oc=5
 
 
