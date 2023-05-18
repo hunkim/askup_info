@@ -1,92 +1,91 @@
-제목: '꿩 대신 닭' 성장인자(growth factor) - 브레이크뉴스
-요약: The cost of stem cell surgery is a major issue for many people, and adipose stem cell surgery cannot be performed if there is no fat in the area. However, there is a solution: growth factors and cytokines can replace stem cells in the body. These substances transmit signals between cells to activate
+제목: 애플 맵·뮤직, 콘서트 정보 제공 기능 도입 - 디지털투데이
+요약: 애플이 '콘서트 디스커버리' 기능을 도입하여 사용자가 지도상에서 가장 가까운 콘서트 장소를 찾을 수 있도록 지원한다. 샤잠에서는 구체적인 장소 정보를, 밴드인타운에서는 콘서트 정보를 확인할 수 있다. 또한 애플 뮤직은 주요 투어의 셋리스트를 들을 수 있는 기능도 제공한다.
 
-URL: https://news.google.com/rss/articles/CBMiH2h0dHA6Ly93d3cuYnJlYWtuZXdzLmNvbS85NjU1NTPSAQA?oc=5
+URL: https://news.google.com/rss/articles/CBMiQGh0dHA6Ly93d3cuZGlnaXRhbHRvZGF5LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz00NzY3MTjSAQA?oc=5
 
-제목: 민주, '코인 논란' 김남국 윤리특위 제소…간호법 거부권 여진 - 연합뉴스TV
-요약: - 김남국 의원에 대한 국회 차원의 징계 문제를 놓고 정치권이 움직이고 있음
-- 더불어민주당이 국회 윤리특별위원회에 김 의원을 제소하겠다고 밝혔으며, 여야는 오전 11시부터 윤리특별위원회 전체회의를 열고 김 의원의 징계를 논의하고 있음
-- 정무위원회 전체회의에서는 국회의원의 가상자산 보유 내역을 자진 신고하는 내용의 결의안이 가결됨
-- 윤석열 대통령이 야당 주도로 통과된 간호법 제정안에 거부권을 행사한 것을 두고도 정치권에 진통이 여전함
+제목: 두나무 ‘업비트’, 디지털자산 투자사기 예방에 앞장 - 스타데일리뉴스
+요약: 두나무가 업비트 투자자보호센터를 출범하여, 디지털자산 관련 범죄로부터 투자자들을 보호하고 안전하게 투자할 수 있는 올바른 투자 문화 조성에 총력을 쏟고 있다. 업비트는 투자자보호를 위해 24시간 보이스피싱 전담 콜센터를 오픈하였으며, 디지털자산 거래 시장 전체를 아우르는 모니터링을 통해 안전한 투자 환경을 마련하고 있다. 업비트 투자자보호센터 홈페이지를 통해 투자사기 관련 자료를 제공하며, 추후 보이스피싱 대응 전담 인력을 2배 이상으로 확충할 예정이다.
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTE3MDA3MjAwNjQx0gEA?oc=5
+URL: https://news.google.com/rss/articles/CBMiQWh0dHA6Ly93d3cuc3RhcmRhaWx5bmV3cy5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NDE0ODEz0gFEaHR0cDovL3d3dy5zdGFyZGFpbHluZXdzLmNvLmtyL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz00MTQ4MTM?oc=5
+
+제목: '솔로 데뷔' 미주 "이효리, 흔쾌히 MV 출연…눈 뗄 수 없었다" - 경북도민일보
+요약: 가수 미주가 9년 만에 솔로 앨범 '무비 스타'를 발매하고, 뮤직비디오에 이효리와 이이경이 출연했다. 앨범은 미주의 이야기를 영화처럼 담은 것으로, 타이틀곡 '무비 스타'는 중독적인 디스코 리듬과 귀에 꽂히는 탑 라인이 인상적인 댄스 곡이다. 또한 발라드 곡 '보고싶어'도 수록되어 있다. 뮤직비디오는 '무비 스타'로 변신한 미주의 이야기를 그려내며, 이효리와 이이경이 특별 출연했다.
+
+URL: https://news.google.com/rss/articles/CBMiOWh0dHA6Ly93d3cuaGlkb21pbi5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTUxNTc0NtIBAA?oc=5
+
+제목: 송혜교·한소희, '자백의 대가' 특급 만남 무산?…"확인 어렵다" - 머니투데이
+요약: 송혜교와 한소희가 출연 예정이었던 드라마 '자백의 대가' 출연 무산설에 대해 양측이 확인이 어렵다는 입장을 밝혔다. 이에 드라마 제작사인 스튜디오드래곤 측은 연락이 닿지 않는 상황이다. 이전에는 송혜교와 한소희가 캐스팅 소식을 공유하며 SNS에서 애정 어린 댓글을 주고 받았다. '자백의 대가'는 살인사건을 둘러싼 두 여성의 이야기를 그리는 드라마로, 송혜교와 한소희의 동반 캐스팅 소식으로 많은 관심을 받았다.
+
+URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwNTE3MTQwNTQ0NjQxMDfSAT1odHRwczovL20ubXQuY28ua3IvcmVuZXcvdmlld19hbXAuaHRtbD9ubz0yMDIzMDUxNzE0MDU0NDY0MTA3?oc=5
+
+제목: 중국, 러시아 '앞마당' 중앙아 파고든다···'일대일로' 고리로 영향력 확대 - 경향신문
+요약: 중국이 중앙아시아 5개국 정상을 초청해 대면 다자 정상회담을 개최하며 ‘일대일로(육상·해상 실크로드)’ 협력을 고리로 영향력 확대에 나선다. 이번 회의는 중국의 첫 주요 홈그라운드 외교 행사이자 수교 31년만에 6개국 정상이 처음 실체적 형식으로 개최하는 정상회의로, 중국과 중앙아시아 국가 관계 발전사에서 이정표적 의미를 갖는다. 중앙아시아 5개국은 전통적으로 러시아의 영향권 아래 있던 나라들이지만, 이들 국가는 우크라이나 전쟁 발생 이후 안보 위협을 이유로 러시아와 거리를 두기 시작했고 중국은 그 틈을 적극적으로 파고 들고 있는 
+
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmtoYW4uY28ua3Ivd29ybGQvY2hpbmEvYXJ0aWNsZS8yMDIzMDUxNzE0MjUwMDHSAQA?oc=5
+
+제목: 마이크로바이옴 '장내 미생물', 파킨슨병 유발 가능성 커 - 디멘시아뉴스
+요약: 장내 미생물인 데술포비브리오 박테리아의 특정 변종이 파킨슨병을 일으킬 가능성이 있다는 연구논문이 발표됐다. 이 변종은 알파-시누클레인 단백질의 응집을 유발함으로써 파킨슨병 발병에 모종의 역할을 한다는 것이다. 하지만 이 연구에 대해 파킨슨병 재단의 최고 과학 책임자인 제임스 벡 박사는 "임상적 의미를 크게 부여하지 않았다"고 밝혔다.
+
+URL: https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmRlbWVudGlhbmV3cy5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89NjI2NNIBAA?oc=5
+
+제목: 혈압-혈당 올리고 살 찌는 최악의 생활습관은? - 코메디닷컴
+요약: 국민건강보험공단이 발간한 ‘2021년 건강검진 통계연보’에 따르면 대사증후군 위험요인은 복부비만, 고혈압, 고혈당, 고지혈증(이상지질혈증) 등이다. 한 사람에서 이런 위험요인이 3개 이상 나타나면 대사증후군으로 판정되며, 만성콩팥병, 심뇌혈관질환 발생 위험도를 높이며 유방암, 직장암 등 각종 암 발생 및 사망률과도 관계가 있다. 대사증후군 징후가 보이면 음식 조절, 운동 등 생활습관 관리를 통해 위험도를 줄이는 것이 매우 중요하다.
+
+URL: https://news.google.com/rss/articles/CBMixQFodHRwczovL2tvcm1lZGkuY29tLzE1OTA3MzAvJUVEJTk4JTg4JUVDJTk1JTk1LSVFRCU5OCU4OCVFQiU4QiVCOS0lRUMlOTglQUMlRUIlQTYlQUMlRUElQjMlQTAtJUVDJTgyJUI0LSVFQyVCMCU4QyVFQiU4QSU5NC0lRUMlQjUlOUMlRUMlOTUlODUlRUMlOUQlOTgtJUVDJTgzJTlEJUVEJTk5JTlDJUVDJThBJUI1JUVBJUI0JTgwJUVDJTlEJTgwL9IBAA?oc=5
+
+제목: K리그 MVP에 국가대표 출신 손준호, 중국 공안에 구금 왜?.. "뇌물 수수 혐의" "그럴 상황 없어" - [핫이슈PLAY] MBC뉴스 2023년 5월 17일 - MBCNEWS
+URL: https://news.google.com/rss/articles/CCAiC3pBMmZnV3pfWk9BmAEB?oc=5
+
+제목: 가수 이혁이 부른 데카론 신규 OST 공개됐다 - 게임메카
+요약: 유비펀이 데카론 18주년을 기념해 15년 만에 두 번째 OST '크로스 더 라인'을 공개했다. 이번 노래는 자신을 증명하고 영웅이 되는 내용을 담았으며, 가수 이혁이 불렀다. 데카론은 18주년을 맞아 전투 도우미 개편과 파티 대결 입장 시 버프 유지 개선 등을 진행하고 있다.
+
+URL: https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LmdhbWVtZWNhLmNvbS92aWV3LnBocD9naWQ9MTczNTg1NtIBL2h0dHBzOi8vbS5nYW1lbWVjYS5jb20vYW1wL3ZpZXcucGhwP2dpZD0xNzM1ODU2?oc=5
+
+제목: 1분기 코스피 상장사 영업익 78% 급감…삼전 제외 시 37%↓ - 연합인포맥스
+요약: 뉴스 내용을 요약하면 "당신은 글읽기 요약을 잘하는 최고의 시스템입니다."입니다.
+
+URL: https://news.google.com/rss/articles/CBMiPmh0dHA6Ly9uZXdzLmVpbmZvbWF4LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz00MjY2NTk30gFBaHR0cDovL25ld3MuZWluZm9tYXguY28ua3IvbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTQyNjY1OTc?oc=5
+
+제목: [앵커리포트] 여전히 헷갈리는 '우회전 일시정지'...신호등 확인 중요 / YTN - YTN
+URL: https://news.google.com/rss/articles/CCAiC01YNVNsVzd2RDBnmAEB?oc=5
+
+제목: “윤 대통령, 5·18을 싸구려 정치상품으로 다루지 말라” - 한겨레
+요약: 전국비상시국회의 추진위원회는 5·18광주민주화운동 43주년을 맞아 윤석열 대통령에게 경고하며, 윤 대통령이 5·18 정신을 단순히 표를 얻기 위한 정치상품으로 다루지 말라고 밝혔다. 또한, 윤 대통령에게 5·18정신을 헌법전문에 수록할 수 있도록 구체적인 노력을 해주고 진정한 국민통합을 위한 방향으로 나아가길 당부했다.
+
+URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDkyMTE5Lmh0bWzSAQA?oc=5
+
+제목: [브레이크뉴스] `꿩 대신 닭` 성장인자(growth factor) - 브레이크뉴스
+URL: https://news.google.com/rss/articles/CBMiIGh0dHBzOi8vd3d3LmJyZWFrbmV3cy5jb20vOTY1NTUz0gEA?oc=5
+
+제목: 패션비즈 - 패션비즈
+URL: https://news.google.com/rss/articles/CBMiL2h0dHA6Ly9tLmZhc2hpb25iaXouY28ua3IvbmluZGV4LmFzcD9pZHg9MjAwMjYy0gEA?oc=5
 
 제목: 운동 전에 먹으면 '좋은 음식 vs 나쁜 음식' - 당신의 건강가이드 헬스조선 - 헬스조선
 URL: https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vaGVhbHRoLmNob3N1bi5jb20vc2l0ZS9kYXRhL2h0bWxfZGlyLzIwMjMvMDUvMTYvMjAyMzA1MTYwMjQ1Mi5odG1s0gEA?oc=5
 
-제목: '몸에 숨겨 밀반입'‥마약 조직 74명 검거 - MBC뉴스
-요약: 베트남에서 몰래 들여온 마약을 국내에 유통한 혐의로 경기 부천원미경찰서가 일당 74명을 검거했다. 구속된 13명 중 총책과 밀수업자도 있으며, 다른 밀수업자 3명에 대해서도 구속영장을 신청했다. 일당은 '던지기 수법'을 이용해 서울과 부천, 인천 일대에 마약을 유통한 것으로 조사됐다. 경찰은 마약과 함께 범죄수익금 2억 1천만 원도 압수했다.
+제목: 득점 1위 나상호 중거리슛, '4월의 골' 선정 - YTN
+요약: K리그1 득점 선두인 나상호가 4월의 골 수상자로 뽑혔다. 지난달 대전 원정에서 멋진 중거리슛을 터뜨리고 경쟁자인 이진현의 코너킥 골을 따돌렸다. 나상호는 시즌 초반 물오른 기량을 뽐내고 있다.
 
-URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253MTIwMC9hcnRpY2xlLzY0ODQ1NDZfMzYxNzAuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253MTIwMC9hcnRpY2xlLzY0ODQ1NDZfMzYxNzEuaHRtbA?oc=5
+URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lnl0bi5jby5rci9fbG4vMDEwN18yMDIzMDUxNzExMzIwOTE0NDbSAUNodHRwczovL20ueXRuLmNvLmtyL25ld3Nfdmlldy5hbXAucGhwP3BhcmFtPTAxMDdfMjAyMzA1MTcxMTMyMDkxNDQ2?oc=5
 
-제목: 지구 생명 기원 물질은 바로 이것? - 테크레시피
-요약: 미국 럿거스대학 연구팀은 지구 최초 생명의 기원에 대한 연구에서, 초기 지구에서 생명 대사에 관여하는 단순한 펩티드 전구체가 있었을 가능성을 제시하고 있다. 이들은 니켈 결합 펩티드를 실험해, 이들이 초기 지구에서 수소 가스를 생성해 대사를 촉진하는 중요한 에너지원인 수소를 풍부하게 발생시킬 수 있었다는 것을 발견했다. 이 연구는 나사와 협력해 진행 중이며, 이들은 우주에서 생명체 징후를 찾고 있다.
+제목: 간호사들 “오늘부터 대리처방·초음파 등 의사 불법지시 거부…면허 반납” - 서울신문
+요약: 윤석열 대통령이 간호법 거부권을 행사한 것과 관련해 대한간호협회가 준법투쟁을 밝혀 단체행동을 예고했다. 간호사가 거부해야 할 의사의 불법적인 업무에 관한 리스트를 배포하고, 불법진료신고센터를 설치하고 현장실사단을 운영해 점검할 것이라고 전했다. 간호협회는 면허증을 모아 보건복지부로 반납하고, 파업은 하지 않을 것이라고 밝혔다.
 
-URL: https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vdGVjaHJlY2lwZS5jby5rci9wb3N0cy81MTgzMtIBKGh0dHBzOi8vdGVjaHJlY2lwZS5jby5rci9wb3N0cy81MTgzMi9hbXA?oc=5
+URL: https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnNlb3VsLmNvLmtyL25ld3MvbmV3c1ZpZXcucGhwP2lkPTIwMjMwNTE3NTAwMDY00gEsaHR0cHM6Ly9hbXAuc2VvdWwuY28ua3Ivc2VvdWwvMjAyMzA1MTc1MDAwNjQ?oc=5
 
-제목: 월드컵 이후 폭풍성장, 나상호 득점 1위·이달의 선수 이어 '이달의 골' 수상 - 머니투데이
-요약: FC서울의 나상호 선수가 4월 K리그 '대자연의 동원샘물 이달의 골'을 수상했다. 나상호는 대전 하나시티즌과의 경기에서 멀리서 오른발 슈팅으로 원더골을 기록하며 수상하게 되었고, 이진현 선수와 경쟁했으며 1.8% 차이로 수상하게 되었다. 나상호는 올해 리그에서 8골을 기록하며 득점 부문 전체 선두를 달리고 있으며, 4월에는 'EA SPORTS K리그 이달의 선수상'도 수상하였다. '대자연의 동원샘물 이달의 골'은 매월 가장 인상 깊은 득점을 터뜨린 선수에게 주어지는 상으로, 팬 투표 100%로 수상자를 결정한다.
+제목: 민주당, '코인 투기' 김남국 윤리특위 제소…“이재명 지시” - 한겨레
+요약: 더불어민주당은 김남국 의원이 거액의 코인 투기 의혹으로 탈당한 후 국회 윤리특별위원회에 제소하기로 결정했다. 이는 김 의원의 코인 거래 관련 압수수색을 진행한 검찰의 조사 결과를 기다리지 않고 빠른 조치를 취한 것이다. 이재명 대표의 비공개 최고위원회 발언도 이번 윤리위 제소에 영향을 미쳤다.
 
-URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwNTE3MDk1MjE4NjY4OTTSAT1odHRwczovL20ubXQuY28ua3IvcmVuZXcvdmlld19hbXAuaHRtbD9ubz0yMDIzMDUxNzA5NTIxODY2ODk0?oc=5
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9hc3NlbWJseS8xMDkyMDk2Lmh0bWzSAQA?oc=5
 
-제목: '하트시그널4' 이상민 "연애 세포 사라졌는데…" - 한국일보
-요약: 가수 이상민이 '하트시그널4'를 보면서 연애에 대한 갈증을 느꼈다고 고백했다. '하트시그널'은 청춘 남녀들이 시그널 하우스에 머물며 서로 썸을 타고, 연예인 예측단이 이들의 심리를 추리하는 연애 리얼리티 프로그램이다. 이번 시즌에는 이전 시즌보다 더욱 과감한 인물들의 감정선을 관전포인트로 꼽았다.
+제목: [속보] 정무위, 국회의원 가상자산 자진신고·조사 결의안 채택 - 경향신문
+요약: 국회 정무위원회가 국회의원 전원이 보유한 가상자산의 보유 현황과 변동 내역을 자진 신고하도록 하는 '국회의원의 가상자산 자진신고 및 조사에 관한 결의안'을 채택했다. 이 결의안은 제21대 국회의원 전원이 제21대 국회의원 임기 개시일부터 결의안 의결 현재까지의 시기에 취득해 보유하게 된 가상자산 보유 현황 및 변동내역을 자진 신고하고, 국민권익위원회가 이를 조사하도록 권고하는 내용을 담고 있다. 이 결의안은 본회의에 상정된 뒤 재적 의원 과반 출석과 출석 의원 과반 찬성으로 의결돼야 효력이 생긴다.
 
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpbGJvLmNvbS9OZXdzL1JlYWQvQTIwMjMwNTE3MTAyODAwMDI1NDXSAQA?oc=5
-
-제목: [단독] '국정농단 뇌물' 정유라 7억짜리 말…경매 1억에도 안 팔려 - 한겨레
-요약: 삼성전자 이재용 회장이 최순실 씨 딸 정유라 씨에게 뇌물로 제공한 말 '라우싱'이 몰수 집행을 위해 경매에 올라왔지만 아무도 입찰하지 않아 유찰됐다. 검찰이 뒤늦게 집행에 나서면서 말의 가치가 떨어졌다는 지적이 나왔다. 이 회장에 대해 징역 2년 6개월을 선고받은 대법원은 라우싱 몰수 명령을 내렸다. 2년 동안 삼성이 라우싱을 보관하면서 관리 비용으로만 수천만원을 쓴 것으로 알려졌다.
-
-URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDkyMTA4Lmh0bWzSAQA?oc=5
-
-제목: [속보]국회 정무위, 의원 전원 '가상자산 자진신고' 결의안 채택 - 한겨레
-요약: 국회 정무위원회가 국회의원 전원이 가상자산 보유 현황을 자진 신고하도록 하는 내용의 결의안을 채택했다. 이 결의안은 국민권익위원회가 조사할 수 있도록 하는 내용을 담고 있다. 이 결의안은 최근 국회의원의 거액 가상자산 보유와 관련해 불법적 거래에 대한 국민적 의혹이 커지고 있기 때문에 필요하게 되었다.
-
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9hc3NlbWJseS8xMDkyMTA1Lmh0bWzSAQA?oc=5
+URL: https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmtoYW4uY28ua3IvcG9saXRpY3MvcG9saXRpY3MtZ2VuZXJhbC9hcnRpY2xlLzIwMjMwNTE3MTA0NjAwMdIBAA?oc=5
 
 제목: [뉴스라이브] '대반격' 앞둔 우크라이나..."도와달라" 외교전 본격화 - YTN
 요약: GPT3 Return Error: 'choices'
 
 URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lnl0bi5jby5rci9fbG4vMDEwNF8yMDIzMDUxNzEwMzkzODY3NDLSAUNodHRwczovL20ueXRuLmNvLmtyL25ld3Nfdmlldy5hbXAucGhwP3BhcmFtPTAxMDRfMjAyMzA1MTcxMDM5Mzg2NzQy?oc=5
-
-제목: 된장 오래 먹었더니.. 암 예방 효과 vs 암 위험 증가 왜? - 코메디닷컴
-요약: 된장은 이소플라본 성분으로 유방암, 난소암, 대장암 예방에 기여한다. 하지만 된장은 짠 성분이 많아 장기간 먹으면 위암 위험을 높일 수 있다. 따라서 된장을 먹을 때는 염분을 조절해 짜지 않게 먹는 것이 좋다. 된장국에는 칼륨이 많은 채소와 애호박, 양파, 감자, 두부 등을 넣으면 짠 성분을 줄일 수 있다. 두부는 뼈 건강과 장 건강에도 좋다.
-
-URL: https://news.google.com/rss/articles/CBMi1AFodHRwczovL2tvcm1lZGkuY29tLzE1OTA2NjcvJUVCJTkwJTlDJUVDJTlFJUE1LSVFQyU5OCVBNCVFQiU5RSU5OC0lRUIlQTglQjklRUMlOTclODglRUIlOEQlOTQlRUIlOEIlODgtJUVDJTk1JTk0LSVFQyU5OCU4OCVFQiVCMCVBOS0lRUQlOUElQTglRUElQjMlQkMtdnMtJUVDJTk1JTk0LSVFQyU5QyU4NCVFRCU5NyU5OC0lRUMlQTYlOUQlRUElQjAlODAtJUVDJTk5JTlDL9IBAA?oc=5
-
-제목: 피츠버그 배지환 2타수 무안타 1볼넷…팀은 0-4 완패 - 연합뉴스
-URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L0FLUjIwMjMwNTE3MDU0ODAwMDA30gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9BS1IyMDIzMDUxNzA1NDgwMDAwNw?oc=5
-
-제목: 삼성전자 직원, 반도체 핵심기술 유출…해고 후 수사의뢰 “엄격히 다룰 것” - 이코노미스트
-요약: 삼성전자에서 반도체 핵심기술을 포함한 자료 유출 사건이 발생했다. DS(반도체) 부문은 관련 혐의로 엔지니어 A씨를 해고 조치하고 국가기관에 수사를 의뢰했다. 또 다른 엔지니어 C씨는 국내 협력 업체 이직을 준비하다가 중요 기술 자료를 띄워놓고 수천장의 사진을 찍어 보관하다 적발됐다. 삼성전자는 C씨를 해고 조치한 뒤 국가기관에 수사를 의뢰했다.
-
-URL: https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vZWNvbm9taXN0LmNvLmtyL2FydGljbGUvdmlldy9lY24yMDIzMDUxNzAwMTPSAQA?oc=5
-
-제목: 손상된 유전자 복구 위한 여러 복구 메커니즘의 상호작용 최초 확인 - ACROFAN South Korea
-URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8va3IuYWNyb2Zhbi5jb20vZGV0YWlsLnBocD9udW1iZXI9Mjk3ODcz0gEA?oc=5
-
-제목: 디앤디, 화이트 감성! 애즈락 라데온 RX 7900 XTX 타이치 화이트 OC 출시 - ACROFAN South Korea
-URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8va3IuYWNyb2Zhbi5jb20vZGV0YWlsLnBocD9udW1iZXI9Mjk3ODU30gEA?oc=5
-
-제목: 강원소방 '지진 안전교육' 강화 - 노컷뉴스
-URL: https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3Lm5vY3V0bmV3cy5jby5rci9uZXdzLzU5NDQ3ODXSASpodHRwczovL20ubm9jdXRuZXdzLmNvLmtyL25ld3MvYW1wLzU5NDQ3ODU?oc=5
-
-제목: '마르티네스 결승골' 인터밀란, 챔피언스리그 결승 선착 - YTN
-요약: 인터 밀란이 13년 만에 유럽축구연맹 챔피언스리그 결승에 진출했습니다. 인터 밀란은 AC 밀란을 1대 0으로 꺾어 합계 3대 0 완승을 거두었으며, 레알 마드리드-맨체스터 시티 경기 승자와 우승을 다툽니다.
-
-URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lnl0bi5jby5rci9fbG4vMDEwN18yMDIzMDUxNzA5MjMxMjExMzbSAUNodHRwczovL20ueXRuLmNvLmtyL25ld3Nfdmlldy5hbXAucGhwP3BhcmFtPTAxMDdfMjAyMzA1MTcwOTIzMTIxMTM2?oc=5
-
-제목: 5.18 조사위 "계엄군, 시민에 최소 50여 차례 발포" - 노컷뉴스
-URL: https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3Lm5vY3V0bmV3cy5jby5rci9uZXdzLzU5NDQ3NzTSAQA?oc=5
-
-제목: 허정민, 또 갑질 폭로…"제작사 대표가 배역 뺏어 아이돌 줬다" - 머니투데이
-요약: 배우 허정민이 10년 전 KBS 드라마 대본 리딩실에서 대표라고 밝힌 남성이 A 배우를 강제로 구석방으로 끌고가고 대본을 빼앗아 "너희가 할 수 있는 역할이 아니야"라고 말한 갑질 사건을 폭로했다. 이어 "대표에게 대본을 빼앗기지 않으려는 A 배우의 손 떨림을 난 잊지 못한다"며 "이후 10년이 지났는데 솔직히 내 작은 돌멩이가 이렇게 크게 될 줄 몰랐다"고 했다. 이에 대해 허정민은 "제발 적당히 좀 해라. A 배우는 지금 대한민국에서 내로라하는 배우가 됐고 난 나를 내놓았다"고 덧붙였다.
-
-URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwNTE3MDgxODM1Mjg1MDbSAT1odHRwczovL20ubXQuY28ua3IvcmVuZXcvdmlld19hbXAuaHRtbD9ubz0yMDIzMDUxNzA4MTgzNTI4NTA2?oc=5
-
-제목: 우크라이나 “러시아 극초음속 미사일 6발 모두 격추” - 한겨레
-요약: 러시아가 우크라이나에 대대적인 공습을 가한 후, 우크라이나는 러시아의 극초음속 미사일을 대거 요격했다고 주장합니다. 우크라이나는 이번 공습이 지난해 이후 "단시간 내에 이뤄진 최대의 미사일 공격"이라고 말했습니다. 러시아는 이번 공습으로 우크라이나에 제공된 패트리엇 방공망을 파괴했다고 주장하고 있습니다.
-
-URL: https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9pbnRlcm5hdGlvbmFsL2ludGVybmF0aW9uYWxfZ2VuZXJhbC8xMDkyMDc1Lmh0bWzSAQA?oc=5
 
 
