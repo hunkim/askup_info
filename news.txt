@@ -1,34 +1,40 @@
 제목: 지멘스, 연간 매출 9~11% 성장으로 ＇상향＇ - 한국경제TV
-요약: 지멘스는 매출 전망을 상향 조정하여 연간 매출이 9~11% 증가할 것으로 전망하고, 기본 주당 수익도 늘릴 것으로 예상된다. 이는 계속해서 확장되는 주문량과 공급망 병목 현상의 완화로 인해 가능해졌다. 지멘스 최고경영자는 상반기를 매우 성공적으로 보냈으며 하반기에 대해 매우 확신한다고 밝혔다.
+요약: 지멘스는 매출 전망을 상향 조정하여 9~11%로 발표했다. 또한, 기본 주당 수익도 9.60~9.90유로로 예상되며, 주문량 확장과 공급망 병목 현상 완화로 인해 이러한 결정을 내렸다고 밝혔다. 지멘스 최고경영자는 상반기를 매우 성공적으로 보냈다며 하반기에 대해 매우 확신한다고 말했다.
 
 URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vbS53b3d0di5jby5rci9OZXdzQ2VudGVyL05ld3MvUmVhZD9hcnRpY2xlSWQ9QTIwMjMwNTE4MDAwM9IBAA?oc=5
 
 제목: 4월은 '나상호의 달'…이달의 선수·골 '겹경사' - Goal.com
 URL: https://news.google.com/rss/articles/CBMiuANodHRwczovL3d3dy5nb2FsLmNvbS9rci8lRUIlODklQjQlRUMlOEElQTQvNCVFMSU4NCU4QiVFMSU4NSVBRiVFMSU4NiVBRiVFMSU4NCU4QiVFMSU4NSVCMyVFMSU4NiVBQi0lRTElODQlODIlRTElODUlQTElRTElODQlODklRTElODUlQTElRTElODYlQkMlRTElODQlOTIlRTElODUlQTklRTElODQlOEIlRTElODUlQjQtJUUxJTg0JTgzJUUxJTg1JUExJUUxJTg2JUFGLS0lRTElODQlOEIlRTElODUlQjUlRTElODQlODMlRTElODUlQTElRTElODYlQUYlRTElODQlOEIlRTElODUlQjQtJUUxJTg0JTg5JUUxJTg1JUE1JUUxJTg2JUFCJUUxJTg0JTg5JUUxJTg1JUFFLSVFMSU4NCU4MCVFMSU4NSVBOSVFMSU4NiVBRi0lRTElODQlODAlRTElODUlQTclRTElODYlQjglRTElODQlODAlRTElODUlQTclRTElODYlQkMlRTElODQlODklRTElODUlQTEvYmx0ZGU1NTIwYjM1YzkwZDQzM9IBAA?oc=5
 
-제목: [설왕설래] 범용인공지능(AGI) - 세계일보
-요약: 마이크로소프트(MS) 소속 과학자들은 최근 생성형 AI인 챗 GPT 최신형 ‘GPT-4’의 실험 결과를 담은 ‘AGI의 불꽃’이라는 논문에서 GPT-4를 초기 버전의 AGI라고 주장했다. GPT-4는 미국 변호사 시험에서 상위 10%의 성적을 냈고 일본 의사국가시험도 합격했다. 그러나 AI 분야 과학자들은 AI가 허위 정보의 무기화, 음성복제 사기, 일자리 대체 등 잠재적 해악을 품고 있다는 우려를 표명하고 있다.
+제목: 강수정 “힘들게 밥 지었더니… 10세 子, 짜장면 먹고 싶다고” - MSN
+URL: https://news.google.com/rss/articles/CBMi-AFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvb3RoZXIvJUVBJUIwJTk1JUVDJTg4JTk4JUVDJUEwJTk1LSVFRCU5RSU5OCVFQiU5MyVBNCVFQSVCMiU4Qy0lRUIlQjAlQTUtJUVDJUE3JTgwJUVDJTk3JTg4JUVCJThEJTk0JUVCJThCJTg4LTEwJUVDJTg0JUI4LSVFNSVBRCU5MC0lRUMlQTclOUMlRUMlOUUlQTUlRUIlQTklQjQtJUVCJUE4JUI5JUVBJUIzJUEwLSVFQyU4QiVCNiVFQiU4QiVBNCVFQSVCMyVBMC9hci1BQTFiakJkN9IBAA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vbS5zZWd5ZS5jb20vdmlldy8yMDIzMDUxNzUyMDkzMNIBKmh0dHBzOi8vbS5zZWd5ZS5jb20vYW1wVmlldy8yMDIzMDUxNzUyMDkzMA?oc=5
+제목: [설왕설래] 범용인공지능(AGI) - 세계일보
+요약: 마이크로소프트(MS) 소속 과학자들은 최근 생성형 AI인 챗 GPT 최신형 ‘GPT-4’의 실험 결과를 담은 ‘AGI의 불꽃’이라는 논문에서 GPT-4를 초기 버전의 AGI라고 주장했다. GPT-4는 미국 변호사 시험에서 상위 10%의 성적을 냈고 일본 의사국가시험도 합격했다. 그러나 AI 분야 과학자 10명 중 3명 이상은 21세기에 AI가 핵전쟁 같은 대재앙을 일으킬 수 있다고 생각한다.
+
+URL: https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LnNlZ3llLmNvbS9uZXdzVmlldy8yMDIzMDUxNzUyMDkzMNIBAA?oc=5
 
 제목: 알츠하이머 진행 차단 변이체 발견… 치매 정복되나 - 서울Eye
 URL: https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vZXllLnNlb3VsLmNvLmtyL25ld3MvbmV3c1ZpZXcucGhwP2lkPTIwMjMwNTE4MDIwMDAx0gEsaHR0cHM6Ly9hbXAuc2VvdWwuY28ua3Ivc2VvdWwvMjAyMzA1MTgwMjAwMDE?oc=5
 
+제목: “누구도 우리의 전진을 막을 수 없다”…강남역 7주기 추모집회 - 한겨레
+요약: 강남역 여성 살해사건 7주기를 추모하는 행사가 열렸다. 120여명이 참석해 “누구도 우리의 전진을 막을 수 없다”는 구호를 외치며 손팻말을 들었다. 여성단체, 시민사회단체, 진보정당의 공동주최로 열린 추모집회에서는 여성가족부 폐지 등 여성의 권리를 위한 취지로 발언이 이어졌다. 참석자들은 포스트잇에 글을 남기며 추모의 의미를 나누었다.
+
+URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDkyMjMzLmh0bWzSAQA?oc=5
+
 제목: 손준호 中 체포 엿새 만에 영사 면담...축구선수 '뇌물죄' 이유는? / YTN - YTN
 URL: https://news.google.com/rss/articles/CCAiCzNmYld6b0xJZHFNmAEB?oc=5
 
-제목: "살아남은 우리가 세상을 바꾼다"… 강남역 7주기 추모제 - 한국일보
-요약: 강남역 10번 출구 앞에서 열린 7주기 추모제에 참석한 200명의 여성들은 여성 대상 범죄와 혐오가 계속되는 현실에 목소리를 높였다. 이들은 윤석열 대통령이 집권한 1년을 ‘퇴행의 시대’라고 평가하며, 정부의 여성 정책을 강도 높게 비판했다. 추모 집회가 열린 장소와 맞닿은 강남역 9번 출구 앞에선 페미니즘에 반대하는 남성 단체의 맞불집회가 열려 한때 긴장감이 돌았으나 큰 충돌은 없었다.
+제목: 다리에 '이 증상' 있는 사람, 치매 앓을 가능성 높아 - 헬스조선
+요약: 다리를 계속 움직이고 싶은 충동이 드는 '하지불안증후군'이 있는 사람들은 치매 발생 위험이 높다는 연구 결과가 나왔다. 이 연구는 보라매병원 정신건강의학과 김근유 교수팀이 국민건강보험공단 데이터를 활용해 10년간 추적 관찰한 결과이다. 하지불안증후군 환자는 모든 종류의 치매 발생률이 대조군보다 유의하게 높았으며, 알츠하이머와 혈관성 치매 발생률도 높았다. 하지불안증후군 환자는 치매 발병 위험이 높은 만큼 정기적인 인지 평가와 검진을 통해 치매를 조기 발견하고 예방할 필요가 있다고 연구팀은 강조했다.
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vbS5oYW5rb29raWxiby5jb20vTmV3cy9SZWFkL0EyMDIzMDUxNzIxMjYwMDA1MDU30gEA?oc=5
+URL: https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vbS5oZWFsdGguY2hvc3VuLmNvbS9zdmMvbmV3c192aWV3Lmh0bWw_Y29udGlkPTIwMjMwNTE3MDIwOTbSAQA?oc=5
 
-제목: 공공기관 단협에 '불법 딱지' 붙인 노동부 - 경향신문
-요약: 한국 공공부문 기관의 37.4%의 단체협약이 불법 또는 무효인 내용을 포함하고 있다는 정부 조사 결과가 나왔다. 이에 대해 이정식 고용노동부 장관은 시정명령을 내리고, 불응 시 노동관계법 위반으로 형사처벌하기로 했다. 하지만 이에 대해 노동계는 노사관계 개입이 국제노동기구(ILO) 협약 위반이라며 반발하고 있다.
-
-URL: https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmtoYW4uY28ua3IvbmF0aW9uYWwvbGFib3IvYXJ0aWNsZS8yMDIzMDUxNzIxNDYwMzXSAQA?oc=5
+제목: 서울 지하철 요금 하반기 150원 인상 검토 - 연합뉴스
+URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L01ZSDIwMjMwNTE3MDIzMzAwNjQx0gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9NWUgyMDIzMDUxNzAyMzMwMDY0MQ?oc=5
 
 제목: 외계 문명, ‘창백한 푸른 점’ 지구를 어떻게 생각하고 있을까? - 뉴스퀘스트
-요약: 외계 문명이 있다면, 그들은 지구에서 나오는 이동통신의 전파를 이미 탐지했을 것으로 보인다. 이동통신 송신탑에서 나오는 전파가 외계 문명에 어떻게 포착되는지를 시뮬레이션 함으로써 이 질문에 대한 해답을 시도한 연구팀은, 현재 전파 수준에서는 기술적으로 인류보다 훨씬 더 발달한 문명을 갖춘 외계인만이 이를 포착할 수 있을 것으로 제시했다. 그러나 일부 기술 문명은 우리보다 훨씬 더 민감한 수신 시스템을 보유하고 있을 수 있다고 제안했다.
+요약: 외계 문명이 있다면, 그들은 지구에서 나오는 이동통신의 전파를 이미 탐지했을 것으로 보인다. 이동통신 송신탑에서 나오는 전파가 외계 문명에 어떻게 포착되는지를 시뮬레이션 함으로써 이 질문에 대한 해답을 시도한 연구팀은, 현재 전파 수준에서는 기술적으로 인류보다 훨씬 더 발달한 문명을 갖춘 외계인만이 이를 포착할 수 있을 것으로 제시했다. 그러나 일부 기술 문명은 우리보다 훨씬 더 민감한 수신 시스템을 보유하고 있을 수 있다는 제안도 하였다.
 
 URL: https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lm5ld3NxdWVzdC5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjA2Njky0gFBaHR0cHM6Ly93d3cubmV3c3F1ZXN0LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz0yMDY2OTI?oc=5
 
@@ -36,58 +42,46 @@ URL: https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lm5ld3NxdWVzdC5jby
 URL: https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmNob3N1bi5jb20vaW50ZXJuYXRpb25hbC9pbnRlcm5hdGlvbmFsX2dlbmVyYWwvMjAyMy8wNS8xNy9LNEI1RjNVVE9SRk1GSllSN0hIN0JFRTRYSS_SAXBodHRwczovL3d3dy5jaG9zdW4uY29tL2ludGVybmF0aW9uYWwvaW50ZXJuYXRpb25hbF9nZW5lcmFsLzIwMjMvMDUvMTcvSzRCNUYzVVRPUkZNRkpZUjdISDdCRUU0WEkvP291dHB1dFR5cGU9YW1w?oc=5
 
 제목: 백악관-공화 부채한도 협상 또 결렬...바이든 순방 단축 - 한국어 방송 - VOA Korean
-요약: 미국 대통령 조 바이든과 공화당 지도부가 부채 한도 조정 협상을 위해 회동했으나 결론을 내지 못했다. 하지만 양측은 낙관적인 전망을 밝혔으며, 이번 주말까지 협상 타결이 가능할 것으로 믿는다. 이에 대해 공화당은 연방부채 한도 증액을 위해 연방정부 지출을 대폭 삭감해야 한다는 입장을 견지해 왔다. 한편, 바이든 대통령은 19~21일 일본 히로시마에서 열리는 G7 정상회의 참석을 위해 17일 일본으로 떠나며, 파푸아뉴기니와 호주 방문을 취소하고 일정을 앞당겨 귀국할 예정이다.
+요약: 미국 대통령 조 바이든과 공화당 지도부가 부채 한도 조정 협상을 위해 회동했으나 결론을 내지 못했다. 하지만 양측은 낙관적인 전망을 밝혔으며, 이번 주말까지 협상 타결이 가능할 것으로 믿는다. 이에 대한 대책으로 바이든 대통령은 파푸아뉴기니와 호주 방문을 취소하고 G7 정상회의 참석을 위해 일본으로 떠난다.
 
 URL: https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hLzcwOTcwMDAuaHRtbNIBKWh0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hbXAvNzA5NzAwMC5odG1s?oc=5
 
+제목: 文 "민주주의 흔들리면 5ㆍ18 민주정신 다시 생각해" - KBC광주방송
+요약: 문재인 전 대통령이 5.18 민주항쟁 43주년을 하루 앞두고 광주를 방문해 5.18 묘역을 참배했다. 문 전 대통령은 "민주주의가 흔들리면 5.18 민주정신에 대해 생각하게 된다"는 말을 남겼다. 이번 참배는 전직 대통령으로는 고 김대중, 고 노무현 대통령에 이어 세 번째이다. 문 전 대통령은 5.18 정신 헌법 전문을 수록하는 문제에 대해서는 아쉬움을 표현했다.
+
+URL: https://news.google.com/rss/articles/CBMiMmh0dHA6Ly93d3cuaWtiYy5jby5rci9hcnRpY2xlL3ZpZXcva2JjMjAyMzA1MTcwMDY20gEA?oc=5
+
 제목: 여야, 5.18 광주 총출동…총선 앞두고 호남 민심 잡기 경쟁 - 연합뉴스TV
-요약: 5.18 광주민주화운동 제43주년을 맞아 여야 지도부가 광주를 찾아 5.18 정신을 기리고 호남 민심을 잡기 위한 경쟁이 벌어졌다. 국민의힘은 KTX 특별열차를 이용해 기념식 참석을 하며 호남 민심 달래기에 적극적으로 나서고, 더불어민주당은 이재명 대표를 비롯한 지도부와 의원 대부분이 1박 2일 동안 광주에 머무르며 추모 행사에 참석했다. 정의당도 지도부와 의원 다수가 광주를 찾아 전날부터 추모 행사에 참석했다.
+요약: 5.18 광주민주화운동 제43주년 기념식에 여야 지도부가 총출동합니다. 국민의힘은 호남 민심 달래기를 위해 KTX 특별열차를 잡았으며, 야당은 이재명 대표를 포함한 지도부와 의원 대부분이 광주에 머무르며 추모 행사에 참석합니다. 이 대표는 5.18 정신 헌법 전문 수록 공약을 여야가 이행하자고 촉구했습니다.
 
 URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTE3MDIxMTAwNjQx0gEA?oc=5
 
-제목: 민주, 김남국 윤리위 제소‥국민의힘 "김남국 의원 제명시켜야" - MBC뉴스
-요약: 국회의원인 김남국씨가 가상자산 거래와 보유를 공개하지 않은 것으로 더불어민주당과 국민의힘이 국회 윤리특별위원회에 제소했다. 이에 대해 국민의힘은 김씨를 국회의원직에서 제명시키자는 공세를 펼치고 있으며, 여야 모두 윤리특위 제소는 했지만 제명안 심사 절차와 속도를 두고 충돌하고 있다. 국회 정무위에서는 국회의원이 가상자산 보유 내역을 자진 신고하도록 하는 결의안을 의결했다.
+제목: '김남국 코인' 수사 쟁점은…'자금출처·불법성' 관건 - 연합뉴스TV
+요약: 검찰이 김남국 의원의 코인 의혹과 관련해 거래소 등을 압수수색하며 수사에 속도를 내고 있습니다. 거래 내역 등을 확보한 검찰이 밝혀야 할 건 투자금의 출처와 거래 과정의 불법성입니다. 김 의원이 이 과정에서 상장정보 등을 미리 알았을 것이란 의혹에 주목하고 있습니다.
 
-URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0ODQ3NDRfMzYxOTkuaHRtbNIBAA?oc=5
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTE3MDIxMDAwNjQx0gEA?oc=5
 
 제목: '이 혈관' 굳으면 활기찬 노후 멀어진다 - 코메디닷컴
-요약: 혈관 건강을 유지하는 것이 노인들의 신체 기능을 보존하는 데 도움이 된다는 연구 결과가 나왔다. 대동맥 경직성과 혈관 기능이 노화 관련 신체적 쇠퇴와 관련이 있다는 것을 발견했으며, 혈관 건강을 목표로 개입하면 노화 관련 쇠퇴를 줄일 수 있다는 것을 보여준다. 이번 연구는 건강한 남녀로 구성된 대규모 코호트의 데이터를 활용하고 종단 연구 설계를 사용하여 이전 조사를 확장했다.
+요약: 혈관 건강을 유지하는 것이 노인들의 신체 기능을 보존하는 데 도움이 된다는 연구 결과가 나왔다. 대동맥 경직성과 혈관 기능이 노화 관련 신체적 쇠퇴와 관련이 있다는 것을 발견했으며, 혈관 건강을 목표로 개입하면 노화 관련 쇠퇴를 줄일 수 있다는 것을 보여준다. 이번 연구는 대규모 코호트의 데이터를 활용하고 종단 연구 설계를 사용하여 이전 조사를 확장했다.
 
 URL: https://news.google.com/rss/articles/CBMinwFodHRwczovL2tvcm1lZGkuY29tLzE1OTA3NDAvJUVBJUIyJUJEJUVDJUE3JTgxJUVCJTkwJTlDLSVFQiU4QyU4MCVFQiU4RiU5OSVFQiVBNyVBNS0lRUIlODUlQjglRUMlOUQlQjgtJUVBJUIxJUI0JUVBJUIwJTk1LSVFQyU5QyU4NCVFRCU5OCU5MSVFRCU5NSU5QyVFQiU4QiVBNC_SAQA?oc=5
 
-제목: 유료방송 가입자 증가율 처음으로 0%대 진입 - 정보통신신문
-요약: 과기정통부가 발표한 자료에 따르면, 2022년 하반기 유료방송 가입자 수는 36,248,397명으로 집계되었다. 이는 2022년 상반기 대비 24만명 증가한 것으로, 증감률은 0.67%로 나타났다. 이번에는 직전 반기 대비 가입자 수 증감률이 1% 미만대로 떨어졌다. 가입자 유형별로는 복수 가입자 47.16%, 개별 가입자 45.53%, 단체 가입자 7.31% 순으로 집계됐다. 사업자별 가입자 수는 KT, SK브로드밴드, LG유플러스, LG헬로비전, KT스카이라이프, SK브로드밴드(SO) 순으로 집계되었다.
+제목: "G7 히로시마 정상회의 때 후쿠시마산 식재료 사용" - 연합뉴스
+URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L0FLUjIwMjMwNTE3MTU3MzAwMDcz0gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9BS1IyMDIzMDUxNzE1NzMwMDA3Mw?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHA6Ly93d3cua29pdC5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MTEzMDUw0gE7aHR0cDovL3d3dy5rb2l0LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz0xMTMwNTA?oc=5
+제목: 수수방관 비판 커지자…민주당, 김남국 윤리위 '뒷북 제소 - 한겨레
+요약: 더불어민주당이 김남국 의원을 가상자산 투기 의혹으로 국회 윤리특별위원회에 제소했다. 김 의원은 진상조사와 징계를 미적댄 뒤 탈당했는데, 이에 대한 민주당의 대응이 늦어지자 비판이 쏟아졌다. 이재명 대표는 김 의원이 공직자 윤리규범을 위반한 것으로 판단해 윤리특위 제소가 필요하다고 밝혔다. 윤리특위는 이날 전체회의를 열어 김 의원 징계 논의에 착수했다. 국회법상 징계는 공개회의에서의 경고, 공개회의에서의 사과, 30일 이내 출석정지, 제명의 4가지다.
 
-제목: [수목드라마] '나쁜엄마' '보라! 데보라' '스틸러'...시청률, 지난 방송, 관전 포인트는? - 문화뉴스
-요약: 현재 방영 중인 JTBC '나쁜엄마', ENA '보라! 데보라', tvN '스틸러: 일곱 개의 조선통보'의 시청률 순위와 줄거리가 관심을 받고 있다. '나쁜엄마'는 자식을 위해 악착같이 나쁜 엄마가 될 수 밖에 없었던 인물들의 감동적인 이야기, '보라! 데보라'는 연애코치와 출판 기획자가 함께 연애서를 만들면서 시작되는 과몰입 유발 로맨스, '스틸러: 일곱 개의 조선통보'는 문화재 도둑과 비공식 문화재 환수팀이 법이 심판하지 못하는 자들을 상대로 펼치는 케이퍼 코믹 액션 드라마이다.
-
-URL: https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3Lm1obnMuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTU1MzM0MdIBAA?oc=5
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9hc3NlbWJseS8xMDkyMjI1Lmh0bWzSAQA?oc=5
 
 제목: 인터밀란, AC밀란 꺾고 챔스 결승 진출 - 연합뉴스TV
-요약: 인터 밀란이 AC 밀란을 꺾고 유럽축구연맹 챔피언스리그 결승에 진출했다. 이탈리아 밀라노에서 열린 준결승 2차전에서 1대 0으로 승리해, 1, 2차전 합계 3대 0으로 결승에 선착했다. 인터 밀란은 13년 만에 챔피언스리그 결승에 진출하게 되었다.
+요약: 인터 밀란이 AC 밀란을 꺾고 유럽축구연맹 챔피언스리그 결승에 진출했다. 이탈리아 밀라노에서 열린 준결승 2차전에서 1대 0으로 승리해 13년 만에 챔피언스리그 결승 티켓을 거머쥐었다. 인터 밀란은 18일 열리는 레알 마드리드와 맨체스터 시티 경기 승자와 우승컵을 놓고 다투게 된다.
 
 URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTE3MDE3OTAwNjQx0gEA?oc=5
 
 제목: 박진, 멕시코 주지사 만나 한국 첨단산업 현지진출 협조 당부 - 한국경제
-요약: 미국 대통령 조 바이든과 일본 총리 기시다 후미오가 한일관계를 더 개선시키기로 약속하며 미일 정상회담을 개최했다. 두 정상은 북한의 비핵화와 중국의 안보 도전에 대응하기 위해 긴밀한 협력을 계속할 것을 확인했다. 또한 인도-태평양 지역에서 한국과 쿼드, 동남아, 태평양 도서국 등과의 다자간 협력을 강화하는 것의 중요성을 강조했다.
+요약: 일본에서 G7 정상회의가 열리고, 참가국들은 다양한 과제에 대해 의견을 교환한 뒤 공동성명으로 회의 결과를 발표할 예정입니다. G7은 중국과 러시아에 대항해 힘에 의한 현상 변경을 반대하고, 세계 경제와 기후변화, 보건 등 전 지구적 과제에서 개발도상국과 협력을 강화하겠다는 뜻도 밝힐 것으로 보입니다. 한일 및 한미일 정상회담도 열릴 예정입니다.
 
 URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjMwNTE3MjMzMlnSATNodHRwczovL3d3dy5oYW5reXVuZy5jb20vcG9saXRpY3MvYW1wLzIwMjMwNTE3MjMzMlk?oc=5
-
-제목: 젤렌스카 만난 오세훈 “전쟁으로 파괴된 우크라 사회·경제·문화 인프라 복구 지원” - 서울신문
-요약: 서울시장 오세훈은 우크라이나 대통령 부인과의 만남에서, 우크라이나의 전쟁으로 인한 파괴된 사회, 경제, 문화, 인프라 복구를 지원하기 위해 우크라이나 주요 도시와의 교류 협력을 확대할 것이라고 밝혔다. 이에 따라 서울시는 주한우크라이나 대사관과 손잡고 문화, 예술 분야 협력을 확대하기 위한 업무협약을 맺었다. 이번 협약을 통해 문화 시설에 우크라이나어 서비스를 확대하고 문화재 보존, 복원, 문화시설 운영 등의 분야에서 교류를 강화할 예정이다.
-
-URL: https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LnNlb3VsLmNvLmtyL25ld3MvbmV3c1ZpZXcucGhwP2lkPTIwMjMwNTE3NTAwMjIx0gEsaHR0cHM6Ly9hbXAuc2VvdWwuY28ua3Ivc2VvdWwvMjAyMzA1MTc1MDAyMjE?oc=5
-
-제목: 위메이드, 'P2E 입법로비설 제기' 위정현 게임학회장 고소 - MBC뉴스
-요약: 김남국 의원의 가상화폐 '위믹스' 보유 논란과 관련해 위메이드가 입법로비 의혹을 제기한 한국게임학회장을 명예훼손 혐의로 고소했다. 위메이드는 "한국게임학회와 위정현 학회장이 그간 확인되지 않은 의혹과 소문, 추측, 언론 인터뷰 등으로 위메이드의 정상적인 기업 활동을 부도덕한 이미지로 덧씌우고 있다"고 주장하며, 민사소송 제기도 검토 중이라고 밝혔다.
-
-URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9lY29uby9hcnRpY2xlLzY0ODQ3MDNfMzYxNDAuaHRtbNIBQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9lY29uby9hcnRpY2xlLzY0ODQ3MDNfMzYxNDEuaHRtbA?oc=5
-
-제목: "내 집마련 필수품?"…10개월 새 103만명 청약통장 해지 [1분뉴스] - 한국경제
-요약: 경기 지역 아파트 분양시장이 활기를 보이고 있으며, 자재값 상승 등의 여파로 분양가가 상승하고 있음에도 불구하고 청약 경쟁률이 높아지고 있다. 경기도에서는 다음달 6800여 가구의 아파트가 분양될 예정이며, 이번 분양 시장에서는 "지금 분양가가 가장 저렴하다"는 인식이 확산되고 있다. 이에 따라 경기 청약시장이 흥행할 것으로 예상되며, 아파트 매매 시장도 점차 회복하고 있다.
-
-URL: https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FydGljbGUvMjAyMzA1MTcxMzI1N9IBMmh0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9lY29ub215L2FtcC8yMDIzMDUxNzEzMjU3?oc=5
 
 
