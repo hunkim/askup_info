@@ -1,89 +1,95 @@
-제목: 일본 라피더스 반도체 사업전략 선회, 삼성전자 TSMC에 '맞경쟁' 피한다 - 비즈니스포스트
-요약: 일본 정부는 삼성전자와 TSMC와 직접 경쟁하는 대신, 여러 반도체 강국과 협력을 강화하는 전략을 선회하고 있다. 이에 따라 일본 정부 주도로 설립된 반도체 파운드리기업 라피더스는 본격적인 물량 경쟁을 피하고, 특정 고객사가 원하는 반도체를 최대한 빠르게 공급하는 차별화된 생산체계를 통해 틈새시장을 노리는 전략을 쓰겠다는 것이다. 일본 정부는 최근 전 세계 반도체 강국을 대상으로 다양한 방식의 협력을 추진하고 있으며, 일본이 자체 기술 개발과 자국 기업의 투자로 글로벌 반도체시장에서 영향력을 높이기는 이미 늦었다는 판단에 따라 적극
+제목: 윤 대통령 “오월정신 계승”…발포명령·학살 규명 요구엔 침묵 - 한겨레
+요약: 윤석열 대통령이 5·18민주화운동 43주년 기념식에서 "오월 정신은 우리에게 자유민주주의를 지키기 위한 실천을 명령하고 있다"며 "자유와 민주주의를 위협하는 모든 세력과 도전에 당당히 맞서 싸워야 한다"고 말했다. 이에 대해 야권에서는 비판이 쏟아졌으며, 오월단체에서는 "최악의 기념사"라는 혹평이 나왔다. 김기현 국민의힘 대표와 이재명 더불어민주당 대표 등 여야 의원들도 참석했다.
 
-URL: https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmJ1c2luZXNzcG9zdC5jby5rci9CUD9jb21tYW5kPWFydGljbGVfdmlldyZudW09MzE1NjI50gEA?oc=5
+URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9wb2xpdGljc19nZW5lcmFsLzEwOTI0MTEuaHRtbNIBAA?oc=5
 
-제목: 아이브, '오늘 제일 예쁜' 비주얼 - 조선일보
-URL: https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmNob3N1bi5jb20vZW50ZXJ0YWlubWVudHMvbXVzaWMvMjAyMy8wNS8xOC80TVNNUk5XSFdWUjRZQTdNQldINlhQRU5NVS_SAWFodHRwczovL3d3dy5jaG9zdW4uY29tL2VudGVydGFpbm1lbnRzL211c2ljLzIwMjMvMDUvMTgvNE1TTVJOV0hXVlI0WUE3TUJXSDZYUEVOTVUvP291dHB1dFR5cGU9YW1w?oc=5
+제목: 바이든 "조만간이든 아니든 시진핑 만날 것" - 한국어 방송 - VOA Korean
+요약: 미국 대통령 조 바이든은 중국 국가주석 시진핑과의 회담 의사를 확인했다. 이번 회담이 성사되면 바이든 대통령은 취임 후 두 번째로 시 주석과 대면하게 된다. 한편 중국 정부는 G7 정상회의에서 타이완해협 관련 문제가 다뤄질 가능성에 대해 강력히 경고했다.
 
-제목: 100세 노인에겐 이런 ‘비장의 무기’가 있었다? - 코메디닷컴
-요약: 100세 이상 노인의 장에는 세균과 바이러스의 상호작용으로 건강에 도움이 되는 유익한 바이러스가 살고 있으며, 이들 바이러스는 세균의 황산염을 분해하는 능력을 높여 밖에서 침입한 세균과 싸워 물리칠 수 있는 전투력을 향상시킨다는 연구 결과가 나왔다. 이번 연구는 일본과 이탈리아 장수촌의 100세 이상 노인 195명의 바이러스 게놈을 분석한 결과이며, 연구팀은 딥 러닝 기반 프레임워크를 적용해 대변 등 검체에서 바이러스 정보를 뽑아냈다. 연구 결과는 Nature Microbiology에 실렸다.
+URL: https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hLzcwOTg2MjguaHRtbNIBKWh0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hbXAvNzA5ODYyOC5odG1s?oc=5
 
-URL: https://news.google.com/rss/articles/CBMitQFodHRwczovL2tvcm1lZGkuY29tLzE1OTA4ODgvMTAwJUVDJTg0JUI4LSVFQiU4NSVCOCVFQyU5RCVCOCVFQyU5NyU5MCVFQSVCMiU5MC0lRUMlOUQlQjQlRUIlOUYlQjAtJUVCJUI5JTg0JUVDJTlFJUE1JUVDJTlEJTk4LSVFQiVBQyVCNCVFQSVCOCVCMCVFQSVCMCU4MC0lRUMlOUUlODglRUMlOTclODglRUIlOEIlQTQv0gEA?oc=5
+제목: 예상보다 빠른 이탈 현상…"돈이 없으니까 사람들이" / SBS 8뉴스 - SBS 뉴스
+URL: https://news.google.com/rss/articles/CCAiC19EMEVkTFNjajgwmAEB?oc=5
 
-제목: '방한' 젤렌스카 “방공 레이더·지뢰 제거 지원 절실” - KBS뉴스
-요약: 한국을 포함한 국제사회가 우크라이나를 많이 지지하고 지원하고 있다. 우크라이나의 지도자는 피난 간 사람들이 안전하게 돌아올 수 있도록 기반 시설을 필요로 하며, 한국 기업들과 정부와 협력해서 지원을 받고 싶다고 말했다. 한국 측에서도 한 가지 프로젝트를 선택해서 진행하고 기업 참여도 필요하다.
+제목: '한일전 압승' 배드민턴 '랭킹은 숫자일 뿐!' - MBC뉴스
+요약: GPT3 Return Error: 'choices'
 
-URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vbmV3cy5rYnMuY28ua3IvbmV3cy92aWV3LmRvP25jZD03Njc4ODAz0gEA?oc=5
+URL: https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0ODUxMTVfMzYxOTkuaHRtbNIBRWh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253ZGVzay9hcnRpY2xlLzY0ODUxMTVfMzYyMDAuaHRtbA?oc=5
 
-제목: "제니·뷔, 파리 센강변 손 꼭 잡고 산책"…데이트 목격담 확산 - 경북도민일보
-요약: BTS 뷔와 블랙핑크 제니가 프랑스 파리에서 데이트를 한 것으로 보이는 영상이 SNS에 게재되어 화제가 되고 있다. 뷔는 파리에서 일정을 소화하고 있으며, 제니는 오는 22일 칸 국제영화제에 참석하기 전에 마카오에서 월드투어를 진행할 예정이다. 제니는 HBO 드라마 '더 아이돌'에 출연하고, 칸 영화제 비경쟁 부문에 초청되었다.
+제목: "꼭꼭 잘 씹어야 뇌 건강해진다" - 코메디닷컴
+요약: 음식을 씹는 것은 뇌 건강과 인지 기능을 개선하는 데 도움이 된다는 연구 결과가 있다. 하지만 기술 발달로 인해 음식을 먹는 데 쏟는 노동의 양은 감소해왔다. 따라서 충분히 씹을 수 있는 음식을 선택하는 것이 중요하다. 음식을 씹을 때 우리는 많은 신체 부위를 사용하며, 이는 뇌 기능 발달에도 도움을 줄 수 있다. 고무로 만들어진 턱 운동 기구를 사용하는 것도 좋지만, 음식을 먹는 과정에서 턱 근육을 더 많이 사용할 수 있도록 애써보는 것이 좋다.
 
-URL: https://news.google.com/rss/articles/CBMiOWh0dHA6Ly93d3cuaGlkb21pbi5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTUxNTg1M9IBAA?oc=5
+URL: https://news.google.com/rss/articles/CBMijQFodHRwczovL2tvcm1lZGkuY29tLzE1OTEwMzUvJUVBJUJDJUFEJUVBJUJDJUFELSVFQyU5RSU5OC0lRUMlOTQlQjklRUMlOTYlQjQlRUMlOTUlQkMtJUVCJTg3JThDLSVFQSVCMSVCNCVFQSVCMCU5NSVFRCU5NSVCNCVFQyVBNyU4NCVFQiU4QiVBNC_SAQA?oc=5
 
-제목: 제임스 웹이 찾은 우주 초창기 은하들은 훨씬 더 거대할 수 있다 – 사이언스모니터 | The Science Monitor - 사이언스모니터
-URL: https://news.google.com/rss/articles/CBMi3QFodHRwOi8vc2NpbW9uaXRvcnMuY29tLyVFQyVBMCU5QyVFQyU5RSU4NCVFQyU4QSVBNC0lRUMlOUIlQjklRUMlOUQlQjQtJUVDJUIwJUJFJUVDJTlEJTgwLSVFQyU5QSVCMCVFQyVBMyVCQy0lRUMlQjQlODglRUMlQjAlQkQlRUElQjglQjAtJUVDJTlEJTgwJUVEJTk1JTk4JUVCJTkzJUE0JUVDJTlEJTgwLSVFRCU5QiVBOCVFQyU5NCVBQy0lRUIlOEQlOTQtJUVBJUIxJUIwJUVCJThDJTgwL9IBAA?oc=5
+제목: 천문학 난제, 대학교 과제로 나왔다 < SCIENCE < 기사본문 - 파퓰러사이언스
+요약: 미 항공우주국(NASA)의 태양 활동 관측위성(Solar Dynamics Observatory)이 포착한 사진으로 태양의 플라즈마 분출을 관측한 연구 결과, 태양 바깥 층인 코로나 층이 태양 표면보다 더 고온인 코로나 가열 문제(Coronal heating problem)를 해결하기 위해 1000명 이상의 천문학자들과 대학생들이 협력하여 연구를 진행하였다. 연구 결과, 나노 플레어라는 작고 보이지 않는 플라즈마가 코로나 층을 덥히는 원리인 두 가지 가설 중 순전히 나노 플레어만으로 코로나층을 지금 수준으로 덥히기는 어려울 수 있다는
 
-제목: 1층 창문 열어놨다가 '헉'...CCTV에 찍힌 장면 [Y녹취록] / YTN - YTN
-URL: https://news.google.com/rss/articles/CCAiC2EzMDN1ZUZLdk9rmAEB?oc=5
+URL: https://news.google.com/rss/articles/CBMiOWh0dHA6Ly93d3cucG9wc2NpLmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0yMDgyN9IBAA?oc=5
 
-제목: 삼성전자, 업계 최선단 12나노급 D램 양산 - 정보통신신문
-요약: 삼성전자가 12나노급 공정으로 16Gb DDR5 D램을 양산한다. 이전 제품 대비 생산성이 약 20% 향상되었으며, 소비 전력도 약 23% 개선되어 데이터센터 전력 운영 효율을 높일 수 있다. 또한, 최고 동작 속도 7.2Gbps를 지원하며, 다양한 응용처에 공급할 계획이다.
+제목: 중국, 중앙아시아에 협력 강화 청사진…시안서 정상회의 개막 - 경향신문
+요약: 중국 국가주석 시진핑은 중앙아시아 5개국 정상을 모아 ‘운명 공동체’를 건설하자고 제안했다. 이번 정상회의는 러시아의 영향력이 쇠퇴한 중앙아시아에서 중국이 러시아의 자리를 대체하는 계기가 될 것으로 예상된다. 또한 중국은 대중 견제에 맞서 우군을 확보하고 세를 과시하는 효과도 노린 것으로 보인다.
 
-URL: https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmtvaXQuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTExMzA4ONIBO2h0dHA6Ly93d3cua29pdC5jby5rci9uZXdzL2FydGljbGVWaWV3QW1wLmh0bWw_aWR4bm89MTEzMDg4?oc=5
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmtoYW4uY28ua3Ivd29ybGQvY2hpbmEvYXJ0aWNsZS8yMDIzMDUxODE5NTYwMDHSAQA?oc=5
 
-제목: 아침에 미역국 자주 먹었더니, 근육·뼈에 변화가? - MSN
-URL: https://news.google.com/rss/articles/CBMi5AFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL2hlYWx0aC9vdGhlci8lRUMlOTUlODQlRUMlQjklQTglRUMlOTclOTAtJUVCJUFGJUI4JUVDJTk3JUFEJUVBJUI1JUFELSVFQyU5RSU5MCVFQyVBMyVCQy0lRUIlQTglQjklRUMlOTclODglRUIlOEQlOTQlRUIlOEIlODgtJUVBJUI3JUJDJUVDJTlDJUExLSVFQiVCQyU4OCVFQyU5NyU5MC0lRUIlQjMlODAlRUQlOTklOTQlRUElQjAlODAvYXItQUExYmxiSHnSAQA?oc=5
+제목: 국내 디스플레이산업, 2027년까지 65조 투자…세계1위 탈환 나선다 - 인사이드비나
+요약: 국내 디스플레이 산업이 2027년까지 65조원을 투자하고, 정부는 1조원 이상의 R&D 자금 투입과 규제해소 등으로 세계시장점유율 50%, 경쟁국과의 기술격차 5년 이상, 소부장 자립화율 80%, 전문인력 9000명 양성 등 핵심목표를 달성하려는 디스플레이산업 혁신전략 원탁회의가 열렸다. 이를 위해 정부는 세액공제, 특화단지조성 등으로 기업투자를 지원하고, 민간투자의 적기이행을 위해 세제, 정책금융 지원, 인프라, 규제개선 등을 통해 연구개발부터 생산까지 전단계에 걸쳐 지원할 계획이다.
 
-제목: [후생신보] 대원제약, '콜대원키즈펜시럽' 1종류만 회수 대상 - 후생신보
-URL: https://news.google.com/rss/articles/CBMiHmh0dHA6Ly93d3cud2hvc2FlbmcuY29tLzE0NDE5ONIBAA?oc=5
+URL: https://news.google.com/rss/articles/CBMiO2h0dHA6Ly93d3cuaW5zaWRldmluYS5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTIzODU30gEA?oc=5
 
-제목: [카드뉴스] 마스크 해제되자 환자 급증...'급성호흡기 감염증'의 종류 - 시선뉴스(SisunNews)
-요약: 코로나19 방역 조치가 대부분 해제되면서 호흡기질환 유행이 확산하고 있다. 급성호흡기감염증은 세균이나 바이러스 등의 병원체에 의한 감염병으로, 주요한 원인은 호흡기바이러스에 의한 감염으로 알려져 있다. 급성호흡기감염증을 유발하는 호흡기 바이러스 종류는 아데노바이러스, 사람 보카바이러스, 파라인플루엔자바이러스, 호흡기 세포융합 바이러스, 리노바이러스, 사람 메타뉴모바이러스, 사람 코로나바이러스, 마이코플라스마균 등이 있다. 개인위생수칙 준수와 의료기관 방문이 예방과 치료에 중요하다.
+제목: 유죄 몰아가나…중국 매체 "손준호, 혐의 확인되면 최대 10년" [MBN 뉴스7] - MBN News
+URL: https://news.google.com/rss/articles/CCAiC01HanZydlJIeFRrmAEB?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vc2lzdW5uZXdzLmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xODM2NjPSAQA?oc=5
+제목: 삼성, 12나노급 D램 양산…'1초에 영화 2편' / 연합뉴스TV (YonhapnewsTV) - 연합뉴스TV
+URL: https://news.google.com/rss/articles/CCAiCy1UenJaWGVQSmZ3mAEB?oc=5
 
-제목: ‘비대면 진료 제도화’ 소위 논의 불발이 민주당 탓? - 청년의사
-요약: 더불어민주당이 국민의힘 강기윤 의원의 발언에 분노하고 있다. 강 의원은 비대면 진료 제도화를 담은 의료법 개정안 국회 논의가 미뤄진 것을 야당 탓으로 돌렸는데, 이는 사실이 아니었다. 하지만 속기록을 보면 더불어민주당 남인순 의원이 회의 중 의사진행 발언을 통해 비대면 진료 관련 의료법 심사를 하지 않은 부분을 지적했다. 이에 대해 복지위 민주당 관계자는 “(입법 논의보다) 시범사업으로 진행하는 것이 편하고 좋기 때문에 먼저 시범사업을 시작한 것”이라고 말했다.
+제목: 반지의 제왕: 골룸, 소설에 없는 골룸의 반지원정 다룬다 - 게임메카
+요약: 26일 출시 예정인 게임 '반지의 제왕: 골룸'은 톨킨의 대표작 '반지의 제왕'에서 인상 깊은 조연인 골룸을 주인공으로 한 게임이다. 골룸은 파쿠르를 활용한 탐험과 잠입 액션을 중심으로 전투보다는 은신과 유인을 활용해 적을 피하는 방식으로 게임을 진행한다. 게임은 원작 소설과 영화를 최대한 살리는 그래픽과 톨킨이 만든 언어인 신다린어를 지원하며, PC, PS4, PS5, Xbox One, Xbox 시리즈 X/S, 닌텐도 스위치에서 플레이 가능하다.
 
-URL: https://news.google.com/rss/articles/CBMiPmh0dHA6Ly93d3cuZG9jZG9jZG9jLmNvLmtyL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0zMDA1OTkw0gFBaHR0cDovL3d3dy5kb2Nkb2Nkb2MuY28ua3IvbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTMwMDU5OTA?oc=5
+URL: https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LmdhbWVtZWNhLmNvbS92aWV3LnBocD9naWQ9MTczNTk3NtIBL2h0dHBzOi8vbS5nYW1lbWVjYS5jb20vYW1wL3ZpZXcucGhwP2dpZD0xNzM1OTc2?oc=5
 
-제목: Lo-Fi 소울라이크 '블리크 소드 DX' 6월 9일 발매 - 인벤
-요약: 디볼버디지털이 퍼블리싱한 LoFi 배틀러 게임 '블리크 소드 DX'가 6월 9일, PC와 닌텐도 스위치 플랫폼으로 발매된다. 작고, 저주받은 디오라마 전장에서 놀랍도록 잔인한 생물들과 겨뤄야하는 스릴 넘치는 도전으로 가득하다. 새로운 세가지 게임모드, 개선된 조작감과 그래픽 향상, 그 외 많은 부분의 개선으로 애플 아케이드에서의 호평을 이어나갈 예정이다.
+제목: MSI, 성능과 RGB 강화된 'GM51 초경량 무선 게이밍 마우스' 출시 - 뉴스탭
+요약: MSI가 초경량 무선 게이밍 마우스를 출시한다. 이 마우스는 무선 제품임에도 불과 85g의 초경량 무게로 격렬한 게이밍 시 민첩하면서도 정밀한 게이밍을 도와주며, 최대 26,000 DPI와 최대 650 IPS의 추적 속도, 1,000hz의 응답 속도를 통해 섬세한 움직임을 수행하여 빠르고 정확한 컨트롤이 가능하다. 또한 2.4G 무선 기술, 블루투스, 유선 등 총 3가지 연결 모드를 제공하며, 고용량 배터리와 충전 독을 제공하여 오랜 시간 동안 배터리 걱정 없이 게이밍을 즐길 수 있다.
 
-URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmludmVuLmNvLmtyL3dlYnppbmUvbmV3cy8_bmV3cz0yODQ4MTLSAQA?oc=5
+URL: https://news.google.com/rss/articles/CBMiO2h0dHA6Ly93d3cubmV3c3RhcC5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MTk0MjUx0gEA?oc=5
 
-제목: 나는 최면 잘 걸릴까? 간단하게 확인 가능 - 코메디닷컴
-요약: 최근에는 최면 관련 유전자의 DNA를 검사하는 장치가 개발되어 최면 요법이 나에게 통할지 여부를 확인할 수 있다. 이 장치는 최면 요법이 통할 가능성이 높은 유전자 변이인 카테콜오메틸트란스페라제(COMT)를 검사한다. COMT 변이가 있는 사람들은 최면에 걸리는 능력이 있음을 시사한다. 최면 가능성에 따라 등급을 매기는 방법도 있지만, 훈련된 검사자를 찾기가 어렵다. 대부분의 사람은 학습을 거치면 최면이 가능해진다. 최면 요법에 대한 관심이 높아지고 있지만 최면 상태에서 뇌에서 어떤 일이 일어나는지에 대해서는 알려진 바가 거의 없었
+제목: 카메라 프레시 켠듯 눈 앞 번쩍… 눈에 생기는 '이 병' 의심 - 헬스조선
+요약: 빛이 없는 어두운 곳에서 눈앞이 번쩍이면 광시증(光視症)을 의심해야 한다. 광시증은 유리체가 망막에서 떨어지면서 발생하며, 눈앞이 번쩍이고 이글거리는 등의 증상이 나타난다. 광시증은 스마트폰이나 컴퓨터 사용 시간을 줄이고, 음주나 흡연을 피하며, 스트레스를 조절하고, 비타민C나 안토시아닌을 섭취하는 것이 예방 방법이다. 망막박리와 함께 눈앞에 날파리가 날아다니면 망막박리 초기를 의심해야 하며, 망막박리는 수술적 치료가 필요하다.
 
-URL: https://news.google.com/rss/articles/CBMiswFodHRwczovL2tvcm1lZGkuY29tLzE1OTA5MzIvJUVCJTgyJTk4JUVCJThBJTk0LSVFQyVCNSU5QyVFQiVBOSVCNC0lRUMlOUUlOTgtJUVBJUIxJUI4JUVCJUE2JUI0JUVBJUI5JThDLSVFQSVCMCU4NCVFQiU4QiVBOCVFRCU5NSU5OCVFQSVCMiU4Qy0lRUQlOTklOTUlRUMlOUQlQjgtJUVBJUIwJTgwJUVCJThBJUE1L9IBAA?oc=5
+URL: https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vbS5oZWFsdGguY2hvc3VuLmNvbS9zdmMvbmV3c192aWV3Lmh0bWw_Y29udGlkPTIwMjMwNTE4MDI0MjHSAQA?oc=5
 
-제목: 조응천 “이재명이 읍참마속? 나흘 걸리니 마속이 졸려 죽어” - 한겨레
-요약: 조응천 더불어민주당 의원은 이재명 대표가 김남국 의원을 윤리위에 제소하라는 것이 ‘읍참마속’이라는 일각의 평가를 두고 비판했다. 그는 이 대표가 극성 지지층과 결별해야 한다는 주장도 거듭했다.
+제목: 김하성, 빛 바랜 4번의 출루...나달은 은퇴설까지 - YTN
+요약: 샌디에이고의 김하성 선수가 공격과 수비에서 뛰어난 활약을 펼쳤지만, 팀은 패배했다. 마이애미는 지미 버틀러의 3점슛으로 승리하며 플레이오프에 진출했다. 클레이코트 제왕 나달은 고관절 근육 파열로 프랑스오픈에 불참할 전망이며, 은퇴 가능성도 제기되고 있다.
 
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9hc3NlbWJseS8xMDkyMjY1Lmh0bWzSAQA?oc=5
+URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lnl0bi5jby5rci9fbG4vMDEwN18yMDIzMDUxODE3NDMxNDY0ODPSAUNodHRwczovL20ueXRuLmNvLmtyL25ld3Nfdmlldy5hbXAucGhwP3BhcmFtPTAxMDdfMjAyMzA1MTgxNzQzMTQ2NDgz?oc=5
 
-제목: "우리 태쁘" 김태희, ♥비 외조에 함박웃음…흔들림 없는 애정 - 머니투데이
-요약: 김태희가 남편인 가수 겸 배우 비가 선물한 커피차에 대해 인스타그램에 함박웃음을 지었다. 비와 김태희 부부는 그간 각종 루머에 휩싸였으나, 비의 소속사는 이를 명백한 허위 사실이라며 강경 대응할 것을 밝혔다. 김태희는 오는 6월 19일 첫 방송되는 드라마 '마당이 있는 집'에 출연한다.
+제목: 안젤리나 졸리의 새로운 패션 브랜드 '아틀리에 졸리' - 보그 코리아
+요약: 할리우드 배우 안젤리나 졸리가 1년여 전부터 준비해온 브랜드 '아틀리에 졸리(Atelier Jolie)'가 공개되었다. 이 브랜드는 전 세계 패션계의 숨은 고수들과 협력하여 모든 사람이 창작할 수 있는 프로젝트로, 고급 빈티지 소재와 잉여 원단 등을 이용해 옷을 만들어 탄생시키겠다는 포부를 가지고 있다. 또한, 난민에 대한 졸리의 관심이 크기 때문에 난민 견습생 등 재능은 있지만 저평가된 이들도 참여하며, 지속 가능한 패션을 위해 앞장설 계획이다.
 
-URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwNTE4MTAwMzI4ODQ3NjLSAT1odHRwczovL20ubXQuY28ua3IvcmVuZXcvdmlld19hbXAuaHRtbD9ubz0yMDIzMDUxODEwMDMyODg0NzYy?oc=5
+URL: https://news.google.com/rss/articles/CBMi5wFodHRwczovL3d3dy52b2d1ZS5jby5rci8yMDIzLzA1LzE4LyVFQyU5NSU4OCVFQyVBMCVBNCVFQiVBNiVBQyVFQiU4MiU5OC0lRUMlQTElQjglRUIlQTYlQUMlRUMlOUQlOTgtJUVDJTgzJTg4JUVCJUExJTlDJUVDJTlBJUI0LSVFRCU4QyVBOCVFQyU4NSU5OC0lRUIlQjglOEMlRUIlOUUlOUMlRUIlOTMlOUMtJUVDJTk1JTg0JUVEJThCJTgwJUVCJUE2JUFDJUVDJTk3JTkwLSVFQyVBMSVCOCVFQiVBNiVBQy_SAQA?oc=5
 
-제목: 오버워치2 대규모 PvE 컨텐츠 개발 포기, 리소스는 라이브 서비스에 활용 - 보드나라 (Bodnara)
-URL: https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vbS5ib2RuYXJhLmNvLmtyL2FydGljbGUvdmlldy5odG1sP251bT0xODU5MjTSAQA?oc=5
+제목: 코로나19 위중증 위험 큰 유전인자 49개 발견 - 코메디닷컴
+요약: 코로나19 중환자실 환자 2만4000명의 유전자 데이터를 분석한 결과, 위중증에 걸릴 위험이 큰 49개 유전자의 DNA염기서열을 발견했다. 이 중 16개는 이전에 보고된 적이 없는 것이었다. 연구진은 이를 통해 면역 체계가 중요한 역할을 한다는 것을 발견했으며, 이번 연구 결과는 코로나19 뿐만 아니라 다른 질병에 대한 치료법 개발에 기여할 수 있다는 평가를 받고 있다.
 
-제목: 윤대통령 G7 정상회의 참석차 내일 히로시마로 출국 - 연합뉴스TV
-요약: 윤대통령이 내일부터 2박3일 일본 히로시마를 방문해 G7 정상회의에 참석하고 글로벌 의제에 대해 발언할 예정입니다. 또한, 한국인 원폭 희생자 위령비를 참배하고 재일동포들과 만날 예정입니다.
+URL: https://news.google.com/rss/articles/CBMitwFodHRwczovL2tvcm1lZGkuY29tLzE1OTEwODgvJUVDJUJEJTk0JUVCJUExJTlDJUVCJTgyJTk4MTktJUVDJTlDJTg0JUVDJUE0JTkxJUVDJUE2JTlELSVFQyU5QyU4NCVFRCU5NyU5OC0lRUQlODElQjAtJUVDJTlDJUEwJUVDJUEwJTg0JUVDJTlEJUI4JUVDJTlFJTkwLTQ5JUVBJUIwJTlDLSVFQiVCMCU5QyVFQSVCMiVBQy_SAQA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTE4MDA0MzAwNjQx0gEA?oc=5
+제목: [여의도펀치] 여야, 5·18 기념식 총집결…'헌법 수록' 방법에 온도차 - 연합뉴스TV
+요약: 여야 의원들이 5·18 민주화운동 기념식에 참석해 '5·18 정신 헌법 전문 수록'에 대한 입장을 논의했다. 이재명 대표가 '원포인트 개헌'을 제안하면서 대통령실에서는 이를 모독하는 것으로 비판했다. 민주당은 간호법 제정안을 재투표하겠다는 입장이고, 국민의힘은 부결시키겠다는 입장이다. 이에 대해 거대 야당의 입법 독주와 대통령의 거부권 행사가 악순환하는 것 아니냐는 우려와 정치가 실종됐다는 지적이 제기되고 있다.
 
-제목: 강진군,제43주년 5‧18민주화운동 기념식 개최 - 뉴스핌
-요약: 전남 강진군에서 5.18민중항쟁 기념식이 열렸다. 이번 행사는 민주주의 정착을 위해 군부독재에 희생된 영령들의 넋을 기리고 숭고한 뜻을 되새기기 위해 마련됐으며, 관계자 150여 명이 참석했다. 강진부군수는 "5.18은 군부독재에 맞서 시민 스스로의 힘으로 민주주의와 인권, 평화와 정의를 지켜낸 자랑스러운 승리의 역사"라며 대한민국을 넘어 전 세계 곳곳에서 자유를 갈망하는 국민들에게 희망의 길이 되고 있다고 말했다.
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTE4MDExNDAwNjQx0gEA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiMGh0dHBzOi8vd3d3Lm5ld3NwaW0uY29tL25ld3Mvdmlldy8yMDIzMDUxODAwMDI0OdIBMWh0dHBzOi8vbS5uZXdzcGltLmNvbS9uZXdzYW1wL3ZpZXcvMjAyMzA1MTgwMDAyNDk?oc=5
+제목: '불법 도박' 강병규, 300억 탕진…"도박을 승부로 봤다" 후회 - 머니투데이
+요약: 전 야구선수 강병규가 유튜브 채널 '베짱이엔터테인먼트'에서 자신의 논란에 대해 후회하는 모습을 보였다. 강병규는 SNS 저격 글과 불법 인터넷 도박 등 여러 논란에 대해 언급하며 "2009년도에 구설수가 시작됐다. 저도 모르게 그냥 납득하지 못하는 함정에 어느 순간에 정신 차리면 빠져있더라"고 말했다. 또한, 2008년 불법 인터넷 도박 파문에 휘말렸던 일도 언급하며 "너무 되돌리고 싶다"고 후회했다.
 
-제목: G7 정상회의에 '후쿠시마산' 음식 제공 - MBC뉴스
-요약: 일본 정부가 히로시마 G7 정상회의에서 후쿠시마산 식재료를 각국 정상들에게 대접할 예정이다. 이번 정상회의에는 초청국 8곳을 포함한 15개 국가 정상들이 참석하며, 후쿠시마산 농수산물이 사용된 요리를 먹게 될 것이다. 이에 대해 후쿠시마현 지사는 외신 기자들에게도 후쿠시마산 식료품을 제공할 예정이다. 일부 국가들은 이에 대해 논란을 제기하고 있으며, 다음 달에는 후쿠시마 오염수 방류 공사가 마무리될 예정이다.
+URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwNTE4MTUyOTEyODU2MTfSAT1odHRwczovL20ubXQuY28ua3IvcmVuZXcvdmlld19hbXAuaHRtbD9ubz0yMDIzMDUxODE1MjkxMjg1NjE3?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vaW1uZXdzLmltYmMuY29tL3JlcGxheS8yMDIzL253OTMwL2FydGljbGUvNjQ4NDg4Ml8zNjE5MS5odG1s0gFEaHR0cHM6Ly9pbW5ld3MuaW1iYy5jb20vcmVwbGF5LzIwMjMvbnc5MzAvYXJ0aWNsZS82NDg0ODgyXzM2MTkyLmh0bWw?oc=5
+제목: 맨시티 VS 인터 밀란, 6월 'UCL 결승' 격돌... '메짤라' 중원 싸움이 진짜다! - 한국일보
+요약: 2022-23 시즌 UEFA 챔피언스리그 결승은 맨체스터 시티와 인터 밀란의 대결로 결정되었다. 두 팀은 내달 11일 오전 4시(한국시간) 튀르키예 이스탄불의 아타튀르크 올림픽 스타디움에서 맞붙는다. 맨시티는 레알 마드리드와 UCL 준결승 2차전에서 4-0으로 완승하여 결승행 티켓을 따냈다. 인터 밀란은 AC 밀란을 이기며 결승에 진출했다. 두 팀의 결승전은 뜨거운 공격력뿐 아니라 양보 없는 중원 싸움이 관전포인트로 꼽힌다.
+
+URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3Lmhhbmtvb2tpbGJvLmNvbS9OZXdzL1JlYWQvQTIwMjMwNTE4MTUzNjAwMDAzNzjSAQA?oc=5
+
+제목: 이혼 후 유흥업소 나가는 아이돌 …"결혼하고 보니 유부남" - 내외일보
+요약: 전 AKB48 멤버인 코야바시 카나가 유흥업소 종사자가 되었다는 소식이 전해졌다. 코야바시 카나는 이혼 후 싱글맘으로 살다가 유흥업소에서 일하기 시작했으며, 이유로는 라이브 방송에서 벌어들인 돈이 세금 때문에 많이 빠져나가고 아이를 키워야 했기 때문이라고 밝혔다. 또한 전 남편이 결혼 전에 처자식이 있었고 자산이 압류된 상태라고도 말했다. 그러나 코야바시 카나는 유흥업소에서 하는 일이 아이돌 때와 비슷한 점이 많다고 말했다.
+
+URL: https://news.google.com/rss/articles/CBMiPGh0dHA6Ly93d3cubmFld29laWxiby5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTcyNzY0NtIBAA?oc=5
 
 
