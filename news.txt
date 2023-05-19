@@ -1,87 +1,91 @@
-제목: 지멘스, 연간 매출 9~11% 성장으로 ＇상향＇ - 한국경제TV
-요약: 지멘스는 매출 전망을 상향 조정하여 9~11%로 발표했다. 또한, 기본 주당 수익도 9.60~9.90유로로 예상되며, 주문량 확장과 공급망 병목 현상 완화로 인해 이러한 결정을 내렸다고 밝혔다. 지멘스 최고경영자는 상반기를 매우 성공적으로 보냈다며 하반기에 대해 매우 확신한다고 말했다.
+제목: PC의 핵심이 되는 CPU, 정품으로 안 샀더니 발생하는 불상사는? - 케이벤치 (KBench)
+요약: 정품 CPU를 구매하지 않았을 경우 생기는 문제점에 대해 알아보았다. CPU는 불량율이 낮은 하드웨어이지만, 불량이 발생할 수 있으므로 비정품 CPU를 구매하면 불량에 걸릴 확률이 높아진다. 또한, 비정품 CPU를 구매한 경우 A/S나 교환이 어려울 수 있으며, 해외 RMA를 이용해야 할 경우 시간이 많이 소요되어 PC 사용이 불가능해질 수 있다. 따라서, CPU를 구매할 때는 정품을 구매하는 것이 좋다.
 
-URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vbS53b3d0di5jby5rci9OZXdzQ2VudGVyL05ld3MvUmVhZD9hcnRpY2xlSWQ9QTIwMjMwNTE4MDAwM9IBAA?oc=5
+URL: https://news.google.com/rss/articles/CBMiIWh0dHBzOi8va2JlbmNoLmNvbS8_cT1ub2RlLzI0MzE2NtIBAA?oc=5
 
-제목: 4월은 '나상호의 달'…이달의 선수·골 '겹경사' - Goal.com
-URL: https://news.google.com/rss/articles/CBMiuANodHRwczovL3d3dy5nb2FsLmNvbS9rci8lRUIlODklQjQlRUMlOEElQTQvNCVFMSU4NCU4QiVFMSU4NSVBRiVFMSU4NiVBRiVFMSU4NCU4QiVFMSU4NSVCMyVFMSU4NiVBQi0lRTElODQlODIlRTElODUlQTElRTElODQlODklRTElODUlQTElRTElODYlQkMlRTElODQlOTIlRTElODUlQTklRTElODQlOEIlRTElODUlQjQtJUUxJTg0JTgzJUUxJTg1JUExJUUxJTg2JUFGLS0lRTElODQlOEIlRTElODUlQjUlRTElODQlODMlRTElODUlQTElRTElODYlQUYlRTElODQlOEIlRTElODUlQjQtJUUxJTg0JTg5JUUxJTg1JUE1JUUxJTg2JUFCJUUxJTg0JTg5JUUxJTg1JUFFLSVFMSU4NCU4MCVFMSU4NSVBOSVFMSU4NiVBRi0lRTElODQlODAlRTElODUlQTclRTElODYlQjglRTElODQlODAlRTElODUlQTclRTElODYlQkMlRTElODQlODklRTElODUlQTEvYmx0ZGU1NTIwYjM1YzkwZDQzM9IBAA?oc=5
+제목: [포착] 전쟁 1년만에 폐허…바흐무트 ‘파괴 전후’ 사진 공개 - 나우뉴스
+요약: CNN이 우크라이나 최대 격전지 바흐무트의 전쟁 상황을 보여주는 위성사진을 공개했다. 이 사진들은 바흐무트의 학교, 주거 단지, 송신탑 등이 러시아군의 무차별 폭격으로 파괴된 모습을 담고 있다. 현재도 포격이 계속되고 있으며, 우크라이나군과 러시아군의 격전이 이어지고 있다. 우크라이나 국방부는 최근 며칠 새 약 20㎢의 영토를 탈환했다고 밝혔지만, 러시아군도 진격하고 있다는 발표를 내고 있다.
 
-제목: 강수정 “힘들게 밥 지었더니… 10세 子, 짜장면 먹고 싶다고” - MSN
-URL: https://news.google.com/rss/articles/CBMi-AFodHRwczovL3d3dy5tc24uY29tL2tvLWtyL25ld3Mvb3RoZXIvJUVBJUIwJTk1JUVDJTg4JTk4JUVDJUEwJTk1LSVFRCU5RSU5OCVFQiU5MyVBNCVFQSVCMiU4Qy0lRUIlQjAlQTUtJUVDJUE3JTgwJUVDJTk3JTg4JUVCJThEJTk0JUVCJThCJTg4LTEwJUVDJTg0JUI4LSVFNSVBRCU5MC0lRUMlQTclOUMlRUMlOUUlQTUlRUIlQTklQjQtJUVCJUE4JUI5JUVBJUIzJUEwLSVFQyU4QiVCNiVFQiU4QiVBNCVFQSVCMyVBMC9hci1BQTFiakJkN9IBAA?oc=5
+URL: https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vbm93bmV3cy5zZW91bC5jby5rci9uZXdzL25ld3NWaWV3LnBocD9pZD0yMDIzMDUxODYwMTAwNdIBLmh0dHBzOi8vYW1wLnNlb3VsLmNvLmtyL25vd25ld3MvMjAyMzA1MTg2MDEwMDU?oc=5
 
-제목: [설왕설래] 범용인공지능(AGI) - 세계일보
-요약: 마이크로소프트(MS) 소속 과학자들은 최근 생성형 AI인 챗 GPT 최신형 ‘GPT-4’의 실험 결과를 담은 ‘AGI의 불꽃’이라는 논문에서 GPT-4를 초기 버전의 AGI라고 주장했다. GPT-4는 미국 변호사 시험에서 상위 10%의 성적을 냈고 일본 의사국가시험도 합격했다. 그러나 AI 분야 과학자 10명 중 3명 이상은 21세기에 AI가 핵전쟁 같은 대재앙을 일으킬 수 있다고 생각한다.
+제목: 나는 최면 잘 걸릴까? 간단하게 확인 가능 - 코메디닷컴
+요약: 최근 최면 관련 유전자의 DNA를 분석하는 장치가 개발되어 최면 요법이 나에게 통할지 여부를 확인할 수 있다. 이 장치는 최면 요법에 반응할 가능성이 높은 유전자 변이인 카테콜오메틸트란스페라제(COMT)를 분석한다. 최면은 만성 통증, 안면 홍조, 불안증 같은 의학적 문제에 대한 치료법이 될 수 있으며 체중감량에도 도움이 된다는 연구 결과가 있다. 최면 가능성에 상관없이 거의 모든 사람이 최면을 통해 “임상적으로 유의미한 증상 감소”를 달성할 수 있다.
 
-URL: https://news.google.com/rss/articles/CBMiLWh0dHBzOi8vd3d3LnNlZ3llLmNvbS9uZXdzVmlldy8yMDIzMDUxNzUyMDkzMNIBAA?oc=5
+URL: https://news.google.com/rss/articles/CBMiswFodHRwczovL2tvcm1lZGkuY29tLzE1OTA5MzIvJUVCJTgyJTk4JUVCJThBJTk0LSVFQyVCNSU5QyVFQiVBOSVCNC0lRUMlOUUlOTgtJUVBJUIxJUI4JUVCJUE2JUI0JUVBJUI5JThDLSVFQSVCMCU4NCVFQiU4QiVBOCVFRCU5NSU5OCVFQSVCMiU4Qy0lRUQlOTklOTUlRUMlOUQlQjgtJUVBJUIwJTgwJUVCJThBJUE1L9IBAA?oc=5
 
-제목: 알츠하이머 진행 차단 변이체 발견… 치매 정복되나 - 서울Eye
-URL: https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vZXllLnNlb3VsLmNvLmtyL25ld3MvbmV3c1ZpZXcucGhwP2lkPTIwMjMwNTE4MDIwMDAx0gEsaHR0cHM6Ly9hbXAuc2VvdWwuY28ua3Ivc2VvdWwvMjAyMzA1MTgwMjAwMDE?oc=5
+제목: [사진]소녀시대 수영, '샤랄라' - 조선비즈 - 조선비즈
+URL: https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vYml6LmNob3N1bi5jb20vZW50ZXJ0YWlubWVudC9lbnRlcl9nZW5lcmFsLzIwMjMvMDUvMTgvRE43UUpNVTY3M0hLVklBRlNBT0lQQVVYVVEv0gFoaHR0cHM6Ly9iaXouY2hvc3VuLmNvbS9lbnRlcnRhaW5tZW50L2VudGVyX2dlbmVyYWwvMjAyMy8wNS8xOC9ETjdRSk1VNjczSEtWSUFGU0FPSVBBVVhVUS8_b3V0cHV0VHlwZT1hbXA?oc=5
 
-제목: “누구도 우리의 전진을 막을 수 없다”…강남역 7주기 추모집회 - 한겨레
-요약: 강남역 여성 살해사건 7주기를 추모하는 행사가 열렸다. 120여명이 참석해 “누구도 우리의 전진을 막을 수 없다”는 구호를 외치며 손팻말을 들었다. 여성단체, 시민사회단체, 진보정당의 공동주최로 열린 추모집회에서는 여성가족부 폐지 등 여성의 권리를 위한 취지로 발언이 이어졌다. 참석자들은 포스트잇에 글을 남기며 추모의 의미를 나누었다.
+제목: 왜 요즘 게임은 최적화가 '엉망'인가? - 인벤
+요약: GPT3 Return Error: 'choices'
 
-URL: https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L3NvY2lldHlfZ2VuZXJhbC8xMDkyMjMzLmh0bWzSAQA?oc=5
+URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmludmVuLmNvLmtyL3dlYnppbmUvbmV3cy8_bmV3cz0yODQ3NDnSAQA?oc=5
 
-제목: 손준호 中 체포 엿새 만에 영사 면담...축구선수 '뇌물죄' 이유는? / YTN - YTN
-URL: https://news.google.com/rss/articles/CCAiCzNmYld6b0xJZHFNmAEB?oc=5
+제목: 돈 스파이크·유아인·남태현...계속되는 연예계 마약 파문 - YTN
+요약: 한국 연예계에서 마약 관련 사건이 계속되고 있다. 돈 스파이크, 유아인, 남태현 등이 마약 관련 혐의로 조사를 받고 있다. 돈 스파이크는 2차 항소심을 진행 중이며, 유아인은 2차 소환 조사를 마친 후 구속영장이 신청될 예정이다. 남태현과 서민재도 마약 투약 의혹으로 영장실질심사를 받을 예정이다.
 
-제목: 다리에 '이 증상' 있는 사람, 치매 앓을 가능성 높아 - 헬스조선
-요약: 다리를 계속 움직이고 싶은 충동이 드는 '하지불안증후군'이 있는 사람들은 치매 발생 위험이 높다는 연구 결과가 나왔다. 이 연구는 보라매병원 정신건강의학과 김근유 교수팀이 국민건강보험공단 데이터를 활용해 10년간 추적 관찰한 결과이다. 하지불안증후군 환자는 모든 종류의 치매 발생률이 대조군보다 유의하게 높았으며, 알츠하이머와 혈관성 치매 발생률도 높았다. 하지불안증후군 환자는 치매 발병 위험이 높은 만큼 정기적인 인지 평가와 검진을 통해 치매를 조기 발견하고 예방할 필요가 있다고 연구팀은 강조했다.
+URL: https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lnl0bi5jby5rci9fY3MvX3NuXzAxMTdfMjAyMzA1MTgxMDM0MzIwNDMwXzAwNS5odG1s0gFDaHR0cHM6Ly9tLnl0bi5jby5rci9uZXdzX3ZpZXcuYW1wLnBocD9wYXJhbT0wMTE3XzIwMjMwNTE4MTAzNDMyMDQzMA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vbS5oZWFsdGguY2hvc3VuLmNvbS9zdmMvbmV3c192aWV3Lmh0bWw_Y29udGlkPTIwMjMwNTE3MDIwOTbSAQA?oc=5
+제목: 돌아온 소니표 ‘독점’의 시간, 25일 ‘플레이스테이션 쇼케이스’ 개최 - 경향게임스
+요약: 소니인터랙티브엔터테인먼트(SIE)가 24일(현지 시각) ‘플레이스테이션 쇼케이스’를 진행할 예정이다. 이번 쇼케이스는 PS5, PS VR2 등 자사 최신 콘솔 기반 신작에 초점을 맞춰 행사를 진행하며, 산하 스튜디오들이 개발 중인 복수의 신작 발표가 함께 예고된다. 이번 행사는 소니 플레이스테이션 공식 유튜브, 트위치 채널 등을 통해 만나볼 수 있다.
 
-제목: 서울 지하철 요금 하반기 150원 인상 검토 - 연합뉴스
-URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L01ZSDIwMjMwNTE3MDIzMzAwNjQx0gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9NWUgyMDIzMDUxNzAyMzMwMDY0MQ?oc=5
+URL: https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmtoZ2FtZXMuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTIxMzQzOdIBP2h0dHBzOi8vd3d3LmtoZ2FtZXMuY28ua3IvbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTIxMzQzOQ?oc=5
 
-제목: 외계 문명, ‘창백한 푸른 점’ 지구를 어떻게 생각하고 있을까? - 뉴스퀘스트
-요약: 외계 문명이 있다면, 그들은 지구에서 나오는 이동통신의 전파를 이미 탐지했을 것으로 보인다. 이동통신 송신탑에서 나오는 전파가 외계 문명에 어떻게 포착되는지를 시뮬레이션 함으로써 이 질문에 대한 해답을 시도한 연구팀은, 현재 전파 수준에서는 기술적으로 인류보다 훨씬 더 발달한 문명을 갖춘 외계인만이 이를 포착할 수 있을 것으로 제시했다. 그러나 일부 기술 문명은 우리보다 훨씬 더 민감한 수신 시스템을 보유하고 있을 수 있다는 제안도 하였다.
+제목: “폐경 후 안면홍조 심하면 대사증후군 위험 징조” – Sciencetimes - Science Times
+요약: 폐경 여성에서 안면홍조가 심할수록 대사증후군 위험이 높아진다는 연구 결과가 나왔다. 대사증후군은 복부 비만, 고혈압, 고혈당, HDL 콜레스테롤 혈중수치 표준 이하, 중성지방 과다 등 5가지 중 3가지 이상이 해당하는 경우로, 이런 사람들은 심혈관 질환, 당뇨병이 나타날 가능성이 크다. 폐경 후 호르몬 대체요법이 중요하다는 결과도 나왔다.
 
-URL: https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lm5ld3NxdWVzdC5jby5rci9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjA2Njky0gFBaHR0cHM6Ly93d3cubmV3c3F1ZXN0LmNvLmtyL25ld3MvYXJ0aWNsZVZpZXdBbXAuaHRtbD9pZHhubz0yMDY2OTI?oc=5
+URL: https://news.google.com/rss/articles/CBMi1gFodHRwczovL3d3dy5zY2llbmNldGltZXMuY28ua3IvbmV3cy8lRUQlOEYlOTAlRUElQjIlQkQtJUVEJTlCJTg0LSVFQyU5NSU4OCVFQiVBOSVCNCVFRCU5OSU4RCVFQyVBMSVCMC0lRUMlOEIlQUMlRUQlOTUlOTglRUIlQTklQjQtJUVCJThDJTgwJUVDJTgyJUFDJUVDJUE2JTlEJUVEJTlCJTg0JUVBJUI1JUIwLSVFQyU5QyU4NCVFRCU5NyU5OC0lRUMlQTclOTUlRUMlQTElQjAv0gEA?oc=5
 
-제목: 김진표 의장이 ‘까치발’ 들자, 트뤼도가 바로 ‘매너 다리’ - 조선일보
-URL: https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmNob3N1bi5jb20vaW50ZXJuYXRpb25hbC9pbnRlcm5hdGlvbmFsX2dlbmVyYWwvMjAyMy8wNS8xNy9LNEI1RjNVVE9SRk1GSllSN0hIN0JFRTRYSS_SAXBodHRwczovL3d3dy5jaG9zdW4uY29tL2ludGVybmF0aW9uYWwvaW50ZXJuYXRpb25hbF9nZW5lcmFsLzIwMjMvMDUvMTcvSzRCNUYzVVRPUkZNRkpZUjdISDdCRUU0WEkvP291dHB1dFR5cGU9YW1w?oc=5
+제목: 일가족 추정 북한 주민들, 어선 타고 NLL 넘어 귀순 - 경향신문
+요약: 북한 주민들이 이달 초 어선을 타고 서해 북방한계선(NLL)을 넘어 남한으로 귀순한 것으로 확인됐습니다. 군은 북한 어선 1척이 NLL을 넘어 내려오자 즉각 병력을 투입해 탑승 중이던 북한 주민들의 신병을 확보하였으며, 현재 국가정보원과 통일부 등 유관 기관이 합동 심문을 진행 중입니다. 이번 귀순자들은 어린아이를 비롯한 일가족이 포함된 것으로 알려졌으며, 가족 단위 탈북이 공개된 것은 2017년 이후 처음입니다.
 
-제목: 백악관-공화 부채한도 협상 또 결렬...바이든 순방 단축 - 한국어 방송 - VOA Korean
-요약: 미국 대통령 조 바이든과 공화당 지도부가 부채 한도 조정 협상을 위해 회동했으나 결론을 내지 못했다. 하지만 양측은 낙관적인 전망을 밝혔으며, 이번 주말까지 협상 타결이 가능할 것으로 믿는다. 이에 대한 대책으로 바이든 대통령은 파푸아뉴기니와 호주 방문을 취소하고 G7 정상회의 참석을 위해 일본으로 떠난다.
+URL: https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmtoYW4uY28ua3IvcG9saXRpY3MvcG9saXRpY3MtZ2VuZXJhbC9hcnRpY2xlLzIwMjMwNTE4MTAyMTAwMdIBAA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hLzcwOTcwMDAuaHRtbNIBKWh0dHBzOi8vd3d3LnZvYWtvcmVhLmNvbS9hbXAvNzA5NzAwMC5odG1s?oc=5
+제목: [후생신보] 제일약품, 덱실란트 발매 10주년 심포지엄 성료 - 후생신보
+URL: https://news.google.com/rss/articles/CBMiHmh0dHA6Ly93d3cud2hvc2FlbmcuY29tLzE0NDE5MNIBAA?oc=5
 
-제목: 文 "민주주의 흔들리면 5ㆍ18 민주정신 다시 생각해" - KBC광주방송
-요약: 문재인 전 대통령이 5.18 민주항쟁 43주년을 하루 앞두고 광주를 방문해 5.18 묘역을 참배했다. 문 전 대통령은 "민주주의가 흔들리면 5.18 민주정신에 대해 생각하게 된다"는 말을 남겼다. 이번 참배는 전직 대통령으로는 고 김대중, 고 노무현 대통령에 이어 세 번째이다. 문 전 대통령은 5.18 정신 헌법 전문을 수록하는 문제에 대해서는 아쉬움을 표현했다.
+제목: 캐나다 빙판 위에 선 김연아, 혹시 찐 엘사? - 더블유 코리아
+요약: 김연아가 캐나다의 레이크 루이스에서 빙판 위에 선 모습이 팬들 사이에서 큰 화제를 모았다. 꽁꽁 얼어붙은 호수에서 스케이트를 타는 그녀의 모습은 실사판 엘사와 같았다. 팬들은 그녀의 사진을 보며 극찬을 아끼지 않았다.
 
-URL: https://news.google.com/rss/articles/CBMiMmh0dHA6Ly93d3cuaWtiYy5jby5rci9hcnRpY2xlL3ZpZXcva2JjMjAyMzA1MTcwMDY20gEA?oc=5
+URL: https://news.google.com/rss/articles/CBMiugFodHRwczovL3d3dy53a29yZWEuY29tLzIwMjMvMDUvMTgvJUVDJUJBJTkwJUVCJTgyJTk4JUVCJThCJUE0LSVFQiVCOSU5OSVFRCU4QyU5MC0lRUMlOUMlODQlRUMlOTclOTAtJUVDJTg0JUEwLSVFQSVCOSU4MCVFQyU5NyVCMCVFQyU5NSU4NC0lRUQlOTglQjklRUMlOEIlOUMtJUVDJUIwJTkwLSVFQyU5NyU5OCVFQyU4MiVBQy_SAQA?oc=5
 
-제목: 여야, 5.18 광주 총출동…총선 앞두고 호남 민심 잡기 경쟁 - 연합뉴스TV
-요약: 5.18 광주민주화운동 제43주년 기념식에 여야 지도부가 총출동합니다. 국민의힘은 호남 민심 달래기를 위해 KTX 특별열차를 잡았으며, 야당은 이재명 대표를 포함한 지도부와 의원 대부분이 광주에 머무르며 추모 행사에 참석합니다. 이 대표는 5.18 정신 헌법 전문 수록 공약을 여야가 이행하자고 촉구했습니다.
+제목: 조응천 “김남국 의원 윤리위 늑장 제소, 만시지탄(晩時之歎)이다” - KBC광주방송
+요약: 조응천 더불어민주당 의원은 김남국 의원과 태영호 의원에 대한 국회 윤리특위 징계 사안이 중요하며, 이를 먼저 처리해야 한다고 주장했다. 그는 민주당 지도부가 분위기를 악화시키는 강성 지지층을 조속히 정리해야 한다며, 손혜원 전 의원의 '김남국 살리기 프로젝트'는 넌센스라고 말했다. 또한, 국회 윤리특위에 계류 중인 38건 안건 가운데 중대한 사안이 있는 경우에는 김남국 의원과 태영호 의원을 우선적으로 징계해야 한다고 주장했다. 그는 민주당의 리더십에 대해 의구심을 표시하며, 이재명 대표의 리더십이 부족하다고 비판했다.
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTE3MDIxMTAwNjQx0gEA?oc=5
+URL: https://news.google.com/rss/articles/CBMiMmh0dHA6Ly93d3cuaWtiYy5jby5rci9hcnRpY2xlL3ZpZXcva2JjMjAyMzA1MTgwMDIx0gEA?oc=5
 
-제목: '김남국 코인' 수사 쟁점은…'자금출처·불법성' 관건 - 연합뉴스TV
-요약: 검찰이 김남국 의원의 코인 의혹과 관련해 거래소 등을 압수수색하며 수사에 속도를 내고 있습니다. 거래 내역 등을 확보한 검찰이 밝혀야 할 건 투자금의 출처와 거래 과정의 불법성입니다. 김 의원이 이 과정에서 상장정보 등을 미리 알았을 것이란 의혹에 주목하고 있습니다.
+제목: 축구대표 손준호 6일째 구금 조사…"인권 침해 없어" - MBN News
+URL: https://news.google.com/rss/articles/CCAiC2VVTHdJa3VTU2k0mAEB?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTE3MDIxMDAwNjQx0gEA?oc=5
+제목: 식약처, 18일 규제과학 혁신포럼 개최 - 데일리팜
+URL: https://news.google.com/rss/articles/CBMiL2h0dHA6Ly9tLmRhaWx5cGhhcm0uY29tL25ld3NWaWV3Lmh0bWw_SUQ9MzAwMzEz0gEA?oc=5
 
-제목: '이 혈관' 굳으면 활기찬 노후 멀어진다 - 코메디닷컴
-요약: 혈관 건강을 유지하는 것이 노인들의 신체 기능을 보존하는 데 도움이 된다는 연구 결과가 나왔다. 대동맥 경직성과 혈관 기능이 노화 관련 신체적 쇠퇴와 관련이 있다는 것을 발견했으며, 혈관 건강을 목표로 개입하면 노화 관련 쇠퇴를 줄일 수 있다는 것을 보여준다. 이번 연구는 대규모 코호트의 데이터를 활용하고 종단 연구 설계를 사용하여 이전 조사를 확장했다.
+제목: 뷔·제니, 파리 데이트 목격담 확산…소속사는 묵묵부답 - YTN
+요약: BTS member V (real name Kim Taehyung, 26) and BLACKPINK member Jennie (real name Kim Jennie, 26) are rumored to be dating again after photos and videos of them on a date in Paris were shared on social media and online communities. This is not the first time the two have been involved in dating rumor
 
-URL: https://news.google.com/rss/articles/CBMinwFodHRwczovL2tvcm1lZGkuY29tLzE1OTA3NDAvJUVBJUIyJUJEJUVDJUE3JTgxJUVCJTkwJTlDLSVFQiU4QyU4MCVFQiU4RiU5OSVFQiVBNyVBNS0lRUIlODUlQjglRUMlOUQlQjgtJUVBJUIxJUI0JUVBJUIwJTk1LSVFQyU5QyU4NCVFRCU5OCU5MSVFRCU5NSU5QyVFQiU4QiVBNC_SAQA?oc=5
+URL: https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3Lnl0bi5jby5rci9fY3MvX3NuXzAxMTdfMjAyMzA1MTgwOTQzMjEzMzEwXzAwNS5odG1s0gFDaHR0cHM6Ly9tLnl0bi5jby5rci9uZXdzX3ZpZXcuYW1wLnBocD9wYXJhbT0wMTE3XzIwMjMwNTE4MDk0MzIxMzMxMA?oc=5
 
-제목: "G7 히로시마 정상회의 때 후쿠시마산 식재료 사용" - 연합뉴스
-URL: https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluYS5jby5rci92aWV3L0FLUjIwMjMwNTE3MTU3MzAwMDcz0gExaHR0cHM6Ly9tLnluYS5jby5rci9hbXAvdmlldy9BS1IyMDIzMDUxNzE1NzMwMDA3Mw?oc=5
+제목: 전국 비 소식에 때이른 무더위 주춤…제주도엔 호우주의보 - 한겨레
+요약: 18일 전국 대부분 지역에 비가 예상되며, 이번 비로 한여름을 방불케한 더위는 한풀 꺾일 전망이다. 비는 제주도와 남해안을 중심으로 많이 오고, 내륙에는 대기불안정으로 충남권에 발달한 비구름대의 영향을 받을 것으로 보인다. 비는 오늘 대체로 그치겠으나 제주와 남해안 일대는 내일 오전까지 이어질 것으로 보인다. 18일 미세먼지는 전 권역 ‘좋음’~‘보통’으로 예상된다.
 
-제목: 수수방관 비판 커지자…민주당, 김남국 윤리위 '뒷북 제소 - 한겨레
-요약: 더불어민주당이 김남국 의원을 가상자산 투기 의혹으로 국회 윤리특별위원회에 제소했다. 김 의원은 진상조사와 징계를 미적댄 뒤 탈당했는데, 이에 대한 민주당의 대응이 늦어지자 비판이 쏟아졌다. 이재명 대표는 김 의원이 공직자 윤리규범을 위반한 것으로 판단해 윤리특위 제소가 필요하다고 밝혔다. 윤리특위는 이날 전체회의를 열어 김 의원 징계 논의에 착수했다. 국회법상 징계는 공개회의에서의 경고, 공개회의에서의 사과, 30일 이내 출석정지, 제명의 4가지다.
+URL: https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9zb2NpZXR5L2Vudmlyb25tZW50LzEwOTIyNTUuaHRtbNIBAA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9hc3NlbWJseS8xMDkyMjI1Lmh0bWzSAQA?oc=5
+제목: 단 몇 분이지만...건강 개선하는 간단한 팁 4 - 코메디닷컴
+요약: 간단한 활동만으로도 건강을 지킬 수 있다는 것을 알아보았다. 식사 시간을 늘리고 천천히 식사하며, 야외에서 잠깐 앉아서 자연을 둘러보고, 친구나 가족에게 연락하며, 15분 짧은 운동을 하는 것이 좋다. 이러한 활동들은 면역력을 강화하고 기분을 개선하는 동시에 다양한 만성 질환으로부터 건강을 지킬 수 있다.
 
-제목: 인터밀란, AC밀란 꺾고 챔스 결승 진출 - 연합뉴스TV
-요약: 인터 밀란이 AC 밀란을 꺾고 유럽축구연맹 챔피언스리그 결승에 진출했다. 이탈리아 밀라노에서 열린 준결승 2차전에서 1대 0으로 승리해 13년 만에 챔피언스리그 결승 티켓을 거머쥐었다. 인터 밀란은 18일 열리는 레알 마드리드와 맨체스터 시티 경기 승자와 우승컵을 놓고 다투게 된다.
+URL: https://news.google.com/rss/articles/CBMitQFodHRwczovL2tvcm1lZGkuY29tLzE1OTA5MzUvJUVCJThCJUE4LSVFQiVBQSU4Ny0lRUIlQjYlODQlRUMlOUQlQjQlRUMlQTclODAlRUIlQTclOEMtJUVBJUIxJUI0JUVBJUIwJTk1LSVFQSVCMCU5QyVFQyU4NCVBMCVFRCU5NSU5OCVFQiU4QSU5NC0lRUElQjAlODQlRUIlOEIlQTglRUQlOTUlOUMtJUVEJThDJTgxLTQv0gEA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTE3MDE3OTAwNjQx0gEA?oc=5
+제목: [리얼푸드] 맘스터치, 배틀그라운드 협업 '맘스터치 배그세트' 출시 - 헤럴드경제
+요약: 한 달간 맘스터치에서 '맘스터치 배그세트'를 판매하며 배틀그라운드 스페셜 게임 쿠폰을 증정한다. 맘스피자와 맘스터치 피자앤치킨에서도 피자 구매 시 배틀그라운드 스페셜 게임 쿠폰을 증정한다.
 
-제목: 박진, 멕시코 주지사 만나 한국 첨단산업 현지진출 협조 당부 - 한국경제
-요약: 일본에서 G7 정상회의가 열리고, 참가국들은 다양한 과제에 대해 의견을 교환한 뒤 공동성명으로 회의 결과를 발표할 예정입니다. G7은 중국과 러시아에 대항해 힘에 의한 현상 변경을 반대하고, 세계 경제와 기후변화, 보건 등 전 지구적 과제에서 개발도상국과 협력을 강화하겠다는 뜻도 밝힐 것으로 보입니다. 한일 및 한미일 정상회담도 열릴 예정입니다.
+URL: https://news.google.com/rss/articles/CBMiNGh0dHA6Ly9iaXouaGVyYWxkY29ycC5jb20vdmlldy5waHA_dWQ9MjAyMzA1MTgwMDAxMTnSAQA?oc=5
 
-URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vd3d3Lmhhbmt5dW5nLmNvbS9wb2xpdGljcy9hcnRpY2xlLzIwMjMwNTE3MjMzMlnSATNodHRwczovL3d3dy5oYW5reXVuZy5jb20vcG9saXRpY3MvYW1wLzIwMjMwNTE3MjMzMlk?oc=5
+제목: 이근 "클럽에서 제지당한 구제역, 유명인 골라 공격" 주장 [소셜iN] - MBC뉴스
+요약: 이근 전 해군특수전전단 대위가 자신을 둘러싼 논란에 대해 강경하게 대응하겠다는 의지를 밝혔다. 이근은 자신의 경력과 사생활에 문제가 있다는 주장을 한 유튜브 채널을 지적하며, 해당 채널이 허위 주장을 하고 있다고 반박했다. 이근은 또한 과거 소속사인 무사트를 "사기꾼 회사"라고 말하며, 허위사실 유포하는 사람들은 한명도 안 빼고 다 고소할 것이라고 강경한 입장을 전했다.
+
+URL: https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9lbnRlci9hcnRpY2xlLzY0ODQ4NTVfMzYxNjEuaHRtbNIBQmh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9lbnRlci9hcnRpY2xlLzY0ODQ4NTVfMzYxNjIuaHRtbA?oc=5
+
+제목: 자동차 시동거는 것처럼… 만성 우울증 환자 '의욕' 되찾는 법 - 헬스조선
+URL: https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vaGVhbHRoLmNob3N1bi5jb20vc2l0ZS9kYXRhL2h0bWxfZGlyLzIwMjMvMDUvMTcvMjAyMzA1MTcwMjMyNC5odG1s0gEA?oc=5
 
 
