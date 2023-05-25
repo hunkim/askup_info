@@ -1,87 +1,95 @@
+제목: iOS 17, 이렇게 나올까 - ZD넷 코리아
+URL: https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzA1MjQxMTIxMTnSAQA?oc=5
+
+제목: [이시각헤드라인] 5월 24일 뉴스센터13 - 연합뉴스TV
+요약: - 누리호가 오늘 세 번째 우주 비행에 나선다.
+- 배우 유아인이 마약 투약 혐의로 구속 기로에 섰다.
+- 국회 국토위가 전세사기 특별법 제정안을 처리했다.
+- '노란봉투법'의 본회의 직회부가 의결됐다.
+- 국민의힘과 정부는 '불법 전력' 단체가 집회·시위 개최 계획을 신고할 경우 이를 허가하지 않는 방안을 검토하겠다고 밝혔다.
+
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTI0MDA5MDAwNjQx0gEA?oc=5
+
+제목: 500만 화소로 업그레이드 된 IP 카메라, EFM ipTIME C500 - 보드나라 (Bodnara)
+URL: https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vbS5ib2RuYXJhLmNvLmtyL2FydGljbGUvdmlldy5odG1sP251bT0xODYwMjXSAQA?oc=5
+
+제목: 송지효, 우쥬록스 전 대표 횡령 혐의 고발 - 한국일보
+요약: 배우 송지효가 소속사 우쥬록스의 전 대표를 횡령 혐의로 고발했다. 송지효 측은 계약 기간 중 정상적인 절차를 거치지 않고 수익을 지급하지 않았다며 고발장을 접수했다. 송지효 측은 또 다른 피해자가 생기지 않길 바라며 빠른 수사를 촉구했다. 최근 우쥬록스는 소속 연예인과의 미정산금 갈등으로 주목받았다.
+
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vbS5oYW5rb29raWxiby5jb20vTmV3cy9SZWFkL0EyMDIzMDUyNDEyMDYwMDA1NDgz0gEA?oc=5
+
+제목: "5G 20배 빠르다" 과장 광고한 이통3사에 공정위, 336억원 과징금 부과 - 디지털데일리
+요약: 공정거래위원회가 SK텔레콤, KT, LG유플러스 등 이동통신 3사의 5G 속도 거짓 광고에 대해 시정명령과 함께 336억원의 과징금을 부과했다. 이통3사는 실제 사용환경에서는 구현될 수 없는 5G 기술표준상 목표속도인 20Gbps를 실제 소비자가 이용할 수 있는 것처럼 광고하거나, 자신의 5G 서비스 속도가 경쟁사들보다 빠르다고 광고한 것 등이 문제가 되었다. 이번 조치는 이동통신 시장에서 통신 기술세대 전환 시마다 반복되어온 부당광고 관행을 근절하고, 소비자가 신뢰할 수 있는 소비 환경을 조성하기 위한 것이다.
+
+URL: https://news.google.com/rss/articles/CBMiM2h0dHA6Ly9tLmRkYWlseS5jby5rci9wYWdlL3ZpZXcvMjAyMzA1MjQxMDM2MTQ0MDE5MNIBAA?oc=5
+
+제목: 비니시우스 퇴장 철회, 차비는 의문 "공격 있었는데... 놀랍다" - 풋볼리스트 FOOTBALLIST
+요약: 바르셀로나 감독 차비 에르난데스는 비니시우스 주니어의 레드카드가 취소된 것에 대해 의문을 제기했다. 그러나 비니시우스가 경기에서 인종차별을 당한 것과 관련된 폭력 사건은 다른 문제라고 말했다. 바르셀로나는 이미 우승을 확정했지만 최근 2연패를 당한 것에 대해 아쉬움을 표했다.
+
+URL: https://news.google.com/rss/articles/CBMiP2h0dHA6Ly93d3cuZm9vdGJhbGxpc3QuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTE2NzUwMtIBAA?oc=5
+
+제목: 마이크로소프트, 개발자의 차세대 AI 앱 구축 돕는 기술 대거 발표 – Korea News Center - Microsoft News
+요약: GPT3 Return Error: 'choices'
+
+URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5taWNyb3NvZnQuY29tL2tvLWtyLzIwMjMvMDUvMjQvYnVpbGRfMjAyMy_SAQA?oc=5
+
 제목: [속보] 국회 국토위, '전세사기' 특별법 처리…25일 본회의 처리 전망 - 한겨레
-요약: 전국 대책위원회 관계자들이 전세사기와 깡통전세 피해자를 위한 특별법 처리를 촉구하며 국회에 서명 용지를 전달하려다 경찰에 막혔다. 이에 국회 국토교통위원회는 전세사기 피해자 지원 및 주거안정에 관한 특별법 제정안을 처리하였고, 법제사법위원회에서도 처리될 전망이다. 특별법안에는 이중 계약, 신탁사기, 무자본 갭투기, 불법개조한 근린생활시설 전세 피해자 등이 지원 대상으로 포함되며, 특히 피해자 보증금 회수 문제에 대해서는 최우선변제 대상에서 빠진 피해자에게 대출을 무이자로 지원하기로 결정되었다.
+요약: 전세사기와 깡통전세 피해자를 위한 '전세사기 피해자 지원 및 주거안정에 관한 특별법' 제정안이 국회 국토교통위원회에서 의결되었다. 이에 따라 법제사법위원회에서도 처리되어 본회의에서 최종적으로 결정될 전망이다. 특별법안에는 이중 계약, 신탁사기, 무자본 갭투기, 불법개조한 근린생활시설 전세 피해자 등이 지원 대상으로 포함되어 있으며, 특히 최우선변제 대상에서 빠진 피해자에게는 최장 10년간 무이자 대출을 제공한다.
 
 URL: https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmhhbmkuY28ua3IvYXJ0aS9wb2xpdGljcy9hc3NlbWJseS8xMDkzMDc2Lmh0bWzSAQA?oc=5
 
+제목: 배지환, 2안타 쳤지만 견제사·주루사로 횡사 - YTN
+요약: 피츠버그의 배지환 선수가 안타 2개를 쳤지만, 두 번이나 주루 도중 아웃되어 패배했다. 3회에는 1루에서 견제구에 걸려 태그아웃되었고, 8회에는 3루까지 뛰려다 중계 플레이에 걸려 아웃되었다. 배지환은 두 번 모두 비디오판독을 요청했지만, 판정은 바뀌지 않았다.
+
+URL: https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lnl0bi5jby5rci9fbG4vMDEwN18yMDIzMDUyNDExMjYwMDU4NDXSAUNodHRwczovL20ueXRuLmNvLmtyL25ld3Nfdmlldy5hbXAucGhwP3BhcmFtPTAxMDdfMjAyMzA1MjQxMTI2MDA1ODQ1?oc=5
+
 제목: 러시아 로켓 타고 가려던 도요샛 위성, 국산 누리호에 실려 비상 - 한국일보
-요약: 한국과학기술원(KAIST)이 만든 차세대 소형위성 2호(NEXTSAT-2)가 누리호 3차 발사로 우주 공간에 보내졌다. 이 위성은 영상레이더 국산화 및 지구관측, 근지구 궤도 우주방사선 관측, 산·학·연이 국산화한 위성 핵심기술 검증 작업 등을 담당하며, 다양한 분야에서 연구와 정책 결정에 도움을 줄 것으로 예상된다. 또한, 큐브위성 7기가 함께 탑재되었으며, 한국천문연구원이 만든 도요샛(SNIPE) 4개 위성은 지구에서 가까운 우주 날씨 변화를 관측한다.
+요약: 한국과학기술원(KAIST)이 만든 차세대 소형위성 2호(NEXTSAT-2)가 누리호 3차 발사로 우주 공간에 보내졌다. 이 위성은 영상레이더 국산화 및 지구관측, 근지구 궤도 우주방사선 관측, 산·학·연이 국산화한 위성 핵심기술 검증 작업 등을 담당하며, 다양한 분야에서 연구와 정책 결정에 도움을 줄 것으로 예상된다. 또한, 큐브위성 7기가 함께 실렸으며, 한국천문연구원이 만든 도요샛(SNIPE) 4개 위성은 지구에서 가까운 우주 날씨 변화를 관측한다. 이번 발사로 국내 로켓에 실용 위성이 탑재되는 것은 사상 처음이다.
 
 URL: https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vaGFua29va2lsYm8uY29tL05ld3MvUmVhZC9BMjAyMzA1MjMxNjI2MDAwMTA2NtIBAA?oc=5
 
-제목: "국내 의료기기 산업, 높은 '상급종합병원 문턱'에 표류 중" - 의사신문
-요약: 국내 의료기기 산업이 상급종합병원의 높은 문턱으로 인해 발전의 장벽을 겪고 있다는 것이 산업계의 의견이다. 이에 대한 대책으로 23일 범부처전주기의료기기연구개발사업단 성과보고회에서는 국내 기업의 신기술 시장 선점을 위해 식약처 인허가 역량 확충이 필요하다는 의견이 제시됐다. 또한, 국내에서 먼저 인정을 받아야 해외 진출도 더 용이해진다는 것이 지적되었으며, 기업들은 관련 학회와 협력해야 한다는 조언도 제시됐다. 사업단은 오는 2025년 1기 사업 종료를 앞두고 2기 사업을 준비하고 있다.
+제목: 정보통신산업진흥원, '2023년 시장성 테스트 지원 사업’ 참가기업 모집... 중소 SW기업의 시장 경쟁력 강화한다! - AVING News
+요약: 정보통신산업진흥원(NIPA)은 '2023년 시장성 테스트 지원 사업’을 추진하여 중소 소프트웨어(SW) 기업의 시장 경쟁력을 강화하고자 한다. 이 사업은 SW제품의 품질, 성능, 사용성 등을 전문가가 평가하고 개선방안을 제시해주는 컨설팅 서비스를 무료로 제공하여 SW제품의 시장성을 검증하고, 고객의 만족도와 신뢰도를 높이는 것을 목적으로 한다. 사업 참여를 원하는 기업은 NIPA 홈페이지에서 참가신청서를 작성하고 제출하면 된다.
 
-URL: https://news.google.com/rss/articles/CBMiPmh0dHA6Ly93d3cuZG9jdG9yc3RpbWVzLmNvbS9uZXdzL2FydGljbGVWaWV3Lmh0bWw_aWR4bm89MjIyOTQ50gEA?oc=5
-
-제목: AMD FSR3는 라데온 전용에 최대 4프레임 보간? - 보드나라 (Bodnara)
-요약: AMD가 발표한 FSR 3 기술에 대한 자세한 내용이 공개되었습니다. FSR 3은 드라이버 단에서 작동하는 것으로 제한될 가능성이 있으며, 최대 4프레임까지 보간 프레임을 추가할 수 있습니다. 이에 대한 이미지 품질은 아직 논란이 있으며, FSR 3은 2023년 중 출시될 예정입니다.
-
-URL: https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3LmJvZG5hcmEuY28ua3IvYmJzL2FydGljbGUuaHRtbD9udW09MTg2MDQy0gEA?oc=5
+URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8va3IuYXZpbmcubmV0L25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0xNzc5NTYy0gE7aHR0cHM6Ly9rci5hdmluZy5uZXQvbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTE3Nzk1NjI?oc=5
 
 제목: 탈모치료제 미녹시딜 사용 후 '쉐딩현상'…원인과 해결책은? | 뉴스/칼럼 | 건강이야기 - 하이닥
 URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbW9iaWxlLmhpZG9jLmNvLmtyL2hlYWx0aHN0b3J5L25ld3MvQzAwMDA3OTI3MDDSAQA?oc=5
 
 제목: [포착] 당신이 버린 옷이 칠레 사막에…위성에도 보이는 ‘옷 무덤’ - 나우뉴스
-요약: 칠레의 아타카마 사막은 세계에서 가장 건조한 곳으로 유명하지만, 최근에는 버려진 옷들이 모여 거대한 '옷 무덤'이 되었다. 이곳에는 전 세계에서 버려진 패스트 패션 브랜드 제품들이 쌓여있으며, 매년 5만 9000톤에 달하는 중고 및 재고 의류가 들어온다. 이 옷들은 대부분 중국이나 방글라데시 등에서 만들어진 것으로, 최소 3만 9000톤은 그대로 버려져 쓰레기가 된다. 이렇게 매년 버려진 옷이 아타카마 사막에 쌓이면서 이곳은 옷 무덤이 되었고, 이제는 위성으로도 관측된다. 이렇게 방치된 옷은 생분해되지 않으며, 플라스틱 만큼 독성이
+요약: 칠레의 아타카마 사막은 세계에서 가장 건조한 곳으로 유명하지만, 최근에는 버려진 옷들이 모여 거대한 '옷 무덤'이 되었다. 이곳에는 전 세계에서 버려진 패스트 패션 브랜드 제품들이 쌓여있으며, 매년 5만 9000톤에 달하는 중고 및 재고 의류가 들어온다. 이 옷들은 대부분 중국이나 방글라데시 등에서 만들어진 것으로, 새 것도 많다. 이후 산티아고에서 온 의류상들이 이중 상품성 있는 옷을 골라 다른 국가로 밀반출하지만, 최소 3만 9000톤의 옷은 그대로 아타카마 사막에 버려져 쓰레기가 된다. 이렇게 매년 버려진 옷이 아타카마 사막에
 
 URL: https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vbm93bmV3cy5zZW91bC5jby5rci9uZXdzL25ld3NWaWV3LnBocD9pZD0yMDIzMDUyNDYwMTAwNtIBLmh0dHBzOi8vYW1wLnNlb3VsLmNvLmtyL25vd25ld3MvMjAyMzA1MjQ2MDEwMDY?oc=5
 
 제목: 10만명 중 1명 발생, 선천성 대사이상 - 코메디닷컴
-요약: 프로피온산혈증은 10만 명 중 1명 발생하는 초희귀질환이다. 이 질환은 propionyl CoA carboxylase라는 효소 결손으로 인해 혈액 내 프로피오닌산이 축적되어 뇌 손상, 혈액 산성화, 암모니아 증가 등의 증상이 나타난다. 주요 증상은 신생아기부터 시작되며, 늦은 진단으로 치료가 안 될 경우 뇌 손상에 따른 지능 저하 및 경련, 사망에 이를 수 있다. 혈액과 소변 검사를 통해 진단하며, 현재는 수액과 포도당 투여, 알칼리 요법, 식이요법 등으로 치료하지만, 아직 치료 옵션이 전무한 상황이다. 최근에는 mRNA 치료제와 
+요약: 프로피온산혈증은 10만 명 중 1명 발생하는 초희귀질환이다. 이 질환은 propionyl CoA carboxylase라는 효소 결손으로 인해 혈액 내 프로피오닌산이 축적되어 뇌 손상, 혈액 산성화, 암모니아 증가 등 여러 증상이 나타난다. 주요 증상은 신생아기부터 시작되며, 수유 후 구토, 식욕 저하, 발달 지연, 성장 장애 등이 나타난다. 혈액과 소변 검사를 통해 진단하며, 현재는 수액과 포도당 투여, 알칼리 요법, 식이요법 등으로 치료하지만, 아직 치료 옵션이 전무한 상황이다. 최근에는 mRNA 치료제와 유전자 치료제 후보물질들
 
 URL: https://news.google.com/rss/articles/CBMimgFodHRwczovL2tvcm1lZGkuY29tLzE1OTIxNjEvMTAlRUIlQTclOEMlRUIlQUElODUtJUVDJUE0JTkxLTElRUIlQUElODUtJUVCJUIwJTlDJUVDJTgzJTlELSVFQyU4NCVBMCVFQyVCMiU5QyVFQyU4NCVCMS0lRUIlOEMlODAlRUMlODIlQUMlRUMlOUQlQjQlRUMlODMlODEv0gEA?oc=5
 
-제목: 조현아 “집 5000평? 그러면 저 일 안 해요” 해명 - 조선일보
-URL: https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNob3N1bi5jb20vZW50ZXJ0YWlubWVudHMvZW50ZXJfZ2VuZXJhbC8yMDIzLzA1LzI0L0xMN1pIMlZKWFpDSTdOTEFYM0FYS01MQ1RBL9IBaWh0dHBzOi8vd3d3LmNob3N1bi5jb20vZW50ZXJ0YWlubWVudHMvZW50ZXJfZ2VuZXJhbC8yMDIzLzA1LzI0L0xMN1pIMlZKWFpDSTdOTEFYM0FYS01MQ1RBLz9vdXRwdXRUeXBlPWFtcA?oc=5
+제목: 김흥국, 딸 美 대학 졸업식서 눈물 "행복 시작" - ZD넷 코리아
+URL: https://news.google.com/rss/articles/CBMiK2h0dHBzOi8vemRuZXQuY28ua3Ivdmlldy8_bm89MjAyMzA1MjQxMDI1NDnSAQA?oc=5
 
 제목: 생성 AI와 온디바이스 인공지능 구현의 미래...퀄컴, '스냅드래곤 컴퓨팅 플랫폼'의 비전 - 인공지능신문
-요약: 퀄컴과 마이크로소프트가 협업하여 온디바이스 AI 솔루션을 개발하고, 이를 이용해 PC 및 스마트폰 등 엣지 디바이스에서 생성 AI를 보다 저렴하고 안정적이며 비공개로 만들 수 있다는 것을 발표했다. 이를 위해 퀄컴 스냅드래곤 컴퓨팅 플랫폼에서 실행되는 생성 AI를 비롯한 온디바이스 AI의 최신 혁신 기술과 윈도우 11 PC용 애플리케이션을 빌드하는 개발자를 위한 새로운 경로를 제공할 예정이다. 이를 통해 다양한 디바이스에서 AI 애플리케이션을 실행하면 비용 효율성, 개인 정보 보호, 개인화 및 대기 시간이 향상될 것으로 예상된다.
+요약: 퀄컴과 마이크로소프트가 협업하여 온디바이스 AI 솔루션을 개발하고, 이를 이용해 PC 및 스마트폰 등 엣지 디바이스에서 생성 AI를 보다 저렴하고 안정적이며 비공개로 만들 수 있다는 것을 발표했다. 이를 위해 퀄컴 스냅드래곤 컴퓨팅 플랫폼에서 실행되는 생성 AI를 비롯하여 온디바이스 AI의 최신 혁신 기술과 스냅드래곤으로 구동되는 윈도우 11 PC용 애플리케이션을 빌드하는 개발자를 위한 새로운 경로를 제공한다. 이를 통해 다양한 디바이스에서 AI 애플리케이션을 실행하면 비용 효율성, 개인 정보 보호, 개인화 및 대기 시간이 향상된다
 
 URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmFpdGltZXMua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTI4MTAy0gEA?oc=5
 
 제목: 건강한 여름나기…생산성 지켜라 - 축산신문
-요약: 한국부제병연구소에서 개발한 '모기저리 갓등'은 모기와 쇠파리 등 해충을 퇴치하는 LED 전구로, 특허를 받은 제품이다. 반사각을 적용하여 1대 설치로 4개 우방 커버가 가능하며, 경제적이다. 이 제품은 모기와 쇠파리 등 흡혈 곤충으로부터 전염되는 질병 예방에 효과적이다.
+요약: 한국부제병연구소에서 개발한 '모기저리 갓등'은 모기와 쇠파리 등 해충을 퇴치하는 제품으로, 특허를 받았다. 이 제품은 반사각을 적용하여 1대만 설치해도 4개 우방 커버가 가능하며, 경제적이다. 이 제품은 모기와 쇠파리 등 흡혈 곤충으로부터 전염되는 질병을 예방할 수 있어 축산농가로부터 좋은 반응을 얻고 있다.
 
 URL: https://news.google.com/rss/articles/CBMiOGh0dHA6Ly93d3cuY2h1a3Nhbm5ld3MuY28ua3IvbmV3cy9hcnRpY2xlLmh0bWw_bm89MjU0OTY50gEA?oc=5
 
 제목: 경찰, '채용 비리 혐의' 박지원·서훈 자택 압수수색 - MBC뉴스
-요약: 박지원 전 국정원장과 서훈 전 국가안보실장이 채용 관련 직권남용 혐의로 경찰에 압수수색을 받았다. 박 전 원장은 보좌진 출신 2명을 정당한 추천 절차 없이 국가안보전략연구원의 연구위원으로 채용한 혐의를 받고, 서 전 실장은 연구기획실장으로 채용한 조 모 씨가 인사 복무 규칙 변경을 토대로 채용된 것으로 보고 있다.
+요약: 박지원 전 국정원장과 서훈 전 국가안보실장의 자택과 국정원 사무실 등이 경찰에 의해 압수수색되었다. 박 전 원장과 서 전 실장은 채용 관련 직권남용 혐의를 받고 있으며, 자신의 측근들을 국정원 산하 연구기관인 국가안보전략연구원에 취업하도록 청탁한 의혹이 있다. 이에 대해 경찰은 해당 의혹 관련 채용 서류 등을 확보하기 위해 강제수사에 나서고 있다.
 
 URL: https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vaW1uZXdzLmltYmMuY29tL25ld3MvMjAyMy9zb2NpZXR5L2FydGljbGUvNjQ4Njg1Ml8zNjEyNi5odG1s0gFEaHR0cHM6Ly9pbW5ld3MuaW1iYy5jb20vbmV3cy8yMDIzL3NvY2lldHkvYXJ0aWNsZS82NDg2ODUyXzM2MTI3Lmh0bWw?oc=5
 
-제목: 하이브로, 드래곤빌리지 정통 세계관을 담은 도감북 출간 - IT비즈뉴스
-요약: 게임 회사 하이브로가 인기 모바일게임 '드래곤빌리지'의 역사를 담은 '드래곤빌리지 컬렉션 도감북'을 출간했다. 이 책은 게임에 등장하는 지역, 테이머, 드래곤 등에 대한 정보가 수록되어 있으며, 비밀 코드를 통해 게임 속 드래곤을 획득할 수 있다. 이 책은 드래곤빌리지 공식 스마트스토어에서 판매 중이며, 대형서점과 온라인 서점에서도 곧 만날 수 있다.
+제목: 사노피 '니르세비맙', RSV로 인한 영유아 입원율 83% 감소 확인 - 메디팜스투데이
+요약: 사노피는 유럽소아감염병학회에서 니르세비맙의 효능과 안전성을 확인한 HARMONIE 3b상 임상 결과를 발표했다. 이 연구는 2022-2023 RSV 유행 시즌 동안 수집된 데이터를 바탕으로 니르세비맙의 효능 및 안전성을 확인하는 것을 목표로 하는 대규모 다국가 유럽중재 임상시험이다. 연구 결과, 니르세비맙을 투여한 영유아의 RSV 관련 하기도감염질환(LRTD)으로 인한 입원율이 니르세비맙을 투여하지 않은 영유아에 비해 83.21% 감소했다. 또한 중증 하기도 감염질환으로 인한 입원율도 75.71% 감소되었다. 이 결과는 모든 영유아
 
-URL: https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lml0Yml6bmV3cy5jb20vbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTEwMDAyONIBAA?oc=5
+URL: https://news.google.com/rss/articles/CBMiPWh0dHA6Ly93d3cucGhhcm1zdG9kYXkuY29tL25ld3MvYXJ0aWNsZVZpZXcuaHRtbD9pZHhubz0zMjMxNTXSAQA?oc=5
 
-제목: 디볼버디지털, ‘천륜의 자매’ 신규 트레일러 공개 - 경향게임스
-요약: 디볼버디지털이 스페인의 게임 개발사 디콘스트럭팀이 개발 중인 스토리텔링 게임 ‘천륜의 자매’의 새로운 트레일러를 공개했다. 이 게임은 마법의 힘이 깃든 타로카드를 만들 수 있는 금지된 생명체 ‘아브라마'와의 계약을 한 마녀 ‘포르투나'가 주인공으로 등장하며, 이용자들은 게임 내 카드 제작 및 커스터마이징을 통해 마녀회에 소속된 다양한 마녀들의 운명을 읽고, 그들의 삶의 궤적과 미래를 결정할 수 있다.
-
-URL: https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3LmtoZ2FtZXMuY28ua3IvbmV3cy9hcnRpY2xlVmlldy5odG1sP2lkeG5vPTIxMzcwNdIBP2h0dHBzOi8vd3d3LmtoZ2FtZXMuY28ua3IvbmV3cy9hcnRpY2xlVmlld0FtcC5odG1sP2lkeG5vPTIxMzcwNQ?oc=5
-
-제목: 땅 팔고 세금 안 낸 할머니..비닐 봉투 뜯었다가 '경악' [뉴스.zip/MBC뉴스] - MBCNEWS
-URL: https://news.google.com/rss/articles/CCAiCzdNVUowb2tzSkQwmAEB?oc=5
-
-제목: [아미랑] 이유 없이 줄어드는 근육, 회복 방법은… - 헬스조선
-URL: https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vaGVhbHRoLmNob3N1bi5jb20vc2l0ZS9kYXRhL2h0bWxfZGlyLzIwMjMvMDUvMjMvMjAyMzA1MjMwMjA0Ny5odG1s0gEA?oc=5
-
-제목: [이시각헤드라인] 5월 24일 라이브투데이2부 - 연합뉴스TV
-요약: 한국형 발사체 '누리호'가 오늘 오후 6시24분쯤 세 번째 우주 비행에 나선다. 이번 발사는 모형 위성이 아닌 실제 위성 8기를 싣고 쏘아 올리는 첫 실전 발사로, 성공한다면 우리나라가 우주 산업화의 단계로 도약하는 첫발이 될 것으로 기대된다. 윤석열 대통령은 오늘 용산 대통령실에서 참모진, 항공우주연구원 관계자들과 함께 발사 생중계를 시청할 예정이다.
-
-URL: https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnlvbmhhcG5ld3N0di5jby5rci9uZXdzL01ZSDIwMjMwNTI0MDA0MDAwNjQx0gEA?oc=5
-
-제목: 뉴욕증시, 부채한도 협상 난항에 하락‥나스닥 1.2%↓ (2023.05.24/뉴스투데이/MBC) - MBCNEWS
-URL: https://news.google.com/rss/articles/CCAiC3RkRXR4c1NtS244mAEB?oc=5
-
-제목: [문화연예 플러스] 블랙핑크 제니, 칸 레드카펫 등장 (2023.05.24/뉴스투데이/MBC) - MBCNEWS
-URL: https://news.google.com/rss/articles/CCAiC1B3cG5TQ2VBdk9ZmAEB?oc=5
-
-제목: '기둥을 뽑겠네' 토트넘, 감독 이어 주장까지 데려온다..."1호 영입 목표" - 머니투데이
-요약: 토트넘 홋스퍼가 아르네 슬롯 감독을 새로운 감독으로 임명할 계획이며, 이에 따라 페예노르트 미드필더 쾨크취를 영입할 예정이다. 슬롯 감독과 이미 구단에 팀을 떠나고 싶다고 전한 것으로 알려졌으며, 토트넘은 위약금 문제만 해결하면 슬롯 감독 선임을 발표할 것으로 보인다. 쾨크취는 중앙 미드필더로 공격적 재능을 지녔으며, 몸값은 4000만 파운드(약 656억 원) 정도이다.
-
-URL: https://news.google.com/rss/articles/CBMiN2h0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjMwNTI0MDUzNjc3NzQyMU_SAT1odHRwczovL20ubXQuY28ua3IvcmVuZXcvdmlld19hbXAuaHRtbD9ubz0yMDIzMDUyNDA1MzY3Nzc0MjFP?oc=5
-
-제목: 다시 한한령?‥네이버 차단·가수 출연 취소 (2023.05.24/뉴스투데이/MBC) - MBCNEWS
-URL: https://news.google.com/rss/articles/CCAiC01vTWpTaUVWVVFZmAEB?oc=5
+제목: [자막뉴스] 정용화 출연취소 네이버 '뚝' 중국 전방위 보복 나서나 (MBC뉴스) - MBCNEWS
+URL: https://news.google.com/rss/articles/CCAiC1RtaUtublVDRVpZmAEB?oc=5
 
 
